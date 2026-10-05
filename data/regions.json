@@ -23,7 +23,36 @@
           "max": 4
         }
       ],
-      "exp": 10
+      "exp": 10,
+      "bonus": {
+        "goldChancePct": 30,
+        "gold": [
+          20,
+          60
+        ],
+        "itemMaxTier": 1
+      },
+      "description": "마을 바로 뒤 야트막한 산이에요. 나무랑 철광석이 굴러다니는 초보 모험가의 놀이터죠!",
+      "monsters": [
+        {
+          "id": "boar",
+          "name": "멧돼지",
+          "desc": "화나면 앞뒤 안 가리고 돌진! 엉덩이 조심.",
+          "danger": 1
+        },
+        {
+          "id": "angry_bees",
+          "name": "성난 벌 떼",
+          "desc": "벌집만 안 건드리면 착해요. 대체로.",
+          "danger": 1
+        },
+        {
+          "id": "big_squirrel",
+          "name": "큰 다람쥐",
+          "desc": "도토리를 던지는데 은근히 아파요.",
+          "danger": 1
+        }
+      ]
     },
     {
       "id": "old_mine",
@@ -55,7 +84,36 @@
           "max": 2
         }
       ],
-      "exp": 30
+      "exp": 30,
+      "bonus": {
+        "goldChancePct": 30,
+        "gold": [
+          60,
+          150
+        ],
+        "itemMaxTier": 2
+      },
+      "description": "오래전에 버려진 광산이에요. 어둡고 습하지만 석탄이랑 은이 아직 잔뜩 묻혀 있대요!",
+      "monsters": [
+        {
+          "id": "bats",
+          "name": "박쥐 떼",
+          "desc": "머리카락에 엉키는 게 특기. 모자 필수!",
+          "danger": 2
+        },
+        {
+          "id": "mine_slime",
+          "name": "광산 슬라임",
+          "desc": "밟으면 미끄럽고 끈적해요. 신발이 울어요.",
+          "danger": 2
+        },
+        {
+          "id": "baby_golem",
+          "name": "바위 골렘 새끼",
+          "desc": "작아도 바위는 바위. 굴러오면 피하세요!",
+          "danger": 3
+        }
+      ]
     },
     {
       "id": "goblin_forest",
@@ -80,7 +138,67 @@
           "max": 2
         }
       ],
-      "exp": 80
+      "exp": 80,
+      "bonus": {
+        "goldChancePct": 30,
+        "gold": [
+          150,
+          400
+        ],
+        "itemMaxTier": 3
+      },
+      "description": "고블린들이 진을 친 깊은 숲이에요. 가죽이랑 반짝이는 마석이 나지만 함정도 많아요!",
+      "monsters": [
+        {
+          "id": "goblin_scout",
+          "name": "고블린 정찰병",
+          "desc": "몰래 따라다니다 북 치면서 친구를 불러요.",
+          "danger": 2
+        },
+        {
+          "id": "poison_shrooms",
+          "name": "독버섯 무리",
+          "desc": "포자 한 번 마시면 세상이 빙글빙글.",
+          "danger": 2
+        },
+        {
+          "id": "giant_spider",
+          "name": "거대 거미",
+          "desc": "거미줄이 끈끈해요. 줄 타고 도망도 잘 가요.",
+          "danger": 3
+        }
+      ]
     }
-  ]
+  ],
+  "powerBonus": {
+    "baseRequired": 20,
+    "timePerRatio": 0.2,
+    "minTimePct": 60,
+    "bands": {
+      "tough": {
+        "lootMult": 1.0,
+        "rarePp": 0,
+        "goldMult": 1.0,
+        "itemPct": 8,
+        "plusOnePct": 20,
+        "plusTwoPct": 0
+      },
+      "normal": {
+        "lootMult": 1.2,
+        "rarePp": 10,
+        "goldMult": 1.25,
+        "itemPct": 10,
+        "plusOnePct": 25,
+        "plusTwoPct": 0
+      },
+      "easy": {
+        "lootMult": 1.4,
+        "rarePp": 20,
+        "goldMult": 1.5,
+        "itemPct": 12,
+        "plusOnePct": 35,
+        "plusTwoPct": 5
+      }
+    }
+  }
 }
