@@ -22,6 +22,28 @@
         "armor",
         "boots"
       ]
+    },
+    "warrior": {
+      "name": "전사",
+      "allow": [
+        "axe",
+        "spear",
+        "shield",
+        "helm",
+        "armor",
+        "boots"
+      ]
+    },
+    "scout": {
+      "name": "척후병",
+      "allow": [
+        "bow",
+        "sword",
+        "quiver",
+        "helm",
+        "armor",
+        "boots"
+      ]
     }
   }
 }

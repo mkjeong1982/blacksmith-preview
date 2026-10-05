@@ -168,6 +168,142 @@
           "danger": 3
         }
       ]
+    },
+    {
+      "id": "volcano",
+      "name": "화산 동굴",
+      "durationSec": 7200,
+      "requiredPower": 200,
+      "materials": [
+        "mithril",
+        "firestone",
+        "coal",
+        "silver"
+      ],
+      "drops": [
+        {
+          "materialId": "mithril",
+          "chancePct": 100,
+          "min": 3,
+          "max": 5
+        },
+        {
+          "materialId": "firestone",
+          "chancePct": 60,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "materialId": "coal",
+          "chancePct": 100,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "materialId": "silver",
+          "chancePct": 50,
+          "min": 1,
+          "max": 2
+        }
+      ],
+      "exp": 200,
+      "bonus": {
+        "goldChancePct": 30,
+        "gold": [
+          400,
+          1000
+        ],
+        "itemMaxTier": 4
+      },
+      "description": "용암이 부글부글 끓는 뜨거운 동굴이에요. 미스릴이랑 화염석이 나오지만 신발 밑창이 녹을 수도 있대요!",
+      "monsters": [
+        {
+          "id": "lava_slime",
+          "name": "용암 슬라임",
+          "desc": "말랑해 보여도 만지면 앗 뜨거! 장갑 필수.",
+          "danger": 2
+        },
+        {
+          "id": "fire_lizard",
+          "name": "불도마뱀",
+          "desc": "꼬리에 불이 붙어 있어요. 본인도 가끔 놀라요.",
+          "danger": 2
+        },
+        {
+          "id": "ash_imp",
+          "name": "잿빛 꼬마 악마",
+          "desc": "재를 뿌리고 깔깔 도망가는 장난꾸러기.",
+          "danger": 3
+        }
+      ]
+    },
+    {
+      "id": "dragon_nest",
+      "name": "용의 둥지",
+      "durationSec": 14400,
+      "requiredPower": 400,
+      "materials": [
+        "dragon_scale",
+        "dragon_heart",
+        "mithril",
+        "firestone"
+      ],
+      "drops": [
+        {
+          "materialId": "dragon_scale",
+          "chancePct": 100,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "materialId": "dragon_heart",
+          "chancePct": 35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "materialId": "mithril",
+          "chancePct": 100,
+          "min": 2,
+          "max": 3
+        },
+        {
+          "materialId": "firestone",
+          "chancePct": 50,
+          "min": 1,
+          "max": 2
+        }
+      ],
+      "exp": 500,
+      "bonus": {
+        "goldChancePct": 30,
+        "gold": [
+          1000,
+          2500
+        ],
+        "itemMaxTier": 5
+      },
+      "description": "산꼭대기 늙은 용이 낮잠 자는 둥지예요. 떨어진 용비늘을 몰래 줍는 게 핵심! 코 고는 소리에 놀라지 마세요.",
+      "monsters": [
+        {
+          "id": "wyvern_chick",
+          "name": "새끼 와이번",
+          "desc": "엄마를 찾아 삐약삐약. 쪼는 힘은 어른 못지않아요.",
+          "danger": 2
+        },
+        {
+          "id": "drake_guard",
+          "name": "드레이크 파수꾼",
+          "desc": "둥지를 지키는 성실한 경비병. 졸면 안 되는데 자꾸 졸아요.",
+          "danger": 3
+        },
+        {
+          "id": "sleepy_dragon",
+          "name": "졸린 늙은 용",
+          "desc": "깨우면 큰일! 잠꼬대로 불을 뿜기도 해요.",
+          "danger": 3
+        }
+      ]
     }
   ],
   "powerBonus": {

@@ -19,7 +19,9 @@
     "assistantApplies": false,
     "levels": [
       { "level": 1, "upgradeCost": 0, "adventurerSlots": 1, "upgradeSec": 0 },
-      { "level": 2, "upgradeCost": 3000, "adventurerSlots": 2, "upgradeSec": 1800 }
+      { "level": 2, "upgradeCost": 3000, "adventurerSlots": 2, "upgradeSec": 1800 },
+      { "level": 3, "upgradeCost": 30000, "adventurerSlots": 3, "upgradeSec": 14400 },
+      { "level": 4, "upgradeCost": 120000, "adventurerSlots": 4, "upgradeSec": 43200 }
     ]
   }
 }

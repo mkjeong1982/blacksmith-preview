@@ -13,7 +13,25 @@
         "desc": "탐험 경험치 +20%",
         "expPct": 20
       },
-      "story": "전설의 용사가 꿈인 16살 마을 소년. 칼 한 번 쥐어 본 적 없으면서 대장간 문을 박차고 들어와 '제가 모험가 할게요!'를 외쳤다. 겁은 많은데 입은 더 크다."
+      "story": "전설의 용사가 꿈인 16살 마을 소년. 칼 한 번 쥐어 본 적 없으면서 대장간 문을 박차고 들어와 '제가 모험가 할게요!'를 외쳤다. 겁은 많은데 입은 더 크다.",
+      "flaw": {
+        "id": "timid",
+        "name": "겁쟁이",
+        "desc": "빠듯한 곳에선 재료 −15%",
+        "toughLootPct": -15
+      },
+      "favoriteRegions": [
+        "back_hill",
+        "old_mine"
+      ],
+      "regionBonus": {
+        "tripTimePct": 90,
+        "desc": "탐험 시간 −10%"
+      },
+      "favoriteKinds": [
+        "sword"
+      ],
+      "kindBonusPct": 10
     },
     {
       "id": "garam",
@@ -28,7 +46,90 @@
         "desc": "가져오는 재료 중 무작위 1종 +1개",
         "extraLoot": 1
       },
-      "story": "원래 마을 최고의 짐꾼이던 21살. 무거운 건 다 들지만 말수는 적다. 배고프면 갑자기 말이 많아진다는 소문. 짐 나르던 팔힘으로 장궁 시위를 당기는데, 화살은 가벼워서 오히려 심심하대."
+      "story": "원래 마을 최고의 짐꾼이던 21살. 무거운 건 다 들지만 말수는 적다. 배고프면 갑자기 말이 많아진다는 소문. 짐 나르던 팔힘으로 장궁 시위를 당기는데, 화살은 가벼워서 오히려 심심하대.",
+      "flaw": {
+        "id": "laidback",
+        "name": "느긋함",
+        "desc": "탐험 시간 +10%",
+        "tripTimePct": 110
+      },
+      "favoriteRegions": [
+        "goblin_forest"
+      ],
+      "regionBonus": {
+        "rarePp": 10,
+        "desc": "귀한 재료 +10%p"
+      },
+      "favoriteKinds": [
+        "bow"
+      ],
+      "kindBonusPct": 10
+    },
+    {
+      "id": "gregor",
+      "job": "warrior",
+      "name": "그레고",
+      "basePower": 60,
+      "unlockLodgeLevel": 3,
+      "personality": "과묵 듬직",
+      "trait": {
+        "id": "veteran",
+        "name": "노련함",
+        "desc": "덤 보상 확률 +5%p",
+        "bonusPp": 5
+      },
+      "flaw": {
+        "id": "bad_knees",
+        "name": "무릎이 시려",
+        "desc": "경험치 −20%",
+        "expPct": -20
+      },
+      "favoriteRegions": [
+        "volcano"
+      ],
+      "regionBonus": {
+        "bandUp": 1,
+        "desc": "전투력 여유 한 단계 위로"
+      },
+      "favoriteKinds": [
+        "axe",
+        "shield"
+      ],
+      "kindBonusPct": 10,
+      "story": "전장을 스무 해 넘게 누빈 40대 베테랑. 말수는 적지만 한마디 한마디가 묵직하다. 낡은 갑옷 조각을 매일 닦는 게 취미고, 가끔 던지는 아재 개그는 본인만 웃는다."
+    },
+    {
+      "id": "sera",
+      "job": "scout",
+      "name": "세라",
+      "basePower": 90,
+      "unlockLodgeLevel": 4,
+      "personality": "발랄 자신만만",
+      "trait": {
+        "id": "swift",
+        "name": "날쌘 발",
+        "desc": "탐험 시간 −15%",
+        "tripTimePct": 85
+      },
+      "flaw": {
+        "id": "light_pack",
+        "name": "가벼운 짐",
+        "desc": "재료마다 −1개(최소 1)",
+        "lootMinus": 1
+      },
+      "favoriteRegions": [
+        "dragon_nest"
+      ],
+      "regionBonus": {
+        "goldPct": 30,
+        "desc": "덤 골드 +30%"
+      },
+      "favoriteKinds": [
+        "bow",
+        "sword"
+      ],
+      "kindBonusPct": 10,
+      "story": "어디서 나타났는지 아무도 모르는 20대 중반 척후병. 윙크 한 번에 길을 뚫고, 활도 검도 척척이다. 짐은 가볍게, 자랑은 무겁게가 인생 모토."
     }
   ],
   "levels": {
