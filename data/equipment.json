@@ -31,7 +31,7 @@
     {
       "id": "iron_sword",
       "name": "철검",
-      "slot": "right",
+      "slot": "right", "kind": "sword",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 120,
@@ -51,7 +51,7 @@
     {
       "id": "iron_axe",
       "name": "철 도끼",
-      "slot": "right",
+      "slot": "right", "kind": "axe",
       "tier": 1,
       "unlockForgeLevel": 2,
       "craftSec": 168,
@@ -71,7 +71,7 @@
     {
       "id": "iron_spear",
       "name": "철 창",
-      "slot": "right",
+      "slot": "right", "kind": "spear",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 100,
@@ -91,7 +91,7 @@
     {
       "id": "wood_bow",
       "name": "나무 활",
-      "slot": "right",
+      "slot": "right", "kind": "bow",
       "tier": 1,
       "unlockForgeLevel": 2,
       "craftSec": 110,
@@ -112,7 +112,7 @@
     {
       "id": "wood_shield",
       "name": "나무 방패",
-      "slot": "left",
+      "slot": "left", "kind": "shield",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 90,
@@ -132,7 +132,7 @@
     {
       "id": "wood_quiver",
       "name": "나무 화살통",
-      "slot": "left",
+      "slot": "left", "kind": "quiver",
       "tier": 1,
       "unlockForgeLevel": 2,
       "craftSec": 80,
@@ -149,7 +149,7 @@
     {
       "id": "iron_helm",
       "name": "철 투구",
-      "slot": "helm",
+      "slot": "helm", "kind": "helm",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 90,
@@ -169,7 +169,7 @@
     {
       "id": "iron_halfhelm",
       "name": "철 반투구",
-      "slot": "helm",
+      "slot": "helm", "kind": "helm",
       "tier": 1,
       "unlockForgeLevel": 2,
       "craftSec": 60,
@@ -189,7 +189,7 @@
     {
       "id": "iron_armor",
       "name": "철 갑옷",
-      "slot": "armor",
+      "slot": "armor", "kind": "armor",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 150,
@@ -209,7 +209,7 @@
     {
       "id": "iron_chain",
       "name": "철 사슬갑옷",
-      "slot": "armor",
+      "slot": "armor", "kind": "armor",
       "tier": 1,
       "unlockForgeLevel": 2,
       "craftSec": 200,
@@ -229,7 +229,7 @@
     {
       "id": "wood_boots",
       "name": "나무 굽 장화",
-      "slot": "boots",
+      "slot": "boots", "kind": "boots",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 70,
@@ -245,7 +245,7 @@
     {
       "id": "iron_greaves",
       "name": "철 정강이 장화",
-      "slot": "boots",
+      "slot": "boots", "kind": "boots",
       "tier": 1,
       "unlockForgeLevel": 2,
       "craftSec": 100,
@@ -265,7 +265,7 @@
     {
       "id": "steel_sword",
       "name": "강철검",
-      "slot": "right",
+      "slot": "right", "kind": "sword",
       "tier": 2,
       "unlockForgeLevel": 1,
       "craftSec": 300,
@@ -285,7 +285,7 @@
     {
       "id": "steel_axe",
       "name": "강철 도끼",
-      "slot": "right",
+      "slot": "right", "kind": "axe",
       "tier": 2,
       "unlockForgeLevel": 3,
       "craftSec": 420,
@@ -305,7 +305,7 @@
     {
       "id": "steel_spear",
       "name": "강철 창",
-      "slot": "right",
+      "slot": "right", "kind": "spear",
       "tier": 2,
       "unlockForgeLevel": 2,
       "craftSec": 240,
@@ -325,7 +325,7 @@
     {
       "id": "silver_bow",
       "name": "은빛 활",
-      "slot": "right",
+      "slot": "right", "kind": "bow",
       "tier": 2,
       "unlockForgeLevel": 3,
       "craftSec": 300,
@@ -350,7 +350,7 @@
     {
       "id": "steel_shield",
       "name": "강철 방패",
-      "slot": "left",
+      "slot": "left", "kind": "shield",
       "tier": 2,
       "unlockForgeLevel": 2,
       "craftSec": 240,
@@ -370,7 +370,7 @@
     {
       "id": "silver_quiver",
       "name": "은 화살통",
-      "slot": "left",
+      "slot": "left", "kind": "quiver",
       "tier": 2,
       "unlockForgeLevel": 3,
       "craftSec": 200,
@@ -391,7 +391,7 @@
     {
       "id": "steel_helm",
       "name": "강철 투구",
-      "slot": "helm",
+      "slot": "helm", "kind": "helm",
       "tier": 2,
       "unlockForgeLevel": 2,
       "craftSec": 240,
@@ -415,7 +415,7 @@
     {
       "id": "silver_helm",
       "name": "은 장식 투구",
-      "slot": "helm",
+      "slot": "helm", "kind": "helm",
       "tier": 2,
       "unlockForgeLevel": 3,
       "craftSec": 300,
@@ -439,7 +439,7 @@
     {
       "id": "steel_armor",
       "name": "강철 갑옷",
-      "slot": "armor",
+      "slot": "armor", "kind": "armor",
       "tier": 2,
       "unlockForgeLevel": 2,
       "craftSec": 360,
@@ -463,7 +463,7 @@
     {
       "id": "silver_chain",
       "name": "은 사슬갑옷",
-      "slot": "armor",
+      "slot": "armor", "kind": "armor",
       "tier": 2,
       "unlockForgeLevel": 3,
       "craftSec": 420,
@@ -487,7 +487,7 @@
     {
       "id": "steel_boots",
       "name": "강철 장화",
-      "slot": "boots",
+      "slot": "boots", "kind": "boots",
       "tier": 2,
       "unlockForgeLevel": 2,
       "craftSec": 220,
@@ -507,7 +507,7 @@
     {
       "id": "silver_boots",
       "name": "은 장식 장화",
-      "slot": "boots",
+      "slot": "boots", "kind": "boots",
       "tier": 2,
       "unlockForgeLevel": 3,
       "craftSec": 260,
@@ -531,7 +531,7 @@
     {
       "id": "mana_sword",
       "name": "마석검",
-      "slot": "right",
+      "slot": "right", "kind": "sword",
       "tier": 3,
       "unlockForgeLevel": 3,
       "craftSec": 600,
@@ -555,7 +555,7 @@
     {
       "id": "mana_axe",
       "name": "마석 도끼",
-      "slot": "right",
+      "slot": "right", "kind": "axe",
       "tier": 3,
       "unlockForgeLevel": 4,
       "craftSec": 840,
@@ -583,7 +583,7 @@
     {
       "id": "mana_spear",
       "name": "마석 창",
-      "slot": "right",
+      "slot": "right", "kind": "spear",
       "tier": 3,
       "unlockForgeLevel": 3,
       "craftSec": 480,
@@ -607,7 +607,7 @@
     {
       "id": "mana_bow",
       "name": "마석 활",
-      "slot": "right",
+      "slot": "right", "kind": "bow",
       "tier": 3,
       "unlockForgeLevel": 5,
       "craftSec": 560,
@@ -632,7 +632,7 @@
     {
       "id": "mana_shield",
       "name": "마석 방패",
-      "slot": "left",
+      "slot": "left", "kind": "shield",
       "tier": 3,
       "unlockForgeLevel": 4,
       "craftSec": 480,
@@ -656,7 +656,7 @@
     {
       "id": "mana_quiver",
       "name": "마석 가죽 화살통",
-      "slot": "left",
+      "slot": "left", "kind": "quiver",
       "tier": 3,
       "unlockForgeLevel": 5,
       "craftSec": 420,
@@ -677,7 +677,7 @@
     {
       "id": "mana_helm",
       "name": "마석 투구",
-      "slot": "helm",
+      "slot": "helm", "kind": "helm",
       "tier": 3,
       "unlockForgeLevel": 4,
       "craftSec": 480,
@@ -701,7 +701,7 @@
     {
       "id": "mana_hood",
       "name": "마석 가죽 두건",
-      "slot": "helm",
+      "slot": "helm", "kind": "helm",
       "tier": 3,
       "unlockForgeLevel": 3,
       "craftSec": 360,
@@ -721,7 +721,7 @@
     {
       "id": "mana_armor",
       "name": "마석 가죽갑옷",
-      "slot": "armor",
+      "slot": "armor", "kind": "armor",
       "tier": 3,
       "unlockForgeLevel": 4,
       "craftSec": 720,
@@ -745,7 +745,7 @@
     {
       "id": "mana_plate",
       "name": "마석 판금갑옷",
-      "slot": "armor",
+      "slot": "armor", "kind": "armor",
       "tier": 3,
       "unlockForgeLevel": 5,
       "craftSec": 900,
@@ -773,7 +773,7 @@
     {
       "id": "mana_boots",
       "name": "마석 장화",
-      "slot": "boots",
+      "slot": "boots", "kind": "boots",
       "tier": 3,
       "unlockForgeLevel": 4,
       "craftSec": 420,
@@ -793,7 +793,7 @@
     {
       "id": "hunter_boots",
       "name": "가죽 사냥 장화",
-      "slot": "boots",
+      "slot": "boots", "kind": "boots",
       "tier": 3,
       "unlockForgeLevel": 3,
       "craftSec": 360,

@@ -2,6 +2,7 @@
   "adventurers": [
     {
       "id": "luka",
+      "job": "swordsman",
       "name": "루카",
       "basePower": 20,
       "unlockLodgeLevel": 1,
@@ -16,6 +17,7 @@
     },
     {
       "id": "garam",
+      "job": "archer",
       "name": "가람",
       "basePower": 25,
       "unlockLodgeLevel": 2,
@@ -26,7 +28,7 @@
         "desc": "가져오는 재료 중 무작위 1종 +1개",
         "extraLoot": 1
       },
-      "story": "원래 마을 최고의 짐꾼이던 21살. 무거운 건 다 들지만 말수는 적다. 배고프면 갑자기 말이 많아진다는 소문."
+      "story": "원래 마을 최고의 짐꾼이던 21살. 무거운 건 다 들지만 말수는 적다. 배고프면 갑자기 말이 많아진다는 소문. 짐 나르던 팔힘으로 장궁 시위를 당기는데, 화살은 가벼워서 오히려 심심하대."
     }
   ],
   "levels": {
