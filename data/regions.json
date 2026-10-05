@@ -41,13 +41,13 @@
           "danger": 1
         },
         {
-          "id": "angry_bees",
+          "id": "bees",
           "name": "성난 벌 떼",
           "desc": "벌집만 안 건드리면 착해요. 대체로.",
           "danger": 1
         },
         {
-          "id": "big_squirrel",
+          "id": "squirrel",
           "name": "큰 다람쥐",
           "desc": "도토리를 던지는데 은근히 아파요.",
           "danger": 1
@@ -108,7 +108,7 @@
           "danger": 2
         },
         {
-          "id": "baby_golem",
+          "id": "golem_kid",
           "name": "바위 골렘 새끼",
           "desc": "작아도 바위는 바위. 굴러오면 피하세요!",
           "danger": 3
@@ -156,7 +156,7 @@
           "danger": 2
         },
         {
-          "id": "poison_shrooms",
+          "id": "toadstools",
           "name": "독버섯 무리",
           "desc": "포자 한 번 마시면 세상이 빙글빙글.",
           "danger": 2
