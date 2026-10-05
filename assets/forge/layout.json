@@ -12,5 +12,16 @@
   "chimney": { "x": 445, "y": 178 },
   "bellows": { "x": 945, "y": 190, "width": 210, "height": 180, "floorY": 370 },
   "barrel": { "x": 975, "y": 390, "width": 170, "height": 155, "waterY": 415, "floorY": 545 },
-  "tongsRest": { "x": 735, "y": 95, "angleDeg": -8, "pivotLocal": { "x": 60, "y": 6 } }
+  "tongsRest": { "x": 735, "y": 95, "angleDeg": -8, "pivotLocal": { "x": 60, "y": 6 } },
+  "smith": {
+    "x": 515,
+    "y": 0,
+    "width": 600,
+    "height": 660,
+    "tongsTip": {
+      "tongs": { "x": 970, "y": 108 },
+      "quench": { "x": 989, "y": 380 }
+    },
+    "hammerHead": { "x": 953, "y": 370 }
+  }
 }
