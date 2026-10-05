@@ -31,7 +31,8 @@
     {
       "id": "iron_sword",
       "name": "철검",
-      "slot": "right", "kind": "sword",
+      "slot": "right",
+      "kind": "sword",
       "tier": 1,
       "unlockForgeLevel": 1,
       "craftSec": 120,
@@ -51,10 +52,11 @@
     {
       "id": "iron_axe",
       "name": "철 도끼",
-      "slot": "right", "kind": "axe",
+      "slot": "right",
+      "kind": "axe",
       "tier": 1,
-      "unlockForgeLevel": 2,
-      "craftSec": 168,
+      "unlockForgeLevel": 1,
+      "craftSec": 180,
       "power": 13,
       "sellPrice": 260,
       "recipe": [
@@ -71,12 +73,13 @@
     {
       "id": "iron_spear",
       "name": "철 창",
-      "slot": "right", "kind": "spear",
+      "slot": "right",
+      "kind": "spear",
       "tier": 1,
       "unlockForgeLevel": 1,
-      "craftSec": 100,
-      "power": 9,
-      "sellPrice": 180,
+      "craftSec": 70,
+      "power": 8,
+      "sellPrice": 140,
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -84,47 +87,49 @@
         },
         {
           "materialId": "wood",
-          "qty": 2
+          "qty": 1
         }
       ]
     },
     {
       "id": "wood_bow",
       "name": "나무 활",
-      "slot": "right", "kind": "bow",
+      "slot": "right",
+      "kind": "bow",
       "tier": 1,
-      "unlockForgeLevel": 2,
+      "unlockForgeLevel": 1,
       "craftSec": 110,
       "power": 9,
-      "sellPrice": 180,
+      "sellPrice": 170,
+      "set": "archery",
       "recipe": [
         {
           "materialId": "wood",
-          "qty": 4
+          "qty": 2
         },
         {
           "materialId": "iron_ore",
           "qty": 1
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "wood_shield",
       "name": "나무 방패",
-      "slot": "left", "kind": "shield",
+      "slot": "left",
+      "kind": "shield",
       "tier": 1,
       "unlockForgeLevel": 1,
-      "craftSec": 90,
+      "craftSec": 80,
       "power": 4,
-      "sellPrice": 80,
+      "sellPrice": 140,
       "recipe": [
         {
-          "materialId": "wood",
-          "qty": 3
+          "materialId": "iron_ore",
+          "qty": 2
         },
         {
-          "materialId": "iron_ore",
+          "materialId": "wood",
           "qty": 1
         }
       ]
@@ -132,29 +137,31 @@
     {
       "id": "wood_quiver",
       "name": "나무 화살통",
-      "slot": "left", "kind": "quiver",
+      "slot": "left",
+      "kind": "quiver",
       "tier": 1,
-      "unlockForgeLevel": 2,
-      "craftSec": 80,
+      "unlockForgeLevel": 1,
+      "craftSec": 70,
       "power": 4,
-      "sellPrice": 80,
+      "sellPrice": 110,
+      "set": "archery",
       "recipe": [
         {
           "materialId": "wood",
-          "qty": 3
+          "qty": 2
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "iron_helm",
       "name": "철 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 1,
       "unlockForgeLevel": 1,
-      "craftSec": 90,
-      "power": 5,
-      "sellPrice": 100,
+      "craftSec": 100,
+      "power": 6,
+      "sellPrice": 160,
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -169,12 +176,13 @@
     {
       "id": "iron_halfhelm",
       "name": "철 반투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 1,
-      "unlockForgeLevel": 2,
-      "craftSec": 60,
+      "unlockForgeLevel": 1,
+      "craftSec": 50,
       "power": 4,
-      "sellPrice": 80,
+      "sellPrice": 100,
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -189,16 +197,17 @@
     {
       "id": "iron_armor",
       "name": "철 갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 1,
       "unlockForgeLevel": 1,
-      "craftSec": 150,
-      "power": 8,
+      "craftSec": 70,
+      "power": 6,
       "sellPrice": 160,
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 4
+          "qty": 3
         },
         {
           "materialId": "wood",
@@ -209,12 +218,13 @@
     {
       "id": "iron_chain",
       "name": "철 사슬갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 1,
-      "unlockForgeLevel": 2,
-      "craftSec": 200,
-      "power": 9,
-      "sellPrice": 180,
+      "unlockForgeLevel": 1,
+      "craftSec": 160,
+      "power": 10,
+      "sellPrice": 260,
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -229,28 +239,34 @@
     {
       "id": "wood_boots",
       "name": "나무 굽 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 1,
       "unlockForgeLevel": 1,
-      "craftSec": 70,
-      "power": 4,
-      "sellPrice": 80,
+      "craftSec": 50,
+      "power": 3,
+      "sellPrice": 100,
       "recipe": [
         {
           "materialId": "wood",
-          "qty": 3
+          "qty": 1
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 1
         }
       ]
     },
     {
       "id": "iron_greaves",
       "name": "철 정강이 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 1,
-      "unlockForgeLevel": 2,
-      "craftSec": 100,
+      "unlockForgeLevel": 1,
+      "craftSec": 90,
       "power": 4,
-      "sellPrice": 90,
+      "sellPrice": 150,
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -265,16 +281,18 @@
     {
       "id": "steel_sword",
       "name": "강철검",
-      "slot": "right", "kind": "sword",
+      "slot": "right",
+      "kind": "sword",
       "tier": 2,
-      "unlockForgeLevel": 1,
-      "craftSec": 300,
+      "unlockForgeLevel": 3,
+      "craftSec": 240,
       "power": 22,
-      "sellPrice": 480,
+      "sellPrice": 460,
+      "upgradeFrom": "iron_sword",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 3
+          "qty": 2
         },
         {
           "materialId": "coal",
@@ -285,16 +303,18 @@
     {
       "id": "steel_axe",
       "name": "강철 도끼",
-      "slot": "right", "kind": "axe",
+      "slot": "right",
+      "kind": "axe",
       "tier": 2,
       "unlockForgeLevel": 3,
-      "craftSec": 420,
-      "power": 28,
-      "sellPrice": 620,
+      "craftSec": 360,
+      "power": 29,
+      "sellPrice": 630,
+      "upgradeFrom": "iron_axe",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 4
+          "qty": 3
         },
         {
           "materialId": "coal",
@@ -305,12 +325,14 @@
     {
       "id": "steel_spear",
       "name": "강철 창",
-      "slot": "right", "kind": "spear",
+      "slot": "right",
+      "kind": "spear",
       "tier": 2,
-      "unlockForgeLevel": 2,
-      "craftSec": 240,
-      "power": 19,
-      "sellPrice": 420,
+      "unlockForgeLevel": 3,
+      "craftSec": 140,
+      "power": 18,
+      "sellPrice": 310,
+      "upgradeFrom": "iron_spear",
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -325,41 +347,41 @@
     {
       "id": "silver_bow",
       "name": "은빛 활",
-      "slot": "right", "kind": "bow",
+      "slot": "right",
+      "kind": "bow",
       "tier": 2,
       "unlockForgeLevel": 3,
-      "craftSec": 300,
-      "power": 21,
-      "sellPrice": 460,
+      "craftSec": 220,
+      "power": 20,
+      "sellPrice": 400,
+      "set": "archery",
+      "upgradeFrom": "wood_bow",
       "recipe": [
         {
           "materialId": "wood",
-          "qty": 3
+          "qty": 1
         },
         {
           "materialId": "silver",
           "qty": 1
-        },
-        {
-          "materialId": "iron_ore",
-          "qty": 1
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "steel_shield",
       "name": "강철 방패",
-      "slot": "left", "kind": "shield",
+      "slot": "left",
+      "kind": "shield",
       "tier": 2,
-      "unlockForgeLevel": 2,
-      "craftSec": 240,
+      "unlockForgeLevel": 3,
+      "craftSec": 170,
       "power": 9,
-      "sellPrice": 200,
+      "sellPrice": 310,
+      "upgradeFrom": "wood_shield",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 3
+          "qty": 2
         },
         {
           "materialId": "coal",
@@ -370,33 +392,37 @@
     {
       "id": "silver_quiver",
       "name": "은 화살통",
-      "slot": "left", "kind": "quiver",
+      "slot": "left",
+      "kind": "quiver",
       "tier": 2,
       "unlockForgeLevel": 3,
-      "craftSec": 200,
-      "power": 8,
-      "sellPrice": 180,
+      "craftSec": 140,
+      "power": 9,
+      "sellPrice": 300,
+      "set": "archery",
+      "upgradeFrom": "wood_quiver",
       "recipe": [
         {
           "materialId": "wood",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "silver",
           "qty": 1
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "steel_helm",
       "name": "강철 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 2,
-      "unlockForgeLevel": 2,
-      "craftSec": 240,
+      "unlockForgeLevel": 3,
+      "craftSec": 190,
       "power": 12,
-      "sellPrice": 260,
+      "sellPrice": 440,
+      "upgradeFrom": "iron_helm",
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -415,12 +441,14 @@
     {
       "id": "silver_helm",
       "name": "은 장식 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 2,
       "unlockForgeLevel": 3,
-      "craftSec": 300,
-      "power": 13,
-      "sellPrice": 290,
+      "craftSec": 110,
+      "power": 8,
+      "sellPrice": 230,
+      "upgradeFrom": "iron_halfhelm",
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -429,33 +457,27 @@
         {
           "materialId": "coal",
           "qty": 1
-        },
-        {
-          "materialId": "silver",
-          "qty": 2
         }
       ]
     },
     {
       "id": "steel_armor",
       "name": "강철 갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 2,
-      "unlockForgeLevel": 2,
-      "craftSec": 360,
-      "power": 18,
-      "sellPrice": 400,
+      "unlockForgeLevel": 3,
+      "craftSec": 140,
+      "power": 14,
+      "sellPrice": 330,
+      "upgradeFrom": "iron_armor",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 4
-        },
-        {
-          "materialId": "coal",
           "qty": 2
         },
         {
-          "materialId": "silver",
+          "materialId": "coal",
           "qty": 1
         }
       ]
@@ -463,12 +485,14 @@
     {
       "id": "silver_chain",
       "name": "은 사슬갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 2,
       "unlockForgeLevel": 3,
-      "craftSec": 420,
-      "power": 20,
-      "sellPrice": 440,
+      "craftSec": 310,
+      "power": 21,
+      "sellPrice": 750,
+      "upgradeFrom": "iron_chain",
       "recipe": [
         {
           "materialId": "iron_ore",
@@ -487,19 +511,25 @@
     {
       "id": "steel_boots",
       "name": "강철 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 2,
-      "unlockForgeLevel": 2,
-      "craftSec": 220,
-      "power": 8,
-      "sellPrice": 180,
+      "unlockForgeLevel": 3,
+      "craftSec": 180,
+      "power": 10,
+      "sellPrice": 430,
+      "upgradeFrom": "iron_greaves",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 3
+          "qty": 2
         },
         {
           "materialId": "coal",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
           "qty": 1
         }
       ]
@@ -507,23 +537,21 @@
     {
       "id": "silver_boots",
       "name": "은 장식 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 2,
       "unlockForgeLevel": 3,
-      "craftSec": 260,
-      "power": 9,
-      "sellPrice": 210,
+      "craftSec": 110,
+      "power": 7,
+      "sellPrice": 230,
+      "upgradeFrom": "wood_boots",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 2
-        },
-        {
-          "materialId": "coal",
           "qty": 1
         },
         {
-          "materialId": "silver",
+          "materialId": "coal",
           "qty": 1
         }
       ]
@@ -531,23 +559,21 @@
     {
       "id": "mana_sword",
       "name": "마석검",
-      "slot": "right", "kind": "sword",
+      "slot": "right",
+      "kind": "sword",
       "tier": 3,
-      "unlockForgeLevel": 3,
+      "unlockForgeLevel": 5,
       "craftSec": 600,
       "power": 40,
-      "sellPrice": 1000,
+      "sellPrice": 1240,
+      "upgradeFrom": "steel_sword",
       "recipe": [
         {
-          "materialId": "mana_stone",
-          "qty": 2
-        },
-        {
-          "materialId": "silver",
-          "qty": 2
-        },
-        {
           "materialId": "leather",
+          "qty": 2
+        },
+        {
+          "materialId": "mana_stone",
           "qty": 1
         }
       ]
@@ -555,24 +581,22 @@
     {
       "id": "mana_axe",
       "name": "마석 도끼",
-      "slot": "right", "kind": "axe",
+      "slot": "right",
+      "kind": "axe",
       "tier": 3,
-      "unlockForgeLevel": 4,
-      "craftSec": 840,
-      "power": 50,
-      "sellPrice": 1250,
+      "unlockForgeLevel": 5,
+      "craftSec": 900,
+      "power": 52,
+      "sellPrice": 1880,
+      "upgradeFrom": "steel_axe",
       "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 2
+        },
         {
           "materialId": "mana_stone",
           "qty": 2
-        },
-        {
-          "materialId": "silver",
-          "qty": 2
-        },
-        {
-          "materialId": "leather",
-          "qty": 1
         },
         {
           "materialId": "coal",
@@ -583,17 +607,15 @@
     {
       "id": "mana_spear",
       "name": "마석 창",
-      "slot": "right", "kind": "spear",
+      "slot": "right",
+      "kind": "spear",
       "tier": 3,
-      "unlockForgeLevel": 3,
-      "craftSec": 480,
-      "power": 34,
-      "sellPrice": 850,
+      "unlockForgeLevel": 5,
+      "craftSec": 360,
+      "power": 32,
+      "sellPrice": 770,
+      "upgradeFrom": "steel_spear",
       "recipe": [
-        {
-          "materialId": "mana_stone",
-          "qty": 1
-        },
         {
           "materialId": "leather",
           "qty": 2
@@ -607,12 +629,15 @@
     {
       "id": "mana_bow",
       "name": "마석 활",
-      "slot": "right", "kind": "bow",
+      "slot": "right",
+      "kind": "bow",
       "tier": 3,
       "unlockForgeLevel": 5,
-      "craftSec": 560,
-      "power": 38,
-      "sellPrice": 950,
+      "craftSec": 540,
+      "power": 37,
+      "sellPrice": 1180,
+      "set": "archery",
+      "upgradeFrom": "silver_bow",
       "recipe": [
         {
           "materialId": "leather",
@@ -624,20 +649,21 @@
         },
         {
           "materialId": "wood",
-          "qty": 3
+          "qty": 1
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "mana_shield",
       "name": "마석 방패",
-      "slot": "left", "kind": "shield",
+      "slot": "left",
+      "kind": "shield",
       "tier": 3,
-      "unlockForgeLevel": 4,
-      "craftSec": 480,
-      "power": 16,
-      "sellPrice": 400,
+      "unlockForgeLevel": 5,
+      "craftSec": 420,
+      "power": 17,
+      "sellPrice": 1040,
+      "upgradeFrom": "steel_shield",
       "recipe": [
         {
           "materialId": "leather",
@@ -646,47 +672,43 @@
         {
           "materialId": "mana_stone",
           "qty": 1
-        },
-        {
-          "materialId": "iron_ore",
-          "qty": 2
         }
       ]
     },
     {
       "id": "mana_quiver",
       "name": "마석 가죽 화살통",
-      "slot": "left", "kind": "quiver",
+      "slot": "left",
+      "kind": "quiver",
       "tier": 3,
       "unlockForgeLevel": 5,
-      "craftSec": 420,
-      "power": 15,
-      "sellPrice": 380,
+      "craftSec": 360,
+      "power": 16,
+      "sellPrice": 870,
+      "set": "archery",
+      "upgradeFrom": "silver_quiver",
       "recipe": [
         {
           "materialId": "leather",
           "qty": 3
-        },
-        {
-          "materialId": "mana_stone",
-          "qty": 1
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "mana_helm",
       "name": "마석 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 3,
-      "unlockForgeLevel": 4,
+      "unlockForgeLevel": 5,
       "craftSec": 480,
       "power": 22,
-      "sellPrice": 550,
+      "sellPrice": 1070,
+      "upgradeFrom": "steel_helm",
       "recipe": [
         {
           "materialId": "leather",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "mana_stone",
@@ -701,60 +723,54 @@
     {
       "id": "mana_hood",
       "name": "마석 가죽 두건",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 3,
-      "unlockForgeLevel": 3,
-      "craftSec": 360,
-      "power": 19,
-      "sellPrice": 470,
+      "unlockForgeLevel": 5,
+      "craftSec": 270,
+      "power": 15,
+      "sellPrice": 620,
+      "upgradeFrom": "silver_helm",
       "recipe": [
         {
           "materialId": "leather",
-          "qty": 3
-        },
-        {
-          "materialId": "mana_stone",
-          "qty": 1
+          "qty": 2
         }
       ]
     },
     {
       "id": "mana_armor",
       "name": "마석 가죽갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 3,
-      "unlockForgeLevel": 4,
-      "craftSec": 720,
-      "power": 32,
-      "sellPrice": 800,
+      "unlockForgeLevel": 5,
+      "craftSec": 360,
+      "power": 26,
+      "sellPrice": 910,
+      "upgradeFrom": "steel_armor",
       "recipe": [
         {
           "materialId": "leather",
-          "qty": 4
-        },
-        {
-          "materialId": "mana_stone",
-          "qty": 1
-        },
-        {
-          "materialId": "silver",
-          "qty": 1
+          "qty": 3
         }
       ]
     },
     {
       "id": "mana_plate",
       "name": "마석 판금갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 3,
       "unlockForgeLevel": 5,
-      "craftSec": 900,
-      "power": 36,
-      "sellPrice": 900,
+      "craftSec": 780,
+      "power": 38,
+      "sellPrice": 1870,
+      "upgradeFrom": "silver_chain",
       "recipe": [
         {
           "materialId": "iron_ore",
-          "qty": 4
+          "qty": 3
         },
         {
           "materialId": "coal",
@@ -773,12 +789,14 @@
     {
       "id": "mana_boots",
       "name": "마석 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 3,
-      "unlockForgeLevel": 4,
-      "craftSec": 420,
-      "power": 16,
-      "sellPrice": 400,
+      "unlockForgeLevel": 5,
+      "craftSec": 450,
+      "power": 18,
+      "sellPrice": 1170,
+      "upgradeFrom": "steel_boots",
       "recipe": [
         {
           "materialId": "leather",
@@ -793,16 +811,18 @@
     {
       "id": "hunter_boots",
       "name": "가죽 사냥 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 3,
-      "unlockForgeLevel": 3,
-      "craftSec": 360,
-      "power": 15,
-      "sellPrice": 375,
+      "unlockForgeLevel": 5,
+      "craftSec": 270,
+      "power": 12,
+      "sellPrice": 640,
+      "upgradeFrom": "silver_boots",
       "recipe": [
         {
           "materialId": "leather",
-          "qty": 3
+          "qty": 2
         },
         {
           "materialId": "iron_ore",
@@ -813,12 +833,14 @@
     {
       "id": "mithril_sword",
       "name": "미스릴검",
-      "slot": "right", "kind": "sword",
+      "slot": "right",
+      "kind": "sword",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 1200,
+      "unlockForgeLevel": 7,
+      "craftSec": 960,
       "power": 70,
-      "sellPrice": 1900,
+      "sellPrice": 2780,
+      "upgradeFrom": "mana_sword",
       "recipe": [
         {
           "materialId": "mithril",
@@ -827,26 +849,20 @@
         {
           "materialId": "firestone",
           "qty": 1
-        },
-        {
-          "materialId": "mana_stone",
-          "qty": 1
-        },
-        {
-          "materialId": "coal",
-          "qty": 2
         }
       ]
     },
     {
       "id": "mithril_axe",
       "name": "미스릴 도끼",
-      "slot": "right", "kind": "axe",
+      "slot": "right",
+      "kind": "axe",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 1680,
-      "power": 88,
-      "sellPrice": 2380,
+      "unlockForgeLevel": 7,
+      "craftSec": 1440,
+      "power": 91,
+      "sellPrice": 3970,
+      "upgradeFrom": "mana_axe",
       "recipe": [
         {
           "materialId": "mithril",
@@ -865,36 +881,37 @@
     {
       "id": "mithril_spear",
       "name": "미스릴 창",
-      "slot": "right", "kind": "spear",
+      "slot": "right",
+      "kind": "spear",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 960,
-      "power": 60,
-      "sellPrice": 1600,
+      "unlockForgeLevel": 7,
+      "craftSec": 580,
+      "power": 56,
+      "sellPrice": 1530,
+      "upgradeFrom": "mana_spear",
       "recipe": [
         {
           "materialId": "mithril",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "leather",
           "qty": 2
-        },
-        {
-          "materialId": "iron_ore",
-          "qty": 3
         }
       ]
     },
     {
       "id": "flame_bow",
       "name": "화염 활",
-      "slot": "right", "kind": "bow",
+      "slot": "right",
+      "kind": "bow",
       "tier": 4,
       "unlockForgeLevel": 7,
-      "craftSec": 1100,
-      "power": 67,
-      "sellPrice": 1800,
+      "craftSec": 860,
+      "power": 64,
+      "sellPrice": 2390,
+      "set": "archery",
+      "upgradeFrom": "mana_bow",
       "recipe": [
         {
           "materialId": "mithril",
@@ -906,24 +923,21 @@
         },
         {
           "materialId": "wood",
-          "qty": 4
-        },
-        {
-          "materialId": "leather",
           "qty": 2
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "mithril_shield",
       "name": "미스릴 방패",
-      "slot": "left", "kind": "shield",
+      "slot": "left",
+      "kind": "shield",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 960,
-      "power": 28,
-      "sellPrice": 760,
+      "unlockForgeLevel": 7,
+      "craftSec": 670,
+      "power": 29,
+      "sellPrice": 1880,
+      "upgradeFrom": "mana_shield",
       "recipe": [
         {
           "materialId": "mithril",
@@ -931,40 +945,44 @@
         },
         {
           "materialId": "iron_ore",
-          "qty": 3
+          "qty": 2
         }
       ]
     },
     {
       "id": "flame_quiver",
       "name": "화염 화살통",
-      "slot": "left", "kind": "quiver",
+      "slot": "left",
+      "kind": "quiver",
       "tier": 4,
       "unlockForgeLevel": 7,
-      "craftSec": 840,
-      "power": 26,
-      "sellPrice": 700,
+      "craftSec": 580,
+      "power": 28,
+      "sellPrice": 1970,
+      "set": "archery",
+      "upgradeFrom": "mana_quiver",
       "recipe": [
         {
           "materialId": "leather",
-          "qty": 3
+          "qty": 2
         },
         {
           "materialId": "firestone",
           "qty": 1
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "mithril_helm",
       "name": "미스릴 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 960,
+      "unlockForgeLevel": 7,
+      "craftSec": 770,
       "power": 38,
-      "sellPrice": 1030,
+      "sellPrice": 1980,
+      "upgradeFrom": "mana_helm",
       "recipe": [
         {
           "materialId": "mithril",
@@ -979,19 +997,21 @@
     {
       "id": "flame_hood",
       "name": "화염 두건",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 720,
-      "power": 33,
-      "sellPrice": 900,
+      "unlockForgeLevel": 7,
+      "craftSec": 430,
+      "power": 27,
+      "sellPrice": 1200,
+      "upgradeFrom": "mana_hood",
       "recipe": [
         {
-          "materialId": "leather",
-          "qty": 3
+          "materialId": "mithril",
+          "qty": 1
         },
         {
-          "materialId": "firestone",
+          "materialId": "leather",
           "qty": 1
         }
       ]
@@ -999,19 +1019,17 @@
     {
       "id": "mithril_armor",
       "name": "미스릴 갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 1440,
-      "power": 56,
-      "sellPrice": 1520,
+      "unlockForgeLevel": 7,
+      "craftSec": 580,
+      "power": 46,
+      "sellPrice": 1860,
+      "upgradeFrom": "mana_armor",
       "recipe": [
         {
           "materialId": "mithril",
-          "qty": 3
-        },
-        {
-          "materialId": "coal",
           "qty": 2
         },
         {
@@ -1023,12 +1041,14 @@
     {
       "id": "mithril_chain",
       "name": "미스릴 사슬갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 1800,
-      "power": 63,
-      "sellPrice": 1700,
+      "unlockForgeLevel": 7,
+      "craftSec": 1250,
+      "power": 66,
+      "sellPrice": 3790,
+      "upgradeFrom": "mana_plate",
       "recipe": [
         {
           "materialId": "mithril",
@@ -1047,12 +1067,14 @@
     {
       "id": "mithril_boots",
       "name": "미스릴 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 4,
-      "unlockForgeLevel": 6,
-      "craftSec": 840,
-      "power": 28,
-      "sellPrice": 760,
+      "unlockForgeLevel": 7,
+      "craftSec": 720,
+      "power": 32,
+      "sellPrice": 2130,
+      "upgradeFrom": "mana_boots",
       "recipe": [
         {
           "materialId": "mithril",
@@ -1067,19 +1089,21 @@
     {
       "id": "flame_boots",
       "name": "화염 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 4,
       "unlockForgeLevel": 7,
-      "craftSec": 720,
-      "power": 26,
-      "sellPrice": 700,
+      "craftSec": 430,
+      "power": 21,
+      "sellPrice": 1220,
+      "upgradeFrom": "hunter_boots",
       "recipe": [
         {
           "materialId": "leather",
-          "qty": 2
+          "qty": 1
         },
         {
-          "materialId": "firestone",
+          "materialId": "mithril",
           "qty": 1
         }
       ]
@@ -1087,12 +1111,14 @@
     {
       "id": "dragon_sword",
       "name": "용검",
-      "slot": "right", "kind": "sword",
+      "slot": "right",
+      "kind": "sword",
       "tier": 5,
-      "unlockForgeLevel": 8,
+      "unlockForgeLevel": 9,
       "craftSec": 2400,
       "power": 112,
-      "sellPrice": 3200,
+      "sellPrice": 8030,
+      "upgradeFrom": "mithril_sword",
       "recipe": [
         {
           "materialId": "dragon_scale",
@@ -1101,22 +1127,20 @@
         {
           "materialId": "dragon_heart",
           "qty": 1
-        },
-        {
-          "materialId": "mithril",
-          "qty": 2
         }
       ]
     },
     {
       "id": "dragon_axe",
       "name": "용 도끼",
-      "slot": "right", "kind": "axe",
+      "slot": "right",
+      "kind": "axe",
       "tier": 5,
       "unlockForgeLevel": 9,
-      "craftSec": 3360,
-      "power": 140,
-      "sellPrice": 4000,
+      "craftSec": 3600,
+      "power": 146,
+      "sellPrice": 11250,
+      "upgradeFrom": "mithril_axe",
       "recipe": [
         {
           "materialId": "dragon_scale",
@@ -1127,44 +1151,45 @@
           "qty": 1
         },
         {
-          "materialId": "coal",
-          "qty": 4
+          "materialId": "mithril",
+          "qty": 2
         }
       ]
     },
     {
       "id": "dragon_spear",
       "name": "용 창",
-      "slot": "right", "kind": "spear",
+      "slot": "right",
+      "kind": "spear",
       "tier": 5,
-      "unlockForgeLevel": 8,
-      "craftSec": 1920,
-      "power": 95,
-      "sellPrice": 2700,
+      "unlockForgeLevel": 9,
+      "craftSec": 1440,
+      "power": 90,
+      "sellPrice": 3630,
+      "upgradeFrom": "mithril_spear",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "mithril",
           "qty": 2
-        },
-        {
-          "materialId": "iron_ore",
-          "qty": 3
         }
       ]
     },
     {
       "id": "dragon_bow",
       "name": "용 활",
-      "slot": "right", "kind": "bow",
+      "slot": "right",
+      "kind": "bow",
       "tier": 5,
       "unlockForgeLevel": 9,
-      "craftSec": 2200,
-      "power": 107,
-      "sellPrice": 3050,
+      "craftSec": 2160,
+      "power": 103,
+      "sellPrice": 7660,
+      "set": "archery",
+      "upgradeFrom": "flame_bow",
       "recipe": [
         {
           "materialId": "dragon_scale",
@@ -1176,24 +1201,25 @@
         },
         {
           "materialId": "wood",
-          "qty": 4
+          "qty": 2
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "dragon_shield",
       "name": "용비늘 방패",
-      "slot": "left", "kind": "shield",
+      "slot": "left",
+      "kind": "shield",
       "tier": 5,
-      "unlockForgeLevel": 8,
-      "craftSec": 1920,
-      "power": 45,
-      "sellPrice": 1280,
+      "unlockForgeLevel": 9,
+      "craftSec": 1680,
+      "power": 47,
+      "sellPrice": 4900,
+      "upgradeFrom": "mithril_shield",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 3
+          "qty": 2
         },
         {
           "materialId": "mithril",
@@ -1204,33 +1230,37 @@
     {
       "id": "dragon_quiver",
       "name": "용비늘 화살통",
-      "slot": "left", "kind": "quiver",
+      "slot": "left",
+      "kind": "quiver",
       "tier": 5,
       "unlockForgeLevel": 9,
-      "craftSec": 1680,
-      "power": 42,
-      "sellPrice": 1200,
+      "craftSec": 1440,
+      "power": 45,
+      "sellPrice": 3820,
+      "set": "archery",
+      "upgradeFrom": "flame_quiver",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "leather",
           "qty": 3
         }
-      ],
-      "set": "archery"
+      ]
     },
     {
       "id": "dragon_helm",
       "name": "용 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 5,
-      "unlockForgeLevel": 8,
+      "unlockForgeLevel": 9,
       "craftSec": 1920,
-      "power": 61,
-      "sellPrice": 1750,
+      "power": 62,
+      "sellPrice": 5370,
+      "upgradeFrom": "mithril_helm",
       "recipe": [
         {
           "materialId": "dragon_scale",
@@ -1245,23 +1275,21 @@
     {
       "id": "dragon_crown",
       "name": "용 왕관 투구",
-      "slot": "helm", "kind": "helm",
+      "slot": "helm",
+      "kind": "helm",
       "tier": 5,
-      "unlockForgeLevel": 10,
-      "craftSec": 1440,
-      "power": 53,
-      "sellPrice": 1500,
+      "unlockForgeLevel": 9,
+      "craftSec": 1080,
+      "power": 43,
+      "sellPrice": 2920,
+      "upgradeFrom": "flame_hood",
       "recipe": [
         {
           "materialId": "dragon_scale",
           "qty": 1
         },
         {
-          "materialId": "dragon_heart",
-          "qty": 1
-        },
-        {
-          "materialId": "firestone",
+          "materialId": "mithril",
           "qty": 1
         }
       ]
@@ -1269,36 +1297,40 @@
     {
       "id": "dragon_armor",
       "name": "용비늘 갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 5,
       "unlockForgeLevel": 9,
-      "craftSec": 2880,
-      "power": 90,
-      "sellPrice": 2560,
+      "craftSec": 1440,
+      "power": 73,
+      "sellPrice": 4870,
+      "upgradeFrom": "mithril_armor",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 4
+          "qty": 2
         },
         {
           "materialId": "mithril",
-          "qty": 2
+          "qty": 1
         }
       ]
     },
     {
       "id": "dragon_plate",
       "name": "용 판금갑옷",
-      "slot": "armor", "kind": "armor",
+      "slot": "armor",
+      "kind": "armor",
       "tier": 5,
-      "unlockForgeLevel": 10,
-      "craftSec": 3600,
-      "power": 101,
-      "sellPrice": 2880,
+      "unlockForgeLevel": 9,
+      "craftSec": 3120,
+      "power": 106,
+      "sellPrice": 11390,
+      "upgradeFrom": "mithril_chain",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 4
+          "qty": 3
         },
         {
           "materialId": "dragon_heart",
@@ -1313,16 +1345,18 @@
     {
       "id": "dragon_boots",
       "name": "용비늘 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 5,
-      "unlockForgeLevel": 8,
-      "craftSec": 1680,
-      "power": 45,
-      "sellPrice": 1280,
+      "unlockForgeLevel": 9,
+      "craftSec": 1080,
+      "power": 34,
+      "sellPrice": 2900,
+      "upgradeFrom": "flame_boots",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "leather",
@@ -1333,20 +1367,22 @@
     {
       "id": "dragon_greaves",
       "name": "용 정강이 장화",
-      "slot": "boots", "kind": "boots",
+      "slot": "boots",
+      "kind": "boots",
       "tier": 5,
-      "unlockForgeLevel": 10,
-      "craftSec": 1440,
-      "power": 42,
-      "sellPrice": 1200,
+      "unlockForgeLevel": 9,
+      "craftSec": 1800,
+      "power": 50,
+      "sellPrice": 5190,
+      "upgradeFrom": "mithril_boots",
       "recipe": [
         {
           "materialId": "dragon_scale",
-          "qty": 1
+          "qty": 2
         },
         {
           "materialId": "mithril",
-          "qty": 2
+          "qty": 1
         },
         {
           "materialId": "iron_ore",
