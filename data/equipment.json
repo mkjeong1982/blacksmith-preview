@@ -1,0 +1,29 @@
+{
+  "slots": [
+    { "id": "weapon", "name": "무기" },
+    { "id": "armor", "name": "갑옷" },
+    { "id": "helm", "name": "투구" }
+  ],
+  "items": [
+    { "id": "iron_sword", "name": "철검", "slot": "weapon", "tier": 1, "unlockForgeLevel": 1, "craftSec": 120, "power": 10, "sellPrice": 200,
+      "recipe": [{ "materialId": "iron_ore", "qty": 3 }, { "materialId": "wood", "qty": 1 }] },
+    { "id": "iron_armor", "name": "철 갑옷", "slot": "armor", "tier": 1, "unlockForgeLevel": 1, "craftSec": 150, "power": 8, "sellPrice": 160,
+      "recipe": [{ "materialId": "iron_ore", "qty": 4 }, { "materialId": "wood", "qty": 1 }] },
+    { "id": "iron_helm", "name": "철 투구", "slot": "helm", "tier": 1, "unlockForgeLevel": 1, "craftSec": 90, "power": 5, "sellPrice": 100,
+      "recipe": [{ "materialId": "iron_ore", "qty": 2 }, { "materialId": "wood", "qty": 1 }] },
+
+    { "id": "steel_sword", "name": "강철검", "slot": "weapon", "tier": 2, "unlockForgeLevel": 1, "craftSec": 300, "power": 22, "sellPrice": 480,
+      "recipe": [{ "materialId": "iron_ore", "qty": 3 }, { "materialId": "coal", "qty": 2 }] },
+    { "id": "steel_armor", "name": "강철 갑옷", "slot": "armor", "tier": 2, "unlockForgeLevel": 2, "craftSec": 360, "power": 18, "sellPrice": 400,
+      "recipe": [{ "materialId": "iron_ore", "qty": 4 }, { "materialId": "coal", "qty": 2 }, { "materialId": "silver", "qty": 1 }] },
+    { "id": "steel_helm", "name": "강철 투구", "slot": "helm", "tier": 2, "unlockForgeLevel": 2, "craftSec": 240, "power": 12, "sellPrice": 260,
+      "recipe": [{ "materialId": "iron_ore", "qty": 2 }, { "materialId": "coal", "qty": 1 }, { "materialId": "silver", "qty": 1 }] },
+
+    { "id": "mana_sword", "name": "마석검", "slot": "weapon", "tier": 3, "unlockForgeLevel": 3, "craftSec": 600, "power": 40, "sellPrice": 1000,
+      "recipe": [{ "materialId": "mana_stone", "qty": 2 }, { "materialId": "silver", "qty": 2 }, { "materialId": "leather", "qty": 1 }] },
+    { "id": "mana_armor", "name": "마석 가죽갑옷", "slot": "armor", "tier": 3, "unlockForgeLevel": 4, "craftSec": 720, "power": 32, "sellPrice": 800,
+      "recipe": [{ "materialId": "leather", "qty": 4 }, { "materialId": "mana_stone", "qty": 1 }, { "materialId": "silver", "qty": 1 }] },
+    { "id": "mana_helm", "name": "마석 투구", "slot": "helm", "tier": 3, "unlockForgeLevel": 4, "craftSec": 480, "power": 22, "sellPrice": 550,
+      "recipe": [{ "materialId": "leather", "qty": 2 }, { "materialId": "mana_stone", "qty": 1 }, { "materialId": "iron_ore", "qty": 2 }] }
+  ]
+}

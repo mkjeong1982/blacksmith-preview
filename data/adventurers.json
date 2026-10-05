@@ -1,0 +1,6 @@
+{
+  "adventurers": [
+    { "id": "luka", "name": "루카", "basePower": 20, "unlockLodgeLevel": 1 },
+    { "id": "garam", "name": "가람", "basePower": 25, "unlockLodgeLevel": 2 }
+  ]
+}

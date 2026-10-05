@@ -1,0 +1,18 @@
+{
+  "startGold": 100,
+  "forge": {
+    "levels": [
+      { "level": 1, "upgradeCost": 0, "craftSlots": 1, "craftTimePct": 100 },
+      { "level": 2, "upgradeCost": 600, "craftSlots": 1, "craftTimePct": 90 },
+      { "level": 3, "upgradeCost": 2000, "craftSlots": 2, "craftTimePct": 85 },
+      { "level": 4, "upgradeCost": 5000, "craftSlots": 2, "craftTimePct": 75 },
+      { "level": 5, "upgradeCost": 12000, "craftSlots": 3, "craftTimePct": 65 }
+    ]
+  },
+  "lodge": {
+    "levels": [
+      { "level": 1, "upgradeCost": 0, "adventurerSlots": 1 },
+      { "level": 2, "upgradeCost": 3000, "adventurerSlots": 2 }
+    ]
+  }
+}

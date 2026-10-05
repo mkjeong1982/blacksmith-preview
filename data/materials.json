@@ -1,0 +1,16 @@
+{
+  "grades": [
+    { "id": "common", "name": "일반" },
+    { "id": "uncommon", "name": "고급" },
+    { "id": "rare", "name": "희귀" },
+    { "id": "legendary", "name": "전설" }
+  ],
+  "materials": [
+    { "id": "wood", "name": "목재", "grade": "common" },
+    { "id": "iron_ore", "name": "철광석", "grade": "common" },
+    { "id": "coal", "name": "석탄", "grade": "uncommon" },
+    { "id": "silver", "name": "은", "grade": "rare" },
+    { "id": "leather", "name": "가죽", "grade": "uncommon" },
+    { "id": "mana_stone", "name": "마석", "grade": "rare" }
+  ]
+}

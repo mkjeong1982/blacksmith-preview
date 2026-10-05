@@ -1,0 +1,21 @@
+{
+  "multipliers": [
+    { "level": 0, "powerPct": 100, "pricePct": 100 },
+    { "level": 1, "powerPct": 110, "pricePct": 120 },
+    { "level": 2, "powerPct": 120, "pricePct": 140 },
+    { "level": 3, "powerPct": 140, "pricePct": 160 },
+    { "level": 4, "powerPct": 160, "pricePct": 200 },
+    { "level": 5, "powerPct": 180, "pricePct": 250 },
+    { "level": 6, "powerPct": 200, "pricePct": 290 },
+    { "level": 7, "powerPct": 220, "pricePct": 350 }
+  ],
+  "steps": [
+    { "toLevel": 1, "successPct": 100, "costPct": 10 },
+    { "toLevel": 2, "successPct": 90, "costPct": 15 },
+    { "toLevel": 3, "successPct": 80, "costPct": 20 },
+    { "toLevel": 4, "successPct": 70, "costPct": 25 },
+    { "toLevel": 5, "successPct": 60, "costPct": 30 },
+    { "toLevel": 6, "successPct": 50, "costPct": 40 },
+    { "toLevel": 7, "successPct": 40, "costPct": 50 }
+  ]
+}
