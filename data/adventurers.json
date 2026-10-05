@@ -1,6 +1,38 @@
 {
   "adventurers": [
-    { "id": "luka", "name": "루카", "basePower": 20, "unlockLodgeLevel": 1 },
-    { "id": "garam", "name": "가람", "basePower": 25, "unlockLodgeLevel": 2 }
-  ]
+    {
+      "id": "luka",
+      "name": "루카",
+      "basePower": 20,
+      "unlockLodgeLevel": 1,
+      "personality": "열혈 허세",
+      "trait": {
+        "id": "passion",
+        "name": "열정",
+        "desc": "탐험 경험치 +20%",
+        "expPct": 20
+      },
+      "story": "전설의 용사가 꿈인 16살 마을 소년. 칼 한 번 쥐어 본 적 없으면서 대장간 문을 박차고 들어와 '제가 모험가 할게요!'를 외쳤다. 겁은 많은데 입은 더 크다."
+    },
+    {
+      "id": "garam",
+      "name": "가람",
+      "basePower": 25,
+      "unlockLodgeLevel": 2,
+      "personality": "듬직 무심",
+      "trait": {
+        "id": "porter",
+        "name": "짐꾼 출신",
+        "desc": "가져오는 재료 중 무작위 1종 +1개",
+        "extraLoot": 1
+      },
+      "story": "원래 마을 최고의 짐꾼이던 21살. 무거운 건 다 들 수 있지만 말은 별로 안 든다. 배고프면 갑자기 말이 많아진다는 소문."
+    }
+  ],
+  "levels": {
+    "max": 10,
+    "expBase": 20,
+    "expGrowth": 1.5,
+    "powerPerLevel": 2
+  }
 }

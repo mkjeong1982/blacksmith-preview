@@ -1,26 +1,86 @@
 {
   "regions": [
     {
-      "id": "back_hill", "name": "마을 뒷산", "durationSec": 180, "requiredPower": 0, "materials": ["wood", "iron_ore"],
+      "id": "back_hill",
+      "name": "마을 뒷산",
+      "durationSec": 180,
+      "requiredPower": 0,
+      "materials": [
+        "wood",
+        "iron_ore"
+      ],
       "drops": [
-        { "materialId": "wood", "chancePct": 100, "min": 1, "max": 2 },
-        { "materialId": "iron_ore", "chancePct": 100, "min": 3, "max": 4 }
-      ]
+        {
+          "materialId": "wood",
+          "chancePct": 100,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "materialId": "iron_ore",
+          "chancePct": 100,
+          "min": 3,
+          "max": 4
+        }
+      ],
+      "exp": 10
     },
     {
-      "id": "old_mine", "name": "폐광", "durationSec": 600, "requiredPower": 30, "materials": ["iron_ore", "coal", "silver"],
+      "id": "old_mine",
+      "name": "폐광",
+      "durationSec": 600,
+      "requiredPower": 30,
+      "materials": [
+        "iron_ore",
+        "coal",
+        "silver"
+      ],
       "drops": [
-        { "materialId": "iron_ore", "chancePct": 100, "min": 3, "max": 5 },
-        { "materialId": "coal", "chancePct": 100, "min": 2, "max": 3 },
-        { "materialId": "silver", "chancePct": 50, "min": 1, "max": 2 }
-      ]
+        {
+          "materialId": "iron_ore",
+          "chancePct": 100,
+          "min": 3,
+          "max": 5
+        },
+        {
+          "materialId": "coal",
+          "chancePct": 100,
+          "min": 2,
+          "max": 3
+        },
+        {
+          "materialId": "silver",
+          "chancePct": 50,
+          "min": 1,
+          "max": 2
+        }
+      ],
+      "exp": 30
     },
     {
-      "id": "goblin_forest", "name": "고블린 숲", "durationSec": 1800, "requiredPower": 80, "materials": ["leather", "mana_stone"],
+      "id": "goblin_forest",
+      "name": "고블린 숲",
+      "durationSec": 1800,
+      "requiredPower": 80,
+      "materials": [
+        "leather",
+        "mana_stone"
+      ],
       "drops": [
-        { "materialId": "leather", "chancePct": 100, "min": 3, "max": 5 },
-        { "materialId": "mana_stone", "chancePct": 60, "min": 1, "max": 2 }
-      ]
+        {
+          "materialId": "leather",
+          "chancePct": 100,
+          "min": 3,
+          "max": 5
+        },
+        {
+          "materialId": "mana_stone",
+          "chancePct": 60,
+          "min": 1,
+          "max": 2
+        }
+      ],
+      "exp": 80
     }
   ]
 }
