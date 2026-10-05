@@ -1,18 +1,20 @@
 {
   "startGold": 100,
   "forge": {
+    "assistantApplies": false,
     "levels": [
-      { "level": 1, "upgradeCost": 0, "craftSlots": 1, "craftTimePct": 100 },
-      { "level": 2, "upgradeCost": 600, "craftSlots": 1, "craftTimePct": 90 },
-      { "level": 3, "upgradeCost": 2000, "craftSlots": 2, "craftTimePct": 85 },
-      { "level": 4, "upgradeCost": 5000, "craftSlots": 2, "craftTimePct": 75 },
-      { "level": 5, "upgradeCost": 12000, "craftSlots": 3, "craftTimePct": 65 }
+      { "level": 1, "upgradeCost": 0, "craftSlots": 1, "craftTimePct": 100, "upgradeSec": 0 },
+      { "level": 2, "upgradeCost": 600, "craftSlots": 1, "craftTimePct": 90, "upgradeSec": 300 },
+      { "level": 3, "upgradeCost": 2000, "craftSlots": 2, "craftTimePct": 85, "upgradeSec": 1200 },
+      { "level": 4, "upgradeCost": 5000, "craftSlots": 2, "craftTimePct": 75, "upgradeSec": 3600 },
+      { "level": 5, "upgradeCost": 12000, "craftSlots": 3, "craftTimePct": 65, "upgradeSec": 10800 }
     ]
   },
   "lodge": {
+    "assistantApplies": false,
     "levels": [
-      { "level": 1, "upgradeCost": 0, "adventurerSlots": 1 },
-      { "level": 2, "upgradeCost": 3000, "adventurerSlots": 2 }
+      { "level": 1, "upgradeCost": 0, "adventurerSlots": 1, "upgradeSec": 0 },
+      { "level": 2, "upgradeCost": 3000, "adventurerSlots": 2, "upgradeSec": 1800 }
     ]
   }
 }

@@ -1,0 +1,275 @@
+{
+  "frame-popup": {
+    "size": [
+      240,
+      240
+    ],
+    "mode": "nine",
+    "slices": [
+      32,
+      32,
+      28,
+      28
+    ]
+  },
+  "panel-wood": {
+    "size": [
+      360,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      34,
+      34,
+      24,
+      24
+    ]
+  },
+  "panel-wood-selected": {
+    "size": [
+      360,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      34,
+      34,
+      24,
+      24
+    ]
+  },
+  "panel-parchment": {
+    "size": [
+      300,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      30,
+      30,
+      22,
+      22
+    ]
+  },
+  "header-plate": {
+    "size": [
+      360,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      40,
+      40,
+      24,
+      24
+    ]
+  },
+  "topbar": {
+    "size": [
+      360,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      34,
+      34,
+      24,
+      24
+    ]
+  },
+  "toast": {
+    "size": [
+      360,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      34,
+      34,
+      24,
+      24
+    ]
+  },
+  "tab": {
+    "size": [
+      240,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      30,
+      30,
+      24,
+      24
+    ]
+  },
+  "tab-selected": {
+    "size": [
+      240,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      30,
+      30,
+      24,
+      24
+    ]
+  },
+  "slot": {
+    "size": [
+      192,
+      192
+    ],
+    "mode": "nine",
+    "slices": [
+      18,
+      18,
+      18,
+      18
+    ]
+  },
+  "slot-filled": {
+    "size": [
+      192,
+      192
+    ],
+    "mode": "nine",
+    "slices": [
+      18,
+      18,
+      18,
+      18
+    ]
+  },
+  "slot-locked": {
+    "size": [
+      192,
+      192
+    ],
+    "mode": "nine",
+    "slices": [
+      18,
+      18,
+      18,
+      18
+    ]
+  },
+  "badge": {
+    "size": [
+      120,
+      48
+    ],
+    "mode": "nine",
+    "slices": [
+      22,
+      22,
+      18,
+      18
+    ]
+  },
+  "frame-popup-close": {
+    "size": [
+      96,
+      96
+    ],
+    "mode": "fixed",
+    "slices": [
+      28,
+      28,
+      28,
+      28
+    ]
+  },
+  "bubble": {
+    "size": [
+      240,
+      160
+    ],
+    "mode": "nine",
+    "slices": [
+      28,
+      28,
+      28,
+      28
+    ]
+  },
+  "bubble-tail": {
+    "size": [
+      64,
+      48
+    ],
+    "mode": "fixed",
+    "slices": [
+      16,
+      16,
+      12,
+      12
+    ]
+  },
+  "gauge-track": {
+    "size": [
+      300,
+      48
+    ],
+    "mode": "nine",
+    "slices": [
+      25,
+      25,
+      18,
+      18
+    ]
+  },
+  "gauge-fill": {
+    "size": [
+      300,
+      36
+    ],
+    "mode": "three",
+    "slices": [
+      24,
+      24,
+      0,
+      0
+    ]
+  },
+  "divider": {
+    "size": [
+      300,
+      12
+    ],
+    "mode": "nine",
+    "slices": [
+      18,
+      18,
+      4,
+      4
+    ]
+  },
+  "scroll-track": {
+    "size": [
+      24,
+      96
+    ],
+    "mode": "nine",
+    "slices": [
+      9,
+      9,
+      20,
+      20
+    ]
+  },
+  "scroll-thumb": {
+    "size": [
+      24,
+      48
+    ],
+    "mode": "nine",
+    "slices": [
+      9,
+      9,
+      16,
+      16
+    ]
+  }
+}
