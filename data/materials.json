@@ -67,6 +67,16 @@
       "id": "dragon_heart",
       "name": "용의 숨결석",
       "grade": "legendary"
+    },
+    {
+      "id": "frost_crystal",
+      "name": "서리 결정",
+      "grade": "rare"
+    },
+    {
+      "id": "sky_core",
+      "name": "하늘 핵",
+      "grade": "legendary"
     }
   ]
 }

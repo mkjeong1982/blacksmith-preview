@@ -66,11 +66,43 @@
       "kindBonusPct": 10
     },
     {
+      "id": "sera",
+      "job": "scout",
+      "name": "세라",
+      "basePower": 60,
+      "unlockLodgeLevel": 3,
+      "personality": "발랄 자신만만",
+      "trait": {
+        "id": "swift",
+        "name": "날쌘 발",
+        "desc": "탐험 시간 −15%",
+        "tripTimePct": 85
+      },
+      "flaw": {
+        "id": "light_pack",
+        "name": "가벼운 짐",
+        "desc": "재료마다 −1개(최소 1)",
+        "lootMinus": 1
+      },
+      "favoriteRegions": [
+        "dragon_nest"
+      ],
+      "regionBonus": {
+        "goldPct": 60,
+        "desc": "덤 골드 +60%"
+      },
+      "favoriteKinds": [
+        "bow"
+      ],
+      "kindBonusPct": 15,
+      "story": "어디서 나타났는지 아무도 모르는 20대 중반 척후병. 윙크 한 번에 길을 뚫고, 활도 검도 척척이다. 짐은 가볍게, 자랑은 무겁게가 인생 모토."
+    },
+    {
       "id": "gregor",
       "job": "warrior",
       "name": "그레고",
-      "basePower": 60,
-      "unlockLodgeLevel": 3,
+      "basePower": 90,
+      "unlockLodgeLevel": 4,
       "personality": "과묵 듬직",
       "trait": {
         "id": "veteran",
@@ -99,36 +131,71 @@
       "story": "전장을 스무 해 넘게 누빈 40대 베테랑. 말수는 적지만 한마디 한마디가 묵직하다. 낡은 갑옷 조각을 매일 닦는 게 취미고, 가끔 던지는 아재 개그는 본인만 웃는다."
     },
     {
-      "id": "sera",
-      "job": "scout",
-      "name": "세라",
-      "basePower": 90,
-      "unlockLodgeLevel": 4,
-      "personality": "발랄 자신만만",
+      "id": "torvin",
+      "job": "warrior",
+      "name": "토르빈",
+      "basePower": 130,
+      "unlockLodgeLevel": 5,
+      "personality": "무뚝뚝 정 많음",
       "trait": {
-        "id": "swift",
-        "name": "날쌘 발",
-        "desc": "탐험 시간 −15%",
-        "tripTimePct": 85
+        "id": "miner",
+        "name": "광부 출신",
+        "desc": "귀한 재료 확률 +10%p",
+        "rarePp": 10
       },
       "flaw": {
-        "id": "light_pack",
-        "name": "가벼운 짐",
-        "desc": "재료마다 −1개(최소 1)",
-        "lootMinus": 1
+        "id": "short_legs",
+        "name": "짧은 다리",
+        "desc": "탐험 시간 +10%",
+        "tripTimePct": 110
       },
       "favoriteRegions": [
-        "dragon_nest"
+        "old_mine",
+        "volcano"
       ],
       "regionBonus": {
-        "goldPct": 30,
-        "desc": "덤 골드 +30%"
+        "extraLoot": 1,
+        "desc": "재료마다 +1개"
       },
       "favoriteKinds": [
-        "bow"
+        "hammer"
       ],
       "kindBonusPct": 15,
-      "story": "어디서 나타났는지 아무도 모르는 20대 중반 척후병. 윙크 한 번에 길을 뚫고, 활도 검도 척척이다. 짐은 가볍게, 자랑은 무겁게가 인생 모토."
+      "story": "광산 마을에서 온 드워프 전사. 땋은 수염에 금속 고리를 달고, 광부 헬멧 램프는 절대 안 끈다. 말수는 적지만 광석 이야기만 나오면 밤을 샌다."
+    },
+    {
+      "id": "elarin",
+      "job": "archer",
+      "name": "엘라린",
+      "basePower": 180,
+      "unlockLodgeLevel": 6,
+      "personality": "우아 차분",
+      "trait": {
+        "id": "forest_eye",
+        "name": "숲의 눈",
+        "desc": "덤 장비 확률 +8%p",
+        "itemPp": 8
+      },
+      "flaw": {
+        "id": "delicate",
+        "name": "섬세함",
+        "desc": "부상 확률 +5%p",
+        "injuryPp": 5
+      },
+      "favoriteRegions": [
+        "goblin_forest",
+        "sky_ruins"
+      ],
+      "regionBonus": {
+        "expPct": 35,
+        "desc": "경험치 +35%"
+      },
+      "favoriteKinds": [
+        "bow",
+        "longbow"
+      ],
+      "kindBonusPct": 15,
+      "story": "먼 숲에서 온 엘프 사냥꾼. 은빛 도는 긴 금발에 초록 망토를 두르고, 바람 소리로 날씨를 맞힌다. 말은 느긋하지만 활시위는 누구보다 빠르다."
     }
   ],
   "levels": {

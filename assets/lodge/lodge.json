@@ -363,8 +363,9 @@
       "right"
     ],
     "rows": [
-      "strideA",
-      "strideB"
+      "stepL",
+      "stand",
+      "stepR"
     ],
     "leftFacing": "flipRight",
     "files": {
@@ -372,7 +373,13 @@
       "garam": "hero-garam.png",
       "gregor": "hero-gregor.png",
       "sera": "hero-sera.png"
-    }
+    },
+    "sequence": [
+      "stepL",
+      "stand",
+      "stepR",
+      "stand"
+    ]
   },
   "bedSprites": {
     "width": 64,

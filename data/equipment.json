@@ -1,5 +1,12 @@
 {
-  "wearLevel": { "1": 1, "2": 8, "3": 18, "4": 30, "5": 42 },
+  "wearLevel": {
+    "1": 1,
+    "2": 8,
+    "3": 18,
+    "4": 30,
+    "5": 42,
+    "6": 48
+  },
   "slots": [
     {
       "id": "right",
@@ -1057,7 +1064,7 @@
       "tier": 5,
       "unlockForgeLevel": 9,
       "craftSec": 2400,
-      "power": 112,
+      "power": 115,
       "sellPrice": 8030,
       "upgradeFrom": "mithril_sword",
       "recipe": [
@@ -1471,6 +1478,616 @@
       "power": 0,
       "sellPrice": 6000,
       "luck": 32,
+      "dropOnly": true
+    },
+    {
+      "id": "sky_sword",
+      "name": "하늘검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 3360,
+      "power": 179,
+      "sellPrice": 21910,
+      "upgradeFrom": "dragon_sword",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 2
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "sky_axe",
+      "name": "하늘 도끼",
+      "slot": "right",
+      "kind": "axe",
+      "tier": 6,
+      "twoHanded": true,
+      "unlockForgeLevel": 10,
+      "craftSec": 7392,
+      "power": 317,
+      "sellPrice": 44283,
+      "upgradeFrom": "dragon_axe",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 5
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "id": "sky_spear",
+      "name": "하늘 창",
+      "slot": "right",
+      "kind": "spear",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 2016,
+      "power": 144,
+      "sellPrice": 9701,
+      "upgradeFrom": "dragon_spear",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 1
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 2
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "sky_bow",
+      "name": "하늘 활",
+      "slot": "right",
+      "kind": "bow",
+      "tier": 6,
+      "twoHanded": true,
+      "unlockForgeLevel": 10,
+      "craftSec": 5376,
+      "power": 262,
+      "sellPrice": 34704,
+      "upgradeFrom": "dragon_bow",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 4
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        },
+        {
+          "materialId": "wood",
+          "qty": 2
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "sky_shield",
+      "name": "하늘 방패",
+      "slot": "left",
+      "kind": "shield",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 2352,
+      "power": 75,
+      "sellPrice": 13141,
+      "upgradeFrom": "dragon_shield",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 2
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "frost_helm",
+      "name": "서리 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 2688,
+      "power": 99,
+      "sellPrice": 14892,
+      "upgradeFrom": "dragon_helm",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 2
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 2
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "sky_crown",
+      "name": "하늘 왕관 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 1512,
+      "power": 69,
+      "sellPrice": 7702,
+      "upgradeFrom": "dragon_crown",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 1
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "frost_armor",
+      "name": "서리 갑옷",
+      "slot": "armor",
+      "kind": "armor",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 2016,
+      "power": 117,
+      "sellPrice": 13103,
+      "upgradeFrom": "dragon_armor",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 2
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "sky_plate",
+      "name": "하늘 판금갑옷",
+      "slot": "armor",
+      "kind": "armor",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 4368,
+      "power": 170,
+      "sellPrice": 32520,
+      "upgradeFrom": "dragon_plate",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 3
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "id": "frost_boots",
+      "name": "서리 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 1512,
+      "power": 54,
+      "sellPrice": 6728,
+      "upgradeFrom": "dragon_boots",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 1
+        },
+        {
+          "materialId": "leather",
+          "qty": 2
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "sky_greaves",
+      "name": "하늘 정강이 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "tier": 6,
+      "unlockForgeLevel": 10,
+      "craftSec": 2520,
+      "power": 80,
+      "sellPrice": 13471,
+      "upgradeFrom": "dragon_greaves",
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 2
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "iron_hammer",
+      "name": "철 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 1,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "unlockForgeLevel": 1,
+      "craftSec": 312,
+      "power": 18,
+      "sellPrice": 444,
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 7
+        },
+        {
+          "materialId": "wood",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "steel_hammer",
+      "name": "강철 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 2,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "unlockForgeLevel": 3,
+      "craftSec": 636,
+      "power": 41,
+      "sellPrice": 1017,
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 6
+        },
+        {
+          "materialId": "coal",
+          "qty": 4
+        }
+      ],
+      "upgradeFrom": "iron_hammer"
+    },
+    {
+      "id": "mana_hammer",
+      "name": "마석 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 3,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "unlockForgeLevel": 5,
+      "craftSec": 1272,
+      "power": 75,
+      "sellPrice": 3194,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 5
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 3
+        },
+        {
+          "materialId": "coal",
+          "qty": 2
+        }
+      ],
+      "upgradeFrom": "steel_hammer"
+    },
+    {
+      "id": "mithril_hammer",
+      "name": "미스릴 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 4,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "unlockForgeLevel": 7,
+      "craftSec": 2532,
+      "power": 129,
+      "sellPrice": 6503,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 6
+        },
+        {
+          "materialId": "firestone",
+          "qty": 1
+        },
+        {
+          "materialId": "coal",
+          "qty": 3
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        }
+      ],
+      "upgradeFrom": "mana_hammer"
+    },
+    {
+      "id": "dragon_hammer",
+      "name": "용 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 5,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "unlockForgeLevel": 9,
+      "craftSec": 6336,
+      "power": 208,
+      "sellPrice": 18132,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 6
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        },
+        {
+          "materialId": "mithril",
+          "qty": 3
+        }
+      ],
+      "upgradeFrom": "mithril_hammer"
+    },
+    {
+      "id": "sky_hammer",
+      "name": "하늘 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 6,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "unlockForgeLevel": 10,
+      "craftSec": 8870,
+      "power": 333,
+      "sellPrice": 49733,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 6
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 3
+        }
+      ],
+      "upgradeFrom": "dragon_hammer"
+    },
+    {
+      "id": "elven_longbow",
+      "name": "엘프 장궁",
+      "slot": "right",
+      "kind": "longbow",
+      "tier": 3,
+      "twoHanded": true,
+      "itemPp": 3,
+      "unlockForgeLevel": 5,
+      "craftSec": 962,
+      "power": 66,
+      "sellPrice": 1540,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 4
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 2
+        },
+        {
+          "materialId": "wood",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "moon_longbow",
+      "name": "달빛 장궁",
+      "slot": "right",
+      "kind": "longbow",
+      "tier": 4,
+      "twoHanded": true,
+      "itemPp": 3,
+      "unlockForgeLevel": 7,
+      "craftSec": 1912,
+      "power": 114,
+      "sellPrice": 3609,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 3
+        },
+        {
+          "materialId": "firestone",
+          "qty": 1
+        },
+        {
+          "materialId": "wood",
+          "qty": 2
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        }
+      ],
+      "upgradeFrom": "elven_longbow"
+    },
+    {
+      "id": "star_longbow",
+      "name": "별빛 장궁",
+      "slot": "right",
+      "kind": "longbow",
+      "tier": 5,
+      "twoHanded": true,
+      "itemPp": 3,
+      "unlockForgeLevel": 9,
+      "craftSec": 4800,
+      "power": 184,
+      "sellPrice": 11918,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 4
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        },
+        {
+          "materialId": "wood",
+          "qty": 2
+        },
+        {
+          "materialId": "mithril",
+          "qty": 1
+        }
+      ],
+      "upgradeFrom": "moon_longbow"
+    },
+    {
+      "id": "sky_longbow",
+      "name": "하늘 장궁",
+      "slot": "right",
+      "kind": "longbow",
+      "tier": 6,
+      "twoHanded": true,
+      "itemPp": 3,
+      "unlockForgeLevel": 10,
+      "craftSec": 6720,
+      "power": 293,
+      "sellPrice": 35091,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 4
+        },
+        {
+          "materialId": "sky_core",
+          "qty": 1
+        },
+        {
+          "materialId": "wood",
+          "qty": 2
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        }
+      ],
+      "upgradeFrom": "star_longbow"
+    },
+    {
+      "id": "sky_ring",
+      "name": "하늘 힘반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 6,
+      "power": 56,
+      "sellPrice": 9000,
+      "dropOnly": true
+    },
+    {
+      "id": "sky_amulet",
+      "name": "하늘 바람 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 6,
+      "power": 0,
+      "sellPrice": 9000,
+      "agility": 48,
+      "dropOnly": true
+    },
+    {
+      "id": "sky_charm",
+      "name": "하늘 행운 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 6,
+      "power": 0,
+      "sellPrice": 9000,
+      "luck": 48,
       "dropOnly": true
     }
   ]

@@ -3,25 +3,117 @@
   "forge": {
     "assistantApplies": false,
     "levels": [
-      { "level": 1, "upgradeCost": 0, "craftTimePct": 100, "upgradeSec": 0, "anvils": 1 },
-      { "level": 2, "upgradeCost": 250, "craftTimePct": 90, "upgradeSec": 120, "anvils": 1 },
-      { "level": 3, "upgradeCost": 800, "craftTimePct": 85, "upgradeSec": 120, "anvils": 2 },
-      { "level": 4, "upgradeCost": 1400, "craftTimePct": 75, "upgradeSec": 600, "anvils": 2 },
-      { "level": 5, "upgradeCost": 2200, "craftTimePct": 65, "upgradeSec": 480, "anvils": 2 },
-      { "level": 6, "upgradeCost": 4500, "anvils": 3, "craftTimePct": 60, "upgradeSec": 2400 },
-      { "level": 7, "upgradeCost": 8000, "anvils": 3, "craftTimePct": 56, "upgradeSec": 3600 },
-      { "level": 8, "upgradeCost": 40000, "anvils": 3, "craftTimePct": 52, "upgradeSec": 21600 },
-      { "level": 9, "upgradeCost": 100000, "anvils": 4, "craftTimePct": 48, "upgradeSec": 86400 },
-      { "level": 10, "upgradeCost": 150000, "anvils": 4, "craftTimePct": 45, "upgradeSec": 129600 }
+      {
+        "level": 1,
+        "upgradeCost": 0,
+        "craftTimePct": 100,
+        "upgradeSec": 0,
+        "anvils": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 250,
+        "craftTimePct": 90,
+        "upgradeSec": 120,
+        "anvils": 1
+      },
+      {
+        "level": 3,
+        "upgradeCost": 800,
+        "craftTimePct": 85,
+        "upgradeSec": 120,
+        "anvils": 2
+      },
+      {
+        "level": 4,
+        "upgradeCost": 1400,
+        "craftTimePct": 75,
+        "upgradeSec": 600,
+        "anvils": 2
+      },
+      {
+        "level": 5,
+        "upgradeCost": 2200,
+        "craftTimePct": 65,
+        "upgradeSec": 480,
+        "anvils": 2
+      },
+      {
+        "level": 6,
+        "upgradeCost": 4500,
+        "anvils": 3,
+        "craftTimePct": 60,
+        "upgradeSec": 2400
+      },
+      {
+        "level": 7,
+        "upgradeCost": 8000,
+        "anvils": 3,
+        "craftTimePct": 56,
+        "upgradeSec": 3600
+      },
+      {
+        "level": 8,
+        "upgradeCost": 40000,
+        "anvils": 3,
+        "craftTimePct": 52,
+        "upgradeSec": 21600
+      },
+      {
+        "level": 9,
+        "upgradeCost": 100000,
+        "anvils": 4,
+        "craftTimePct": 48,
+        "upgradeSec": 86400
+      },
+      {
+        "level": 10,
+        "upgradeCost": 150000,
+        "anvils": 4,
+        "craftTimePct": 45,
+        "upgradeSec": 129600
+      }
     ]
   },
   "lodge": {
     "assistantApplies": false,
     "levels": [
-      { "level": 1, "upgradeCost": 0, "adventurerSlots": 1, "upgradeSec": 0 },
-      { "level": 2, "upgradeCost": 3000, "adventurerSlots": 2, "upgradeSec": 1800 },
-      { "level": 3, "upgradeCost": 30000, "adventurerSlots": 3, "upgradeSec": 14400 },
-      { "level": 4, "upgradeCost": 120000, "adventurerSlots": 4, "upgradeSec": 43200 }
+      {
+        "level": 1,
+        "upgradeCost": 0,
+        "adventurerSlots": 1,
+        "upgradeSec": 0
+      },
+      {
+        "level": 2,
+        "upgradeCost": 3000,
+        "adventurerSlots": 2,
+        "upgradeSec": 1800
+      },
+      {
+        "level": 3,
+        "upgradeCost": 30000,
+        "adventurerSlots": 3,
+        "upgradeSec": 14400
+      },
+      {
+        "level": 4,
+        "upgradeCost": 80000,
+        "adventurerSlots": 4,
+        "upgradeSec": 43200
+      },
+      {
+        "level": 5,
+        "upgradeCost": 90000,
+        "adventurerSlots": 5,
+        "upgradeSec": 86400
+      },
+      {
+        "level": 6,
+        "upgradeCost": 250000,
+        "adventurerSlots": 6,
+        "upgradeSec": 172800
+      }
     ]
   }
 }
