@@ -125,10 +125,9 @@
         "desc": "덤 골드 +30%"
       },
       "favoriteKinds": [
-        "bow",
-        "sword"
+        "bow"
       ],
-      "kindBonusPct": 10,
+      "kindBonusPct": 15,
       "story": "어디서 나타났는지 아무도 모르는 20대 중반 척후병. 윙크 한 번에 길을 뚫고, 활도 검도 척척이다. 짐은 가볍게, 자랑은 무겁게가 인생 모토."
     }
   ],
