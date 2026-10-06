@@ -1850,5 +1850,125 @@
       "text": "{item} 득템! 팔아도 되고 써도 돼요~",
       "speaker": "sera"
     }
+  ],
+  "socketFirst": [
+    {
+      "text": "근데 이거… 가운데 구멍 뚫린 거 불량 아니죠?!",
+      "speaker": "luka"
+    },
+    {
+      "text": "홈이 있네. 뭘 끼우는 건가.",
+      "speaker": "garam"
+    },
+    {
+      "text": "허, 소켓이로군. 보석을 박는 자리다.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "어머, 여기 예쁜 홈이 있어요! 뭔가 반짝이는 걸 끼우면 딱이겠는데~",
+      "speaker": "sera"
+    }
+  ],
+  "socket": [
+    {
+      "text": "이번 장비도 홈이 있어요! 보석 넣으면 엄청 세지겠죠?",
+      "speaker": "luka"
+    },
+    {
+      "text": "또 구멍 난 장비 주웠어요! 이제 불량 아닌 거 알아요!",
+      "speaker": "luka"
+    },
+    {
+      "text": "홈 있는 장비예요! 저 운 좋은 편이죠?",
+      "speaker": "luka"
+    },
+    {
+      "text": "또 홈 있는 거야. 보석 있으면 박아.",
+      "speaker": "garam"
+    },
+    {
+      "text": "이거 홈 있다. 버리지 마.",
+      "speaker": "garam"
+    },
+    {
+      "text": "구멍 있는 장비. 쓸모 있을 거야.",
+      "speaker": "garam"
+    },
+    {
+      "text": "소켓 장비다. 좋은 걸 주웠군.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "허허, 또 홈이 있구먼. 보석 하나 박아 두게.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "이 홈, 잘 쓰면 든든할 거다.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "또 홈 있는 거 득템~ 세라 눈썰미 어때요?",
+      "speaker": "sera"
+    },
+    {
+      "text": "반짝이 넣을 자리 있는 장비예요~ 예쁘게 꾸며 줘요!",
+      "speaker": "sera"
+    },
+    {
+      "text": "짜잔~ 홈 있는 장비예요! 보석 박으면 완전 예쁘겠다~",
+      "speaker": "sera"
+    }
+  ],
+  "gemFirst": [
+    {
+      "text": "이 돌… 아까 그 홈에 맞을 것 같은데요?",
+      "speaker": "luka"
+    },
+    {
+      "text": "반짝이는 돌 주웠어. 그 홈에 맞겠네.",
+      "speaker": "garam"
+    },
+    {
+      "text": "보석이다. 소켓에 박으면 힘이 되지.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "꺄~ 보석이에요! 그 홈에 쏙 들어가겠다~",
+      "speaker": "sera"
+    }
+  ],
+  "gem": [
+    {
+      "text": "반짝이는 돌 또 주웠어요! 보석 맞죠?",
+      "speaker": "luka"
+    },
+    {
+      "text": "보석 하나 챙겨 왔어요! 홈에 끼워 봐요!",
+      "speaker": "luka"
+    },
+    {
+      "text": "보석 하나 주웠어.",
+      "speaker": "garam"
+    },
+    {
+      "text": "돌 하나 더. 반짝거려.",
+      "speaker": "garam"
+    },
+    {
+      "text": "보석이 굴러다니더군. 챙겨 왔다.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "허허, 오늘은 보석 운이 좋군.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "보석 득템~ 세라한테 어울리는 색이네요!",
+      "speaker": "sera"
+    },
+    {
+      "text": "반짝반짝~ 보석 주워 왔어요!",
+      "speaker": "sera"
+    }
   ]
 }

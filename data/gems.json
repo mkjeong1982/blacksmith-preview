@@ -1,0 +1,11 @@
+{
+  "gems": [
+    { "id": "ruby", "name": "루비", "effect": "powerPct", "value": 8, "price": 300, "desc": "전투력 +8%", "color": "#d8384a" },
+    { "id": "sapphire", "name": "사파이어", "effect": "tripTimePct", "value": -8, "price": 300, "desc": "탐험 시간 −8%", "color": "#3a6fd8" },
+    { "id": "emerald", "name": "에메랄드", "effect": "lootPct", "value": 10, "price": 300, "desc": "재료 수량 +10%", "color": "#2f9e5a" },
+    { "id": "topaz", "name": "토파즈", "effect": "goldPct", "value": 15, "price": 300, "desc": "덤 골드 +15%", "color": "#e0a02a" }
+  ],
+  "caps": { "powerPct": 30, "tripTimePct": -25, "lootPct": 30, "goldPct": 30 },
+  "sockets": { "onePct": 25, "twoPct": 5, "perTierPp": 5, "oneMaxPct": 40, "twoMaxPct": 12, "sellPctPerSocket": 15 },
+  "gemChancePct": { "back_hill": 3, "old_mine": 4, "goblin_forest": 5, "volcano": 6, "dragon_nest": 8 }
+}
