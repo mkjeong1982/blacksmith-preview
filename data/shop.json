@@ -1,0 +1,19 @@
+{
+  "rush": { "firstHourMinPerCrystal": 6, "afterMinPerCrystal": 8, "confirmAt": 100 },
+  "goldExchange": {
+    "packs": [
+      { "id": "gold_s", "crystals": 10, "mult": 1 },
+      { "id": "gold_m", "crystals": 50, "mult": 5.5 },
+      { "id": "gold_l", "crystals": 200, "mult": 24 }
+    ],
+    "baseByForgeLevel": [800, 800, 1500, 1500, 1500, 1500, 1500, 1940, 1940, 1940]
+  },
+  "products": [
+    { "id": "crystal_60", "priceKrw": 1200, "crystals": 60, "bonus": 0 },
+    { "id": "crystal_330", "priceKrw": 5900, "crystals": 300, "bonus": 30 },
+    { "id": "crystal_680", "priceKrw": 11000, "crystals": 600, "bonus": 80 },
+    { "id": "crystal_1400", "priceKrw": 22000, "crystals": 1200, "bonus": 200 },
+    { "id": "crystal_3800", "priceKrw": 55000, "crystals": 3000, "bonus": 800 }
+  ],
+  "firstPurchaseDouble": true
+}
