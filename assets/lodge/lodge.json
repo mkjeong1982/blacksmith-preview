@@ -352,6 +352,263 @@
           "h": 112
         }
       ]
+    },
+    {
+      "level": 5,
+      "file": "room-5.png",
+      "slots": 5,
+      "beds": [
+        {
+          "slot": 1,
+          "x": 8,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "slot": 2,
+          "x": 84,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "slot": 3,
+          "x": 160,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "slot": 4,
+          "x": 236,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "slot": 5,
+          "x": 312,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        }
+      ],
+      "walkablePolygon": [
+        [
+          20,
+          108
+        ],
+        [
+          364,
+          108
+        ],
+        [
+          364,
+          346
+        ],
+        [
+          20,
+          346
+        ]
+      ],
+      "furnitureCollisions": [
+        {
+          "id": "fireplace",
+          "x": 146,
+          "y": 22,
+          "w": 92,
+          "h": 98
+        },
+        {
+          "id": "bookshelf",
+          "x": 44,
+          "y": 30,
+          "w": 104,
+          "h": 100
+        },
+        {
+          "id": "dining-table",
+          "x": 254,
+          "y": 58,
+          "w": 108,
+          "h": 96
+        },
+        {
+          "id": "window-plant",
+          "x": 16,
+          "y": 76,
+          "w": 36,
+          "h": 82
+        },
+        {
+          "id": "bed-1",
+          "x": 8,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "id": "bed-2",
+          "x": 84,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "id": "bed-3",
+          "x": 160,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "id": "bed-4",
+          "x": 236,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        },
+        {
+          "id": "bed-5",
+          "x": 312,
+          "y": 222,
+          "w": 64,
+          "h": 112
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "file": "room-6.png",
+      "slots": 6,
+      "beds": [
+        {
+          "slot": 1,
+          "x": 12,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "slot": 2,
+          "x": 74,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "slot": 3,
+          "x": 136,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "slot": 4,
+          "x": 198,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "slot": 5,
+          "x": 260,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "slot": 6,
+          "x": 322,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        }
+      ],
+      "walkablePolygon": [
+        [
+          20,
+          108
+        ],
+        [
+          364,
+          108
+        ],
+        [
+          364,
+          346
+        ],
+        [
+          20,
+          346
+        ]
+      ],
+      "furnitureCollisions": [
+        {
+          "id": "grand-fireplace",
+          "x": 145,
+          "y": 20,
+          "w": 94,
+          "h": 104
+        },
+        {
+          "id": "bookshelf",
+          "x": 42,
+          "y": 30,
+          "w": 108,
+          "h": 102
+        },
+        {
+          "id": "banquet-table",
+          "x": 254,
+          "y": 58,
+          "w": 108,
+          "h": 100
+        },
+        {
+          "id": "bed-1",
+          "x": 12,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "id": "bed-2",
+          "x": 74,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "id": "bed-3",
+          "x": 136,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "id": "bed-4",
+          "x": 198,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "id": "bed-5",
+          "x": 260,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        },
+        {
+          "id": "bed-6",
+          "x": 322,
+          "y": 242,
+          "w": 50,
+          "h": 88
+        }
+      ]
     }
   ],
   "heroSprites": {
@@ -372,7 +629,9 @@
       "luka": "hero-luka.png",
       "garam": "hero-garam.png",
       "gregor": "hero-gregor.png",
-      "sera": "hero-sera.png"
+      "sera": "hero-sera.png",
+      "torvin": "hero-torvin.png",
+      "elarin": "hero-elarin.png"
     },
     "sequence": [
       "stepL",
@@ -389,13 +648,17 @@
       "luka": "bed-sleep-luka.png",
       "garam": "bed-sleep-garam.png",
       "gregor": "bed-sleep-gregor.png",
-      "sera": "bed-sleep-sera.png"
+      "sera": "bed-sleep-sera.png",
+      "torvin": "bed-sleep-torvin.png",
+      "elarin": "bed-sleep-elarin.png"
     },
     "injured": {
       "luka": "bed-injured-luka.png",
       "garam": "bed-injured-garam.png",
       "gregor": "bed-injured-gregor.png",
-      "sera": "bed-injured-sera.png"
+      "sera": "bed-injured-sera.png",
+      "torvin": "bed-injured-torvin.png",
+      "elarin": "bed-injured-elarin.png"
     }
   },
   "bubble": {
