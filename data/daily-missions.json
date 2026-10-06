@@ -1,0 +1,79 @@
+{
+  "perDay": 5,
+  "bonusCrystals": 10,
+  "pool": [
+    {
+      "id": "craft",
+      "name": "장비 {n}개 만들기",
+      "key": "crafts",
+      "goal": 3,
+      "reward": {
+        "goldPacks": 0.5
+      }
+    },
+    {
+      "id": "dispatch",
+      "name": "탐험 {n}번 보내기",
+      "key": "dispatches",
+      "goal": 3,
+      "reward": {
+        "crystals": 2
+      }
+    },
+    {
+      "id": "enhance",
+      "name": "강화 {n}번 해 보기",
+      "key": "enhanceTries",
+      "goal": 1,
+      "reward": {
+        "crystals": 2
+      }
+    },
+    {
+      "id": "sell",
+      "name": "장비 {n}개 팔기",
+      "key": "sells",
+      "goal": 2,
+      "reward": {
+        "goldPacks": 0.5
+      }
+    },
+    {
+      "id": "materials",
+      "name": "재료 {n}개 모으기",
+      "key": "materials",
+      "goal": 30,
+      "reward": {
+        "crystals": 3
+      }
+    },
+    {
+      "id": "reports",
+      "name": "탐험 보고 {n}번 받기",
+      "key": "reports",
+      "goal": 3,
+      "reward": {
+        "crystals": 2
+      }
+    },
+    {
+      "id": "upgrade",
+      "name": "시설 업그레이드 시작하기",
+      "key": "upgrades",
+      "goal": 1,
+      "reward": {
+        "crystals": 3
+      }
+    },
+    {
+      "id": "ad",
+      "name": "광고로 시간 단축 {n}번",
+      "key": "ads",
+      "goal": 1,
+      "reward": {
+        "crystals": 3
+      },
+      "ad": true
+    }
+  ]
+}

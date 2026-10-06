@@ -1,0 +1,252 @@
+{
+  "achievements": [
+    {
+      "id": "craft_1",
+      "name": "망치질 입문",
+      "desc": "장비를 처음 만들어요",
+      "key": "crafts",
+      "goal": 1,
+      "crystals": 5
+    },
+    {
+      "id": "craft_10",
+      "name": "손에 익은 망치",
+      "desc": "장비 10개 만들기",
+      "key": "crafts",
+      "goal": 10,
+      "crystals": 10
+    },
+    {
+      "id": "craft_50",
+      "name": "불꽃 대장장이",
+      "desc": "장비 50개 만들기",
+      "key": "crafts",
+      "goal": 50,
+      "crystals": 20
+    },
+    {
+      "id": "craft_200",
+      "name": "전설의 풀무",
+      "desc": "장비 200개 만들기",
+      "key": "crafts",
+      "goal": 200,
+      "crystals": 50
+    },
+    {
+      "id": "enhance_1",
+      "name": "반짝반짝 첫 강화",
+      "desc": "강화에 처음 성공해요",
+      "key": "enhanceOk",
+      "goal": 1,
+      "crystals": 5
+    },
+    {
+      "id": "enhance_5",
+      "name": "+5의 기적",
+      "desc": "장비를 +5까지 강화",
+      "key": "maxEnhance",
+      "goal": 5,
+      "crystals": 15
+    },
+    {
+      "id": "enhance_7",
+      "name": "끝까지 두드렸다",
+      "desc": "장비를 +7까지 강화",
+      "key": "maxEnhance",
+      "goal": 7,
+      "crystals": 40
+    },
+    {
+      "id": "forge_3",
+      "name": "공방 확장",
+      "desc": "대장간 Lv.3",
+      "key": "forgeLevel",
+      "goal": 3,
+      "crystals": 10
+    },
+    {
+      "id": "forge_6",
+      "name": "어엿한 공방",
+      "desc": "대장간 Lv.6",
+      "key": "forgeLevel",
+      "goal": 6,
+      "crystals": 25
+    },
+    {
+      "id": "forge_10",
+      "name": "왕국 제일 대장간",
+      "desc": "대장간 Lv.10",
+      "key": "forgeLevel",
+      "goal": 10,
+      "crystals": 60
+    },
+    {
+      "id": "lodge_3",
+      "name": "북적이는 숙소",
+      "desc": "숙소 Lv.3",
+      "key": "lodgeLevel",
+      "goal": 3,
+      "crystals": 15
+    },
+    {
+      "id": "lodge_6",
+      "name": "모험가의 집",
+      "desc": "숙소 Lv.6",
+      "key": "lodgeLevel",
+      "goal": 6,
+      "crystals": 50
+    },
+    {
+      "id": "joined_6",
+      "name": "다 모였다!",
+      "desc": "모험가 6명 모두 합류",
+      "key": "joined",
+      "goal": 6,
+      "crystals": 50
+    },
+    {
+      "id": "region_back_hill",
+      "name": "마을 뒷산 개척",
+      "desc": "마을 뒷산에 갈 수 있게 돼요",
+      "key": "region:back_hill",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "region_old_mine",
+      "name": "폐광 개척",
+      "desc": "폐광에 갈 수 있게 돼요",
+      "key": "region:old_mine",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "region_goblin_forest",
+      "name": "고블린 숲 개척",
+      "desc": "고블린 숲에 갈 수 있게 돼요",
+      "key": "region:goblin_forest",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "region_volcano",
+      "name": "화산 동굴 개척",
+      "desc": "화산 동굴에 갈 수 있게 돼요",
+      "key": "region:volcano",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "region_dragon_nest",
+      "name": "용의 둥지 개척",
+      "desc": "용의 둥지에 갈 수 있게 돼요",
+      "key": "region:dragon_nest",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "region_frost_canyon",
+      "name": "얼음 협곡 개척",
+      "desc": "얼음 협곡에 갈 수 있게 돼요",
+      "key": "region:frost_canyon",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "region_sky_ruins",
+      "name": "하늘 유적 개척",
+      "desc": "하늘 유적에 갈 수 있게 돼요",
+      "key": "region:sky_ruins",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "accessory_1",
+      "name": "반짝이 발견",
+      "desc": "장신구를 처음 찾아요",
+      "key": "accessories",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "socket_1",
+      "name": "보석 박기 장인",
+      "desc": "보석을 처음 박아요",
+      "key": "gemsSocketed",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "tier6_1",
+      "name": "하늘을 벼리다",
+      "desc": "티어 Ⅵ 장비 첫 제작",
+      "key": "craftsTier6",
+      "goal": 1,
+      "crystals": 80
+    },
+    {
+      "id": "adv_10",
+      "name": "쑥쑥 크는 동료",
+      "desc": "모험가 Lv.10",
+      "key": "advLevel",
+      "goal": 10,
+      "crystals": 10
+    },
+    {
+      "id": "adv_30",
+      "name": "믿음직한 베테랑",
+      "desc": "모험가 Lv.30",
+      "key": "advLevel",
+      "goal": 30,
+      "crystals": 40
+    },
+    {
+      "id": "adv_50",
+      "name": "살아 있는 전설",
+      "desc": "모험가 Lv.50",
+      "key": "advLevel",
+      "goal": 50,
+      "crystals": 100
+    },
+    {
+      "id": "sold_10k",
+      "name": "장사 수완",
+      "desc": "판매 골드 누적 1만",
+      "key": "soldGold",
+      "goal": 10000,
+      "crystals": 10
+    },
+    {
+      "id": "sold_100k",
+      "name": "큰손 대장장이",
+      "desc": "판매 골드 누적 10만",
+      "key": "soldGold",
+      "goal": 100000,
+      "crystals": 30
+    },
+    {
+      "id": "sold_1m",
+      "name": "황금 모루",
+      "desc": "판매 골드 누적 100만",
+      "key": "soldGold",
+      "goal": 1000000,
+      "crystals": 80
+    },
+    {
+      "id": "recovered_10",
+      "name": "다친 데 호~",
+      "desc": "부상에서 10번 회복",
+      "key": "recovered",
+      "goal": 10,
+      "crystals": 10
+    },
+    {
+      "id": "dispatch_100",
+      "name": "길잡이 대장장이",
+      "desc": "파견 100번 보내기",
+      "key": "dispatches",
+      "goal": 100,
+      "crystals": 20
+    }
+  ]
+}
