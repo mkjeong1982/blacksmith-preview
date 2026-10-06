@@ -52,7 +52,13 @@
           "desc": "도토리를 던지는데 은근히 아파요.",
           "danger": 1
         }
-      ]
+      ],
+      "accessoryDrop": {
+        "chancePct": 6,
+        "tiers": {
+          "1": 100
+        }
+      }
     },
     {
       "id": "old_mine",
@@ -113,7 +119,14 @@
           "desc": "작아도 바위는 바위. 굴러오면 피하세요!",
           "danger": 3
         }
-      ]
+      ],
+      "accessoryDrop": {
+        "chancePct": 8,
+        "tiers": {
+          "1": 70,
+          "2": 30
+        }
+      }
     },
     {
       "id": "goblin_forest",
@@ -167,7 +180,14 @@
           "desc": "거미줄이 끈끈해요. 줄 타고 도망도 잘 가요.",
           "danger": 3
         }
-      ]
+      ],
+      "accessoryDrop": {
+        "chancePct": 9,
+        "tiers": {
+          "2": 60,
+          "3": 40
+        }
+      }
     },
     {
       "id": "volcano",
@@ -235,7 +255,14 @@
           "desc": "재를 뿌리고 깔깔 도망가는 장난꾸러기.",
           "danger": 3
         }
-      ]
+      ],
+      "accessoryDrop": {
+        "chancePct": 11,
+        "tiers": {
+          "3": 50,
+          "4": 50
+        }
+      }
     },
     {
       "id": "dragon_nest",
@@ -303,7 +330,14 @@
           "desc": "깨우면 큰일! 잠꼬대로 불을 뿜기도 해요.",
           "danger": 3
         }
-      ]
+      ],
+      "accessoryDrop": {
+        "chancePct": 18,
+        "tiers": {
+          "4": 35,
+          "5": 65
+        }
+      }
     }
   ],
   "powerBonus": {

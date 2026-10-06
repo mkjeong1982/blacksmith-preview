@@ -1970,5 +1970,55 @@
       "text": "반짝반짝~ 보석 주워 왔어요!",
       "speaker": "sera"
     }
+  ],
+  "accessory": [
+    {
+      "text": "반짝이는 거 주웠어요! 용사의 보물 아닐까요?!",
+      "speaker": "luka"
+    },
+    {
+      "text": "이거 차면 저도 빨라지겠죠? 헤헤!",
+      "speaker": "luka"
+    },
+    {
+      "text": "보물 상자에서 장신구가 나왔어요! 진짜예요!",
+      "speaker": "luka"
+    },
+    {
+      "text": "장신구 하나 주웠어. 가벼워서 좋네.",
+      "speaker": "garam"
+    },
+    {
+      "text": "작은 거 하나. 몸에 맞으려나.",
+      "speaker": "garam"
+    },
+    {
+      "text": "길가에 떨어져 있던 거. 꽤 쓸 만해 보여.",
+      "speaker": "garam"
+    },
+    {
+      "text": "허, 장신구로군. 예전 동료가 이런 걸 아꼈지.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "작은 놈이지만 쓸모는 크다. 챙겨 두게.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "허허, 운 좋게 하나 주웠구먼.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "꺄~ 장신구예요! 세라한테 딱인데~",
+      "speaker": "sera"
+    },
+    {
+      "text": "반짝반짝 장신구 득템~ 누가 찰래요?",
+      "speaker": "sera"
+    },
+    {
+      "text": "예쁜 거 주웠어요! 예쁜 건 원래 세라 눈에 띄거든요~",
+      "speaker": "sera"
+    }
   ]
 }
