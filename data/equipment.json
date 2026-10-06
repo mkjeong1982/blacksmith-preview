@@ -19,6 +19,14 @@
     {
       "id": "boots",
       "name": "부츠"
+    },
+    {
+      "id": "ring",
+      "name": "반지"
+    },
+    {
+      "id": "amulet",
+      "name": "목걸이"
     }
   ],
   "sets": {
@@ -1387,6 +1395,379 @@
         {
           "materialId": "iron_ore",
           "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "iron_ring",
+      "name": "철 힘반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 1,
+      "unlockForgeLevel": 1,
+      "craftSec": 60,
+      "power": 3,
+      "sellPrice": 420,
+      "gems": {
+        "ruby": 1
+      },
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        },
+        {
+          "materialId": "wood",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "silver_ring",
+      "name": "은 힘반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 2,
+      "unlockForgeLevel": 3,
+      "craftSec": 120,
+      "power": 7,
+      "sellPrice": 900,
+      "upgradeFrom": "iron_ring",
+      "gems": {
+        "ruby": 1
+      },
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "mana_ring",
+      "name": "마석 힘반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 3,
+      "unlockForgeLevel": 5,
+      "craftSec": 300,
+      "power": 13,
+      "sellPrice": 2000,
+      "upgradeFrom": "silver_ring",
+      "gems": {
+        "ruby": 2
+      },
+      "recipe": [
+        {
+          "materialId": "mana_stone",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "mithril_ring",
+      "name": "미스릴 힘반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 4,
+      "unlockForgeLevel": 7,
+      "craftSec": 480,
+      "power": 23,
+      "sellPrice": 3380,
+      "upgradeFrom": "mana_ring",
+      "gems": {
+        "ruby": 2
+      },
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "dragon_ring",
+      "name": "용의 힘반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 5,
+      "unlockForgeLevel": 9,
+      "craftSec": 1200,
+      "power": 37,
+      "sellPrice": 6000,
+      "upgradeFrom": "mithril_ring",
+      "gems": {
+        "ruby": 3
+      },
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "mithril",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "wood_amulet",
+      "name": "나무 바람 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 1,
+      "unlockForgeLevel": 1,
+      "craftSec": 60,
+      "power": 0,
+      "sellPrice": 420,
+      "agility": 4,
+      "gems": {
+        "sapphire": 1
+      },
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        },
+        {
+          "materialId": "wood",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "silver_amulet",
+      "name": "은 바람 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 2,
+      "unlockForgeLevel": 3,
+      "craftSec": 120,
+      "power": 0,
+      "sellPrice": 900,
+      "agility": 8,
+      "upgradeFrom": "wood_amulet",
+      "gems": {
+        "sapphire": 1
+      },
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "mana_amulet",
+      "name": "마석 바람 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 3,
+      "unlockForgeLevel": 5,
+      "craftSec": 300,
+      "power": 0,
+      "sellPrice": 2000,
+      "agility": 14,
+      "upgradeFrom": "silver_amulet",
+      "gems": {
+        "sapphire": 2
+      },
+      "recipe": [
+        {
+          "materialId": "mana_stone",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "flame_amulet",
+      "name": "화염 바람 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 4,
+      "unlockForgeLevel": 7,
+      "craftSec": 480,
+      "power": 0,
+      "sellPrice": 3380,
+      "agility": 22,
+      "upgradeFrom": "mana_amulet",
+      "gems": {
+        "sapphire": 2
+      },
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "dragon_amulet",
+      "name": "용의 바람 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 5,
+      "unlockForgeLevel": 9,
+      "craftSec": 1200,
+      "power": 0,
+      "sellPrice": 6000,
+      "agility": 32,
+      "upgradeFrom": "flame_amulet",
+      "gems": {
+        "sapphire": 3
+      },
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "mithril",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "clover_charm",
+      "name": "네잎 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 1,
+      "unlockForgeLevel": 1,
+      "craftSec": 60,
+      "power": 0,
+      "sellPrice": 420,
+      "luck": 4,
+      "gems": {
+        "topaz": 1
+      },
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        },
+        {
+          "materialId": "wood",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "silver_charm",
+      "name": "은 행운 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 2,
+      "unlockForgeLevel": 3,
+      "craftSec": 120,
+      "power": 0,
+      "sellPrice": 900,
+      "luck": 8,
+      "upgradeFrom": "clover_charm",
+      "gems": {
+        "emerald": 1
+      },
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "mana_charm",
+      "name": "마석 행운 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 3,
+      "unlockForgeLevel": 5,
+      "craftSec": 300,
+      "power": 0,
+      "sellPrice": 2000,
+      "luck": 14,
+      "upgradeFrom": "silver_charm",
+      "gems": {
+        "topaz": 1,
+        "emerald": 1
+      },
+      "recipe": [
+        {
+          "materialId": "mana_stone",
+          "qty": 1
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "mithril_charm",
+      "name": "미스릴 행운 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 4,
+      "unlockForgeLevel": 7,
+      "craftSec": 480,
+      "power": 0,
+      "sellPrice": 3380,
+      "luck": 22,
+      "upgradeFrom": "mana_charm",
+      "gems": {
+        "topaz": 1,
+        "emerald": 1
+      },
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "dragon_charm",
+      "name": "용의 행운 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 5,
+      "unlockForgeLevel": 9,
+      "craftSec": 1200,
+      "power": 0,
+      "sellPrice": 6000,
+      "luck": 32,
+      "upgradeFrom": "mithril_charm",
+      "gems": {
+        "topaz": 2,
+        "emerald": 1
+      },
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        },
+        {
+          "materialId": "mithril",
+          "qty": 1
         }
       ]
     }
