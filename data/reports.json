@@ -1971,6 +1971,20 @@
       "speaker": "sera"
     }
   ],
+  "injured": [
+    { "text": "아야야… 좀 다쳤어요. 금방 나을 거예요!", "speaker": "luka" },
+    { "text": "으앙, 무릎 까졌어요… 반창고 주세요~", "speaker": "luka" },
+    { "text": "괜찮아요! 진짜로요… 아마도요.", "speaker": "luka" },
+    { "text": "좀 긁혔어. 별거 아냐.", "speaker": "garam" },
+    { "text": "쉬면 낫겠지. 신경 쓰지 마.", "speaker": "garam" },
+    { "text": "다음엔 안 다쳐.", "speaker": "garam" },
+    { "text": "허허, 늙은 허리가 말썽이구먼.", "speaker": "gregor" },
+    { "text": "이 정도 상처쯤이야. 잠깐 쉬겠네.", "speaker": "gregor" },
+    { "text": "젊을 땐 이런 거 몰랐는데 말이야.", "speaker": "gregor" },
+    { "text": "흑, 다쳤어요~ 호~ 해 주세요!", "speaker": "sera" },
+    { "text": "세라 아파요… 쉬는 동안 간식 주세요~", "speaker": "sera" },
+    { "text": "괜찮아요~ 금방 쌩쌩해질게요!", "speaker": "sera" }
+  ],
   "accessory": [
     {
       "text": "반짝이는 거 주웠어요! 용사의 보물 아닐까요?!",

@@ -340,6 +340,17 @@
       }
     }
   ],
+  "injury": {
+    "pctByMood": { "easy": 3, "normal": 6, "tough": 15 },
+    "toughMaxPct": 35,
+    "toughRatioMin": 0.5,
+    "toughRatioMax": 0.9,
+    "baseMin": 5,
+    "perTripPct": 10,
+    "toughMult": 1.5,
+    "minMin": 5,
+    "maxMin": 30
+  },
   "powerBonus": {
     "baseRequired": 20,
     "timePerRatio": 0.2,
