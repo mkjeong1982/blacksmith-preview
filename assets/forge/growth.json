@@ -7,24 +7,24 @@
     { "stage": 4, "minLevel": 9, "maxLevel": 10, "file": "forge-bg-4.jpg" }
   ],
   "objects": {
-    "workbench": { "level": 2, "file": "obj-workbench.png", "x": 95, "y": 420, "w": 170, "h": 110, "layer": "front" },
+    "workbench": { "level": 2, "file": "obj-workbench.png", "x": 95, "y": 405, "w": 170, "h": 110, "layer": "front" },
     "toolrack": { "level": 3, "file": "obj-toolrack.png", "x": 15, "y": 170, "w": 170, "h": 111, "layer": "back" },
     "grindstone": {
-      "level": 4, "file": "obj-grindstone.png", "x": 270, "y": 425, "w": 125, "h": 104, "layer": "front",
-      "wheel": { "file": "grindstone-wheel.png", "x": 312, "y": 431, "w": 55, "h": 63, "pivot": { "x": 340, "y": 463 } }
+      "level": 4, "file": "obj-grindstone.png", "x": 270, "y": 410, "w": 125, "h": 104, "layer": "front",
+      "wheel": { "file": "grindstone-wheel.png", "x": 312, "y": 416, "w": 55, "h": 63, "pivot": { "x": 340, "y": 448 } }
     },
     "weapon-rack": {
       "level": 5, "file": "obj-weapon-rack.png", "x": 15, "y": 283, "w": 170, "h": 110, "layer": "back",
       "hooks": [{ "x": 63, "y": 316 }, { "x": 134, "y": 316 }]
     },
     "mannequin": {
-      "level": 6, "file": "obj-mannequin.png", "x": 535, "y": 329, "w": 100, "h": 200, "layer": "front",
-      "torso": { "x": 585, "y": 405, "w": 60, "h": 85 }
+      "level": 6, "file": "obj-mannequin.png", "x": 535, "y": 314, "w": 100, "h": 200, "layer": "front",
+      "torso": { "x": 585, "y": 390, "w": 60, "h": 85 }
     },
     "bellows-big": { "level": 7, "file": "obj-bellows-big.png", "x": 945, "y": 190, "w": 210, "h": 180, "layer": "back", "replaces": "bellows" },
     "cat": {
-      "level": 8, "file": "obj-cat.png", "x": 395, "y": 470, "w": 120, "h": 60, "layer": "front",
-      "tail": { "file": "cat-tail.png", "x": 501, "y": 463, "w": 34, "h": 36, "pivot": { "x": 503, "y": 498 } }
+      "level": 8, "file": "obj-cat.png", "x": 395, "y": 455, "w": 120, "h": 60, "layer": "front",
+      "tail": { "file": "cat-tail.png", "x": 501, "y": 448, "w": 34, "h": 36, "pivot": { "x": 503, "y": 483 } }
     },
     "trophy-shelf": { "level": 9, "file": "obj-trophy-shelf.png", "x": 900, "y": 96, "w": 165, "h": 103, "layer": "back" },
     "guild-banner": { "level": 10, "file": "obj-guild-banner.png", "x": 1066, "y": 40, "w": 100, "h": 148, "layer": "back" },
