@@ -23,7 +23,7 @@
           "max": 4
         }
       ],
-      "exp": 10,
+      "exp": 12,
       "bonus": {
         "goldChancePct": 30,
         "gold": [
@@ -90,7 +90,7 @@
           "max": 2
         }
       ],
-      "exp": 30,
+      "exp": 60,
       "bonus": {
         "goldChancePct": 30,
         "gold": [
@@ -151,7 +151,7 @@
           "max": 2
         }
       ],
-      "exp": 80,
+      "exp": 720,
       "bonus": {
         "goldChancePct": 30,
         "gold": [
@@ -226,7 +226,7 @@
           "max": 2
         }
       ],
-      "exp": 200,
+      "exp": 2400,
       "bonus": {
         "goldChancePct": 30,
         "gold": [
@@ -301,7 +301,7 @@
           "max": 2
         }
       ],
-      "exp": 500,
+      "exp": 3500,
       "bonus": {
         "goldChancePct": 30,
         "gold": [

@@ -1,0 +1,410 @@
+{
+  "canvas": {
+    "width": 192,
+    "height": 176,
+    "unit": "logicalPixel",
+    "savedScale": 4
+  },
+  "tileSize": 16,
+  "rooms": [
+    {
+      "level": 1,
+      "file": "room-1.png",
+      "slots": 1,
+      "beds": [
+        {
+          "slot": 1,
+          "x": 80,
+          "y": 100,
+          "w": 32,
+          "h": 56
+        }
+      ],
+      "walkablePolygon": [
+        [
+          16,
+          54
+        ],
+        [
+          176,
+          54
+        ],
+        [
+          182,
+          164
+        ],
+        [
+          10,
+          164
+        ]
+      ],
+      "furnitureCollisions": [
+        {
+          "id": "crate-and-candle",
+          "x": 112,
+          "y": 32,
+          "w": 27,
+          "h": 31
+        },
+        {
+          "id": "attic-beams-left",
+          "x": 4,
+          "y": 0,
+          "w": 29,
+          "h": 65
+        },
+        {
+          "id": "attic-beams-right",
+          "x": 160,
+          "y": 0,
+          "w": 28,
+          "h": 65
+        },
+        {
+          "id": "bed-1",
+          "x": 80,
+          "y": 100,
+          "w": 32,
+          "h": 56
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "file": "room-2.png",
+      "slots": 2,
+      "beds": [
+        {
+          "slot": 1,
+          "x": 28,
+          "y": 101,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "slot": 2,
+          "x": 132,
+          "y": 101,
+          "w": 32,
+          "h": 56
+        }
+      ],
+      "walkablePolygon": [
+        [
+          10,
+          54
+        ],
+        [
+          182,
+          54
+        ],
+        [
+          182,
+          164
+        ],
+        [
+          10,
+          164
+        ]
+      ],
+      "furnitureCollisions": [
+        {
+          "id": "fireplace",
+          "x": 79,
+          "y": 14,
+          "w": 37,
+          "h": 43
+        },
+        {
+          "id": "table-chair",
+          "x": 132,
+          "y": 33,
+          "w": 42,
+          "h": 47
+        },
+        {
+          "id": "shelf",
+          "x": 41,
+          "y": 18,
+          "w": 28,
+          "h": 26
+        },
+        {
+          "id": "bed-1",
+          "x": 28,
+          "y": 101,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "id": "bed-2",
+          "x": 132,
+          "y": 101,
+          "w": 32,
+          "h": 56
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "file": "room-3.png",
+      "slots": 3,
+      "beds": [
+        {
+          "slot": 1,
+          "x": 18,
+          "y": 112,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "slot": 2,
+          "x": 80,
+          "y": 112,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "slot": 3,
+          "x": 142,
+          "y": 112,
+          "w": 32,
+          "h": 56
+        }
+      ],
+      "walkablePolygon": [
+        [
+          10,
+          54
+        ],
+        [
+          182,
+          54
+        ],
+        [
+          182,
+          164
+        ],
+        [
+          10,
+          164
+        ]
+      ],
+      "furnitureCollisions": [
+        {
+          "id": "fireplace",
+          "x": 76,
+          "y": 14,
+          "w": 41,
+          "h": 44
+        },
+        {
+          "id": "bookshelf",
+          "x": 23,
+          "y": 13,
+          "w": 32,
+          "h": 37
+        },
+        {
+          "id": "plant",
+          "x": 56,
+          "y": 27,
+          "w": 16,
+          "h": 25
+        },
+        {
+          "id": "table-chair",
+          "x": 133,
+          "y": 32,
+          "w": 40,
+          "h": 45
+        },
+        {
+          "id": "bed-1",
+          "x": 18,
+          "y": 112,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "id": "bed-2",
+          "x": 80,
+          "y": 112,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "id": "bed-3",
+          "x": 142,
+          "y": 112,
+          "w": 32,
+          "h": 56
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "file": "room-4.png",
+      "slots": 4,
+      "beds": [
+        {
+          "slot": 1,
+          "x": 11,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "slot": 2,
+          "x": 57,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "slot": 3,
+          "x": 103,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "slot": 4,
+          "x": 149,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        }
+      ],
+      "walkablePolygon": [
+        [
+          10,
+          54
+        ],
+        [
+          182,
+          54
+        ],
+        [
+          182,
+          164
+        ],
+        [
+          10,
+          164
+        ]
+      ],
+      "furnitureCollisions": [
+        {
+          "id": "fireplace",
+          "x": 74,
+          "y": 11,
+          "w": 43,
+          "h": 47
+        },
+        {
+          "id": "dining-table",
+          "x": 128,
+          "y": 32,
+          "w": 49,
+          "h": 45
+        },
+        {
+          "id": "trophy-shelf",
+          "x": 24,
+          "y": 14,
+          "w": 44,
+          "h": 31
+        },
+        {
+          "id": "cat-cushion",
+          "x": 15,
+          "y": 62,
+          "w": 24,
+          "h": 16
+        },
+        {
+          "id": "bed-1",
+          "x": 11,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "id": "bed-2",
+          "x": 57,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "id": "bed-3",
+          "x": 103,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        },
+        {
+          "id": "bed-4",
+          "x": 149,
+          "y": 111,
+          "w": 32,
+          "h": 56
+        }
+      ]
+    }
+  ],
+  "heroSprites": {
+    "frameWidth": 20,
+    "frameHeight": 30,
+    "columns": [
+      "down",
+      "up",
+      "right"
+    ],
+    "rows": [
+      "strideA",
+      "strideB"
+    ],
+    "leftFacing": "flipRight",
+    "files": {
+      "luka": "hero-luka.png",
+      "garam": "hero-garam.png",
+      "gregor": "hero-gregor.png",
+      "sera": "hero-sera.png"
+    }
+  },
+  "bedSprites": {
+    "width": 32,
+    "height": 56,
+    "empty": "bed.png",
+    "sleep": {
+      "luka": "bed-sleep-luka.png",
+      "garam": "bed-sleep-garam.png",
+      "gregor": "bed-sleep-gregor.png",
+      "sera": "bed-sleep-sera.png"
+    },
+    "injured": {
+      "luka": "bed-injured-luka.png",
+      "garam": "bed-injured-garam.png",
+      "gregor": "bed-injured-gregor.png",
+      "sera": "bed-injured-sera.png"
+    }
+  },
+  "bubble": {
+    "file": "bubble.png",
+    "width": 32,
+    "height": 20,
+    "nineSlice": {
+      "left": 14,
+      "right": 4,
+      "top": 4,
+      "bottom": 7
+    }
+  },
+  "icons": {
+    "sleep": "icon-zzz.png",
+    "injured": "icon-injury.png",
+    "expedition": "icon-flag.png"
+  }
+}

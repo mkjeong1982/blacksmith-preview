@@ -132,9 +132,9 @@
     }
   ],
   "levels": {
-    "max": 10,
-    "expBase": 20,
-    "expGrowth": 1.5,
-    "powerPerLevel": 2
+    "max": 50,
+    "expBase": 0.4,
+    "expPow": 2.5,
+    "powerPerLevel": 4
   }
 }
