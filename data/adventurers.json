@@ -202,6 +202,7 @@
     "max": 50,
     "expBase": 0.4,
     "expPow": 2.5,
+    "expFlat": 10,
     "powerPerLevel": 4
   }
 }
