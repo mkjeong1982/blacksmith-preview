@@ -1,0 +1,49 @@
+{
+  "luckPpPerPoint": 0.01,
+  "luckPpMax": 0.5,
+  "duplicateCrystals": 10,
+  "twoSocketPct": 20,
+  "sellPct": 70,
+  "regions": [
+    {
+      "regionId": "volcano",
+      "chancePct": 0.6,
+      "items": [
+        "lava_heart_axe",
+        "flame_lord_bow",
+        "ember_mail",
+        "blaze_step_boots"
+      ]
+    },
+    {
+      "regionId": "dragon_nest",
+      "chancePct": 0.8,
+      "items": [
+        "elder_fang_sword",
+        "dragon_king_shield",
+        "breath_helm",
+        "wyvern_greaves"
+      ]
+    },
+    {
+      "regionId": "frost_canyon",
+      "chancePct": 1.0,
+      "items": [
+        "frost_queen_longbow",
+        "glacier_plate",
+        "blizzard_spear",
+        "frostbloom_ring"
+      ]
+    },
+    {
+      "regionId": "sky_ruins",
+      "chancePct": 1.2,
+      "items": [
+        "heaven_greatsword",
+        "starlight_hammer",
+        "temple_guard_helm",
+        "windgod_amulet"
+      ]
+    }
+  ]
+}

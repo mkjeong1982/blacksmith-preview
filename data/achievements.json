@@ -247,6 +247,22 @@
       "key": "dispatches",
       "goal": 100,
       "crystals": 20
+    },
+    {
+      "id": "rare_recipe_1",
+      "name": "금빛 두루마리",
+      "desc": "희귀 레시피를 처음 얻어요",
+      "key": "rareRecipes",
+      "goal": 1,
+      "crystals": 30
+    },
+    {
+      "id": "rare_recipe_16",
+      "name": "전설의 설계도 수집가",
+      "desc": "희귀 레시피 16종 모으기",
+      "key": "rareRecipes",
+      "goal": 16,
+      "crystals": 300
     }
   ]
 }
