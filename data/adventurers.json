@@ -200,9 +200,9 @@
   ],
   "levels": {
     "max": 50,
-    "expBase": 0.4,
-    "expPow": 2.5,
-    "expFlat": 10,
+    "expBase": 25,
+    "expPow": 1.35,
+    "expFlat": 0,
     "powerPerLevel": 4
   }
 }
