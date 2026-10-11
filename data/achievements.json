@@ -263,6 +263,46 @@
       "key": "rareRecipes",
       "goal": 16,
       "crystals": 300
+    },
+    {
+      "id": "codex_10",
+      "name": "도감 첫 장",
+      "desc": "도감 10% 채우기",
+      "key": "codexPct",
+      "goal": 10,
+      "crystals": 10
+    },
+    {
+      "id": "codex_25",
+      "name": "수집의 맛",
+      "desc": "도감 25% 채우기",
+      "key": "codexPct",
+      "goal": 25,
+      "crystals": 30
+    },
+    {
+      "id": "codex_50",
+      "name": "반쯤 찬 도감",
+      "desc": "도감 50% 채우기",
+      "key": "codexPct",
+      "goal": 50,
+      "crystals": 60
+    },
+    {
+      "id": "codex_75",
+      "name": "장비 박사",
+      "desc": "도감 75% 채우기",
+      "key": "codexPct",
+      "goal": 75,
+      "crystals": 120
+    },
+    {
+      "id": "codex_100",
+      "name": "전설의 수집가",
+      "desc": "도감 100% 채우기",
+      "key": "codexPct",
+      "goal": 100,
+      "crystals": 300
     }
   ]
 }
