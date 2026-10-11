@@ -1,0 +1,10 @@
+{
+ "/pool/[craft]/name": "Craft gear ×{n}",
+ "/pool/[dispatch]/name": "Send expeditions ×{n}",
+ "/pool/[enhance]/name": "Try enhancing ×{n}",
+ "/pool/[sell]/name": "Sell gear ×{n}",
+ "/pool/[materials]/name": "Gather materials ×{n}",
+ "/pool/[reports]/name": "Get trip reports ×{n}",
+ "/pool/[upgrade]/name": "Start a facility upgrade",
+ "/pool/[ad]/name": "Ad time-skips ×{n}"
+}

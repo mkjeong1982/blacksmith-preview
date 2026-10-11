@@ -1,0 +1,18 @@
+{
+  "/grades/[common]/name": "普通",
+  "/grades/[uncommon]/name": "高級",
+  "/grades/[rare]/name": "希少",
+  "/grades/[legendary]/name": "伝説",
+  "/materials/[wood]/name": "木材",
+  "/materials/[iron_ore]/name": "鉄鉱石",
+  "/materials/[coal]/name": "石炭",
+  "/materials/[silver]/name": "銀",
+  "/materials/[leather]/name": "革",
+  "/materials/[mana_stone]/name": "魔石",
+  "/materials/[mithril]/name": "ミスリル",
+  "/materials/[firestone]/name": "火炎石",
+  "/materials/[dragon_scale]/name": "竜鱗",
+  "/materials/[dragon_heart]/name": "竜の息吹石",
+  "/materials/[frost_crystal]/name": "霜の結晶",
+  "/materials/[sky_core]/name": "天空の核"
+}

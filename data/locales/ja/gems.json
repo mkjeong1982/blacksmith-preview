@@ -1,0 +1,10 @@
+{
+  "/gems/[ruby]/name": "ルビー",
+  "/gems/[ruby]/desc": "戦闘力 +8%",
+  "/gems/[sapphire]/name": "サファイア",
+  "/gems/[sapphire]/desc": "探索時間 −8%",
+  "/gems/[emerald]/name": "エメラルド",
+  "/gems/[emerald]/desc": "素材の数 +10%",
+  "/gems/[topaz]/name": "トパーズ",
+  "/gems/[topaz]/desc": "おまけゴールド +15%"
+}

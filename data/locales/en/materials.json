@@ -1,0 +1,18 @@
+{
+ "/grades/[common]/name": "Common",
+ "/grades/[uncommon]/name": "Fine",
+ "/grades/[rare]/name": "Rare",
+ "/grades/[legendary]/name": "Legend",
+ "/materials/[wood]/name": "Wood",
+ "/materials/[iron_ore]/name": "Iron Ore",
+ "/materials/[coal]/name": "Coal",
+ "/materials/[silver]/name": "Silver",
+ "/materials/[leather]/name": "Leather",
+ "/materials/[mana_stone]/name": "Manastone",
+ "/materials/[mithril]/name": "Mithril",
+ "/materials/[firestone]/name": "Firestone",
+ "/materials/[dragon_scale]/name": "Dragonscale",
+ "/materials/[dragon_heart]/name": "Breathstone",
+ "/materials/[frost_crystal]/name": "Frost Crystal",
+ "/materials/[sky_core]/name": "Sky Core"
+}

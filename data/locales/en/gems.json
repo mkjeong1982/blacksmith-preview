@@ -1,0 +1,10 @@
+{
+ "/gems/[ruby]/name": "Ruby",
+ "/gems/[ruby]/desc": "Power +8%",
+ "/gems/[sapphire]/name": "Sapphire",
+ "/gems/[sapphire]/desc": "Trip time −8%",
+ "/gems/[emerald]/name": "Emerald",
+ "/gems/[emerald]/desc": "Materials +10%",
+ "/gems/[topaz]/name": "Topaz",
+ "/gems/[topaz]/desc": "Bonus gold +15%"
+}
