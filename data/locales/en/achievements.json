@@ -76,5 +76,7 @@
  "/achievements/[codex_100]/name": "Legendary Collector",
  "/achievements/[codex_100]/desc": "Fill 100% of the Codex",
  "/achievements/[rare_recipe_32]/name": "Blueprint Hoarder",
- "/achievements/[rare_recipe_32]/desc": "Collect all 32 rare recipes"
+ "/achievements/[rare_recipe_32]/desc": "Collect all 32 rare recipes",
+ "/achievements/[enhance_10]/name": "Legendary Hammering",
+ "/achievements/[enhance_10]/desc": "Enhance gear to +10"
 }

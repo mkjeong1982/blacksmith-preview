@@ -57,6 +57,14 @@
       "crystals": 40
     },
     {
+      "id": "enhance_10",
+      "name": "전설의 망치질",
+      "desc": "장비를 +10까지 강화",
+      "key": "maxEnhance",
+      "goal": 10,
+      "crystals": 80
+    },
+    {
       "id": "forge_3",
       "name": "공방 확장",
       "desc": "대장간 Lv.3",

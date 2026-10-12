@@ -40,6 +40,21 @@
       "level": 7,
       "powerPct": 220,
       "pricePct": 350
+    },
+    {
+      "level": 8,
+      "powerPct": 245,
+      "pricePct": 430
+    },
+    {
+      "level": 9,
+      "powerPct": 270,
+      "pricePct": 530
+    },
+    {
+      "level": 10,
+      "powerPct": 300,
+      "pricePct": 650
     }
   ],
   "steps": [
@@ -77,6 +92,21 @@
       "toLevel": 7,
       "successPct": 40,
       "costPct": 50
+    },
+    {
+      "toLevel": 8,
+      "successPct": 30,
+      "costPct": 60
+    },
+    {
+      "toLevel": 9,
+      "successPct": 22,
+      "costPct": 70
+    },
+    {
+      "toLevel": 10,
+      "successPct": 15,
+      "costPct": 80
     }
   ]
 }

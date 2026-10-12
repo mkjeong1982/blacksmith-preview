@@ -76,5 +76,7 @@
  "/achievements/[codex_100]/name": "伝説のコレクター",
  "/achievements/[codex_100]/desc": "図鑑を100%埋める",
  "/achievements/[rare_recipe_32]/name": "伝説の設計図コレクター",
- "/achievements/[rare_recipe_32]/desc": "レアレシピを32種すべて集める"
+ "/achievements/[rare_recipe_32]/desc": "レアレシピを32種すべて集める",
+ "/achievements/[enhance_10]/name": "伝説の鍛え上げ",
+ "/achievements/[enhance_10]/desc": "装備を+10まで強化"
 }
