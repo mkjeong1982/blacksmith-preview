@@ -1,3 +1,4 @@
 {
-  "minRemainingSec": 60
+  "minRemainingSec": 60,
+  "dispatchMult": 1.5
 }

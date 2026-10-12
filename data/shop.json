@@ -1,27 +1,139 @@
 {
-  "rush": { "firstHourMinPerCrystal": 6, "afterMinPerCrystal": 8, "confirmAt": 100 },
+  "rush": {
+    "firstHourMinPerCrystal": 6,
+    "afterMinPerCrystal": 8,
+    "confirmAt": 100
+  },
   "goldExchange": {
     "packs": [
-      { "id": "gold_s", "crystals": 10, "mult": 1 },
-      { "id": "gold_m", "crystals": 50, "mult": 5.5 },
-      { "id": "gold_l", "crystals": 200, "mult": 24 }
+      {
+        "id": "gold_s",
+        "crystals": 10,
+        "mult": 1
+      },
+      {
+        "id": "gold_m",
+        "crystals": 50,
+        "mult": 5.5
+      },
+      {
+        "id": "gold_l",
+        "crystals": 200,
+        "mult": 24
+      }
     ],
-    "baseByForgeLevel": [270, 270, 500, 500, 500, 500, 500, 650, 650, 650]
+    "baseByForgeLevel": [
+      270,
+      270,
+      500,
+      500,
+      500,
+      500,
+      500,
+      650,
+      650,
+      650
+    ]
   },
   "products": [
-    { "id": "crystal_60", "priceKrw": 1200, "crystals": 60, "bonus": 0 },
-    { "id": "crystal_330", "priceKrw": 5900, "crystals": 300, "bonus": 30 },
-    { "id": "crystal_680", "priceKrw": 11000, "crystals": 600, "bonus": 80 },
-    { "id": "crystal_1400", "priceKrw": 22000, "crystals": 1200, "bonus": 200 },
-    { "id": "crystal_3800", "priceKrw": 55000, "crystals": 3000, "bonus": 800 }
+    {
+      "id": "crystal_60",
+      "priceKrw": 1200,
+      "crystals": 60,
+      "bonus": 0
+    },
+    {
+      "id": "crystal_330",
+      "priceKrw": 5900,
+      "crystals": 300,
+      "bonus": 30
+    },
+    {
+      "id": "crystal_680",
+      "priceKrw": 11000,
+      "crystals": 600,
+      "bonus": 80
+    },
+    {
+      "id": "crystal_1400",
+      "priceKrw": 22000,
+      "crystals": 1200,
+      "bonus": 200
+    },
+    {
+      "id": "crystal_3800",
+      "priceKrw": 55000,
+      "crystals": 3000,
+      "bonus": 800
+    }
   ],
   "firstPurchaseDouble": true,
-  "starter": { "id": "pack_starter", "priceKrw": 3300, "crystals": 300, "goldCrystals": 50, "showDays": 7 },
+  "starter": {
+    "id": "pack_starter",
+    "priceKrw": 3300,
+    "crystals": 300,
+    "goldCrystals": 50,
+    "showDays": 7
+  },
   "passes": [
-    { "id": "pass_noads_30", "priceKrw": 4900, "grants": ["noads"] },
-    { "id": "pass_speed_30", "priceKrw": 9900, "grants": ["speed"] },
-    { "id": "pass_crystal_30", "priceKrw": 5500, "grants": ["crystal"] },
-    { "id": "pass_all_30", "priceKrw": 16900, "grants": ["noads", "speed", "crystal"] }
+    {
+      "id": "pass_noads_30",
+      "priceKrw": 4900,
+      "grants": [
+        "noads"
+      ]
+    },
+    {
+      "id": "pass_speed_30",
+      "priceKrw": 9900,
+      "grants": [
+        "speed"
+      ]
+    },
+    {
+      "id": "pass_crystal_30",
+      "priceKrw": 5500,
+      "grants": [
+        "crystal"
+      ]
+    },
+    {
+      "id": "pass_all_30",
+      "priceKrw": 16900,
+      "grants": [
+        "noads",
+        "speed",
+        "crystal"
+      ]
+    }
   ],
-  "passRules": { "days": 30, "maxDays": 90, "speedPct": 25, "speedRepeat": 1, "crystalNow": 300, "crystalDaily": 50, "warnDays": 3 }
+  "passRules": {
+    "days": 30,
+    "maxDays": 90,
+    "speedPct": 50,
+    "speedRepeat": 1,
+    "crystalNow": 300,
+    "crystalDaily": 50,
+    "warnDays": 3
+  },
+  "charm": {
+    "price": 20,
+    "packs": [
+      {
+        "id": "charm_1",
+        "n": 1,
+        "crystals": 20
+      },
+      {
+        "id": "charm_5",
+        "n": 5,
+        "crystals": 90
+      },
+      {
+        "id": "charm_10",
+        "n": 10,
+        "crystals": 170
+      }
+    ]
+  }
 }

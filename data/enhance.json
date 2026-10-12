@@ -1,5 +1,25 @@
 {
   "destroyOnFail": true,
+  "keepBelow": 4,
+  "protect": {
+    "fromLevel": 4,
+    "adPerDay": 3,
+    "crystalPerDay": 3,
+    "crystalCost": 30
+  },
+  "charmPp": [
+    0,
+    15,
+    15,
+    15,
+    15,
+    12,
+    12,
+    10,
+    5,
+    4,
+    3
+  ],
   "multipliers": [
     {
       "level": 0,

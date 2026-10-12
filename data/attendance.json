@@ -7,7 +7,8 @@
       "goldPacks": 1
     },
     {
-      "crystals": 5
+      "crystals": 5,
+      "charms": 1
     },
     {
       "gems": 1
@@ -19,7 +20,8 @@
       "goldPacks": 1
     },
     {
-      "crystals": 30
+      "crystals": 30,
+      "charms": 1
     }
   ]
 }
