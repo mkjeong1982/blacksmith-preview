@@ -7,7 +7,7 @@
   "regions": [
     {
       "regionId": "volcano",
-      "chancePct": 0.6,
+      "chancePct": 0.7,
       "items": [
         "lava_heart_axe",
         "flame_lord_bow",
@@ -17,7 +17,7 @@
     },
     {
       "regionId": "dragon_nest",
-      "chancePct": 0.8,
+      "chancePct": 0.9,
       "items": [
         "elder_fang_sword",
         "dragon_king_shield",
@@ -27,7 +27,7 @@
     },
     {
       "regionId": "frost_canyon",
-      "chancePct": 1.0,
+      "chancePct": 1.1,
       "items": [
         "frost_queen_longbow",
         "glacier_plate",
@@ -37,7 +37,7 @@
     },
     {
       "regionId": "sky_ruins",
-      "chancePct": 1.2,
+      "chancePct": 1.3,
       "items": [
         "heaven_greatsword",
         "starlight_hammer",
