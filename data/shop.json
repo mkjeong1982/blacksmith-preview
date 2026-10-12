@@ -38,31 +38,31 @@
   "products": [
     {
       "id": "crystal_60",
-      "priceKrw": 1200,
+      "priceKrw": 1100,
       "crystals": 60,
       "bonus": 0
     },
     {
       "id": "crystal_330",
-      "priceKrw": 5900,
+      "priceKrw": 4400,
       "crystals": 300,
       "bonus": 30
     },
     {
       "id": "crystal_680",
-      "priceKrw": 11000,
+      "priceKrw": 8800,
       "crystals": 600,
       "bonus": 80
     },
     {
       "id": "crystal_1400",
-      "priceKrw": 22000,
+      "priceKrw": 15000,
       "crystals": 1200,
       "bonus": 200
     },
     {
       "id": "crystal_3800",
-      "priceKrw": 55000,
+      "priceKrw": 39000,
       "crystals": 3000,
       "bonus": 800
     }
@@ -70,7 +70,7 @@
   "firstPurchaseDouble": true,
   "starter": {
     "id": "pack_starter",
-    "priceKrw": 3300,
+    "priceKrw": 2200,
     "crystals": 300,
     "goldCrystals": 50,
     "showDays": 7
@@ -78,33 +78,49 @@
   "passes": [
     {
       "id": "pass_noads_30",
-      "priceKrw": 4900,
+      "priceKrw": 1500,
       "grants": [
         "noads"
       ]
     },
     {
       "id": "pass_speed_30",
-      "priceKrw": 9900,
+      "priceKrw": 2000,
       "grants": [
         "speed"
       ]
     },
     {
       "id": "pass_crystal_30",
-      "priceKrw": 5500,
+      "priceKrw": 3300,
       "grants": [
         "crystal"
       ]
     },
     {
       "id": "pass_all_30",
-      "priceKrw": 16900,
+      "priceKrw": 5500,
       "grants": [
         "noads",
         "speed",
         "crystal"
       ]
+    },
+    {
+      "id": "noads_forever",
+      "priceKrw": 8800,
+      "grants": [
+        "noads"
+      ],
+      "permanent": true
+    },
+    {
+      "id": "speed_forever",
+      "priceKrw": 11000,
+      "grants": [
+        "speed"
+      ],
+      "permanent": true
     }
   ],
   "passRules": {
