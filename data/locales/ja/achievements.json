@@ -62,9 +62,9 @@
  "/achievements/[dispatch_100]/name": "道しるべの鍛冶屋",
  "/achievements/[dispatch_100]/desc": "派遣を100回送る",
  "/achievements/[rare_recipe_1]/name": "金色の巻物",
- "/achievements/[rare_recipe_1]/desc": "はじめて希少レシピを入手",
- "/achievements/[rare_recipe_16]/name": "伝説の設計図コレクター",
- "/achievements/[rare_recipe_16]/desc": "希少レシピを16種集める",
+ "/achievements/[rare_recipe_1]/desc": "はじめてレアレシピを入手",
+ "/achievements/[rare_recipe_16]/name": "レア設計図コレクター",
+ "/achievements/[rare_recipe_16]/desc": "レアレシピを16種集める",
  "/achievements/[codex_10]/name": "図鑑の1ページ目",
  "/achievements/[codex_10]/desc": "図鑑を10%埋める",
  "/achievements/[codex_25]/name": "集める楽しさ",
@@ -74,5 +74,7 @@
  "/achievements/[codex_75]/name": "装備博士",
  "/achievements/[codex_75]/desc": "図鑑を75%埋める",
  "/achievements/[codex_100]/name": "伝説のコレクター",
- "/achievements/[codex_100]/desc": "図鑑を100%埋める"
+ "/achievements/[codex_100]/desc": "図鑑を100%埋める",
+ "/achievements/[rare_recipe_32]/name": "伝説の設計図コレクター",
+ "/achievements/[rare_recipe_32]/desc": "レアレシピを32種すべて集める"
 }

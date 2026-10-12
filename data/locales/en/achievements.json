@@ -63,7 +63,7 @@
  "/achievements/[dispatch_100]/desc": "Send 100 expeditions",
  "/achievements/[rare_recipe_1]/name": "Golden Scroll",
  "/achievements/[rare_recipe_1]/desc": "Get your first rare recipe",
- "/achievements/[rare_recipe_16]/name": "Blueprint Hoarder",
+ "/achievements/[rare_recipe_16]/name": "Blueprint Collector",
  "/achievements/[rare_recipe_16]/desc": "Collect 16 rare recipes",
  "/achievements/[codex_10]/name": "Page One",
  "/achievements/[codex_10]/desc": "Fill 10% of the Codex",
@@ -74,5 +74,7 @@
  "/achievements/[codex_75]/name": "Gear Geek",
  "/achievements/[codex_75]/desc": "Fill 75% of the Codex",
  "/achievements/[codex_100]/name": "Legendary Collector",
- "/achievements/[codex_100]/desc": "Fill 100% of the Codex"
+ "/achievements/[codex_100]/desc": "Fill 100% of the Codex",
+ "/achievements/[rare_recipe_32]/name": "Blueprint Hoarder",
+ "/achievements/[rare_recipe_32]/desc": "Collect all 32 rare recipes"
 }

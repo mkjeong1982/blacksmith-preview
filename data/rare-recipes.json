@@ -12,7 +12,11 @@
         "lava_heart_axe",
         "flame_lord_bow",
         "ember_mail",
-        "blaze_step_boots"
+        "blaze_step_boots",
+        "flame_tongue_sword",
+        "magma_rock_shield",
+        "lava_crown_helm",
+        "ember_charm"
       ]
     },
     {
@@ -22,7 +26,11 @@
         "elder_fang_sword",
         "dragon_king_shield",
         "breath_helm",
-        "wyvern_greaves"
+        "wyvern_greaves",
+        "dragonbone_hammer",
+        "dragonscale_plate",
+        "wyvern_longbow",
+        "dragon_eye_amulet"
       ]
     },
     {
@@ -32,7 +40,11 @@
         "frost_queen_longbow",
         "glacier_plate",
         "blizzard_spear",
-        "frostbloom_ring"
+        "frostbloom_ring",
+        "icebite_axe",
+        "ice_mirror_shield",
+        "snowwolf_helm",
+        "snowdrift_boots"
       ]
     },
     {
@@ -42,7 +54,11 @@
         "heaven_greatsword",
         "starlight_hammer",
         "temple_guard_helm",
-        "windgod_amulet"
+        "windgod_amulet",
+        "skyhawk_bow",
+        "thunder_spear",
+        "cloudsilk_armor",
+        "cloudstep_boots"
       ]
     }
   ]

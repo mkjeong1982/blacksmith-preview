@@ -115,5 +115,21 @@
  "/items/[heaven_greatsword]/name": "Heaven's Edge",
  "/items/[starlight_hammer]/name": "Star Maul",
  "/items/[temple_guard_helm]/name": "Temple Helm",
- "/items/[windgod_amulet]/name": "Windgod Amulet"
+ "/items/[windgod_amulet]/name": "Windgod Amulet",
+ "/items/[flame_tongue_sword]/name": "Flametongue",
+ "/items/[magma_rock_shield]/name": "Magma Shield",
+ "/items/[lava_crown_helm]/name": "Lava Crown",
+ "/items/[ember_charm]/name": "Ember Charm",
+ "/items/[dragonbone_hammer]/name": "Bone Maul",
+ "/items/[dragonscale_plate]/name": "Scale Plate",
+ "/items/[wyvern_longbow]/name": "Wyvernbow",
+ "/items/[dragon_eye_amulet]/name": "Dragon Eye",
+ "/items/[icebite_axe]/name": "Icebite Axe",
+ "/items/[ice_mirror_shield]/name": "Mirror Shield",
+ "/items/[snowwolf_helm]/name": "Wolf Helm",
+ "/items/[snowdrift_boots]/name": "Snow Boots",
+ "/items/[skyhawk_bow]/name": "Skyhawk Bow",
+ "/items/[thunder_spear]/name": "Thunder Spear",
+ "/items/[cloudsilk_armor]/name": "Cloudsilk",
+ "/items/[cloudstep_boots]/name": "Cloudsteps"
 }

@@ -2606,6 +2606,522 @@
         "emerald": 1,
         "topaz": 1
       }
+    },
+    {
+      "id": "flame_tongue_sword",
+      "name": "불꽃 혀 검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 3600,
+      "power": 132,
+      "sellPrice": 94018,
+      "goldCost": 120000,
+      "recipe": [
+        {
+          "materialId": "firestone",
+          "qty": 6
+        },
+        {
+          "materialId": "mithril",
+          "qty": 20
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "gems": {
+        "ruby": 2
+      }
+    },
+    {
+      "id": "magma_rock_shield",
+      "name": "화산암 방패",
+      "slot": "left",
+      "kind": "shield",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 2520,
+      "power": 50,
+      "sellPrice": 57272,
+      "goldCost": 72000,
+      "recipe": [
+        {
+          "materialId": "firestone",
+          "qty": 4
+        },
+        {
+          "materialId": "mithril",
+          "qty": 12
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "gems": {
+        "ruby": 1
+      }
+    },
+    {
+      "id": "lava_crown_helm",
+      "name": "용암 왕관 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 2880,
+      "power": 66,
+      "sellPrice": 57272,
+      "goldCost": 72000,
+      "recipe": [
+        {
+          "materialId": "firestone",
+          "qty": 4
+        },
+        {
+          "materialId": "mithril",
+          "qty": 12
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "gems": {
+        "ruby": 1
+      }
+    },
+    {
+      "id": "ember_charm",
+      "name": "불씨 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 5400,
+      "power": 0,
+      "sellPrice": 57272,
+      "goldCost": 72000,
+      "luck": 34,
+      "recipe": [
+        {
+          "materialId": "firestone",
+          "qty": 4
+        },
+        {
+          "materialId": "mithril",
+          "qty": 12
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "gems": {
+        "ruby": 1
+      }
+    },
+    {
+      "id": "dragonbone_hammer",
+      "name": "용뼈 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 13305,
+      "power": 350,
+      "sellPrice": 179650,
+      "goldCost": 220000,
+      "twoHanded": true,
+      "enhancePp": 10,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 15
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 4
+        },
+        {
+          "materialId": "mithril",
+          "qty": 20
+        }
+      ],
+      "gems": {
+        "sapphire": 2
+      }
+    },
+    {
+      "id": "dragonscale_plate",
+      "name": "용린 판금갑옷",
+      "slot": "armor",
+      "kind": "armor",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 6552,
+      "power": 179,
+      "sellPrice": 105641,
+      "goldCost": 130000,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 9
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        },
+        {
+          "materialId": "mithril",
+          "qty": 12
+        }
+      ],
+      "gems": {
+        "sapphire": 1
+      }
+    },
+    {
+      "id": "wyvern_longbow",
+      "name": "비룡 장궁",
+      "slot": "right",
+      "kind": "longbow",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 10080,
+      "power": 308,
+      "sellPrice": 179650,
+      "goldCost": 220000,
+      "twoHanded": true,
+      "itemPp": 3,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 15
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 4
+        },
+        {
+          "materialId": "mithril",
+          "qty": 20
+        }
+      ],
+      "gems": {
+        "sapphire": 2
+      }
+    },
+    {
+      "id": "dragon_eye_amulet",
+      "name": "용의 눈 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 5400,
+      "power": 0,
+      "sellPrice": 105641,
+      "goldCost": 130000,
+      "agility": 51,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 9
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        },
+        {
+          "materialId": "mithril",
+          "qty": 12
+        }
+      ],
+      "gems": {
+        "sapphire": 1
+      }
+    },
+    {
+      "id": "icebite_axe",
+      "name": "빙결 도끼",
+      "slot": "right",
+      "kind": "axe",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 11088,
+      "power": 350,
+      "sellPrice": 209599,
+      "goldCost": 240000,
+      "twoHanded": true,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 12
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 8
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 3
+        }
+      ],
+      "gems": {
+        "emerald": 2
+      }
+    },
+    {
+      "id": "ice_mirror_shield",
+      "name": "얼음 거울 방패",
+      "slot": "left",
+      "kind": "shield",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 3528,
+      "power": 79,
+      "sellPrice": 129968,
+      "goldCost": 150000,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 7
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "gems": {
+        "emerald": 1
+      }
+    },
+    {
+      "id": "snowwolf_helm",
+      "name": "설원 늑대 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 4032,
+      "power": 104,
+      "sellPrice": 129968,
+      "goldCost": 150000,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 7
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "gems": {
+        "emerald": 1
+      }
+    },
+    {
+      "id": "snowdrift_boots",
+      "name": "눈꽃 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 3780,
+      "power": 84,
+      "sellPrice": 129968,
+      "goldCost": 150000,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 7
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "gems": {
+        "emerald": 1
+      }
+    },
+    {
+      "id": "skyhawk_bow",
+      "name": "하늘매 활",
+      "slot": "right",
+      "kind": "bow",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 8870,
+      "power": 416,
+      "sellPrice": 228714,
+      "goldCost": 240000,
+      "twoHanded": true,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 6
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 10
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 4
+        }
+      ],
+      "gems": {
+        "ruby": 1,
+        "sapphire": 1,
+        "emerald": 1,
+        "topaz": 1
+      }
+    },
+    {
+      "id": "thunder_spear",
+      "name": "천둥 창",
+      "slot": "right",
+      "kind": "spear",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 3326,
+      "power": 254,
+      "sellPrice": 228714,
+      "goldCost": 240000,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 6
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 10
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 4
+        }
+      ],
+      "gems": {
+        "ruby": 1,
+        "sapphire": 1,
+        "emerald": 1,
+        "topaz": 1
+      }
+    },
+    {
+      "id": "cloudsilk_armor",
+      "name": "구름 비단 갑옷",
+      "slot": "armor",
+      "kind": "armor",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 7207,
+      "power": 241,
+      "sellPrice": 142977,
+      "goldCost": 150000,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 4
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 6
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "gems": {
+        "ruby": 1,
+        "sapphire": 1,
+        "emerald": 1,
+        "topaz": 1
+      }
+    },
+    {
+      "id": "cloudstep_boots",
+      "name": "구름걸음 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 4158,
+      "power": 114,
+      "sellPrice": 142977,
+      "goldCost": 150000,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 4
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 6
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "gems": {
+        "ruby": 1,
+        "sapphire": 1,
+        "emerald": 1,
+        "topaz": 1
+      }
     }
   ]
 }

@@ -251,18 +251,26 @@
     {
       "id": "rare_recipe_1",
       "name": "금빛 두루마리",
-      "desc": "희귀 레시피를 처음 얻어요",
+      "desc": "레어 레시피를 처음 얻어요",
       "key": "rareRecipes",
       "goal": 1,
       "crystals": 30
     },
     {
       "id": "rare_recipe_16",
-      "name": "전설의 설계도 수집가",
-      "desc": "희귀 레시피 16종 모으기",
+      "name": "레어 설계도 수집가",
+      "desc": "레어 레시피 16종 모으기",
       "key": "rareRecipes",
       "goal": 16,
-      "crystals": 300
+      "crystals": 150
+    },
+    {
+      "id": "rare_recipe_32",
+      "name": "전설의 설계도 수집가",
+      "desc": "레어 레시피 32종 전부 모으기",
+      "key": "rareRecipes",
+      "goal": 32,
+      "crystals": 500
     },
     {
       "id": "codex_10",

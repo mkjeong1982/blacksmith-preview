@@ -115,5 +115,21 @@
   "/items/[heaven_greatsword]/name": "天空の大剣",
   "/items/[starlight_hammer]/name": "星光の槌",
   "/items/[temple_guard_helm]/name": "神殿守護の兜",
-  "/items/[windgod_amulet]/name": "風神の首飾り"
+  "/items/[windgod_amulet]/name": "風神の首飾り",
+  "/items/[flame_tongue_sword]/name": "炎舌の剣",
+  "/items/[magma_rock_shield]/name": "火山岩の盾",
+  "/items/[lava_crown_helm]/name": "溶岩の冠兜",
+  "/items/[ember_charm]/name": "火種のお守り",
+  "/items/[dragonbone_hammer]/name": "竜骨ハンマー",
+  "/items/[dragonscale_plate]/name": "竜鱗の鎧",
+  "/items/[wyvern_longbow]/name": "飛竜の長弓",
+  "/items/[dragon_eye_amulet]/name": "竜の目の首飾り",
+  "/items/[icebite_axe]/name": "氷結の斧",
+  "/items/[ice_mirror_shield]/name": "氷鏡の盾",
+  "/items/[snowwolf_helm]/name": "雪狼の兜",
+  "/items/[snowdrift_boots]/name": "雪花ブーツ",
+  "/items/[skyhawk_bow]/name": "天鷹の弓",
+  "/items/[thunder_spear]/name": "雷の槍",
+  "/items/[cloudsilk_armor]/name": "雲絹の鎧",
+  "/items/[cloudstep_boots]/name": "雲歩きブーツ"
 }
