@@ -5,11 +5,11 @@
       "speaker": "luka"
     },
     {
-      "text": "보고드립니다! 에헴!",
+      "text": "사장님, 보고드립니다! 에헴!",
       "speaker": "luka"
     },
     {
-      "text": "저 왔어요~ 배고파요!",
+      "text": "사장님~ 저 왔어요! 헤헤!",
       "speaker": "luka"
     },
     {
@@ -17,7 +17,7 @@
       "speaker": "luka"
     },
     {
-      "text": "왔어요, 왔어요! 들어 보세요!",
+      "text": "사장님, 사장님! 제 얘기 좀 들어 보세요!",
       "speaker": "luka"
     },
     {
@@ -65,7 +65,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "보고하지. 짧게.",
+      "text": "왔다. 맥주부터 줘.",
       "speaker": "torvin"
     },
     {
@@ -115,7 +115,7 @@
       "speaker": "luka"
     },
     {
-      "text": "오늘은 행운의 날! 귀한 재료 챙겨 왔어요!",
+      "text": "사장님! 오늘 운 좋은 날인가 봐요! 이거 진짜 귀한 거죠?",
       "speaker": "luka"
     },
     {
@@ -135,7 +135,7 @@
       "speaker": "garam"
     },
     {
-      "text": "귀한 거 몇 개 챙겼어. 꽤 반짝여.",
+      "text": "반짝이는 거 주웠어. 먹는 건 아니래.",
       "speaker": "garam"
     },
     {
@@ -143,7 +143,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "오랜만에 대박이다. 잘 써.",
+      "text": "허허, 오랜만에 제대로 건졌군. 아껴 쓰게.",
       "speaker": "gregor"
     },
     {
@@ -163,7 +163,7 @@
       "speaker": "sera"
     },
     {
-      "text": "이거 봐요! 반짝반짝 귀한 거예요!",
+      "text": "이거 봐요~ 반짝반짝! 세라 안목 인정?",
       "speaker": "sera"
     },
     {
@@ -183,7 +183,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "대박이다. 이 정도 결은 평생 몇 번 못 봐.",
+      "text": "이런 결은 평생 몇 번 못 본다. 손이 떨리는군.",
       "speaker": "torvin"
     },
     {
@@ -207,7 +207,7 @@
       "speaker": "elarin"
     },
     {
-      "text": "이건 오래된 노래처럼 귀한 거예요.",
+      "text": "이 빛 좀 보세요. 오래된 노래가 들리는 것 같아요.",
       "speaker": "elarin"
     },
     {
@@ -227,11 +227,11 @@
           "speaker": "luka"
         },
         {
-          "text": "{monster}한테 엉덩이를 공격당했어요… 앉지도 못하겠어요!",
+          "text": "{monster}한테 엉덩이를 한 대 맞았어요… 앉지도 못하겠어요!",
           "speaker": "luka"
         },
         {
-          "text": "큰 다람쥐가 도토리를 던지는데, 엄청 아팠어요!",
+          "text": "큰 다람쥐가 도토리를 막 던져요! 이마에 혹 났어요, 으악!",
           "speaker": "luka"
         },
         {
@@ -275,7 +275,7 @@
           "speaker": "garam"
         },
         {
-          "text": "{monster} 때문에 길을 빙 돌아왔어. 피곤하네.",
+          "text": "{monster} 피해서 빙 돌아왔어. 다리 아파. 배도.",
           "speaker": "garam"
         },
         {
@@ -307,11 +307,11 @@
           "speaker": "gregor"
         },
         {
-          "text": "뒷산이 왜 이렇게 험해요? 머리 망가졌잖아!",
+          "text": "뒷산이 왜 이렇게 험해요? 머리 다 헝클어졌잖아!",
           "speaker": "sera"
         },
         {
-          "text": "{monster}가 쫓아와서 진짜 열심히 뛰었어요. 세라 다리 아파~",
+          "text": "{monster}가 쫓아와서 전력 질주! 세라 다리 후들후들~",
           "speaker": "sera"
         },
         {
@@ -319,7 +319,7 @@
           "speaker": "sera"
         },
         {
-          "text": "길 잃을 뻔했지 뭐예요. 비밀이에요?",
+          "text": "길 잃을 뻔했지 뭐예요. 비밀로 해 줄 거죠?",
           "speaker": "sera"
         },
         {
@@ -327,7 +327,7 @@
           "speaker": "sera"
         },
         {
-          "text": "흠, 뒷산이 이렇게 가팔랐나. 다리가 짧아서 그래.",
+          "text": "언덕은 다리 짧은 놈한테 불공평하다. 흥.",
           "speaker": "torvin"
         },
         {
@@ -347,7 +347,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "뒷산 바람이 오늘은 거칠었어요.",
+          "text": "오늘은 뒷산 바람이 사나웠어요. 머리가 다 엉켰네요.",
           "speaker": "elarin"
         },
         {
@@ -359,7 +359,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "활시위가 젖어서 고생했어요.",
+          "text": "이슬에 활시위가 젖었어요. 화살이 자꾸 빗나갔답니다.",
           "speaker": "elarin"
         },
         {
@@ -468,11 +468,11 @@
           "speaker": "gregor"
         },
         {
-          "text": "가볍게 돌고 왔다. 차 한잔 하지.",
+          "text": "가볍게 돌고 왔다. 차 한잔하지.",
           "speaker": "gregor"
         },
         {
-          "text": "짜잔~ 세라 다녀왔어요!",
+          "text": "뒷산 정복! 세라 멋지죠?",
           "speaker": "sera"
         },
         {
@@ -480,7 +480,7 @@
           "speaker": "sera"
         },
         {
-          "text": "뒷산 한 바퀴! 바람이 시원했어요!",
+          "text": "바람에 머리 휘날리며 한 바퀴~ 완전 화보였어요!",
           "speaker": "sera"
         },
         {
@@ -546,7 +546,7 @@
           "speaker": "luka"
         },
         {
-          "text": "너무 쉬워서 심심했어요. 더 센 데 보내 주세요!",
+          "text": "사장님, 너무 쉬워요! 더 센 데 보내 주세요! …너무 세진 말고요.",
           "speaker": "luka"
         },
         {
@@ -609,7 +609,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "너무 가까워. 다음엔 좀 멀리 보내.",
+          "text": "허허, 이건 모험이 아니라 산책이군. 무릎이 좋아하더라.",
           "speaker": "gregor"
         },
         {
@@ -661,7 +661,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "산책하듯 다녀왔어요.",
+          "text": "나비를 따라 걷다 보니 벌써 돌아왔네요.",
           "speaker": "elarin"
         },
         {
@@ -677,7 +677,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "가볍게 다녀왔답니다.",
+          "text": "발걸음이 깃털처럼 가벼웠어요.",
           "speaker": "elarin"
         }
       ]
@@ -689,7 +689,7 @@
           "speaker": "luka"
         },
         {
-          "text": "바위 골렘 새끼가 굴러와서 납작해질 뻔했어요!",
+          "text": "아기 바위 골렘이 굴러와서 납작해질 뻔했어요!",
           "speaker": "luka"
         },
         {
@@ -745,7 +745,7 @@
           "speaker": "garam"
         },
         {
-          "text": "골렘 새끼가 굴러왔어. 피하느라 진 빠졌다.",
+          "text": "아기 골렘이 굴러왔어. 피하느라 진 빠졌다.",
           "speaker": "garam"
         },
         {
@@ -765,7 +765,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "광산 공기는 언제 마셔도 텁텁해.",
+          "text": "허허, 먼지를 한 사발 마셨다. 기침이 멈추질 않는군.",
           "speaker": "gregor"
         },
         {
@@ -813,11 +813,11 @@
           "speaker": "elarin"
         },
         {
-          "text": "{monster}가 어둠 속에서 튀어나왔어요.",
+          "text": "{monster}가 어둠 속에서 불쑥! 심장이 멎는 줄 알았어요.",
           "speaker": "elarin"
         },
         {
-          "text": "갱도는 활 쏘기 불편해요. 고생했어요.",
+          "text": "갱도가 좁아서 활을 당길 수가 없었어요. 애먹었답니다.",
           "speaker": "elarin"
         },
         {
@@ -851,7 +851,7 @@
           "speaker": "luka"
         },
         {
-          "text": "{monster}가 좀 귀찮게 굴었지만 문제없어요!",
+          "text": "{monster}가 자꾸 귀찮게 굴길래 한 대 쿵! 헤헤, 문제없어요!",
           "speaker": "luka"
         },
         {
@@ -918,7 +918,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "폐광 탐험 성공! 세라 멋지죠?",
+          "text": "폐광 탐험 끝~ 박쥐들도 세라한테 반했다니까요!",
           "speaker": "sera"
         },
         {
@@ -934,7 +934,7 @@
           "speaker": "sera"
         },
         {
-          "text": "은 반짝이는 거 보고 왔어. 예쁘더라!",
+          "text": "반짝반짝 은을 보고 왔어. 예쁘더라!",
           "speaker": "sera"
         },
         {
@@ -954,7 +954,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "철광석 결이 곱더군. 잘 썼다.",
+          "text": "철광석 결이 곱더군. 잘 써라.",
           "speaker": "torvin"
         },
         {
@@ -970,7 +970,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "어둡지만 길은 찾았어요.",
+          "text": "어둠 속에서도 박쥐들이 길을 일러 줬어요.",
           "speaker": "elarin"
         },
         {
@@ -1045,7 +1045,7 @@
           "speaker": "garam"
         },
         {
-          "text": "재료 많이 캤어. 무거웠던 거 빼고 괜찮아.",
+          "text": "많이 캤어. 무거워. 배고파.",
           "speaker": "garam",
           "requires": {
             "lootSize": "big"
@@ -1060,7 +1060,7 @@
           "speaker": "garam"
         },
         {
-          "text": "폐광은 내 앞마당이지.",
+          "text": "허허, 폐광쯤이야. 무릎도 안 쑤시더군.",
           "speaker": "gregor"
         },
         {
@@ -1136,7 +1136,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "쉬운 길이었어요.",
+          "text": "돌들도 곤히 자는 조용한 길이었어요.",
           "speaker": "elarin"
         }
       ]
@@ -1208,7 +1208,7 @@
           "speaker": "garam"
         },
         {
-          "text": "고블린 녀석들, 숫자가 많더군. 조심해.",
+          "text": "고블린 놈들, 떼로 덤비더군. 허리가 남아나질 않아.",
           "speaker": "gregor"
         },
         {
@@ -1276,15 +1276,15 @@
           "speaker": "elarin"
         },
         {
-          "text": "나무들이 길을 막았어요… 다음엔 더 잘할게요.",
+          "text": "나무들이 길을 막아섰어요… 숲이 저를 시험했나 봐요.",
           "speaker": "elarin"
         },
         {
-          "text": "숲은 좋지만 오늘은 거칠었네요.",
+          "text": "오늘은 숲이 저를 반기지 않았어요. 가시에 잔뜩 긁혔네요.",
           "speaker": "elarin"
         },
         {
-          "text": "화살이 거의 떨어질 뻔했어요.",
+          "text": "화살이 떨어질 뻔했어요.",
           "speaker": "elarin"
         }
       ],
@@ -1355,7 +1355,7 @@
           }
         },
         {
-          "text": "고블린 발자국 피해서 왔어. 무리할 필요 없잖아.",
+          "text": "고블린 발자국 피해 왔어. 귀찮은 건 질색.",
           "speaker": "garam"
         },
         {
@@ -1387,7 +1387,7 @@
           "speaker": "sera"
         },
         {
-          "text": "{monster}랑 숨바꼭질 하고 왔어요. 내가 이겼지~",
+          "text": "{monster}랑 숨바꼭질하고 왔어요. 내가 이겼지~",
           "speaker": "sera"
         },
         {
@@ -1490,7 +1490,7 @@
           "speaker": "luka"
         },
         {
-          "text": "{monster}가 저한테 길 비켜 줬다구요!",
+          "text": "{monster}가 저한테 사인해 달래요! 헤헤, 거짓말이에요!",
           "speaker": "luka"
         },
         {
@@ -1525,7 +1525,7 @@
           "speaker": "garam"
         },
         {
-          "text": "고블린들이 나를 보고 숲속으로 숨었다.",
+          "text": "허허, 고블린 꼬맹이들이 나를 할아버지라 부르더군.",
           "speaker": "gregor"
         },
         {
@@ -1565,7 +1565,7 @@
           "speaker": "sera"
         },
         {
-          "text": "고블린들이 나 보고 숨더군.",
+          "text": "고블린 냄비에 스튜가 끓더군. 한 숟갈 얻어먹었다.",
           "speaker": "torvin"
         },
         {
@@ -1585,7 +1585,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "숲은 제 집이에요.",
+          "text": "숲에선 길을 잃을 수가 없어요. 제 집인걸요.",
           "speaker": "elarin"
         },
         {
@@ -1681,7 +1681,7 @@
           "speaker": "garam"
         },
         {
-          "text": "너무 뜨거워. 다음엔 둘이 가자.",
+          "text": "너무 뜨거워. 고기 굽기엔 딱이던데.",
           "speaker": "garam"
         },
         {
@@ -1717,7 +1717,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "화산은 숨이 차요. 쉬고 싶어요.",
+          "text": "뜨거운 바람에 숨이 막혔어요. 시원한 샘물이 그리워요.",
           "speaker": "elarin"
         },
         {
@@ -1739,11 +1739,11 @@
           "speaker": "gregor"
         },
         {
-          "text": "미스릴 맥을 찾았다. 반짝이더군.",
+          "text": "미스릴 광맥을 찾았다. 반짝이더군.",
           "speaker": "gregor"
         },
         {
-          "text": "허허, 뜨거운 데서 일하니 대장장이 마음을 알겠어.",
+          "text": "허허, 뜨거운 데서 일해 보니 자네 고생을 알겠군.",
           "speaker": "gregor"
         },
         {
@@ -1763,7 +1763,7 @@
           "speaker": "sera"
         },
         {
-          "text": "용암 구경 짱이었어. 사진 못 남겨서 아쉽다~",
+          "text": "용암 구경 짱! 불꽃놀이 같았어요~",
           "speaker": "sera"
         },
         {
@@ -1775,7 +1775,7 @@
           "speaker": "luka"
         },
         {
-          "text": "{monster} 몇 마리 혼내 주고 왔어요!",
+          "text": "{monster}랑 한판 붙었어요! 엉덩이가 좀 뜨겁지만 이겼어요!",
           "speaker": "luka"
         },
         {
@@ -1787,7 +1787,7 @@
           "speaker": "luka"
         },
         {
-          "text": "뜨거웠지만 할 만했어요!",
+          "text": "뜨거웠지만 끄떡없었어요! …물 좀 주실래요?",
           "speaker": "luka"
         },
         {
@@ -1831,7 +1831,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "화산은 뜨거웠지만 일은 했어요.",
+          "text": "불의 산은 뜨거웠지만, 노을처럼 고운 빛이었어요.",
           "speaker": "elarin"
         },
         {
@@ -1843,11 +1843,11 @@
           "speaker": "elarin"
         },
         {
-          "text": "화염석이 노을빛이었어요.",
+          "text": "화염석이 노을을 품은 듯 빛났어요.",
           "speaker": "elarin"
         },
         {
-          "text": "조금 덥지만 괜찮았어요.",
+          "text": "볼이 발그레해졌어요. 용암 탓이에요.",
           "speaker": "elarin"
         }
       ],
@@ -1869,7 +1869,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "화염석 줍기 좋은 날이었다.",
+          "text": "화염석 줍기 딱 좋은 날씨였지. 허허.",
           "speaker": "gregor"
         },
         {
@@ -1877,7 +1877,7 @@
           "speaker": "sera"
         },
         {
-          "text": "{monster}가 나 보고 얼어붙었지. 화산에서!",
+          "text": "{monster}가 세라 보고 얼어붙었어요. 화산에서!",
           "speaker": "sera"
         },
         {
@@ -1889,11 +1889,11 @@
           "speaker": "sera"
         },
         {
-          "text": "금방 다녀왔어요. 칭찬은 두 배로!",
+          "text": "벌써 왔죠? 칭찬은 두 배로 부탁해요~",
           "speaker": "sera"
         },
         {
-          "text": "화산? 찜질하고 왔어요~",
+          "text": "화산이요? 찜질방이던데요! 헤헤!",
           "speaker": "luka"
         },
         {
@@ -1901,7 +1901,7 @@
           "speaker": "luka"
         },
         {
-          "text": "화염석이 길에 굴러다니던데요?",
+          "text": "화염석이 발에 막 채였어요! 앗 뜨거!",
           "speaker": "luka"
         },
         {
@@ -1909,7 +1909,7 @@
           "speaker": "luka"
         },
         {
-          "text": "화산도 이제 산책이에요!",
+          "text": "화산쯤이야 이제 산책 코스죠! 헤헤!",
           "speaker": "luka"
         },
         {
@@ -1925,7 +1925,7 @@
           "speaker": "garam"
         },
         {
-          "text": "찜질하고 온 기분이야.",
+          "text": "땀 났어. 배고파.",
           "speaker": "garam"
         },
         {
@@ -1937,15 +1937,15 @@
           "speaker": "torvin"
         },
         {
-          "text": "{monster}가 불 피우는 걸 도와주더군.",
+          "text": "{monster} 놈이 불을 붙여 줬다. 쓸 만한 놈이다.",
           "speaker": "torvin"
         },
         {
-          "text": "땀 한 방울 안 났다.",
+          "text": "땀 한 방울 안 났다. 수염도 멀쩡하고.",
           "speaker": "torvin"
         },
         {
-          "text": "화염석 줍는 게 일이었지.",
+          "text": "화염석 주웠다. 그게 다다.",
           "speaker": "torvin"
         },
         {
@@ -1953,7 +1953,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "화산도 오늘은 순했어요.",
+          "text": "오늘은 화산도 새근새근 잠든 것 같았어요.",
           "speaker": "elarin"
         },
         {
@@ -1965,7 +1965,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "가볍게 다녀왔어요.",
+          "text": "불씨 하나 묻히지 않고 다녀왔어요.",
           "speaker": "elarin"
         },
         {
@@ -1997,7 +1997,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "용의 둥지 무서워요! 진짜로 진짜로!",
+          "text": "용의 둥지는 반칙이에요! 세라도 무서웠단 말이에요~",
           "speaker": "sera"
         },
         {
@@ -2037,7 +2037,7 @@
           "speaker": "luka"
         },
         {
-          "text": "용의 둥지… 진짜 위험했어.",
+          "text": "둥지… 죽을 뻔했어. 밥부터 줘.",
           "speaker": "garam"
         },
         {
@@ -2065,7 +2065,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "흠, 여긴 무리야. 장비가 더 필요해.",
+          "text": "흠, 여긴 무리다. 더 좋은 장비 내놔.",
           "speaker": "torvin"
         },
         {
@@ -2081,25 +2081,25 @@
           "speaker": "elarin"
         },
         {
-          "text": "{monster}가 저를 끝까지 쫓아왔어요.",
+          "text": "{monster}가 끝까지 쫓아왔어요… 아직도 숨이 차요.",
           "speaker": "elarin"
         },
         {
-          "text": "둥지는 아직 제게 버거워요.",
+          "text": "그 둥지에서 저는 겨우 새싹이었어요.",
           "speaker": "elarin"
         },
         {
-          "text": "화살이 비늘에 튕겨 나갔어요… 놀랐어요.",
+          "text": "화살이 비늘에 튕겨 나갔어요… 심장이 쿵 했어요.",
           "speaker": "elarin"
         },
         {
-          "text": "겨우 빠져나왔어요. 다음엔 준비할게요.",
+          "text": "겨우 빠져나왔어요. 다음엔 더 단단한 활이 필요해요.",
           "speaker": "elarin"
         }
       ],
       "normal": [
         {
-          "text": "둥지, 조심조심 다녀왔다.",
+          "text": "용의 둥지라… 숨소리도 줄이고 다녀왔다.",
           "speaker": "gregor"
         },
         {
@@ -2107,7 +2107,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "용비늘이 꽤 묵직하더군.",
+          "text": "용비늘 한 자루. 허리가 먼저 알더군.",
           "speaker": "gregor"
         },
         {
@@ -2135,11 +2135,11 @@
           "speaker": "sera"
         },
         {
-          "text": "바람이 세서 머리 묶고 다녀왔어요!",
+          "text": "바람이 세서 포니테일로 변신! 어때요, 귀엽죠?",
           "speaker": "sera"
         },
         {
-          "text": "용의 둥지 다녀왔어요! 저 대단하죠?",
+          "text": "용의 둥지 갔다 왔어요! 사장님, 저 살아 있어요!",
           "speaker": "luka"
         },
         {
@@ -2159,7 +2159,7 @@
           "speaker": "luka"
         },
         {
-          "text": "둥지, 조심해서 다녀왔어.",
+          "text": "둥지. 조용히 다녀왔어.",
           "speaker": "garam"
         },
         {
@@ -2179,7 +2179,7 @@
           "speaker": "garam"
         },
         {
-          "text": "용의 둥지 다녀왔다. 비늘이 반짝이더군.",
+          "text": "둥지 다녀왔다. 그 비늘 보니 손이 근질근질하다.",
           "speaker": "torvin"
         },
         {
@@ -2199,11 +2199,11 @@
           "speaker": "torvin"
         },
         {
-          "text": "용의 둥지는 장엄했어요.",
+          "text": "둥지 위 하늘마저 숨을 죽이고 있었어요.",
           "speaker": "elarin"
         },
         {
-          "text": "{monster}의 날갯짓을 피해 다녀왔어요.",
+          "text": "{monster}의 날갯짓 사이로 춤추듯 빠져나왔어요.",
           "speaker": "elarin"
         },
         {
@@ -2215,7 +2215,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "조심스럽게, 하지만 무사히 다녀왔어요.",
+          "text": "조심조심, 그래도 무사히 돌아왔어요.",
           "speaker": "elarin"
         }
       ],
@@ -2229,7 +2229,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "용비늘을 한 아름 챙겼다. 무겁진 않다.",
+          "text": "용비늘 한 아름. 허리도 오늘은 봐주더군.",
           "speaker": "gregor"
         },
         {
@@ -2269,7 +2269,7 @@
           "speaker": "luka"
         },
         {
-          "text": "용비늘이 너무 많아서 무거웠어요!",
+          "text": "용비늘을 너무 많이 주워서 팔이 빠질 뻔했어요!",
           "speaker": "luka"
         },
         {
@@ -2321,7 +2321,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "용도 오늘은 저를 반겼어요.",
+          "text": "오늘은 용도 꼬리로 인사해 줬어요.",
           "speaker": "elarin"
         },
         {
@@ -2333,7 +2333,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "가볍게 다녀왔어요.",
+          "text": "깃털처럼 사뿐히 다녀왔어요.",
           "speaker": "elarin"
         },
         {
@@ -2361,7 +2361,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "얼음 벽이 무너지는 줄 알았다.",
+          "text": "얼음 벽이 무너졌다. 내 비명은 못 들은 걸로 해.",
           "speaker": "torvin"
         },
         {
@@ -2409,7 +2409,7 @@
           "speaker": "garam"
         },
         {
-          "text": "{monster} 때문에 짐이 다 얼었어.",
+          "text": "{monster} 때문에 도시락이 얼었어. 최악.",
           "speaker": "garam"
         },
         {
@@ -2433,7 +2433,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "얼음 위에서 미끄러지니 허리가 나갔다.",
+          "text": "얼음에 미끄러져서 허리가 나갔다.",
           "speaker": "gregor"
         },
         {
@@ -2441,7 +2441,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "허허, 살아 왔으니 됐다. 따뜻한 차 줘.",
+          "text": "허허, 살아는 왔다. 아랫목부터 내주게.",
           "speaker": "gregor"
         },
         {
@@ -2499,11 +2499,11 @@
           "speaker": "elarin"
         },
         {
-          "text": "추웠지만 아름다운 곳이었어요.",
+          "text": "손끝은 시렸지만, 눈은 호강했어요.",
           "speaker": "elarin"
         },
         {
-          "text": "눈 위에 발자국을 남기고 왔어요.",
+          "text": "눈토끼와 나란히 걸었어요. 귀여웠어요.",
           "speaker": "elarin"
         },
         {
@@ -2523,11 +2523,11 @@
           "speaker": "luka"
         },
         {
-          "text": "협곡에서 메아리 질러 봤어요! 야호~!",
+          "text": "협곡에서 소리 질러 봤어요! 야호~!",
           "speaker": "luka"
         },
         {
-          "text": "얼음 협곡 다녀왔어.",
+          "text": "협곡 다녀왔어. 빙수 생각나더라.",
           "speaker": "garam"
         },
         {
@@ -2535,7 +2535,7 @@
           "speaker": "garam"
         },
         {
-          "text": "서리 결정 챙겨 왔어. 무거워.",
+          "text": "서리 결정. 손 시려. 국밥 먹고 싶다.",
           "speaker": "garam"
         },
         {
@@ -2555,11 +2555,11 @@
           "speaker": "gregor"
         },
         {
-          "text": "서리 결정을 챙겼다. 차갑더군.",
+          "text": "서리 결정을 챙겼다. 장갑 끼고 오길 잘했지.",
           "speaker": "gregor"
         },
         {
-          "text": "추위는 견딜 만했다.",
+          "text": "추위는 견딜 만했다. 무릎만 빼고.",
           "speaker": "gregor"
         },
         {
@@ -2605,7 +2605,7 @@
           "speaker": "torvin"
         },
         {
-          "text": "흠, 시원하고 좋았다.",
+          "text": "흠, 술 차갑게 식히기 딱 좋은 데다.",
           "speaker": "torvin"
         },
         {
@@ -2621,7 +2621,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "가볍게 다녀왔어요.",
+          "text": "눈 위에 발자국도 안 남기고 다녀왔어요.",
           "speaker": "elarin"
         },
         {
@@ -2645,7 +2645,7 @@
           "speaker": "luka"
         },
         {
-          "text": "협곡 정복! 다음은 어디예요?",
+          "text": "협곡 정복! 사장님, 다음은 어디예요?",
           "speaker": "luka"
         },
         {
@@ -2677,11 +2677,11 @@
           "speaker": "gregor"
         },
         {
-          "text": "서리 결정이 발에 채일 정도였다.",
+          "text": "서리 결정이 발에 챌 정도로 많았다.",
           "speaker": "gregor"
         },
         {
-          "text": "가볍게 다녀왔다.",
+          "text": "허허, 오늘은 무릎도 안 쑤시더군.",
           "speaker": "gregor"
         },
         {
@@ -2737,7 +2737,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "{monster}가 구름 사이에서 나타났어요.",
+          "text": "{monster}가 구름 뒤에서 불쑥! 활을 떨어뜨릴 뻔했어요.",
           "speaker": "elarin"
         },
         {
@@ -2745,7 +2745,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "발밑이 구름이라 무서웠어요.",
+          "text": "발밑엔 구름뿐… 뿌리 없는 나무가 된 기분이었어요.",
           "speaker": "elarin"
         },
         {
@@ -2789,7 +2789,7 @@
           "speaker": "garam"
         },
         {
-          "text": "…살아 왔으면 됐지.",
+          "text": "…살아 돌아왔으면 됐지.",
           "speaker": "garam"
         },
         {
@@ -2801,7 +2801,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "바람에 투구가 날아갈 뻔했다.",
+          "text": "바람에 날아갈 뻔했다. 이 나이에 연 노릇이라니.",
           "speaker": "gregor"
         },
         {
@@ -2821,7 +2821,7 @@
           "speaker": "sera"
         },
         {
-          "text": "바람에 머리 다 헝클어졌어요~ 속상해!",
+          "text": "바람에 세라 모자가 날아갔어요~ 새로 사 줘요!",
           "speaker": "sera"
         },
         {
@@ -2835,7 +2835,7 @@
       ],
       "normal": [
         {
-          "text": "하늘 유적 다녀왔다. 돌이 오래됐더군.",
+          "text": "하늘 유적 다녀왔다. 돌이 우리 할아버지보다 늙었다.",
           "speaker": "torvin"
         },
         {
@@ -2871,7 +2871,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "옛 사람들의 흔적이 다정했어요.",
+          "text": "돌에 새겨진 옛 노래를 손끝으로 읽었어요.",
           "speaker": "elarin"
         },
         {
@@ -2891,11 +2891,11 @@
           "speaker": "luka"
         },
         {
-          "text": "옛날 용사들도 여기 왔을까요?",
+          "text": "옛날 용사들도 여기 왔겠죠? 저처럼요! 헤헤!",
           "speaker": "luka"
         },
         {
-          "text": "하늘 유적 다녀왔어.",
+          "text": "유적 다녀왔어. 구름은 맛없더라.",
           "speaker": "garam"
         },
         {
@@ -2923,7 +2923,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "하늘 핵 하나 챙겼다.",
+          "text": "허허, 하늘 핵이 손에 착 감기더군. 챙겨 왔다.",
           "speaker": "gregor"
         },
         {
@@ -2997,7 +2997,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "하늘도 별거 아니네요!",
+          "text": "하늘쯤이야! 저 날개 돋은 거 아니에요?",
           "speaker": "luka"
         },
         {
@@ -3045,11 +3045,11 @@
           "speaker": "gregor"
         },
         {
-          "text": "하늘 핵이 굴러다녔다.",
+          "text": "하늘 핵이 발에 차이더군. 허리 굽히는 게 일이었지.",
           "speaker": "gregor"
         },
         {
-          "text": "가볍게 다녀왔다.",
+          "text": "구름 위 산책이었다. 늙은이 운동으론 딱이지.",
           "speaker": "gregor"
         },
         {
@@ -3117,11 +3117,11 @@
       "speaker": "garam"
     },
     {
-      "text": "덤으로 {gold}G. 세어 봐.",
+      "text": "{gold}G 덤. 고기 사 와.",
       "speaker": "garam"
     },
     {
-      "text": "길에 {gold}G 떨어져 있더군.",
+      "text": "허허, 길바닥에 {gold}G가 누워 있더군.",
       "speaker": "gregor"
     },
     {
@@ -3129,7 +3129,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "{monster} 둥지에서 {gold}G 나왔다.",
+      "text": "{monster}가 {gold}G를 깔고 자더군. 살짝 빌려 왔다.",
       "speaker": "gregor"
     },
     {
@@ -3165,7 +3165,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "{monster} 둥지에서 {gold}G 나오더군.",
+      "text": "{monster} 굴을 팠더니 {gold}G가 나왔다.",
       "speaker": "torvin"
     },
     {
@@ -3173,7 +3173,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "덤으로 {gold}G. 세어 봐.",
+      "text": "덤으로 {gold}G. 한 닢도 안 뺐다. 진짜다.",
       "speaker": "torvin"
     },
     {
@@ -3189,7 +3189,7 @@
       "speaker": "elarin"
     },
     {
-      "text": "덤으로 {gold}G를 찾았어요.",
+      "text": "덤으로 {gold}G를 찾았어요. 다람쥐가 숨겨 둔 걸까요?",
       "speaker": "elarin"
     }
   ],
@@ -3207,11 +3207,11 @@
       "speaker": "luka"
     },
     {
-      "text": "보물 상자 안에 {item}이 있었어요!",
+      "text": "보물 상자 열었더니 {item}! 심장 터지는 줄!",
       "speaker": "luka"
     },
     {
-      "text": "주운 {item}, 팔아도 되고 써도 돼요!",
+      "text": "{item} 주웠어요! 사장님, 이거 비싸요?",
       "speaker": "luka"
     },
     {
@@ -3247,7 +3247,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "버려진 {item}이 있길래 챙겼다.",
+      "text": "길가에 {item}이 있더군. 주인은 없고.",
       "speaker": "gregor"
     },
     {
@@ -3399,7 +3399,7 @@
       "speaker": "elarin"
     },
     {
-      "text": "또 홈이 있어요. 좋은 인연이에요.",
+      "text": "또 홈이 있네요. 보석과 인연이 닿으려나 봐요.",
       "speaker": "elarin"
     },
     {
@@ -3443,7 +3443,7 @@
       "speaker": "luka"
     },
     {
-      "text": "보석 하나 주웠어.",
+      "text": "보석. 먹는 건 아니래서 가져왔어.",
       "speaker": "garam"
     },
     {
@@ -3517,7 +3517,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "젊을 땐 이런 거 몰랐는데 말이야.",
+      "text": "아이고 허리야… 젊을 땐 이런 거 몰랐는데.",
       "speaker": "gregor"
     },
     {
@@ -3545,7 +3545,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "조금 다쳤어요… 금방 나을 거예요.",
+      "text": "조금 다쳤어요… 그래도 활시위는 무사해요.",
       "speaker": "elarin"
     },
     {
@@ -3627,7 +3627,7 @@
       "speaker": "elarin"
     },
     {
-      "text": "예쁜 장신구네요. 잘 어울릴 분께 드려요.",
+      "text": "예쁜 장신구네요. 잘 어울릴 분께 드리세요.",
       "speaker": "elarin"
     }
   ]
