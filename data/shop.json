@@ -14,26 +14,15 @@
       {
         "id": "gold_m",
         "crystals": 50,
-        "mult": 5.5
+        "mult": 6
       },
       {
         "id": "gold_l",
         "crystals": 200,
-        "mult": 24
+        "mult": 26
       }
     ],
-    "baseByForgeLevel": [
-      270,
-      270,
-      500,
-      500,
-      500,
-      500,
-      500,
-      650,
-      650,
-      650
-    ]
+    "baseByForgeLevel": [600, 700, 900, 1000, 1100, 1200, 1700, 2000, 2300, 2600]
   },
   "products": [
     {
@@ -108,7 +97,7 @@
     },
     {
       "id": "noads_forever",
-      "priceKrw": 8800,
+      "priceKrw": 11000,
       "grants": [
         "noads"
       ],
@@ -116,7 +105,7 @@
     },
     {
       "id": "speed_forever",
-      "priceKrw": 11000,
+      "priceKrw": 15000,
       "grants": [
         "speed"
       ],
