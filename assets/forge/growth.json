@@ -23,6 +23,7 @@
     },
     "bellows-big": { "level": 7, "file": "obj-bellows-big.png", "x": 945, "y": 190, "w": 210, "h": 180, "layer": "back", "replaces": "bellows" },
     "cat": {
+      "kind": "pet",
       "level": 8, "file": "obj-cat.png", "x": 395, "y": 455, "w": 120, "h": 60, "layer": "front",
       "tail": { "file": "cat-tail.png", "x": 501, "y": 448, "w": 34, "h": 36, "pivot": { "x": 503, "y": 483 } }
     },
