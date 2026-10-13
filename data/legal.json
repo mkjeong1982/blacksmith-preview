@@ -1,0 +1,354 @@
+{
+ "terms": {
+  "ko": {
+   "title": "이용약관",
+   "sections": [
+    {
+     "heading": "1. 목적 및 동의",
+     "body": "이 약관은 엠케이 게임 스튜디오(MK Game Studio)(이하 \"운영자\")가 제공하는 모바일 게임 '대장장이 키우기: 모험의 시대'(이하 \"서비스\")의 이용 조건과 운영자와 이용자 사이의 권리·의무를 정합니다. 이용자는 서비스를 설치하거나 실행함으로써 이 약관에 동의한 것으로 봅니다."
+    },
+    {
+     "heading": "2. 서비스의 내용",
+     "body": "서비스는 대장간을 운영하며 장비를 만들고 모험가를 탐험에 보내는 방치형 경영 게임으로, 다음 기능을 제공합니다.\n가. 장비 제작·강화·판매·장착, 모험가 탐험 파견과 성장\n나. 대장간·숙소 등 시설 성장, 업적·출석·일일 미션\n다. 게임 내 재화(골드, 수정) 획득과 사용\n라. 전체 순위(랭킹)와 닉네임 표시\n마. 진행 상황 클라우드 저장\n바. 제작 완료·탐험 복귀 등을 알려 주는 알림(기기 설정에서 허용한 경우)\n사. 유료 상품 구매와 보상형 광고(정식 출시 때 제공 — 4조·6조 참고)\n운영자는 서비스의 내용과 구성을 개선을 위해 변경할 수 있습니다."
+    },
+    {
+     "heading": "3. 계정",
+     "body": "가. 서비스는 별도 회원가입 없이 게스트로 이용할 수 있으며, 이때 기기마다 익명 식별자가 만들어집니다. 진행 상황은 기기와 클라우드에 이 익명 식별자로 저장됩니다.\n나. Google 등 외부 계정 연결 기능은 준비 중이며, 제공을 시작하면 이 약관을 바꿔 알립니다.\n다. 앱을 삭제하거나 기기를 바꾸면 게스트의 진행 상황을 복구하지 못할 수 있습니다.\n라. 이용자는 설정 > 계정 > 계정 삭제로 언제든지 계정과 클라우드 진행 데이터, 랭킹 기록을 삭제할 수 있습니다. 삭제된 데이터는 복구되지 않습니다."
+    },
+    {
+     "heading": "4. 유료 콘텐츠",
+     "body": "현재 버전에는 실제 결제 기능이 없습니다. 결제 기능은 정식 출시 때 제공되며, 그 전에 상점 화면에 보이는 상품은 미리보기(모의 결제)로 실제 비용이 청구되지 않습니다.\n가. 게임 내 유료 상품 구매는 App Store 또는 Google Play(이하 \"스토어\")의 결제 시스템으로 이루어집니다. 운영자는 이용자의 카드 등 결제수단 정보를 받지 않습니다.\n나. 수정(💎)은 유료로 구매하거나 게임 플레이로 얻을 수 있는 게임 내 재화로, 시간 단축·골드 교환·보호 부적 등에 쓸 수 있습니다. 사용한 수정은 되돌릴 수 없습니다.\n다. 패스(광고 제거·속도·수정)는 자동 갱신되지 않는 30일 기간제 상품이며, 영구 상품(광고 제거·속도)은 한 번 구매하면 계속 이용할 수 있습니다. 영구 상품은 같은 스토어 계정이면 상점 > 구매 복원으로 다시 받을 수 있습니다.\n라. 골드는 게임 플레이로 얻는 게임 내 재화로, 현금으로 바꾸거나 환불·양도할 수 없습니다.\n마. 장비나 능력치를 직접 파는 상품은 없습니다.",
+     "ios": "현재 버전에는 실제 결제 기능이 없습니다. 결제 기능은 정식 출시 때 제공되며, 그 전에 상점 화면에 보이는 상품은 미리보기(모의 결제)로 실제 비용이 청구되지 않습니다.\n가. 게임 내 유료 상품 구매는 App Store의 결제 시스템으로 이루어집니다. 운영자는 이용자의 카드 등 결제수단 정보를 받지 않습니다.\n나. 수정(💎)은 유료로 구매하거나 게임 플레이로 얻을 수 있는 게임 내 재화로, 시간 단축·골드 교환·보호 부적 등에 쓸 수 있습니다. 사용한 수정은 되돌릴 수 없습니다.\n다. 패스(광고 제거·속도·수정)는 자동 갱신되지 않는 30일 기간제 상품이며, 영구 상품(광고 제거·속도)은 한 번 구매하면 계속 이용할 수 있습니다. 영구 상품은 같은 Apple 계정이면 상점 > 구매 복원으로 다시 받을 수 있습니다.\n라. 골드는 게임 플레이로 얻는 게임 내 재화로, 현금으로 바꾸거나 환불·양도할 수 없습니다.\n마. 장비나 능력치를 직접 파는 상품은 없습니다.",
+     "android": "현재 버전에는 실제 결제 기능이 없습니다. 결제 기능은 정식 출시 때 제공되며, 그 전에 상점 화면에 보이는 상품은 미리보기(모의 결제)로 실제 비용이 청구되지 않습니다.\n가. 게임 내 유료 상품 구매는 Google Play의 결제 시스템으로 이루어집니다. 운영자는 이용자의 카드 등 결제수단 정보를 받지 않습니다.\n나. 수정(💎)은 유료로 구매하거나 게임 플레이로 얻을 수 있는 게임 내 재화로, 시간 단축·골드 교환·보호 부적 등에 쓸 수 있습니다. 사용한 수정은 되돌릴 수 없습니다.\n다. 패스(광고 제거·속도·수정)는 자동 갱신되지 않는 30일 기간제 상품이며, 영구 상품(광고 제거·속도)은 한 번 구매하면 계속 이용할 수 있습니다. 영구 상품은 같은 Google 계정이면 상점 > 구매 복원으로 다시 받을 수 있습니다.\n라. 골드는 게임 플레이로 얻는 게임 내 재화로, 현금으로 바꾸거나 환불·양도할 수 없습니다.\n마. 장비나 능력치를 직접 파는 상품은 없습니다."
+    },
+    {
+     "heading": "5. 청약철회 및 환불",
+     "body": "현재 버전에는 실제 결제 기능이 없습니다. 결제 기능은 정식 출시 때 제공되며, 그 전에 상점 화면에 보이는 상품은 미리보기(모의 결제)로 실제 비용이 청구되지 않습니다.\n가. 유료 상품은 구매 즉시 제공되는 디지털 콘텐츠이므로, 관계 법령에 따라 청약철회가 제한될 수 있습니다. 다만 사용하지 않은 수정은 구매일로부터 7일 이내에 청약철회를 요청할 수 있습니다. 사용을 시작한 패스는 청약철회가 어렵습니다. 운영자는 구매 화면에 가격과 내용을 표시해 이를 미리 알립니다.\n나. 환불은 결제가 이루어진 스토어의 정책과 절차에 따릅니다. App Store는 Apple의 '문제 신고'(reportaproblem.apple.com), Google Play는 Google Play의 주문 내역에서 요청할 수 있습니다.\n다. 환불이 이루어진 상품은 회수됩니다(수정 차감, 패스·영구 상품 이용 중지).\n라. 상품에 결함이 있어 정상적으로 이용할 수 없는 경우에는 문의처로 알려 주시면 확인 후 복구 또는 환불 안내를 해 드립니다.\n마. 미성년자가 법정대리인의 동의 없이 결제한 경우, 본인 또는 법정대리인은 관계 법령에 따라 그 결제를 취소할 수 있습니다.",
+     "ios": "현재 버전에는 실제 결제 기능이 없습니다. 결제 기능은 정식 출시 때 제공되며, 그 전에 상점 화면에 보이는 상품은 미리보기(모의 결제)로 실제 비용이 청구되지 않습니다.\n가. 유료 상품은 구매 즉시 제공되는 디지털 콘텐츠이므로, 관계 법령에 따라 청약철회가 제한될 수 있습니다. 다만 사용하지 않은 수정은 구매일로부터 7일 이내에 청약철회를 요청할 수 있습니다. 사용을 시작한 패스는 청약철회가 어렵습니다. 운영자는 구매 화면에 가격과 내용을 표시해 이를 미리 알립니다.\n나. App Store 결제의 환불은 Apple의 정책에 따르며, Apple의 '문제 신고'(reportaproblem.apple.com)에서 요청할 수 있습니다.\n다. 환불이 이루어진 상품은 회수됩니다(수정 차감, 패스·영구 상품 이용 중지).\n라. 상품에 결함이 있어 정상적으로 이용할 수 없는 경우에는 문의처로 알려 주시면 확인 후 복구 또는 환불 안내를 해 드립니다.\n마. 미성년자가 법정대리인의 동의 없이 결제한 경우, 본인 또는 법정대리인은 관계 법령에 따라 그 결제를 취소할 수 있습니다.",
+     "android": "현재 버전에는 실제 결제 기능이 없습니다. 결제 기능은 정식 출시 때 제공되며, 그 전에 상점 화면에 보이는 상품은 미리보기(모의 결제)로 실제 비용이 청구되지 않습니다.\n가. 유료 상품은 구매 즉시 제공되는 디지털 콘텐츠이므로, 관계 법령에 따라 청약철회가 제한될 수 있습니다. 다만 사용하지 않은 수정은 구매일로부터 7일 이내에 청약철회를 요청할 수 있습니다. 사용을 시작한 패스는 청약철회가 어렵습니다. 운영자는 구매 화면에 가격과 내용을 표시해 이를 미리 알립니다.\n나. Google Play 결제의 환불은 Google Play 정책에 따릅니다. 구매 후 48시간 이내에는 Google Play의 주문 내역에서 직접 요청할 수 있고, 그 이후에는 문의처로 연락 주시면 확인 후 처리를 도와 드립니다.\n다. 환불이 이루어진 상품은 회수됩니다(수정 차감, 패스·영구 상품 이용 중지).\n라. 상품에 결함이 있어 정상적으로 이용할 수 없는 경우에는 문의처로 알려 주시면 확인 후 복구 또는 환불 안내를 해 드립니다.\n마. 미성년자가 법정대리인의 동의 없이 결제한 경우, 본인 또는 법정대리인은 관계 법령에 따라 그 결제를 취소할 수 있습니다."
+    },
+    {
+     "heading": "6. 보상형 광고",
+     "body": "현재 버전에는 실제 광고가 없습니다. 광고 기능은 정식 출시 때 제공되며, 그 전에 보이는 광고 버튼은 미리보기(모의 광고)입니다.\n가. 이용자는 원할 때만 광고를 보고 보상(제작·공사·탐험 시간 단축, 탐험 전리품 증가 등)을 받을 수 있습니다. 광고를 보지 않아도 게임을 이용할 수 있습니다.\n나. 광고를 끝까지 보지 않거나 광고를 불러오지 못하면 보상이 지급되지 않을 수 있습니다.\n다. 광고 기능을 제공할 때 이 약관과 개인정보처리방침에 광고 업체와 처리하는 정보를 추가해 미리 알립니다."
+    },
+    {
+     "heading": "7. 랭킹과 닉네임",
+     "body": "가. 이용자의 닉네임과 전투력 점수는 다른 이용자에게 전체 순위로 공개됩니다.\n나. 욕설, 혐오·음란 표현, 타인 사칭, 개인정보가 들어간 닉네임은 쓸 수 없습니다. 운영자는 이런 닉네임이나 비정상적인 방법으로 얻은 기록을 예고 없이 수정·삭제하거나 순위에서 제외할 수 있습니다.\n다. 닉네임은 하루에 한 번 바꿀 수 있습니다."
+    },
+    {
+     "heading": "8. 금지 행위",
+     "body": "이용자는 다음 행위를 해서는 안 됩니다.\n가. 서비스의 정상적인 운영을 방해하는 행위\n나. 매크로, 봇 등 자동화 프로그램이나 비인가 도구를 쓰는 행위\n다. 앱이나 게임 데이터, 기기 시간, 결제 정보를 변조·조작하는 행위\n라. 버그를 악용해 재화·기록을 얻는 행위\n마. 서비스의 저작물을 운영자 동의 없이 복제·배포·상업적으로 이용하는 행위\n바. 관계 법령이나 이 약관에 어긋나는 행위\n이를 어긴 경우 운영자는 해당 기록·재화를 회수하거나 랭킹 이용을 제한할 수 있습니다. 이의가 있으면 문의처로 알려 주시면 기록을 다시 확인합니다."
+    },
+    {
+     "heading": "9. 지식재산권",
+     "body": "서비스에 포함된 그래픽, 캐릭터, 음악, 효과음, 텍스트, 프로그램 등에 대한 권리는 운영자 또는 정당한 권리자에게 있습니다."
+    },
+    {
+     "heading": "10. 서비스의 변경 및 종료",
+     "body": "운영자는 운영상·기술상 필요에 따라 서비스의 전부 또는 일부를 변경하거나 종료할 수 있습니다. 서비스를 종료할 때는 종료일 30일 전까지 앱 안에서 알립니다. 유료 콘텐츠의 처리는 관계 법령과 스토어 정책을 따릅니다."
+    },
+    {
+     "heading": "11. 책임의 제한",
+     "body": "운영자는 천재지변, 이용자의 귀책사유, 기기·통신 환경 등 운영자가 통제할 수 없는 사유로 생긴 이용 장애에 대해 책임을 지지 않습니다. 다만 운영자의 고의 또는 중대한 과실로 인한 손해는 그러하지 않습니다."
+    },
+    {
+     "heading": "12. 약관의 변경",
+     "body": "운영자는 관계 법령에 어긋나지 않는 범위에서 이 약관을 바꿀 수 있으며, 시행일 7일 전(이용자에게 불리한 변경은 30일 전)까지 앱 안에서 알립니다. 변경 후에도 서비스를 계속 이용하면 변경된 약관에 동의한 것으로 봅니다."
+    },
+    {
+     "heading": "13. 준거법 및 분쟁 해결",
+     "body": "이 약관은 대한민국 법을 따릅니다. 분쟁이 생기면 먼저 문의처를 통해 원만히 해결하도록 노력하며, 소송은 민사소송법에 따른 관할 법원에 제기합니다."
+    },
+    {
+     "heading": "14. 문의처",
+     "body": "사업자명: 엠케이 게임 스튜디오(MK Game Studio)\n대표자: 정명권\n사업자등록번호: 840-26-02352\n통신판매업 신고번호: 제2026-별내-2144호\n사업장 주소: 경기도 남양주시 별내4로 63, 3405동 1203호 (우 12108)\n문의 이메일: redhat9p0@gmail.com\n시행일: 2026년 10월 14일"
+    }
+   ]
+  },
+  "en": {
+   "title": "Terms of Service",
+   "sections": [
+    {
+     "heading": "1. Purpose and Consent",
+     "body": "These Terms set out the conditions for using the mobile game 'Blacksmith Idle: Adventure Age' (the \"Service\") provided by MK Game Studio (\"we\" or \"us\"), and the rights and obligations between us and you. By installing or running the Service, you agree to these Terms."
+    },
+    {
+     "heading": "2. The Service",
+     "body": "The Service is an idle management game where you run a forge, craft gear and send adventurers on expeditions. It offers:\na. Crafting, enhancing, selling and equipping gear; sending adventurers on expeditions and growing them\nb. Growing facilities such as the forge and the lodge; achievements, attendance and daily missions\nc. Earning and spending in-game currencies (gold, crystals)\nd. A global ranking with nicknames\ne. Cloud saving of progress\nf. Notifications for finished crafts, returning adventurers and so on (if allowed in the device settings)\ng. Paid products and rewarded ads (offered at the official launch — see Sections 4 and 6)\nWe may change the content and structure of the Service to improve it."
+    },
+    {
+     "heading": "3. Account",
+     "body": "a. You can use the Service as a guest without signing up; an anonymous identifier is created for each device. Your progress is saved on the device and in the cloud under this identifier.\nb. Linking an external account such as Google is in preparation; we will update these Terms when it becomes available.\nc. A guest's progress may not be recoverable after deleting the app or changing devices.\nd. You can delete your account, cloud progress and ranking record at any time in Settings > Account > Delete account. Deleted data cannot be recovered."
+    },
+    {
+     "heading": "4. Paid Content",
+     "body": "This version has no real payments. Purchases will be offered at the official launch; until then, the products shown in the shop are a preview (mock payment) and nothing is charged.\na. In-game purchases are processed by the payment system of the App Store or Google Play (the \"Store\"). We never receive your card or other payment details.\nb. Crystals (💎) are an in-game currency that can be bought or earned through play, and can be used to speed up timers, exchange for gold, buy protection charms and more. Spent crystals cannot be returned.\nc. Passes (No Ads, Speed, Crystal) are 30-day products that do not renew automatically. Permanent products (No Ads, Speed) stay available once bought. With the same Store account, they can be restored in Shop > Restore purchases.\nd. Gold is an in-game currency earned only through play. It cannot be exchanged for cash, refunded or transferred.\ne. No product sells gear or stats directly.",
+     "ios": "This version has no real payments. Purchases will be offered at the official launch; until then, the products shown in the shop are a preview (mock payment) and nothing is charged.\na. In-game purchases are processed by the payment system of the App Store. We never receive your card or other payment details.\nb. Crystals (💎) are an in-game currency that can be bought or earned through play, and can be used to speed up timers, exchange for gold, buy protection charms and more. Spent crystals cannot be returned.\nc. Passes (No Ads, Speed, Crystal) are 30-day products that do not renew automatically. Permanent products (No Ads, Speed) stay available once bought. With the same Apple Account, they can be restored in Shop > Restore purchases.\nd. Gold is an in-game currency earned only through play. It cannot be exchanged for cash, refunded or transferred.\ne. No product sells gear or stats directly.",
+     "android": "This version has no real payments. Purchases will be offered at the official launch; until then, the products shown in the shop are a preview (mock payment) and nothing is charged.\na. In-game purchases are processed by the payment system of Google Play. We never receive your card or other payment details.\nb. Crystals (💎) are an in-game currency that can be bought or earned through play, and can be used to speed up timers, exchange for gold, buy protection charms and more. Spent crystals cannot be returned.\nc. Passes (No Ads, Speed, Crystal) are 30-day products that do not renew automatically. Permanent products (No Ads, Speed) stay available once bought. With the same Google account, they can be restored in Shop > Restore purchases.\nd. Gold is an in-game currency earned only through play. It cannot be exchanged for cash, refunded or transferred.\ne. No product sells gear or stats directly."
+    },
+    {
+     "heading": "5. Withdrawal and Refunds",
+     "body": "This version has no real payments. Purchases will be offered at the official launch; until then, the products shown in the shop are a preview (mock payment) and nothing is charged.\na. Paid products are digital content delivered immediately on purchase, so withdrawal may be limited under applicable law. However, you may request withdrawal for unused crystals within 7 days of purchase. A pass is hard to refund once it is in use. Prices and contents are shown on the purchase screen in advance.\nb. Refunds follow the policy and process of the Store where you paid: for the App Store, Apple's 'Report a Problem' (reportaproblem.apple.com); for Google Play, your Google Play order history.\nc. Refunded products are taken back (crystals deducted, passes and permanent products disabled).\nd. If a product is defective and cannot be used normally, contact us and we will restore it or guide you through a refund.\ne. If a minor paid without a legal guardian's consent, the minor or the guardian may cancel the payment under applicable law.",
+     "ios": "This version has no real payments. Purchases will be offered at the official launch; until then, the products shown in the shop are a preview (mock payment) and nothing is charged.\na. Paid products are digital content delivered immediately on purchase, so withdrawal may be limited under applicable law. However, you may request withdrawal for unused crystals within 7 days of purchase. A pass is hard to refund once it is in use. Prices and contents are shown on the purchase screen in advance.\nb. Refunds of App Store payments follow Apple's policy and can be requested at Apple's 'Report a Problem' (reportaproblem.apple.com).\nc. Refunded products are taken back (crystals deducted, passes and permanent products disabled).\nd. If a product is defective and cannot be used normally, contact us and we will restore it or guide you through a refund.\ne. If a minor paid without a legal guardian's consent, the minor or the guardian may cancel the payment under applicable law.",
+     "android": "This version has no real payments. Purchases will be offered at the official launch; until then, the products shown in the shop are a preview (mock payment) and nothing is charged.\na. Paid products are digital content delivered immediately on purchase, so withdrawal may be limited under applicable law. However, you may request withdrawal for unused crystals within 7 days of purchase. A pass is hard to refund once it is in use. Prices and contents are shown on the purchase screen in advance.\nb. Refunds of Google Play payments follow Google Play's policy. Within 48 hours of purchase you can request one in your Google Play order history; after that, contact us and we will help.\nc. Refunded products are taken back (crystals deducted, passes and permanent products disabled).\nd. If a product is defective and cannot be used normally, contact us and we will restore it or guide you through a refund.\ne. If a minor paid without a legal guardian's consent, the minor or the guardian may cancel the payment under applicable law."
+    },
+    {
+     "heading": "6. Rewarded Ads",
+     "body": "This version shows no real ads. Ads will be offered at the official launch; until then, ad buttons are a preview (mock ads).\na. You watch an ad only when you choose to, in return for a reward (shorter crafting, building or expedition time, more expedition loot, etc.). The game can be played without watching ads.\nb. If an ad is not watched to the end or cannot be loaded, the reward may not be given.\nc. Before offering ads, we will add the ad provider and the data it processes to these Terms and the Privacy Policy."
+    },
+    {
+     "heading": "7. Ranking and Nicknames",
+     "body": "a. Your nickname and power score are shown to other users in the global ranking.\nb. Nicknames containing profanity, hateful or obscene expressions, impersonation or personal information are not allowed. We may change or delete such nicknames, or records obtained abnormally, or remove them from the ranking without notice.\nc. A nickname can be changed once a day."
+    },
+    {
+     "heading": "8. Prohibited Conduct",
+     "body": "You must not:\na. Interfere with the normal operation of the Service\nb. Use macros, bots or other automation or unauthorized tools\nc. Alter or manipulate the app, game data, device time or payment information\nd. Exploit bugs to gain currency or records\ne. Copy, distribute or commercially use the Service's works without our consent\nf. Violate applicable laws or these Terms\nIf you do, we may take back the related records or currency or restrict ranking use. If you disagree, contact us and we will review the records again."
+    },
+    {
+     "heading": "9. Intellectual Property",
+     "body": "All rights to the graphics, characters, music, sound effects, text, programs and other content in the Service belong to us or their rightful owners."
+    },
+    {
+     "heading": "10. Changes to and End of the Service",
+     "body": "We may change or end all or part of the Service for operational or technical reasons. If the Service ends, we will announce it in the app at least 30 days in advance. Paid content will be handled according to applicable law and Store policies."
+    },
+    {
+     "heading": "11. Limitation of Liability",
+     "body": "We are not responsible for service disruptions caused by events beyond our control, such as natural disasters, your own fault, or device and network conditions, except for damage caused by our intent or gross negligence."
+    },
+    {
+     "heading": "12. Changes to These Terms",
+     "body": "We may change these Terms within the limits of applicable law and will announce changes in the app at least 7 days before they take effect (30 days for changes unfavorable to you). Continuing to use the Service after a change means you accept the changed Terms."
+    },
+    {
+     "heading": "13. Governing Law and Disputes",
+     "body": "These Terms are governed by the laws of the Republic of Korea. We will first try to resolve any dispute amicably through our contact point; lawsuits are filed with the competent court under the Civil Procedure Act."
+    },
+    {
+     "heading": "14. Contact",
+     "body": "Company: MK Game Studio (엠케이 게임 스튜디오)\nRepresentative: Myungkwon Jeong (정명권)\nBusiness registration number: 840-26-02352\nMail-order business report number: 2026-Byeollae-2144\nAddress: 1203, Bldg. 3405, 63 Byeollae 4-ro, Namyangju-si, Gyeonggi-do 12108, Republic of Korea\nEmail: redhat9p0@gmail.com\nEffective date: October 14, 2026"
+    }
+   ]
+  },
+  "ja": {
+   "title": "利用規約",
+   "sections": [
+    {
+     "heading": "1. 目的と同意",
+     "body": "この規約は、エムケイ・ゲームスタジオ(MK Game Studio)(以下「運営者」)が提供するモバイルゲーム「鍛冶屋育成：冒険の時代」(以下「本サービス」)の利用条件と、運営者と利用者の権利・義務を定めるものです。利用者は本サービスをインストールまたは起動することで、この規約に同意したものとみなされます。"
+    },
+    {
+     "heading": "2. サービスの内容",
+     "body": "本サービスは鍛冶屋を営みながら装備を作り、冒険者を探索に送り出す放置型経営ゲームで、次の機能を提供します。\nア. 装備の製作・強化・販売・装着、冒険者の探索派遣と育成\nイ. 鍛冶場・宿舎などの施設の成長、実績・出席・デイリーミッション\nウ. ゲーム内通貨(ゴールド、水晶)の獲得と使用\nエ. 全体ランキングとニックネームの表示\nオ. 進行状況のクラウド保存\nカ. 製作完了・冒険者の帰還などをお知らせする通知(端末の設定で許可した場合)\nキ. 有料商品の購入とリワード広告(正式リリース時に提供 — 第4条・第6条参照)\n運営者は改善のため、本サービスの内容と構成を変更することがあります。"
+    },
+    {
+     "heading": "3. アカウント",
+     "body": "ア. 本サービスは会員登録なしでゲストとして利用でき、その際に端末ごとに匿名の識別子が作られます。進行状況はこの識別子で端末とクラウドに保存されます。\nイ. Googleなど外部アカウントとの連携機能は準備中です。提供を開始する際はこの規約を変更してお知らせします。\nウ. アプリを削除したり端末を変えたりすると、ゲストの進行状況は復元できない場合があります。\nエ. 利用者は 設定 > アカウント > アカウント削除 から、いつでもアカウントとクラウドの進行データ、ランキング記録を削除できます。削除したデータは復元できません。"
+    },
+    {
+     "heading": "4. 有料コンテンツ",
+     "body": "現在のバージョンには実際の決済機能はありません。決済機能は正式リリース時に提供され、それまでショップに表示される商品はプレビュー(模擬決済)で、実際の料金は発生しません。\nア. ゲーム内の有料商品の購入はApp StoreまたはGoogle Play(以下「ストア」)の決済システムで行われます。運営者がカードなどの決済手段情報を受け取ることはありません。\nイ. 水晶(💎)は有料で購入するか、ゲームプレイで手に入るゲーム内通貨で、時間短縮・ゴールド交換・保護のお守りなどに使えます。使った水晶は元に戻せません。\nウ. パス(広告削除・スピード・水晶)は自動更新されない30日間の期間限定商品で、永久商品(広告削除・スピード)は一度購入すればずっと利用できます。同じストアのアカウントであれば ショップ > 購入を復元 で再取得できます。\nエ. ゴールドはゲームプレイで手に入るゲーム内通貨で、現金への交換・払い戻し・譲渡はできません。\nオ. 装備や能力値を直接販売する商品はありません。",
+     "ios": "現在のバージョンには実際の決済機能はありません。決済機能は正式リリース時に提供され、それまでショップに表示される商品はプレビュー(模擬決済)で、実際の料金は発生しません。\nア. ゲーム内の有料商品の購入はApp Storeの決済システムで行われます。運営者がカードなどの決済手段情報を受け取ることはありません。\nイ. 水晶(💎)は有料で購入するか、ゲームプレイで手に入るゲーム内通貨で、時間短縮・ゴールド交換・保護のお守りなどに使えます。使った水晶は元に戻せません。\nウ. パス(広告削除・スピード・水晶)は自動更新されない30日間の期間限定商品で、永久商品(広告削除・スピード)は一度購入すればずっと利用できます。同じApple アカウントであれば ショップ > 購入を復元 で再取得できます。\nエ. ゴールドはゲームプレイで手に入るゲーム内通貨で、現金への交換・払い戻し・譲渡はできません。\nオ. 装備や能力値を直接販売する商品はありません。",
+     "android": "現在のバージョンには実際の決済機能はありません。決済機能は正式リリース時に提供され、それまでショップに表示される商品はプレビュー(模擬決済)で、実際の料金は発生しません。\nア. ゲーム内の有料商品の購入はGoogle Playの決済システムで行われます。運営者がカードなどの決済手段情報を受け取ることはありません。\nイ. 水晶(💎)は有料で購入するか、ゲームプレイで手に入るゲーム内通貨で、時間短縮・ゴールド交換・保護のお守りなどに使えます。使った水晶は元に戻せません。\nウ. パス(広告削除・スピード・水晶)は自動更新されない30日間の期間限定商品で、永久商品(広告削除・スピード)は一度購入すればずっと利用できます。同じGoogleアカウントであれば ショップ > 購入を復元 で再取得できます。\nエ. ゴールドはゲームプレイで手に入るゲーム内通貨で、現金への交換・払い戻し・譲渡はできません。\nオ. 装備や能力値を直接販売する商品はありません。"
+    },
+    {
+     "heading": "5. 申込みの撤回と払い戻し",
+     "body": "現在のバージョンには実際の決済機能はありません。決済機能は正式リリース時に提供され、それまでショップに表示される商品はプレビュー(模擬決済)で、実際の料金は発生しません。\nア. 有料商品は購入後すぐに提供されるデジタルコンテンツのため、関係法令により申込みの撤回が制限される場合があります。ただし、未使用の水晶は購入日から7日以内であれば撤回を申し込めます。使用を開始したパスは払い戻しが難しくなります。価格と内容は購入画面にあらかじめ表示します。\nイ. 払い戻しは決済したストアのポリシーと手続きに従います。App StoreはAppleの「問題を報告する」(reportaproblem.apple.com)、Google PlayはGoogle Playの注文履歴から申し込めます。\nウ. 払い戻しされた商品は回収されます(水晶の差し引き、パス・永久商品の利用停止)。\nエ. 商品に欠陥があり正常に利用できない場合は、お問い合わせ先までご連絡ください。確認のうえ復旧または払い戻しのご案内をします。\nオ. 未成年者が法定代理人の同意なく決済した場合、本人または法定代理人は関係法令に基づきその決済を取り消せます。",
+     "ios": "現在のバージョンには実際の決済機能はありません。決済機能は正式リリース時に提供され、それまでショップに表示される商品はプレビュー(模擬決済)で、実際の料金は発生しません。\nア. 有料商品は購入後すぐに提供されるデジタルコンテンツのため、関係法令により申込みの撤回が制限される場合があります。ただし、未使用の水晶は購入日から7日以内であれば撤回を申し込めます。使用を開始したパスは払い戻しが難しくなります。価格と内容は購入画面にあらかじめ表示します。\nイ. App Storeでの決済の払い戻しはAppleのポリシーに従い、Appleの「問題を報告する」(reportaproblem.apple.com)から申し込めます。\nウ. 払い戻しされた商品は回収されます(水晶の差し引き、パス・永久商品の利用停止)。\nエ. 商品に欠陥があり正常に利用できない場合は、お問い合わせ先までご連絡ください。確認のうえ復旧または払い戻しのご案内をします。\nオ. 未成年者が法定代理人の同意なく決済した場合、本人または法定代理人は関係法令に基づきその決済を取り消せます。",
+     "android": "現在のバージョンには実際の決済機能はありません。決済機能は正式リリース時に提供され、それまでショップに表示される商品はプレビュー(模擬決済)で、実際の料金は発生しません。\nア. 有料商品は購入後すぐに提供されるデジタルコンテンツのため、関係法令により申込みの撤回が制限される場合があります。ただし、未使用の水晶は購入日から7日以内であれば撤回を申し込めます。使用を開始したパスは払い戻しが難しくなります。価格と内容は購入画面にあらかじめ表示します。\nイ. Google Playでの決済の払い戻しはGoogle Playのポリシーに従います。購入後48時間以内はGoogle Playの注文履歴から直接申し込めます。それ以降はお問い合わせ先までご連絡いただければ、確認のうえ対応をお手伝いします。\nウ. 払い戻しされた商品は回収されます(水晶の差し引き、パス・永久商品の利用停止)。\nエ. 商品に欠陥があり正常に利用できない場合は、お問い合わせ先までご連絡ください。確認のうえ復旧または払い戻しのご案内をします。\nオ. 未成年者が法定代理人の同意なく決済した場合、本人または法定代理人は関係法令に基づきその決済を取り消せます。"
+    },
+    {
+     "heading": "6. リワード広告",
+     "body": "現在のバージョンには実際の広告はありません。広告機能は正式リリース時に提供され、それまで表示される広告ボタンはプレビュー(模擬広告)です。\nア. 利用者は希望するときだけ広告を見て、報酬(製作・工事・探索時間の短縮、探索の戦利品の増加など)を受け取れます。広告を見なくてもゲームを利用できます。\nイ. 広告を最後まで見なかった場合や広告を読み込めなかった場合は、報酬が付与されないことがあります。\nウ. 広告機能を提供する際は、この規約とプライバシーポリシーに広告事業者と取り扱う情報を追加し、事前にお知らせします。"
+    },
+    {
+     "heading": "7. ランキングとニックネーム",
+     "body": "ア. 利用者のニックネームと戦闘力スコアは、全体ランキングとして他の利用者に公開されます。\nイ. 暴言、差別的・わいせつな表現、なりすまし、個人情報を含むニックネームは使えません。運営者はこのようなニックネームや不正な方法で得た記録を、予告なく修正・削除したりランキングから除外したりできます。\nウ. ニックネームは1日1回変更できます。"
+    },
+    {
+     "heading": "8. 禁止行為",
+     "body": "利用者は次の行為をしてはいけません。\nア. 本サービスの正常な運営を妨げる行為\nイ. マクロ、ボットなどの自動化プログラムや非公認ツールを使う行為\nウ. アプリやゲームデータ、端末の時刻、決済情報を改ざん・操作する行為\nエ. バグを悪用して通貨・記録を得る行為\nオ. 本サービスの著作物を運営者の同意なく複製・配布・商業利用する行為\nカ. 関係法令やこの規約に反する行為\n違反した場合、運営者は該当する記録・通貨を回収したり、ランキングの利用を制限したりできます。異議がある場合はお問い合わせ先までご連絡ください。記録を再確認します。"
+    },
+    {
+     "heading": "9. 知的財産権",
+     "body": "本サービスに含まれるグラフィック、キャラクター、音楽、効果音、テキスト、プログラムなどに関する権利は、運営者または正当な権利者に帰属します。"
+    },
+    {
+     "heading": "10. サービスの変更と終了",
+     "body": "運営者は運営上・技術上の必要に応じて、本サービスの全部または一部を変更または終了できます。本サービスを終了する場合は、終了日の30日前までにアプリ内でお知らせします。有料コンテンツの取り扱いは関係法令とストアのポリシーに従います。"
+    },
+    {
+     "heading": "11. 責任の制限",
+     "body": "運営者は、天災、利用者の責に帰すべき事由、端末・通信環境など運営者が管理できない事由による利用障害について責任を負いません。ただし、運営者の故意または重大な過失による損害についてはこの限りではありません。"
+    },
+    {
+     "heading": "12. 規約の変更",
+     "body": "運営者は関係法令に反しない範囲でこの規約を変更でき、施行日の7日前(利用者に不利な変更は30日前)までにアプリ内でお知らせします。変更後も本サービスを利用し続けた場合、変更後の規約に同意したものとみなされます。"
+    },
+    {
+     "heading": "13. 準拠法と紛争解決",
+     "body": "この規約は大韓民国の法律に従います。紛争が生じた場合はまずお問い合わせ先を通じて円満な解決に努め、訴訟は民事訴訟法に基づく管轄裁判所に提起します。"
+    },
+    {
+     "heading": "14. お問い合わせ先",
+     "body": "事業者名:MK Game Studio(엠케이 게임 스튜디오)\n代表者:Myungkwon Jeong(정명권)\n事業者登録番号:840-26-02352\n通信販売業申告番号:第2026-別内-2144号\n所在地:3405-1203, 63 Byeollae 4-ro, Namyangju-si, Gyeonggi-do 12108, Republic of Korea\nお問い合わせメール:redhat9p0@gmail.com\n施行日:2026年10月14日"
+    }
+   ]
+  }
+ },
+ "privacy": {
+  "ko": {
+   "title": "개인정보처리방침",
+   "sections": [
+    {
+     "heading": "1. 총칙",
+     "body": "엠케이 게임 스튜디오(MK Game Studio)(이하 \"운영자\")는 모바일 게임 '대장장이 키우기: 모험의 시대'(이하 \"서비스\")를 운영하면서 「개인정보 보호법」 등 관계 법령을 지키고, 필요한 최소한의 정보만 처리합니다. 서비스는 회원가입 없이 이용하며 이름·전화번호·이메일을 받지 않습니다. 서비스 개선을 위해 이용 통계 도구(Google Firebase 애널리틱스)를 쓰지만, 광고 식별자는 수집하지 않고 이용자를 다른 앱·웹사이트에 걸쳐 추적하지 않습니다."
+    },
+    {
+     "heading": "2. 처리하는 정보와 목적",
+     "body": "가. 게스트 이용(필수)\n- 익명 식별자(UID, Firebase 익명 인증): 클라우드 저장, 랭킹, 오류 기록에 이용자를 구분하기 위해\n- 게임 진행 정보(골드·수정, 장비, 모험가, 시설, 업적·출석·미션, 설정 일부): 진행 상황 저장·이어하기를 위해(Firebase Firestore, 서울 리전)\n나. 랭킹 이용 시\n- 닉네임, 전투력 점수, 앱 버전, 기록 시각: 전체 순위 표시를 위해(닉네임과 점수는 다른 이용자에게 공개됨)\n다. 오류 기록(자동)\n- 앱 오류 위치·메시지 앞부분, 화면, 앱 버전, 언어, 기기 종류(iOS/Android), 기록 시각: 오류를 고치기 위해. 하루 최대 20건, 운영 목적으로만 씁니다.\n라. 이용 분석(Google Firebase Analytics, 자동)\n- 게임을 더 좋게 만들려고 앱 사용 기록을 수집합니다: 플레이 단계, 화면, 아이템 구매 내역(상품·금액), 대략의 지역(국가), 기기·OS 종류와 앱 버전, 오류 기록\n- 광고 식별자(IDFA, 광고 ID)는 수집하지 않습니다. 다른 회사의 앱·웹사이트에 걸쳐 이용자를 추적하지 않습니다.\n- 닉네임·이메일 같은 개인을 알아볼 수 있는 정보는 분석에 보내지 않습니다.\n마. 알림\n- 제작 완료·탐험 복귀 등의 알림은 기기 안에서 예약되는 로컬 알림으로, 알림 내용이나 기기 토큰을 운영자 서버로 보내지 않습니다. 알림은 기기 설정이나 게임 설정 > 푸시 알림에서 끌 수 있습니다.\n바. 기기 안에만 저장되는 정보\n- 진행 정보와 설정은 기기 저장공간에도 저장됩니다.\n사. 유료 구매·광고(정식 출시 때)\n- 현재 버전에는 실제 결제·광고가 없습니다. 제공을 시작하면 처리하는 정보(구매 상품·내역, 스토어 영수증 정보 등)를 이 방침에 추가해 미리 알립니다. 카드 번호 등 결제수단 정보는 스토어(Apple, Google)가 처리하며 운영자는 받지 않습니다."
+    },
+    {
+     "heading": "3. 보유 기간과 파기",
+     "body": "가. 계정·진행 정보·랭킹 기록: 계정 삭제 시 즉시 삭제합니다. 1년 이상 접속하지 않은 게스트 계정은 삭제할 수 있습니다.\n나. 오류 기록: 기록일로부터 1년간 보관 후 삭제합니다.\n다. 이용 통계: Google 애널리틱스의 보관 설정에 따라 최대 14개월 보관 후 삭제됩니다.\n라. 문의 메일: 처리 기록 보관을 위해 접수일로부터 3년간 보관 후 삭제합니다(「전자상거래 등에서의 소비자보호에 관한 법률」 소비자 불만·분쟁처리 기록).\n마. 파기는 복구할 수 없는 방법으로 지웁니다."
+    },
+    {
+     "heading": "4. 제3자 제공",
+     "body": "운영자는 이용자의 정보를 제3자에게 제공하지 않습니다. 다만 랭킹의 닉네임·점수는 서비스 기능으로서 다른 이용자에게 공개되며, 법령에 따른 요청이 있으면 그에 따릅니다."
+    },
+    {
+     "heading": "5. 처리 위탁 및 국외 이전",
+     "body": "서비스 운영을 위해 아래 업체에 정보 처리를 맡기며, 이 과정에서 정보가 국외로 이전됩니다. 이전은 서비스 이용 시 네트워크를 통해 수시로 이루어집니다. 이용자가 국외 이전을 원하지 않으면 계정을 삭제할 수 있으나, 이 경우 클라우드 저장·랭킹을 이용할 수 없습니다.\n가. Google LLC (미국)  Firebase 인증·데이터베이스(저장 위치: 대한민국 서울 리전)·이용 통계(애널리틱스)\n- 이전 항목: 익명 식별자, 진행 정보, 랭킹 정보, 오류 기록, 이용 통계\n- 보유 기간: 3항과 같음\n나. Apple Inc.(미국), Google LLC(미국)  앱 배포(App Store, Google Play) — 각 회사의 개인정보처리방침을 따릅니다.\n결제·광고 기능을 제공할 때 그 처리 업체(예: 인앱 구매 확인, 광고 제공)를 이 방침에 추가해 미리 알립니다. 각 업체의 연락처는 해당 업체의 개인정보처리방침에서 확인할 수 있습니다.",
+     "ios": "서비스 운영을 위해 아래 업체에 정보 처리를 맡기며, 이 과정에서 정보가 국외로 이전됩니다. 이전은 서비스 이용 시 네트워크를 통해 수시로 이루어집니다. 이용자가 국외 이전을 원하지 않으면 계정을 삭제할 수 있으나, 이 경우 클라우드 저장·랭킹을 이용할 수 없습니다.\n가. Google LLC (미국)  Firebase 인증·데이터베이스(저장 위치: 대한민국 서울 리전)·이용 통계(애널리틱스)\n- 이전 항목: 익명 식별자, 진행 정보, 랭킹 정보, 오류 기록, 이용 통계\n- 보유 기간: 3항과 같음\n나. Apple Inc.(미국)  앱 배포(App Store) — Apple의 개인정보처리방침을 따릅니다.\n결제·광고 기능을 제공할 때 그 처리 업체(예: 인앱 구매 확인, 광고 제공)를 이 방침에 추가해 미리 알립니다. 각 업체의 연락처는 해당 업체의 개인정보처리방침에서 확인할 수 있습니다.",
+     "android": "서비스 운영을 위해 아래 업체에 정보 처리를 맡기며, 이 과정에서 정보가 국외로 이전됩니다. 이전은 서비스 이용 시 네트워크를 통해 수시로 이루어집니다. 이용자가 국외 이전을 원하지 않으면 계정을 삭제할 수 있으나, 이 경우 클라우드 저장·랭킹을 이용할 수 없습니다.\n가. Google LLC (미국)  Firebase 인증·데이터베이스(저장 위치: 대한민국 서울 리전)·이용 통계(애널리틱스)\n- 이전 항목: 익명 식별자, 진행 정보, 랭킹 정보, 오류 기록, 이용 통계\n- 보유 기간: 3항과 같음\n나. Google LLC(미국)  앱 배포(Google Play) — Google의 개인정보처리방침을 따릅니다.\n결제·광고 기능을 제공할 때 그 처리 업체(예: 인앱 구매 확인, 광고 제공)를 이 방침에 추가해 미리 알립니다. 각 업체의 연락처는 해당 업체의 개인정보처리방침에서 확인할 수 있습니다."
+    },
+    {
+     "heading": "6. 이용자의 권리",
+     "body": "이용자는 언제든지 자신의 정보에 대해 열람·정정·삭제·처리정지를 요구할 수 있습니다.\n- 계정과 클라우드 진행 데이터·랭킹 삭제: 설정 > 계정 > 계정 삭제\n- 이 기기의 진행 데이터 초기화: 설정 > 게임 데이터 초기화\n- 닉네임 변경: 설정 > 이름 바꾸기\n- 그 밖의 요청(오류 기록 삭제 등): 아래 이메일로 연락 주시면 지체 없이 처리합니다.\n웹 안내: 계정 및 데이터 삭제 페이지(delete-account.html)"
+    },
+    {
+     "heading": "7. 아동의 개인정보",
+     "body": "서비스는 이용자의 나이 정보를 수집하지 않습니다. 만 14세 미만 아동은 유료 구매를 법정대리인의 동의를 받아 이용해야 합니다. 법정대리인은 아동의 정보 열람·삭제를 문의처로 요청할 수 있습니다."
+    },
+    {
+     "heading": "8. 안전성 확보 조치",
+     "body": "운영자는 전송 구간 암호화(HTTPS), 데이터베이스 접근 권한 제한(이용자는 자신의 데이터만 읽고 쓸 수 있도록 보안 규칙 적용 — 공개되는 랭킹은 예외), 관리자 계정 보호 등의 조치를 하고 있습니다."
+    },
+    {
+     "heading": "9. 자동 수집 장치",
+     "body": "서비스는 쿠키나 광고 식별자(IDFA, 광고 ID)를 수집하지 않으며, 이용자를 다른 앱·웹사이트에 걸쳐 추적하지 않습니다. 이용 통계는 Firebase 애널리틱스가 앱 설치 단위 식별자(앱 인스턴스 ID)로 집계하며, 광고 개인화에 쓰이지 않습니다."
+    },
+    {
+     "heading": "10. 개인정보 보호책임자",
+     "body": "성명: 정명권\n이메일: redhat9p0@gmail.com\n개인정보 침해 신고·상담은 개인정보침해신고센터(privacy.kisa.or.kr, 국번 없이 118), 개인정보분쟁조정위원회(www.kopico.go.kr, 1833-6972)에도 할 수 있습니다."
+    },
+    {
+     "heading": "11. 방침의 변경",
+     "body": "이 방침이 바뀌면 시행일 7일 전까지 앱 안에서 알립니다.\n시행일: 2026년 10월 14일"
+    }
+   ]
+  },
+  "en": {
+   "title": "Privacy Policy",
+   "sections": [
+    {
+     "heading": "1. General",
+     "body": "MK Game Studio (\"we\" or \"us\") follows the Personal Information Protection Act of Korea and other applicable laws in running the mobile game 'Blacksmith Idle: Adventure Age' (the \"Service\"), and processes only the minimum data needed. The Service needs no sign-up and does not ask for your name, phone number or email. We use an analytics tool (Google Firebase Analytics) to improve the game, but we do not collect advertising identifiers or track you across other companies' apps and websites."
+    },
+    {
+     "heading": "2. Data We Process and Why",
+     "body": "a. Guest use (required)\n- Anonymous identifier (UID, Firebase anonymous authentication): to tell users apart for cloud saving, the ranking and error records\n- Game progress (gold and crystals, gear, adventurers, facilities, achievements, attendance, missions, some settings): to save your progress and let you continue (Firebase Firestore, Seoul region)\nb. Ranking\n- Nickname, power score, app version, time of record: to show the global ranking (nickname and score are visible to other users)\nc. Error records (automatic)\n- Where an error happened and the start of its message, screen, app version, language, device type (iOS/Android), time: to fix errors. At most 20 per day, used only for operating the game.\nd. Usage analytics (Google Firebase Analytics, automatic)\n- To make the game better we collect app usage records: play progress, screens, purchase history of items (product and amount), approximate region (country), device and OS type, app version, error records\n- We do not collect advertising identifiers (IDFA, Advertising ID). We do not track you across other companies' apps and websites.\n- Personally identifying data such as nicknames or email addresses is not sent to analytics.\ne. Notifications\n- Notifications for finished crafts, returning adventurers and so on are local notifications scheduled on the device; their content and device tokens are not sent to our servers. You can turn them off in the device settings or in Settings > Push alerts.\nf. Data kept on the device\n- Progress and settings are also stored on the device.\ng. Purchases and ads (at the official launch)\n- This version has no real payments or ads. Before offering them, we will add the data they process (products bought, purchase history, store receipt data, etc.) to this Policy. Card numbers and other payment details are processed by the Stores (Apple, Google); we never receive them."
+    },
+    {
+     "heading": "3. Retention and Deletion",
+     "body": "a. Account, progress and ranking record: deleted immediately when you delete your account. Guest accounts with no access for over a year may be deleted.\nb. Error records: kept for 1 year from the record date, then deleted.\nc. Usage statistics: kept up to 14 months under Google Analytics' retention setting, then deleted.\nd. Inquiry emails: kept for 3 years from receipt as handling records (Korean Act on Consumer Protection in Electronic Commerce), then deleted.\ne. Deletion is done in a way that cannot be recovered."
+    },
+    {
+     "heading": "4. Sharing with Third Parties",
+     "body": "We do not share your data with third parties, except that nicknames and scores in the ranking are visible to other users as part of the Service, and we comply with legally required requests."
+    },
+    {
+     "heading": "5. Processors and Transfers Abroad",
+     "body": "We entrust data processing to the companies below to run the Service, and data is transferred abroad in the process, over the network whenever the Service is used. If you do not want this transfer, you can delete your account, but cloud saving and the ranking will then be unavailable.\na. Google LLC (USA) — Firebase authentication, database (stored in the Seoul region, Republic of Korea) and analytics\n- Data transferred: anonymous identifier, progress, ranking data, error records, usage statistics\n- Retention: as in Section 3\nb. Apple Inc. (USA), Google LLC (USA) — app distribution (App Store, Google Play), under their own privacy policies.\nBefore offering payments or ads, we will add their processors (e.g. in-app purchase verification, ad serving) to this Policy. Contact details of each company are in its own privacy policy.",
+     "ios": "We entrust data processing to the companies below to run the Service, and data is transferred abroad in the process, over the network whenever the Service is used. If you do not want this transfer, you can delete your account, but cloud saving and the ranking will then be unavailable.\na. Google LLC (USA) — Firebase authentication, database (stored in the Seoul region, Republic of Korea) and analytics\n- Data transferred: anonymous identifier, progress, ranking data, error records, usage statistics\n- Retention: as in Section 3\nb. Apple Inc. (USA) — app distribution (App Store), under Apple's privacy policy.\nBefore offering payments or ads, we will add their processors (e.g. in-app purchase verification, ad serving) to this Policy. Contact details of each company are in its own privacy policy.",
+     "android": "We entrust data processing to the companies below to run the Service, and data is transferred abroad in the process, over the network whenever the Service is used. If you do not want this transfer, you can delete your account, but cloud saving and the ranking will then be unavailable.\na. Google LLC (USA) — Firebase authentication, database (stored in the Seoul region, Republic of Korea) and analytics\n- Data transferred: anonymous identifier, progress, ranking data, error records, usage statistics\n- Retention: as in Section 3\nb. Google LLC (USA) — app distribution (Google Play), under Google's privacy policy.\nBefore offering payments or ads, we will add their processors (e.g. in-app purchase verification, ad serving) to this Policy. Contact details of each company are in its own privacy policy."
+    },
+    {
+     "heading": "6. Your Rights",
+     "body": "You may request access to, correction or deletion of, or suspension of processing of your data at any time.\n- Delete account, cloud progress and ranking: Settings > Account > Delete account\n- Reset progress on this device: Settings > Reset game data\n- Change nickname: Settings > Rename\n- Other requests (e.g. deleting error records): email us below and we will handle it without delay.\nWeb guide: Account and Data Deletion page (delete-account.html)"
+    },
+    {
+     "heading": "7. Children's Data",
+     "body": "The Service does not collect age information. Children under 14 should make paid purchases with a legal guardian's consent. A guardian may ask us to view or delete a child's data."
+    },
+    {
+     "heading": "8. Security Measures",
+     "body": "We use encryption in transit (HTTPS), restricted database access (security rules let users read and write only their own data, except for the public ranking) and protected administrator accounts."
+    },
+    {
+     "heading": "9. Automatic Collection",
+     "body": "The Service does not collect cookies or advertising identifiers (IDFA, Advertising ID) and does not track you across other apps and websites. Usage statistics are aggregated by Firebase Analytics per app installation (app instance ID) and are not used for ad personalization."
+    },
+    {
+     "heading": "10. Privacy Officer",
+     "body": "Name: Myungkwon Jeong\nEmail: redhat9p0@gmail.com\nYou can also report privacy violations to the Korea Internet & Security Agency's Privacy Infringement Report Center (privacy.kisa.or.kr, 118 in Korea) or the Personal Information Dispute Mediation Committee (www.kopico.go.kr, 1833-6972)."
+    },
+    {
+     "heading": "11. Changes to This Policy",
+     "body": "If this Policy changes, we will announce it in the app at least 7 days before it takes effect.\nEffective date: October 14, 2026"
+    }
+   ]
+  },
+  "ja": {
+   "title": "プライバシーポリシー",
+   "sections": [
+    {
+     "heading": "1. 総則",
+     "body": "エムケイ・ゲームスタジオ(MK Game Studio)(以下「運営者」)は、モバイルゲーム「鍛冶屋育成：冒険の時代」(以下「本サービス」)の運営にあたり、韓国「個人情報保護法」などの関係法令を守り、必要最小限の情報だけを取り扱います。本サービスは会員登録なしで利用でき、氏名・電話番号・メールアドレスを受け取りません。改善のため利用統計ツール(Google Firebase アナリティクス)を使いますが、広告識別子は収集せず、他社のアプリやウェブサイトをまたいで利用者を追跡しません。"
+    },
+    {
+     "heading": "2. 取り扱う情報と目的",
+     "body": "ア. ゲストとしての利用(必須)\n- 匿名の識別子(UID、Firebase匿名認証):クラウド保存、ランキング、エラー記録で利用者を区別するため\n- ゲームの進行情報(ゴールド・水晶、装備、冒険者、施設、実績・出席・ミッション、一部の設定):進行状況の保存と続きからのプレイのため(Firebase Firestore、ソウルリージョン)\nイ. ランキングの利用時\n- ニックネーム、戦闘力スコア、アプリのバージョン、記録時刻:全体ランキングの表示のため(ニックネームとスコアは他の利用者に公開されます)\nウ. エラー記録(自動)\n- エラーの発生箇所・メッセージの冒頭、画面、アプリのバージョン、言語、端末の種類(iOS/Android)、記録時刻:エラーを直すため。1日最大20件で、運営目的にのみ使います。\nエ. 利用分析(Google Firebase Analytics、自動)\n- ゲームをより良くするため、アプリの利用記録を収集します:プレイの段階、画面、アイテムの購入履歴(商品・金額)、おおよその地域(国)、端末・OSの種類とアプリのバージョン、エラー記録\n- 広告識別子(IDFA、広告ID)は収集しません。他社のアプリやウェブサイトをまたいで利用者を追跡しません。\n- ニックネームやメールアドレスなど個人を識別できる情報は分析に送りません。\nオ. 通知\n- 製作完了・冒険者の帰還などの通知は端末内で予約されるローカル通知で、通知の内容や端末のトークンを運営者のサーバーに送りません。通知は端末の設定またはゲームの 設定 > プッシュ通知 でオフにできます。\nカ. 端末内にのみ保存される情報\n- 進行情報と設定は端末のストレージにも保存されます。\nキ. 有料購入・広告(正式リリース時)\n- 現在のバージョンには実際の決済・広告はありません。提供を開始する際は、取り扱う情報(購入商品・履歴、ストアのレシート情報など)をこの方針に追加して事前にお知らせします。カード番号などの決済手段情報はストア(Apple、Google)が取り扱い、運営者は受け取りません。"
+    },
+    {
+     "heading": "3. 保有期間と破棄",
+     "body": "ア. アカウント・進行情報・ランキング記録:アカウント削除時にすぐ削除します。1年以上アクセスのないゲストアカウントは削除することがあります。\nイ. エラー記録:記録日から1年間保管後に削除します。\nウ. 利用統計:Google アナリティクスの保持設定により最大14か月保管後に削除されます。\nエ. お問い合わせメール:対応記録として受付日から3年間保管後に削除します(韓国「電子商取引等における消費者保護に関する法律」)。\nオ. 破棄は復元できない方法で行います。"
+    },
+    {
+     "heading": "4. 第三者への提供",
+     "body": "運営者は利用者の情報を第三者に提供しません。ただし、ランキングのニックネーム・スコアはサービスの機能として他の利用者に公開され、法令に基づく要請がある場合はそれに従います。"
+    },
+    {
+     "heading": "5. 取り扱いの委託と国外移転",
+     "body": "本サービスの運営のため、以下の事業者に情報の取り扱いを委託しており、その過程で情報が国外に移転されます。移転は本サービスの利用時にネットワークを通じて随時行われます。国外移転を望まない場合はアカウントを削除できますが、その場合はクラウド保存・ランキングを利用できません。\nア. Google LLC(米国) Firebase認証・データベース(保存場所:大韓民国ソウルリージョン)・利用統計(アナリティクス)\n- 移転項目:匿名の識別子、進行情報、ランキング情報、エラー記録、利用統計\n- 保有期間:第3条と同じ\nイ. Apple Inc.(米国)、Google LLC(米国) アプリの配布(App Store、Google Play) — 各社のプライバシーポリシーに従います。\n決済・広告機能を提供する際は、その委託先(アプリ内購入の確認、広告配信など)をこの方針に追加して事前にお知らせします。各事業者の連絡先は、各事業者のプライバシーポリシーで確認できます。",
+     "ios": "本サービスの運営のため、以下の事業者に情報の取り扱いを委託しており、その過程で情報が国外に移転されます。移転は本サービスの利用時にネットワークを通じて随時行われます。国外移転を望まない場合はアカウントを削除できますが、その場合はクラウド保存・ランキングを利用できません。\nア. Google LLC(米国) Firebase認証・データベース(保存場所:大韓民国ソウルリージョン)・利用統計(アナリティクス)\n- 移転項目:匿名の識別子、進行情報、ランキング情報、エラー記録、利用統計\n- 保有期間:第3条と同じ\nイ. Apple Inc.(米国) アプリの配布(App Store) — Appleのプライバシーポリシーに従います。\n決済・広告機能を提供する際は、その委託先(アプリ内購入の確認、広告配信など)をこの方針に追加して事前にお知らせします。各事業者の連絡先は、各事業者のプライバシーポリシーで確認できます。",
+     "android": "本サービスの運営のため、以下の事業者に情報の取り扱いを委託しており、その過程で情報が国外に移転されます。移転は本サービスの利用時にネットワークを通じて随時行われます。国外移転を望まない場合はアカウントを削除できますが、その場合はクラウド保存・ランキングを利用できません。\nア. Google LLC(米国) Firebase認証・データベース(保存場所:大韓民国ソウルリージョン)・利用統計(アナリティクス)\n- 移転項目:匿名の識別子、進行情報、ランキング情報、エラー記録、利用統計\n- 保有期間:第3条と同じ\nイ. Google LLC(米国) アプリの配布(Google Play) — Googleのプライバシーポリシーに従います。\n決済・広告機能を提供する際は、その委託先(アプリ内購入の確認、広告配信など)をこの方針に追加して事前にお知らせします。各事業者の連絡先は、各事業者のプライバシーポリシーで確認できます。"
+    },
+    {
+     "heading": "6. 利用者の権利",
+     "body": "利用者はいつでも自分の情報の閲覧・訂正・削除・取り扱いの停止を求めることができます。\n- アカウントとクラウドの進行データ・ランキングの削除:設定 > アカウント > アカウント削除\n- この端末の進行データの初期化:設定 > ゲームデータ初期化\n- ニックネームの変更:設定 > 名前変更\n- その他の要請(エラー記録の削除など):下記のメールにご連絡いただければ遅滞なく対応します。\nウェブのご案内:アカウントとデータの削除ページ(delete-account.html)"
+    },
+    {
+     "heading": "7. 子どもの個人情報",
+     "body": "本サービスは利用者の年齢情報を収集しません。14歳未満の子どもが有料購入をする場合は、法定代理人の同意を得てください。法定代理人は、子どもの情報の閲覧・削除をお問い合わせ先に依頼できます。"
+    },
+    {
+     "heading": "8. 安全確保のための措置",
+     "body": "運営者は、通信の暗号化(HTTPS)、データベースへのアクセス権限の制限(利用者が自分のデータだけを読み書きできるセキュリティルール — 公開ランキングは除く)、管理者アカウントの保護などの措置を講じています。"
+    },
+    {
+     "heading": "9. 自動収集の仕組み",
+     "body": "本サービスはCookieや広告識別子(IDFA、広告ID)を収集せず、他のアプリやウェブサイトをまたいで利用者を追跡しません。利用統計はFirebase アナリティクスがアプリのインストール単位の識別子(アプリインスタンスID)で集計し、広告のパーソナライズには使われません。"
+    },
+    {
+     "heading": "10. 個人情報保護責任者",
+     "body": "氏名:Myungkwon Jeong(정명권)\nメール:redhat9p0@gmail.com\n個人情報の侵害に関する申告・相談は、韓国の個人情報侵害申告センター(privacy.kisa.or.kr)、個人情報紛争調停委員会(www.kopico.go.kr)にも行えます。"
+    },
+    {
+     "heading": "11. 方針の変更",
+     "body": "この方針が変更される場合は、施行日の7日前までにアプリ内でお知らせします。\n施行日:2026年10月14日"
+    }
+   ]
+  }
+ }
+}
