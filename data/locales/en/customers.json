@@ -238,5 +238,17 @@
  "/value/fine/#2": "Money's no object!",
  "/value/cheap/#0": "Just what I needed!",
  "/value/cheap/#1": "What a bargain!",
- "/value/cheap/#2": "Easy on the wallet."
+ "/value/cheap/#2": "Easy on the wallet.",
+ "/reply/common/#0": "Hi there~",
+ "/reply/common/#1": "Just looking!",
+ "/reply/common/#2": "Thanks, keep it up!",
+ "/reply/adventurer/#0": "Got anything good?",
+ "/reply/adventurer/#1": "Here for some gear!",
+ "/reply/adventurer/#2": "Heard good things!",
+ "/reply/noble/#0": "Hm, I heard the rumors.",
+ "/reply/noble/#1": "At ease.",
+ "/reply/noble/#2": "Let's see your craft.",
+ "/reply/royal/#0": "Shh, I'm in secret!",
+ "/reply/royal/#1": "No need to be so stiff.",
+ "/reply/royal/#2": "Here on royal business."
 }

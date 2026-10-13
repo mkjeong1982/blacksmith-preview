@@ -238,5 +238,17 @@
  "/value/fine/#2": "金に糸目はつけない!",
  "/value/cheap/#0": "ちょうど使えそう!",
  "/value/cheap/#1": "この値段なら掘り出し物!",
- "/value/cheap/#2": "気軽に使えていいね"
+ "/value/cheap/#2": "気軽に使えていいね",
+ "/reply/common/#0": "こんにちは〜",
+ "/reply/common/#1": "ちょっと見せてね!",
+ "/reply/common/#2": "はーい、お疲れさま!",
+ "/reply/adventurer/#0": "いい品あるかい?",
+ "/reply/adventurer/#1": "装備を見に来たよ!",
+ "/reply/adventurer/#2": "最近評判いいね?",
+ "/reply/noble/#0": "ふむ、噂を聞いてな",
+ "/reply/noble/#1": "楽にしたまえ",
+ "/reply/noble/#2": "腕前を見せてもらおう",
+ "/reply/royal/#0": "しーっ、こっそり来たの!",
+ "/reply/royal/#1": "そう固くならずに",
+ "/reply/royal/#2": "王室の用で来た"
 }
