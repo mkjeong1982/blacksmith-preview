@@ -21,62 +21,74 @@
     {
       "id": "wood",
       "name": "목재",
-      "grade": "common"
+      "grade": "common",
+      "desc": "손잡이·활대엔 역시 나무죠! 어디에나 쓰여요"
     },
     {
       "id": "iron_ore",
       "name": "철광석",
-      "grade": "common"
+      "grade": "common",
+      "desc": "대장장이의 기본 중의 기본! 두들기면 뭐든 돼요"
     },
     {
       "id": "coal",
       "name": "석탄",
-      "grade": "uncommon"
+      "grade": "uncommon",
+      "desc": "불을 더 뜨겁게! 강철엔 꼭 필요해요"
     },
     {
       "id": "silver",
       "name": "은",
-      "grade": "rare"
+      "grade": "rare",
+      "desc": "반짝반짝, 마법 기운이 잘 스며들어요"
     },
     {
       "id": "leather",
       "name": "가죽",
-      "grade": "uncommon"
+      "grade": "uncommon",
+      "desc": "질기고 가벼워요. 활과 가벼운 갑옷에 딱!"
     },
     {
       "id": "mana_stone",
       "name": "마석",
-      "grade": "rare"
+      "grade": "rare",
+      "desc": "은은하게 빛나는 돌. 마법 장비의 핵심!"
     },
     {
       "id": "mithril",
       "name": "미스릴",
-      "grade": "uncommon"
+      "grade": "uncommon",
+      "desc": "가볍고 단단한 꿈의 금속!"
     },
     {
       "id": "firestone",
       "name": "화염석",
-      "grade": "rare"
+      "grade": "rare",
+      "desc": "앗 뜨거! 불의 힘이 담겨 있어요"
     },
     {
       "id": "dragon_scale",
       "name": "용비늘",
-      "grade": "rare"
+      "grade": "rare",
+      "desc": "용의 비늘! 웬만한 칼은 튕겨 나가요"
     },
     {
       "id": "dragon_heart",
       "name": "용의 숨결석",
-      "grade": "legendary"
+      "grade": "legendary",
+      "desc": "아직도 두근거려요… 전설 장비의 재료!"
     },
     {
       "id": "frost_crystal",
       "name": "서리 결정",
-      "grade": "rare"
+      "grade": "rare",
+      "desc": "차갑게 빛나는 얼음 수정이에요"
     },
     {
       "id": "sky_core",
       "name": "하늘 핵",
-      "grade": "legendary"
+      "grade": "legendary",
+      "desc": "하늘 유적의 심장. 만지면 몸이 가벼워져요"
     }
   ]
 }

@@ -14,5 +14,17 @@
  "/materials/[dragon_scale]/name": "Dragonscale",
  "/materials/[dragon_heart]/name": "Breathstone",
  "/materials/[frost_crystal]/name": "Frost Crystal",
- "/materials/[sky_core]/name": "Sky Core"
+ "/materials/[sky_core]/name": "Sky Core",
+ "/materials/[wood]/desc": "Every handle and bow starts here!",
+ "/materials/[iron_ore]/desc": "The smith's bread and butter!",
+ "/materials/[coal]/desc": "Hotter fire! Steel needs it",
+ "/materials/[silver]/desc": "Shiny, and holds magic well",
+ "/materials/[leather]/desc": "Tough and light — great for bows",
+ "/materials/[mana_stone]/desc": "A softly glowing stone for magic gear",
+ "/materials/[mithril]/desc": "The dream metal: light and hard!",
+ "/materials/[firestone]/desc": "Ouch, hot! Full of fire",
+ "/materials/[dragon_scale]/desc": "Dragon scale — blades just bounce off",
+ "/materials/[dragon_heart]/desc": "Still beating… stuff of legends!",
+ "/materials/[frost_crystal]/desc": "An icy crystal with a cold glow",
+ "/materials/[sky_core]/desc": "Heart of the sky ruins — feels light"
 }

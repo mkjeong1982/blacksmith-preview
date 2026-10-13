@@ -14,5 +14,17 @@
   "/materials/[dragon_scale]/name": "竜鱗",
   "/materials/[dragon_heart]/name": "竜の息吹石",
   "/materials/[frost_crystal]/name": "霜の結晶",
-  "/materials/[sky_core]/name": "天空の核"
+  "/materials/[sky_core]/name": "天空の核",
+  "/materials/[wood]/desc": "持ち手や弓にはやっぱり木!どこでも使うよ",
+  "/materials/[iron_ore]/desc": "鍛冶の基本中の基本!叩けば何にでもなる",
+  "/materials/[coal]/desc": "火をもっと熱く!鋼には欠かせない",
+  "/materials/[silver]/desc": "キラキラ、魔力がよくなじむよ",
+  "/materials/[leather]/desc": "丈夫で軽い!弓や軽い鎧にぴったり",
+  "/materials/[mana_stone]/desc": "ほのかに光る石。魔法装備のかなめ!",
+  "/materials/[mithril]/desc": "軽くて硬い、夢の金属!",
+  "/materials/[firestone]/desc": "アチッ!炎の力が詰まってる",
+  "/materials/[dragon_scale]/desc": "竜のウロコ!並の刃は弾いちゃう",
+  "/materials/[dragon_heart]/desc": "まだドキドキしてる…伝説の素材!",
+  "/materials/[frost_crystal]/desc": "冷たく光る氷の結晶だよ",
+  "/materials/[sky_core]/desc": "天空遺跡の心臓。触ると体が軽くなる"
 }
