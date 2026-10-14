@@ -43,7 +43,7 @@
             "멧돼지랑 씨름 중! 엉덩이 조심!",
             "멧돼지가 돌진! 옆으로 피해~"
           ],
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "bees",
@@ -127,7 +127,7 @@
             "박쥐가 머리에 엉켰어! 떼어 내는 중!"
           ],
           "fly": true,
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "mine_slime",
@@ -138,7 +138,7 @@
             "광산 슬라임이랑 미끌미끌 대결 중!",
             "슬라임을 밟았다! 신발이 울어요~"
           ],
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "golem_kid",
@@ -149,7 +149,7 @@
             "아기 골렘이 굴러온다! 피해!",
             "작아도 바위! 아기 골렘과 대결 중!"
           ],
-          "faces": "front"
+          "faces": "left"
         }
       ],
       "accessoryDrop": {
@@ -203,7 +203,7 @@
             "고블린 정찰병 발견! 북 치기 전에 잡아!",
             "고블린이 몰래 따라와요! 맞서는 중!"
           ],
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "toadstools",
@@ -214,7 +214,7 @@
             "독버섯 무리랑 싸우는 중! 숨 참아!",
             "포자 조심! 세상이 빙글빙글~"
           ],
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "giant_spider",
@@ -225,7 +225,7 @@
             "거대 거미랑 대결 중! 거미줄 끈끈해!",
             "거미가 줄 타고 도망간다! 쫓아!"
           ],
-          "faces": "front"
+          "faces": "left"
         }
       ],
       "accessoryDrop": {
@@ -293,7 +293,7 @@
             "용암 슬라임이랑 싸우는 중! 앗 뜨거!",
             "장갑 끼고 용암 슬라임 퇴치 중!"
           ],
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "fire_lizard",
@@ -315,7 +315,7 @@
             "잿빛 꼬마 악마가 재를 뿌려요! 콜록!",
             "장난꾸러기 꼬마 악마를 쫓는 중!"
           ],
-          "faces": "front"
+          "faces": "right"
         }
       ],
       "accessoryDrop": {
@@ -394,7 +394,7 @@
             "졸던 드레이크 파수꾼이 깼어! 싸우는 중!",
             "드레이크 파수꾼이랑 정면 승부!"
           ],
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "sleepy_dragon",
@@ -467,7 +467,7 @@
             "서리 박쥐 떼를 쫓는 중! 추워!"
           ],
           "fly": true,
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "snow_yeti",
@@ -478,7 +478,7 @@
             "꼬마 설인이랑 눈싸움 중! 차가워!",
             "눈뭉치가 날아온다! 맞받아치는 중!"
           ],
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "ice_golem",
@@ -489,7 +489,7 @@
             "얼음 골렘이랑 느릿느릿 대결 중!",
             "단단한 얼음 골렘! 녹은 데를 노려!"
           ],
-          "faces": "front"
+          "faces": "left"
         }
       ],
       "accessoryDrop": {
@@ -551,7 +551,7 @@
             "장난꾸러기 도깨비불이랑 술래잡기!"
           ],
           "fly": true,
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "stone_guardian",
@@ -562,7 +562,7 @@
             "돌 수호자랑 대결 중! 다리 저려서 느려요!",
             "천 년 된 수호자가 움직였어! 싸우는 중!"
           ],
-          "faces": "front"
+          "faces": "left"
         },
         {
           "id": "sky_drake",
