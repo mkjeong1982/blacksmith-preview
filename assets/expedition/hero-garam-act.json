@@ -1,8 +1,8 @@
 {
-  "frameWidth": 40,
+  "frameWidth": 56,
   "frameHeight": 60,
   "savedScale": 2,
-  "storedFrameWidth": 80,
+  "storedFrameWidth": 112,
   "storedFrameHeight": 120,
   "facing": "right",
   "leftFacing": "flipRight",
@@ -63,152 +63,152 @@
   "frames": {
     "8": {
       "hand": {
-        "x": 30,
+        "x": 38,
         "y": 35,
         "angle": -35
       }
     },
     "9": {
       "hand": {
-        "x": 33,
+        "x": 41,
         "y": 35,
         "angle": -75
       }
     },
     "10": {
       "hand": {
-        "x": 33,
+        "x": 41,
         "y": 31,
         "angle": 70
       }
     },
     "11": {
       "hand": {
-        "x": 34,
+        "x": 42,
         "y": 26,
         "angle": 115
       }
     },
     "18": {
       "hand": {
-        "x": 30,
+        "x": 38,
         "y": 35,
         "angle": -90
       },
       "hand2": {
-        "x": 10,
+        "x": 18,
         "y": 35,
         "angle": -90
       }
     },
     "19": {
       "hand": {
-        "x": 18,
+        "x": 26,
         "y": 17,
         "angle": 0
       },
       "hand2": {
-        "x": 27,
+        "x": 35,
         "y": 19,
         "angle": 0
       }
     },
     "20": {
       "hand": {
-        "x": 21,
+        "x": 29,
         "y": 8,
         "angle": 0
       },
       "hand2": {
-        "x": 28,
+        "x": 36,
         "y": 33,
         "angle": 0
       }
     },
     "21": {
       "hand": {
-        "x": 23,
+        "x": 31,
         "y": 53,
         "angle": 80
       },
       "hand2": {
-        "x": 18,
+        "x": 26,
         "y": 36,
         "angle": 80
       }
     },
     "22": {
       "hand": {
-        "x": 29,
+        "x": 37,
         "y": 31,
         "angle": -25
       }
     },
     "23": {
       "hand": {
-        "x": 25,
+        "x": 33,
         "y": 30,
         "angle": -75
       }
     },
     "24": {
       "hand": {
-        "x": 34,
+        "x": 42,
         "y": 28,
         "angle": 90
       }
     },
     "25": {
       "hand": {
-        "x": 34,
+        "x": 42,
         "y": 26,
         "angle": 90
       }
     },
     "26": {
       "hand": {
-        "x": 19,
+        "x": 27,
         "y": 27,
         "angle": 0
       },
       "leftHand": {
-        "x": 34,
+        "x": 42,
         "y": 26,
         "angle": 0
       }
     },
     "27": {
       "hand": {
-        "x": 19,
+        "x": 27,
         "y": 28,
         "angle": 0
       },
       "leftHand": {
-        "x": 34,
+        "x": 42,
         "y": 27,
         "angle": 0
       }
     },
     "28": {
       "hand": {
-        "x": 18,
+        "x": 26,
         "y": 28,
         "angle": 0
       },
       "leftHand": {
-        "x": 34,
+        "x": 42,
         "y": 27,
         "angle": 0
       }
     },
     "29": {
       "hand": {
-        "x": 20,
+        "x": 28,
         "y": 26,
         "angle": 0
       },
       "leftHand": {
-        "x": 34,
+        "x": 42,
         "y": 26,
         "angle": 0
       }

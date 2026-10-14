@@ -17,8 +17,9 @@
   "side": 9,
   "sigSide": [
     10,
-    11,
-    12,
+    12
+  ],
+  "sigSideSkipped": [
     11
   ]
 }
