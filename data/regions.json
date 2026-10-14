@@ -55,7 +55,7 @@
             "윙윙~ 벌 떼를 쫓아내는 중!"
           ],
           "fly": true,
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "squirrel",
