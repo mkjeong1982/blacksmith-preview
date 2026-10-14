@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>망치 소리 비교</title>
+<style>
+  :root { --bg: #1d130c; --card: #3b2416; --gold: #f6c453; --ink: #f3e3c4; --soft: #c9b08a; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 system-ui, sans-serif; }
+  main { max-width: 560px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { color: var(--gold); font-size: 22px; margin: 0 0 4px; }
+  p { color: var(--soft); margin: 0 0 18px; font-size: 14px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .col { background: var(--card); border: 1px solid rgba(246,196,83,.35); border-radius: 14px; padding: 14px; }
+  .col h2 { margin: 0 0 10px; font-size: 17px; color: var(--gold); }
+  button { display: block; width: 100%; min-height: 44px; margin: 0 0 8px; border: 0; border-radius: 10px; background: #6b4426; color: var(--ink); font: inherit; cursor: pointer; }
+  button.run { background: #8c5a2b; font-weight: 700; }
+  button:active { transform: translateY(1px); }
+</style>
+</head>
+<body>
+<main>
+  <h1>대장간 망치 소리 — 옛 소리 vs 새 소리</h1>
+  <p>WP173 61. 하나씩 눌러 듣거나, "연속 망치질"로 게임처럼 세 소리를 섞어 0.45초마다 8번 쳐 봅니다. (소리 켜고 들어 주세요)</p>
+  <div class="grid">
+    <div class="col" data-set="old"><h2>옛 소리</h2></div>
+    <div class="col" data-set="new"><h2>새 소리</h2></div>
+  </div>
+</main>
+<script>
+  for (const col of document.querySelectorAll(".col")) {
+    const set = col.dataset.set;
+    const play = (n) => new Audio(set + "/hammer_" + n + ".m4a").play();
+    for (const n of [1, 2, 3]) {
+      const b = document.createElement("button");
+      b.textContent = "망치 " + n;
+      b.onclick = () => play(n);
+      col.append(b);
+    }
+    const run = document.createElement("button");
+    run.className = "run";
+    run.textContent = "연속 망치질";
+    run.onclick = () => { for (let i = 0; i < 8; i++) setTimeout(() => play(1 + Math.floor(Math.random() * 3)), i * 450); };
+    col.append(run);
+  }
+</script>
+</body>
+</html>
