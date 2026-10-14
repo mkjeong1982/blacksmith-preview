@@ -1,5 +1,5 @@
 {
-  "_doc": "WP144 손님 대사(임시): 종류별 구경(browse) · 살 때(buy) · 나갈 때(leave), 공통 구경(common), 구경 손님이 나가며(WP168 leaveBrowse: any + 신분별, 매번), 가게 상황(context: famous 대장간 Lv.7+ · rare 레어 보유 · working 제작 중). 뽑을 때 직전 5줄과 겹치지 않게. WP161: kinds.*.sig(특징 동작 대사) · value(판매 장비 값 반응: fine 고가 · cheap 저가). WP162: reply(주인공 인사에 대한 신분별 답). WP168 추가 8: 판 장비를 가리키는 줄은 {item}(판 장비의 짧은 종류 이름 — 조사는 받침에 맞춤) · {fine}(무기 명검 / 그 밖 명품). WP173 22: kinds.*.reply · leaveBrowse(그 종류만의 답·퇴장 대사, 있으면 신분 풀 대신) · leaveTags / leaveTags(퇴장 대사의 결: again·secret·thanks·sad — 대장장이 배웅이 짝으로). WP173 28: 구경·특징·공통 대사의 {item}·{fine} = 가게에 있는 장비 하나(그 손님과 어울리는 종류 먼저). WP173 35: kinds.*.gear = 무기를 전제한 줄의 분류(browse·buy·sig 순번 → weapon/shield/armor/accessory, 없으면 any) — 판·보는 장비의 분류와 맞는 줄만 고름 · gearLines = 분류별 판매 대사. WP173 42: kinds.*.browseTalk · commonTalk · contextTalk = 말의 종류(ask 질문 · praise 칭찬 · rumor 소문 · request 부탁 · remark 감상 · self 혼잣말) — 대장장이 대꾸 규칙. WP174: request = 손님 주문(ask {item} · happy 판매 · sad 없음 · busy 응답 없음) · tip = 귀한·왕실 손님의 팁 인사, 신분별.",
+  "_doc": "WP144 손님 대사(임시): 종류별 구경(browse) · 살 때(buy) · 나갈 때(leave), 공통 구경(common), 구경 손님이 나가며(WP168 leaveBrowse: any + 신분별, 매번), 가게 상황(context: famous 대장간 Lv.7+ · rare 레어 보유 · working 제작 중). 뽑을 때 직전 5줄과 겹치지 않게. WP161: kinds.*.sig(특징 동작 대사) · value(판매 장비 값 반응: fine 고가 · cheap 저가). WP162: reply(주인공 인사에 대한 신분별 답). WP168 추가 8: 판 장비를 가리키는 줄은 {item}(판 장비의 짧은 종류 이름 — 조사는 받침에 맞춤) · {fine}(무기 명검 / 그 밖 명품). WP173 22: kinds.*.reply · leaveBrowse(그 종류만의 답·퇴장 대사, 있으면 신분 풀 대신) · leaveTags / leaveTags(퇴장 대사의 결: again·secret·thanks·sad — 대장장이 배웅이 짝으로). WP173 28: 구경·특징·공통 대사의 {item}·{fine} = 가게에 있는 장비 하나(그 손님과 어울리는 종류 먼저). WP173 35: kinds.*.gear = 무기를 전제한 줄의 분류(browse·buy·sig 순번 → weapon/shield/armor/accessory, 없으면 any) — 판·보는 장비의 분류와 맞는 줄만 고름 · gearLines = 분류별 판매 대사. WP173 42 → 68: kinds.*.browseTalk · commonTalk · contextTalk = 말의 의도(대장장이 대답 풀이 정해짐): seek 찾는 중 · price 값 · favor 해 줄 수 있나 · yes 예/아니오 질문 · secret 비법 질문 · hush 비밀 부탁 · greet 인사 · browse 구경만 · opinion 감상(맞장구는 이것만, 반쯤) · praise 칭찬 · rumor 소문 · request 부탁 · self 혼잣말(대답 없음) · ask(옛 — 말에서 짐작). 태그 없는 줄 0. WP174: request = 손님 주문(ask {item} · happy 판매 · sad 없음 · busy 응답 없음) · tip = 귀한·왕실 손님의 팁 인사, 신분별.",
   "kinds": {
     "knight": {
       "browse": [
@@ -23,10 +23,10 @@
         "전장에서 믿을 만하겠어."
       ],
       "browseTalk": [
-        "remark",
+        "seek",
         "praise",
         "praise",
-        "request"
+        "seek"
       ],
       "gear": {
         "browse": {
@@ -60,10 +60,10 @@
         "다음 모험이 기다려진다!"
       ],
       "browseTalk": [
-        "remark",
-        "ask",
+        "seek",
+        "yes",
         "request",
-        "ask"
+        "price"
       ],
       "gear": {
         "browse": {
@@ -93,10 +93,10 @@
         "땀 한 방울도 우아하게~"
       ],
       "browseTalk": [
-        "remark",
-        "ask",
-        "ask",
-        "ask"
+        "request",
+        "secret",
+        "yes",
+        "yes"
       ],
       "gear": {
         "browse": {
@@ -127,10 +127,10 @@
         "어디 보자, 흠흠."
       ],
       "browseTalk": [
-        "remark",
-        "ask",
-        "ask",
-        "remark"
+        "browse",
+        "favor",
+        "favor",
+        "seek"
       ],
       "gear": {
         "sig": {
@@ -175,10 +175,10 @@
         "sad"
       ],
       "browseTalk": [
-        "ask",
-        "ask",
-        "remark",
-        "ask"
+        "favor",
+        "favor",
+        "opinion",
+        "secret"
       ]
     },
     "hunter": {
@@ -203,10 +203,10 @@
         "사냥감이 벌써 떨고 있겠는걸."
       ],
       "browseTalk": [
-        "remark",
+        "opinion",
         "praise",
-        "remark",
-        "remark"
+        "opinion",
+        "opinion"
       ],
       "gear": {
         "browse": {
@@ -242,10 +242,10 @@
         "우리 산 쇠만은 못해도 쓸 만해."
       ],
       "browseTalk": [
-        "ask",
+        "price",
         "praise",
-        "remark",
-        "ask"
+        "opinion",
+        "secret"
       ],
       "gear": {
         "browse": {
@@ -276,9 +276,9 @@
       ],
       "browseTalk": [
         "self",
-        "remark",
-        "remark",
-        "remark"
+        "opinion",
+        "opinion",
+        "opinion"
       ]
     },
     "merchant": {
@@ -303,10 +303,10 @@
         "흥정은 예의라고!"
       ],
       "browseTalk": [
-        "remark",
-        "ask",
-        "ask",
-        "praise"
+        "price",
+        "price",
+        "price",
+        "price"
       ]
     },
     "rookie": {
@@ -331,10 +331,10 @@
         "돈 모아서 꼭 살 거야!"
       ],
       "browseTalk": [
-        "ask",
+        "yes",
         "rumor",
-        "ask",
-        "remark"
+        "yes",
+        "opinion"
       ]
     },
     "villager": {
@@ -360,9 +360,9 @@
       ],
       "browseTalk": [
         "request",
-        "remark",
+        "opinion",
         "praise",
-        "praise"
+        "browse"
       ]
     },
     "kid": {
@@ -402,9 +402,9 @@
         "thanks"
       ],
       "browseTalk": [
-        "remark",
-        "ask",
-        "remark",
+        "opinion",
+        "favor",
+        "opinion",
         "praise"
       ]
     },
@@ -432,7 +432,7 @@
       "browseTalk": [
         "request",
         "praise",
-        "ask",
+        "yes",
         "rumor"
       ],
       "gear": {
@@ -463,10 +463,10 @@
         "밭일엔 이게 최고지."
       ],
       "browseTalk": [
-        "ask",
-        "remark",
+        "favor",
+        "seek",
         "praise",
-        "remark"
+        "seek"
       ],
       "gear": {
         "buy": {
@@ -497,9 +497,9 @@
       ],
       "browseTalk": [
         "request",
-        "remark",
-        "ask",
-        "remark"
+        "opinion",
+        "favor",
+        "seek"
       ]
     },
     "captain": {
@@ -524,7 +524,7 @@
         "근위대 기강은 장비부터지."
       ],
       "browseTalk": [
-        "remark",
+        "browse",
         "praise",
         "praise",
         "rumor"
@@ -573,9 +573,9 @@
       ],
       "browseTalk": [
         "praise",
-        "remark",
+        "opinion",
         "praise",
-        "remark"
+        "seek"
       ]
     },
     "princess": {
@@ -615,10 +615,10 @@
         "thanks"
       ],
       "browseTalk": [
-        "remark",
-        "remark",
-        "ask",
-        "request"
+        "hush",
+        "greet",
+        "yes",
+        "hush"
       ]
     }
   },
@@ -735,14 +735,14 @@
     ]
   },
   "commonTalk": [
-    "remark",
+    "seek",
     "praise",
-    "ask",
-    "remark",
-    "remark",
-    "remark",
-    "remark",
-    "ask",
+    "browse",
+    "praise",
+    "opinion",
+    "opinion",
+    "opinion",
+    "seek",
     "praise",
     "praise"
   ],
@@ -752,12 +752,12 @@
       "rumor"
     ],
     "rare": [
-      "ask",
-      "ask"
+      "secret",
+      "secret"
     ],
     "working": [
-      "remark",
-      "remark"
+      "opinion",
+      "browse"
     ]
   },
   "gearLines": {
