@@ -1,0 +1,17 @@
+{
+  "_doc": "WP173: each scene's floor line — where the feet touch the path (picture px, the 2× files' 400 px height; set by eye with a test overlay, 임시). road = going · coming back · back at the village.",
+  "height": 400,
+  "groundY": {
+    "back_hill": 318,
+    "old_mine": 345,
+    "goblin_forest": 302,
+    "volcano": 320,
+    "dragon_nest": 305,
+    "frost_canyon": 326,
+    "sky_ruins": 288,
+    "road": 318
+  },
+  "heroFeet": 58,
+  "monsterFeet": 39,
+  "flyLift": 26
+}
