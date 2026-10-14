@@ -11,6 +11,7 @@
   ],
   "body": {
     "headTop": 42,
+    "hatTop": 32,
     "chin": 85,
     "feet": 310
   },

@@ -10,8 +10,9 @@
     7
   ],
   "body": {
-    "headTop": 66,
-    "chin": 100,
+    "headTop": 63,
+    "hatTop": 30,
+    "chin": 107,
     "feet": 311
   },
   "side": 9
