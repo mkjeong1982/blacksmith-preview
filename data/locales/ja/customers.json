@@ -286,5 +286,17 @@
  "/kinds/mage/reply/#2": "わあ、不思議な物がいっぱい!",
  "/kinds/mage/leaveBrowse/#0": "次は杖を見に来るね!",
  "/kinds/mage/leaveBrowse/#1": "塔に帰って自慢しよう〜",
- "/kinds/mage/leaveBrowse/#2": "お小遣い貯めたらまた来るね!"
+ "/kinds/mage/leaveBrowse/#2": "お小遣い貯めたらまた来るね!",
+ "/gearLines/weapon/#0": "この刃なら何でもスパッと!",
+ "/gearLines/weapon/#1": "手にしっくりくる!",
+ "/gearLines/weapon/#2": "振ってみたくてウズウズ!",
+ "/gearLines/shield/#0": "これならイノシシの突進もへっちゃら!",
+ "/gearLines/shield/#1": "頼もしい~後ろに隠れられそう!",
+ "/gearLines/shield/#2": "矢の雨も平気そう!",
+ "/gearLines/armor/#0": "着たら安心できそう!",
+ "/gearLines/armor/#1": "思ったより軽い?いいね!",
+ "/gearLines/armor/#2": "これ着て転んでも痛くなさそう!",
+ "/gearLines/accessory/#0": "まあ、キラキラで好みど真ん中~",
+ "/gearLines/accessory/#1": "プレゼントにぴったり!",
+ "/gearLines/accessory/#2": "着けるだけで気分が上がる~"
 }

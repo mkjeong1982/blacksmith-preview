@@ -286,5 +286,17 @@
  "/kinds/mage/reply/#2": "Wow, so many neat things!",
  "/kinds/mage/leaveBrowse/#0": "Next time I'll come for a staff!",
  "/kinds/mage/leaveBrowse/#1": "Gotta brag about this at the tower~",
- "/kinds/mage/leaveBrowse/#2": "I'll be back when I've saved up!"
+ "/kinds/mage/leaveBrowse/#2": "I'll be back when I've saved up!",
+ "/gearLines/weapon/#0": "This edge could slice anything!",
+ "/gearLines/weapon/#1": "Fits my hand just right!",
+ "/gearLines/weapon/#2": "I'm itching to swing it!",
+ "/gearLines/shield/#0": "Even a charging boar won't budge me!",
+ "/gearLines/shield/#1": "So sturdy — I could hide behind it!",
+ "/gearLines/shield/#2": "Arrow rain? No problem!",
+ "/gearLines/armor/#0": "I'd feel safe in this!",
+ "/gearLines/armor/#1": "Lighter than I thought? Nice!",
+ "/gearLines/armor/#2": "Bet falling won't even hurt in this!",
+ "/gearLines/accessory/#0": "Ooh, sparkly — just my taste~",
+ "/gearLines/accessory/#1": "Perfect for a gift!",
+ "/gearLines/accessory/#2": "Wearing it already cheers me up~"
 }

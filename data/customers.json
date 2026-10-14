@@ -1,5 +1,5 @@
 {
-  "_doc": "WP144 손님 대사(임시): 종류별 구경(browse) · 살 때(buy) · 나갈 때(leave), 공통 구경(common), 구경 손님이 나가며(WP168 leaveBrowse: any + 신분별, 매번), 가게 상황(context: famous 대장간 Lv.7+ · rare 레어 보유 · working 제작 중). 뽑을 때 직전 5줄과 겹치지 않게. WP161: kinds.*.sig(특징 동작 대사) · value(판매 장비 값 반응: fine 고가 · cheap 저가). WP162: reply(주인공 인사에 대한 신분별 답). WP168 추가 8: 판 장비를 가리키는 줄은 {item}(판 장비의 짧은 종류 이름 — 조사는 받침에 맞춤) · {fine}(무기 명검 / 그 밖 명품). WP173 22: kinds.*.reply · leaveBrowse(그 종류만의 답·퇴장 대사, 있으면 신분 풀 대신) · leaveTags / leaveTags(퇴장 대사의 결: again·secret·thanks·sad — 대장장이 배웅이 짝으로). WP173 28: 구경·특징·공통 대사의 {item}·{fine} = 가게에 있는 장비 하나(그 손님과 어울리는 종류 먼저).",
+  "_doc": "WP144 손님 대사(임시): 종류별 구경(browse) · 살 때(buy) · 나갈 때(leave), 공통 구경(common), 구경 손님이 나가며(WP168 leaveBrowse: any + 신분별, 매번), 가게 상황(context: famous 대장간 Lv.7+ · rare 레어 보유 · working 제작 중). 뽑을 때 직전 5줄과 겹치지 않게. WP161: kinds.*.sig(특징 동작 대사) · value(판매 장비 값 반응: fine 고가 · cheap 저가). WP162: reply(주인공 인사에 대한 신분별 답). WP168 추가 8: 판 장비를 가리키는 줄은 {item}(판 장비의 짧은 종류 이름 — 조사는 받침에 맞춤) · {fine}(무기 명검 / 그 밖 명품). WP173 22: kinds.*.reply · leaveBrowse(그 종류만의 답·퇴장 대사, 있으면 신분 풀 대신) · leaveTags / leaveTags(퇴장 대사의 결: again·secret·thanks·sad — 대장장이 배웅이 짝으로). WP173 28: 구경·특징·공통 대사의 {item}·{fine} = 가게에 있는 장비 하나(그 손님과 어울리는 종류 먼저). WP173 35: kinds.*.gear = 무기를 전제한 줄의 분류(browse·buy·sig 순번 → weapon/shield/armor/accessory, 없으면 any) — 판·보는 장비의 분류와 맞는 줄만 고름 · gearLines = 분류별 판매 대사. WP173 42: kinds.*.browseTalk · commonTalk · contextTalk = 말의 종류(ask 질문 · praise 칭찬 · rumor 소문 · request 부탁 · remark 감상 · self 혼잣말) — 대장장이 대꾸 규칙.",
   "kinds": {
     "knight": {
       "browse": [
@@ -21,7 +21,22 @@
         "균형이 좋군.",
         "{item} 손질이 깔끔하군.",
         "전장에서 믿을 만하겠어."
-      ]
+      ],
+      "browseTalk": [
+        "remark",
+        "praise",
+        "praise",
+        "request"
+      ],
+      "gear": {
+        "browse": {
+          "1": "weapon",
+          "3": "weapon"
+        },
+        "sig": {
+          "0": "weapon"
+        }
+      }
     },
     "hero": {
       "browse": [
@@ -43,7 +58,18 @@
         "전설의 {fine}은 여기 없나?!",
         "망토가 휘날려야 용사지!",
         "다음 모험이 기다려진다!"
-      ]
+      ],
+      "browseTalk": [
+        "remark",
+        "ask",
+        "request",
+        "ask"
+      ],
+      "gear": {
+        "browse": {
+          "1": "weapon"
+        }
+      }
     },
     "lady": {
       "browse": [
@@ -65,7 +91,19 @@
         "어머, 여긴 좀 덥네요~ 호호",
         "부채 없인 못 있겠어요.",
         "땀 한 방울도 우아하게~"
-      ]
+      ],
+      "browseTalk": [
+        "remark",
+        "ask",
+        "ask",
+        "ask"
+      ],
+      "gear": {
+        "browse": {
+          "1": "weapon",
+          "2": "weapon"
+        }
+      }
     },
     "noble": {
       "browse": [
@@ -87,7 +125,18 @@
         "흠, 이 날 좀 보게나…",
         "외알 안경이 필요한 솜씨군.",
         "어디 보자, 흠흠."
-      ]
+      ],
+      "browseTalk": [
+        "remark",
+        "ask",
+        "ask",
+        "remark"
+      ],
+      "gear": {
+        "sig": {
+          "0": "weapon"
+        }
+      }
     },
     "mage": {
       "browse": [
@@ -124,6 +173,12 @@
         "again",
         "thanks",
         "sad"
+      ],
+      "browseTalk": [
+        "ask",
+        "ask",
+        "remark",
+        "ask"
       ]
     },
     "hunter": {
@@ -146,7 +201,24 @@
         "탄력 좋은 걸로 부탁해!",
         "시위가 착 감기네.",
         "사냥감이 벌써 떨고 있겠는걸."
-      ]
+      ],
+      "browseTalk": [
+        "remark",
+        "praise",
+        "remark",
+        "remark"
+      ],
+      "gear": {
+        "browse": {
+          "1": "weapon",
+          "2": "weapon"
+        },
+        "sig": {
+          "0": "weapon",
+          "1": "weapon",
+          "2": "weapon"
+        }
+      }
     },
     "dwarf_trader": {
       "browse": [
@@ -168,7 +240,18 @@
         "흥, 제법 단단하군.",
         "두드려 보면 다 안다고.",
         "우리 산 쇠만은 못해도 쓸 만해."
-      ]
+      ],
+      "browseTalk": [
+        "ask",
+        "praise",
+        "remark",
+        "ask"
+      ],
+      "gear": {
+        "browse": {
+          "3": "weapon"
+        }
+      }
     },
     "bard": {
       "browse": [
@@ -190,6 +273,12 @@
         "♪ 대장장이의 망치 소리~",
         "이 소리로 노래 하나 지어야지!",
         "♪ 땅땅 쇠가 노래하네~"
+      ],
+      "browseTalk": [
+        "self",
+        "remark",
+        "remark",
+        "remark"
       ]
     },
     "merchant": {
@@ -212,6 +301,12 @@
         "값만 맞으면 다 산다고!",
         "짤랑짤랑~ 돈 소리 좋지?",
         "흥정은 예의라고!"
+      ],
+      "browseTalk": [
+        "remark",
+        "ask",
+        "ask",
+        "praise"
       ]
     },
     "rookie": {
@@ -234,6 +329,12 @@
         "언젠가 저런 걸…!",
         "내 녹슨 {item}이랑은 달라…",
         "돈 모아서 꼭 살 거야!"
+      ],
+      "browseTalk": [
+        "ask",
+        "rumor",
+        "ask",
+        "remark"
       ]
     },
     "villager": {
@@ -256,6 +357,12 @@
         "구경만 해도 되죠?",
         "에구, 여긴 덥다 더워.",
         "땀 좀 닦고 보자."
+      ],
+      "browseTalk": [
+        "request",
+        "remark",
+        "praise",
+        "praise"
       ]
     },
     "kid": {
@@ -293,6 +400,12 @@
         "again",
         "sad",
         "thanks"
+      ],
+      "browseTalk": [
+        "remark",
+        "ask",
+        "remark",
+        "praise"
       ]
     },
     "maiden": {
@@ -315,7 +428,18 @@
         "어디 보자, 뭘 사 갈까~",
         "바구니에 쏙 들어가려나?",
         "두리번두리번~"
-      ]
+      ],
+      "browseTalk": [
+        "request",
+        "praise",
+        "ask",
+        "rumor"
+      ],
+      "gear": {
+        "buy": {
+          "1": "weapon"
+        }
+      }
     },
     "farmer": {
       "browse": [
@@ -337,7 +461,18 @@
         "쇠스랑이 좀 무뎌졌어.",
         "어깨가 뻐근하구먼.",
         "밭일엔 이게 최고지."
-      ]
+      ],
+      "browseTalk": [
+        "ask",
+        "remark",
+        "praise",
+        "remark"
+      ],
+      "gear": {
+        "buy": {
+          "0": "weapon"
+        }
+      }
     },
     "baker": {
       "browse": [
@@ -359,6 +494,12 @@
         "음~ 빵 냄새가 여기까지!",
         "오븐 불 꺼야 하는데!",
         "반죽하듯 두드리네요~"
+      ],
+      "browseTalk": [
+        "request",
+        "remark",
+        "ask",
+        "remark"
       ]
     },
     "captain": {
@@ -381,7 +522,18 @@
         "경례! 수고가 많네.",
         "먼지 좀 털고…",
         "근위대 기강은 장비부터지."
-      ]
+      ],
+      "browseTalk": [
+        "remark",
+        "praise",
+        "praise",
+        "rumor"
+      ],
+      "gear": {
+        "browse": {
+          "1": "weapon"
+        }
+      }
     },
     "archmage": {
       "browse": [
@@ -418,6 +570,12 @@
         "again",
         "sad",
         "thanks"
+      ],
+      "browseTalk": [
+        "praise",
+        "remark",
+        "praise",
+        "remark"
       ]
     },
     "princess": {
@@ -455,6 +613,12 @@
         "secret",
         "secret",
         "thanks"
+      ],
+      "browseTalk": [
+        "remark",
+        "remark",
+        "ask",
+        "request"
       ]
     }
   },
@@ -568,6 +732,54 @@
     "royal": [
       "again",
       "again"
+    ]
+  },
+  "commonTalk": [
+    "remark",
+    "praise",
+    "ask",
+    "remark",
+    "remark",
+    "remark",
+    "remark",
+    "ask",
+    "praise",
+    "praise"
+  ],
+  "contextTalk": {
+    "famous": [
+      "rumor",
+      "rumor"
+    ],
+    "rare": [
+      "ask",
+      "ask"
+    ],
+    "working": [
+      "remark",
+      "remark"
+    ]
+  },
+  "gearLines": {
+    "weapon": [
+      "이 날이면 뭐든 싹둑이겠네!",
+      "손에 착 감기는 게 딱이야!",
+      "휘둘러 보고 싶어 근질근질해!"
+    ],
+    "shield": [
+      "이거면 멧돼지 돌진도 끄떡없겠어!",
+      "든든하다~ 뒤에 숨어도 되겠는걸?",
+      "화살비도 문제없겠어요!"
+    ],
+    "armor": [
+      "입으면 몸이 든든하겠어요!",
+      "생각보다 가볍네? 좋아!",
+      "이거 입고 넘어져도 안 아프겠다!"
+    ],
+    "accessory": [
+      "어머, 반짝이는 게 딱 내 취향이야~",
+      "선물하기 딱 좋겠어요!",
+      "끼기만 해도 기분이 좋아지네~"
     ]
   }
 }
