@@ -91,7 +91,7 @@
       "speaker": "luka"
     },
     {
-      "text": "운이 터졌어요! 이런 건 처음 봐요!",
+      "text": "운이 터졌어요! {item}, 이런 건 처음 봐요!",
       "speaker": "luka"
     },
     {
@@ -147,7 +147,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "이런 걸 주울 줄이야. 운이 좋았다.",
+      "text": "허허, {item}을 주울 줄이야. 운이 좋았다.",
       "speaker": "gregor"
     },
     {
@@ -171,7 +171,7 @@
       "speaker": "sera"
     },
     {
-      "text": "이런 거 줍는 것도 실력이에요! 칭찬해 줘!",
+      "text": "{item} 줍는 것도 실력이에요! 칭찬해 줘!",
       "speaker": "sera"
     },
     {
@@ -179,11 +179,11 @@
       "speaker": "sera"
     },
     {
-      "text": "흠, 이건 귀한 광석이군. 냄새가 달라.",
+      "text": "흠, {item}이라. 쇠 냄새부터 다르군.",
       "speaker": "torvin"
     },
     {
-      "text": "이런 결은 평생 몇 번 못 본다. 손이 떨리는군.",
+      "text": "{item}… 이런 솜씨는 평생 몇 번 못 본다.",
       "speaker": "torvin"
     },
     {
@@ -191,7 +191,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "이거 녹이면 좋은 거 나온다. 장담하지.",
+      "text": "이 {item}, 녹이기엔 아깝다. 그대로 써라.",
       "speaker": "torvin"
     },
     {
@@ -935,7 +935,10 @@
         },
         {
           "text": "반짝반짝 은을 보고 왔어. 예쁘더라!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "silver"
+          }
         },
         {
           "text": "고향 냄새가 나는군. 좋은 광산이야.",
@@ -955,7 +958,10 @@
         },
         {
           "text": "철광석 결이 곱더군. 잘 써라.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "iron_ore"
+          }
         },
         {
           "text": "폐광은 조용했어요. 돌도 꿈을 꾸나 봐요.",
@@ -1376,7 +1382,10 @@
         },
         {
           "text": "가죽 좀 챙겼다. 질이 괜찮아.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "leather"
+          }
         },
         {
           "text": "허허, 고블린이 내 도끼를 탐내더군. 어림없지.",
@@ -1396,7 +1405,10 @@
         },
         {
           "text": "가죽 냄새 나는 건 비밀이에요!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "leather"
+          }
         },
         {
           "text": "이끼 길 따라 사뿐사뿐 다녀왔어요.",
@@ -1542,7 +1554,10 @@
         },
         {
           "text": "마석이 굴러다니더군. 주워 왔다.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "mana_stone"
+          }
         },
         {
           "text": "고블린들이 세라 팬클럽 만들었대요~",
@@ -1558,7 +1573,10 @@
         },
         {
           "text": "마석 줍줍~ 반짝반짝 예쁘다!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "mana_stone"
+          }
         },
         {
           "text": "너무 금방 끝나서 머리 땋고 왔어요!",
@@ -1646,7 +1664,10 @@
         },
         {
           "text": "{monster} 미워! 그래도 화염석은 챙겼지.",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "화산이요? 신발 밑창이 녹았어요… 흑흑",
@@ -1706,7 +1727,10 @@
         },
         {
           "text": "힘들었지만 화염석 결은 좋더군.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "불꽃은 숲의 적이에요… 무서웠어요.",
@@ -1740,7 +1764,10 @@
         },
         {
           "text": "미스릴 광맥을 찾았다. 반짝이더군.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "mithril"
+          }
         },
         {
           "text": "허허, 뜨거운 데서 일해 보니 자네 고생을 알겠군.",
@@ -1760,7 +1787,10 @@
         },
         {
           "text": "미스릴 반짝반짝. 귀걸이 만들어 줄 수 있어요?",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "mithril"
+          }
         },
         {
           "text": "용암 구경 짱! 불꽃놀이 같았어요~",
@@ -1780,7 +1810,10 @@
         },
         {
           "text": "미스릴이 반짝반짝! 신기했어요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "mithril"
+          }
         },
         {
           "text": "용암 옆에서 계란 구웠어요. 농담이에요!",
@@ -1800,7 +1833,10 @@
         },
         {
           "text": "미스릴 좀 캤어. 무겁네.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "mithril"
+          }
         },
         {
           "text": "땀 좀 흘렸어. 밥은?",
@@ -1820,7 +1856,10 @@
         },
         {
           "text": "화염석이 반짝이길래 챙겼다.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "흐흐, 뜨거운 데가 체질에 맞아.",
@@ -1844,7 +1883,10 @@
         },
         {
           "text": "화염석이 노을을 품은 듯 빛났어요.",
-          "speaker": "elarin"
+          "speaker": "elarin",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "볼이 발그레해졌어요. 용암 탓이에요.",
@@ -1870,7 +1912,10 @@
         },
         {
           "text": "화염석 줍기 딱 좋은 날씨였지. 허허.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "화산? 세라 피부엔 딱 좋은 온도였어요~",
@@ -1882,7 +1927,10 @@
         },
         {
           "text": "화염석 줍줍~ 너무 쉬웠어요!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "용암 위로 폴짝폴짝! 날쌘 발 덕분이지~",
@@ -1902,7 +1950,10 @@
         },
         {
           "text": "화염석이 발에 막 채였어요! 앗 뜨거!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "용암 위를 폴짝폴짝! 저 좀 멋졌죠?",
@@ -1922,7 +1973,10 @@
         },
         {
           "text": "화염석 주워 왔어. 다음.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "땀 났어. 배고파.",
@@ -1946,7 +2000,10 @@
         },
         {
           "text": "화염석 주웠다. 그게 다다.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "firestone"
+          }
         },
         {
           "text": "흠, 가볍게 다녀왔다. 다음은 더 뜨거운 데로.",
@@ -2108,7 +2165,10 @@
         },
         {
           "text": "용비늘 한 자루. 허리가 먼저 알더군.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "허허, 늙은 용이랑 눈이 마주쳤다. 서로 못 본 척했지.",
@@ -2128,7 +2188,10 @@
         },
         {
           "text": "용비늘 반짝반짝! 너무 예뻐요!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용이 코 골더라~ 귀여웠어!",
@@ -2148,7 +2211,10 @@
         },
         {
           "text": "용비늘 주워 왔어요! 반짝반짝해요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용이 코를 골더라고요. 쉿!",
@@ -2168,7 +2234,10 @@
         },
         {
           "text": "용비늘 챙겼어. 꽤 무거워.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용 코 고는 소리 들었어. 시끄럽더라.",
@@ -2188,7 +2257,10 @@
         },
         {
           "text": "흠, 용비늘 결이 끝내줘.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "둥지 바닥에 보석이 굴러다니더군.",
@@ -2208,7 +2280,10 @@
         },
         {
           "text": "용비늘이 별빛처럼 빛나더군요.",
-          "speaker": "elarin"
+          "speaker": "elarin",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용의 꿈 이야기를 엿들었어요.",
@@ -2230,7 +2305,10 @@
         },
         {
           "text": "용비늘 한 아름. 허리도 오늘은 봐주더군.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "허허, 새끼 와이번한테 육포를 줬다. 친구가 됐지.",
@@ -2250,7 +2328,10 @@
         },
         {
           "text": "용비늘 한가득! 부자 된 기분~",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용한테 자장가 불러 주고 왔어요. 푹 자더라!",
@@ -2270,7 +2351,10 @@
         },
         {
           "text": "용비늘을 너무 많이 주워서 팔이 빠질 뻔했어요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용한테 인사하고 왔어요. 안 깼어요!",
@@ -2290,7 +2374,10 @@
         },
         {
           "text": "용비늘 한 아름. 무거운 건 자신 있지.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "dragon_scale"
+          }
         },
         {
           "text": "늙은 용, 푹 자더라. 나도 졸렸어.",
@@ -2468,7 +2555,10 @@
       "normal": [
         {
           "text": "얼음 협곡 다녀왔다. 서리 결정이 박혀 있더군.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "{monster}? 곡괭이로 얼음째 깼다.",
@@ -2484,7 +2574,10 @@
         },
         {
           "text": "서리 결정 캐는 건 내 전문이지.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "협곡의 얼음이 노래했어요.",
@@ -2496,7 +2589,10 @@
         },
         {
           "text": "서리 결정이 눈물처럼 맑았어요.",
-          "speaker": "elarin"
+          "speaker": "elarin",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "손끝은 시렸지만, 눈은 호강했어요.",
@@ -2516,7 +2612,10 @@
         },
         {
           "text": "서리 결정 주웠어요! 차가워서 손이 얼얼해요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "미끄럼틀 타듯 내려왔어요!",
@@ -2536,7 +2635,10 @@
         },
         {
           "text": "서리 결정. 손 시려. 국밥 먹고 싶다.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "추운 거 빼면 괜찮았어.",
@@ -2556,7 +2658,10 @@
         },
         {
           "text": "서리 결정을 챙겼다. 장갑 끼고 오길 잘했지.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "추위는 견딜 만했다. 무릎만 빼고.",
@@ -2576,7 +2681,10 @@
         },
         {
           "text": "서리 결정 예쁘죠? 세라 거예요~",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "얼음 거울에 비친 세라 너무 예쁘더라~",
@@ -2598,7 +2706,10 @@
         },
         {
           "text": "서리 결정이 저절로 굴러오더군.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "쉬웠어. 수염에 고드름만 좀 달렸지.",
@@ -2618,7 +2729,10 @@
         },
         {
           "text": "서리 결정이 길을 비춰 줬어요.",
-          "speaker": "elarin"
+          "speaker": "elarin",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "눈 위에 발자국도 안 남기고 다녀왔어요.",
@@ -2638,7 +2752,10 @@
         },
         {
           "text": "서리 결정이 막 굴러다니던데요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "하나도 안 추웠어요! 열정 덕분이에요!",
@@ -2658,7 +2775,10 @@
         },
         {
           "text": "서리 결정, 길에 널려 있더라.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "썰매 타고 왔어. 편했어.",
@@ -2678,7 +2798,10 @@
         },
         {
           "text": "서리 결정이 발에 챌 정도로 많았다.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "허허, 오늘은 무릎도 안 쑤시더군.",
@@ -2698,7 +2821,10 @@
         },
         {
           "text": "서리 결정 줍줍~ 바구니 가득!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "frost_crystal"
+          }
         },
         {
           "text": "하나도 안 추웠어요~ 세라는 뜨거우니까!",
@@ -2730,7 +2856,10 @@
         },
         {
           "text": "하늘 핵 하나 줍다가 구름 밖으로 떨어질 뻔했다.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "하늘의 바람이 거칠었어요. 망토가 날아갈 뻔했어요.",
@@ -2749,7 +2878,7 @@
           "speaker": "elarin"
         },
         {
-          "text": "하늘 핵은 쉽게 마음을 열지 않네요.",
+          "text": "오늘은 하늘이 쉽게 마음을 열지 않네요.",
           "speaker": "elarin"
         },
         {
@@ -2769,7 +2898,7 @@
           "speaker": "luka"
         },
         {
-          "text": "하늘 핵 잡으려다 놓쳤어요… 아까워요!",
+          "text": "반짝이는 걸 잡으려다 놓쳤어요… 아까워요!",
           "speaker": "luka"
         },
         {
@@ -2829,7 +2958,7 @@
           "speaker": "sera"
         },
         {
-          "text": "하늘 핵 놓쳤어요… 아깝다~",
+          "text": "반짝이 놓쳤어요… 아깝다~",
           "speaker": "sera"
         }
       ],
@@ -2848,7 +2977,10 @@
         },
         {
           "text": "하늘 핵이 반짝이더군. 챙겼다.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "구름 위에서 마시는 술은 맛이 다르겠지.",
@@ -2864,7 +2996,10 @@
         },
         {
           "text": "하늘 핵이 별처럼 빛났어요.",
-          "speaker": "elarin"
+          "speaker": "elarin",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "구름 위의 정원을 걸었어요.",
@@ -2884,7 +3019,10 @@
         },
         {
           "text": "하늘 핵 주웠어요! 반짝반짝해요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "구름 위를 걸었어요! 폭신했어요!",
@@ -2904,7 +3042,10 @@
         },
         {
           "text": "하늘 핵 하나 챙겼어.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "바람 세더라. 모자 날아갔어.",
@@ -2924,7 +3065,10 @@
         },
         {
           "text": "허허, 하늘 핵이 손에 착 감기더군. 챙겨 왔다.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "옛 사람들 솜씨가 대단하더군.",
@@ -2944,7 +3088,10 @@
         },
         {
           "text": "하늘 핵 반짝반짝~ 세라 눈은 못 속여요!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "구름 사이로 노을 봤어요~ 로맨틱!",
@@ -2966,7 +3113,10 @@
         },
         {
           "text": "유적 돌 틈에서 하늘 핵이 굴러 나왔다.",
-          "speaker": "torvin"
+          "speaker": "torvin",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "쉬웠다. 내려오는 길만 무서웠지.",
@@ -3014,7 +3164,10 @@
         },
         {
           "text": "하늘 핵이 저를 기다리고 있었어요!",
-          "speaker": "luka"
+          "speaker": "luka",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "쉬웠어.",
@@ -3030,7 +3183,10 @@
         },
         {
           "text": "하늘 핵이 굴러다니더라.",
-          "speaker": "garam"
+          "speaker": "garam",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "빨리 끝났어. 밥 줘.",
@@ -3046,7 +3202,10 @@
         },
         {
           "text": "하늘 핵이 발에 차이더군. 허리 굽히는 게 일이었지.",
-          "speaker": "gregor"
+          "speaker": "gregor",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "구름 위 산책이었다. 늙은이 운동으론 딱이지.",
@@ -3066,7 +3225,10 @@
         },
         {
           "text": "하늘 핵 줍줍~ 오늘 운 좋다!",
-          "speaker": "sera"
+          "speaker": "sera",
+          "requires": {
+            "material": "sky_core"
+          }
         },
         {
           "text": "구름 타고 쓩~",
@@ -3321,7 +3483,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "어머, 여기 예쁜 홈이 있어요! 뭔가 반짝이는 걸 끼우면 딱이겠는데~",
+      "text": "어머, 예쁜 홈이 있어요! 보석 끼우면 딱이겠다~",
       "speaker": "sera"
     },
     {
@@ -3409,11 +3571,11 @@
   ],
   "gemFirst": [
     {
-      "text": "이 돌… 아까 그 홈에 맞을 것 같은데요?",
+      "text": "반짝이는 돌 주웠어요! 장비 홈에 끼우는 보석 같아요!",
       "speaker": "luka"
     },
     {
-      "text": "반짝이는 돌 주웠어. 그 홈에 맞겠네.",
+      "text": "반짝이는 돌 주웠어. 장비 홈에 끼우는 거래.",
       "speaker": "garam"
     },
     {
@@ -3421,7 +3583,7 @@
       "speaker": "gregor"
     },
     {
-      "text": "꺄~ 보석이에요! 그 홈에 쏙 들어가겠다~",
+      "text": "꺄~ 보석이에요! 홈 있는 장비에 쏙 끼우면 되겠다~",
       "speaker": "sera"
     },
     {
@@ -3563,7 +3725,7 @@
       "speaker": "luka"
     },
     {
-      "text": "이거 차면 저도 빨라지겠죠? 헤헤!",
+      "text": "{item} 하면 저도 세지겠죠? 헤헤!",
       "speaker": "luka"
     },
     {
@@ -3611,7 +3773,7 @@
       "speaker": "torvin"
     },
     {
-      "text": "흠, 반지 같은 거 주웠다. 손가락이 굵어서 못 끼겠어.",
+      "text": "흠, {item}이라. 나한텐 너무 앙증맞군.",
       "speaker": "torvin"
     },
     {
@@ -3628,6 +3790,56 @@
     },
     {
       "text": "예쁜 장신구네요. 잘 어울릴 분께 드리세요.",
+      "speaker": "elarin"
+    }
+  ],
+  "material": [
+    {
+      "text": "{material}을 찾았어요! 반짝반짝, 진짜 귀한 거죠?",
+      "speaker": "luka"
+    },
+    {
+      "text": "사장님! {material}이에요! 손이 막 떨려요!",
+      "speaker": "luka"
+    },
+    {
+      "text": "{material} 챙겼어. 귀한 거래.",
+      "speaker": "garam"
+    },
+    {
+      "text": "{material}. 무겁진 않았어. 잘 써.",
+      "speaker": "garam"
+    },
+    {
+      "text": "허허, {material}이로군. 이 나이에도 이런 운이 오는구먼.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "{material}을 챙겼다. 귀한 거니 아껴 쓰게.",
+      "speaker": "gregor"
+    },
+    {
+      "text": "짜잔~ {material}! 세라 눈은 못 속인다구~",
+      "speaker": "sera"
+    },
+    {
+      "text": "{material} 득템! 세라 오늘 운 터졌어요~",
+      "speaker": "sera"
+    },
+    {
+      "text": "흠, {material}이다. 결부터 다르군.",
+      "speaker": "torvin"
+    },
+    {
+      "text": "{material} 캤다. 오늘 술은 내가 산다.",
+      "speaker": "torvin"
+    },
+    {
+      "text": "{material}을 찾았어요. 별이 떨어진 것 같았어요.",
+      "speaker": "elarin"
+    },
+    {
+      "text": "{material}이 조용히 저를 기다리고 있었어요.",
       "speaker": "elarin"
     }
   ]
