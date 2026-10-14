@@ -352,5 +352,13 @@
  "/request/tip/noble/#2": "Truly splendid! Keep this for your trouble.",
  "/request/tip/royal/#0": "Such a treasure! This is a token of my thanks.",
  "/request/tip/royal/#1": "The crown will remember your craft. Take this.",
- "/request/tip/royal/#2": "I love it! This is my allowance — shh!"
+ "/request/tip/royal/#2": "I love it! This is my allowance — shh!",
+ "/request/happy/common/#3": "Just the {item} I needed! Phew~!",
+ "/request/happy/common/#4": "So glad I found it here!",
+ "/request/happy/adventurer/#3": "Got my {item}! Let's roll!",
+ "/request/happy/adventurer/#4": "Phew, found exactly what I needed!",
+ "/request/happy/noble/#3": "The {item}, and so quickly. What a relief.",
+ "/request/happy/noble/#4": "Found at last. A weight off my mind.",
+ "/request/happy/royal/#3": "The {item} at last! Most fortunate!",
+ "/request/happy/royal/#4": "Thou hast found it. Well done!"
 }

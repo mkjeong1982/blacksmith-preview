@@ -352,5 +352,13 @@
  "/request/tip/noble/#2": "本当に素晴らしい！手間賃として取っておいて。",
  "/request/tip/royal/#0": "これほどの品を！これは余からの礼だ。",
  "/request/tip/royal/#1": "王家はそなたの腕を覚えておこう。受け取れ。",
- "/request/tip/royal/#2": "すっごく気に入りました！これ、私のお小遣いです。しーっ！"
+ "/request/tip/royal/#2": "すっごく気に入りました！これ、私のお小遣いです。しーっ！",
+ "/request/happy/common/#3": "{item}、ちょうど必要だったの、助かった〜！",
+ "/request/happy/common/#4": "探してたのが見つかってよかった！",
+ "/request/happy/adventurer/#3": "{item}ゲット！さあ出発だ！",
+ "/request/happy/adventurer/#4": "ふう、探してたのがあってよかった！",
+ "/request/happy/noble/#3": "{item}がこんなに早く手に入るなんて、安心しました。",
+ "/request/happy/noble/#4": "探し物が見つかって、ほっとしましたわ。",
+ "/request/happy/royal/#3": "{item}が手に入るとは、実にめでたい！",
+ "/request/happy/royal/#4": "探し物が見つかったか。大儀であった！"
 }
