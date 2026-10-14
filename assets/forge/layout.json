@@ -52,11 +52,12 @@
     "y": 178
   },
   "bellows": {
-    "x": 945,
-    "y": 190,
-    "width": 210,
-    "height": 180,
-    "floorY": 370
+    "x": 196,
+    "y": 224,
+    "width": 106,
+    "height": 91,
+    "floorY": 315,
+    "flipX": true
   },
   "barrel": {
     "x": 975,
