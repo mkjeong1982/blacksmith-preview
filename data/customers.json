@@ -1,5 +1,5 @@
 {
-  "_doc": "WP144 손님 대사(임시): 종류별 구경(browse) · 살 때(buy) · 나갈 때(leave), 공통 구경(common), 구경 손님이 나가며(WP168 leaveBrowse: any + 신분별, 매번), 가게 상황(context: famous 대장간 Lv.7+ · rare 레어 보유 · working 제작 중). 뽑을 때 직전 5줄과 겹치지 않게. WP161: kinds.*.sig(특징 동작 대사) · value(판매 장비 값 반응: fine 고가 · cheap 저가). WP162: reply(주인공 인사에 대한 신분별 답). WP168 추가 8: 판 장비를 가리키는 줄은 {item}(판 장비의 짧은 종류 이름 — 조사는 받침에 맞춤) · {fine}(무기 명검 / 그 밖 명품). WP173 22: kinds.*.reply · leaveBrowse(그 종류만의 답·퇴장 대사, 있으면 신분 풀 대신) · leaveTags / leaveTags(퇴장 대사의 결: again·secret·thanks·sad — 대장장이 배웅이 짝으로). WP173 28: 구경·특징·공통 대사의 {item}·{fine} = 가게에 있는 장비 하나(그 손님과 어울리는 종류 먼저). WP173 35: kinds.*.gear = 무기를 전제한 줄의 분류(browse·buy·sig 순번 → weapon/shield/armor/accessory, 없으면 any) — 판·보는 장비의 분류와 맞는 줄만 고름 · gearLines = 분류별 판매 대사. WP173 42 → 68: kinds.*.browseTalk · commonTalk · contextTalk = 말의 의도(대장장이 대답 풀이 정해짐): seek 찾는 중 · price 값 · favor 해 줄 수 있나 · yes 예/아니오 질문 · secret 비법 질문 · hush 비밀 부탁 · greet 인사 · browse 구경만 · opinion 감상(맞장구는 이것만, 반쯤) · praise 칭찬 · rumor 소문 · request 부탁 · later 나중에 살게요(기다릴게요~) · have ~있어요?(있고말고요, 저쪽 진열대~) · worry 걱정·소문(튼튼한 거 장만해 두세요) · what 저건 뭐예요?(장비 이름으로 답) · self 혼잣말(대답 없음) · ask(옛 — 말에서 짐작). 태그 없는 줄 0. WP174: request = 손님 주문(ask {item} · happy 판매 · sad 없음 · busy 응답 없음) · tip = 귀한·왕실 손님의 팁 인사, 신분별. WP173 68: reply의 의도 = replyTalk(신분별)·kinds.*.replyTalk — 인사 바로 뒤라 대장장이는 seek·rumor·hush 같은 것에만 다시 대답(구경만·인사·감상엔 안 함). WP173 68 (3): 손님 인사(greet) 답은 대장장이 첫말이 인사(greet 풀의 0번 \"어서 와요!\")일 때만.",
+  "_doc": "WP144 손님 대사(임시): 종류별 구경(browse) · 살 때(buy) · 나갈 때(leave), 공통 구경(common), 구경 손님이 나가며(WP168 leaveBrowse: any + 신분별, 매번), 가게 상황(context: famous 대장간 Lv.7+ · rare 레어 보유 · working 제작 중). 뽑을 때 직전 5줄과 겹치지 않게. WP161: kinds.*.sig(특징 동작 대사) · value(판매 장비 값 반응: fine 고가 · cheap 저가). WP162: reply(주인공 인사에 대한 신분별 답). WP168 추가 8: 판 장비를 가리키는 줄은 {item}(판 장비의 짧은 종류 이름 — 조사는 받침에 맞춤) · {fine}(무기 명검 / 그 밖 명품). WP173 22: kinds.*.reply · leaveBrowse(그 종류만의 답·퇴장 대사, 있으면 신분 풀 대신) · leaveTags / leaveTags(퇴장 대사의 결: bye_plain 수고하세요 · bye_sorry 못 사서 미안 · bye_again 또 올게요 · bye_thanks 구경 잘했어요 · bye_secret 쉿 — 대장장이 배웅이 짝으로). WP173 28: 구경·특징·공통 대사의 {item}·{fine} = 가게에 있는 장비 하나(그 손님과 어울리는 종류 먼저). WP173 35: kinds.*.gear = 무기를 전제한 줄의 분류(browse·buy·sig 순번 → weapon/shield/armor/accessory, 없으면 any) — 판·보는 장비의 분류와 맞는 줄만 고름 · gearLines = 분류별 판매 대사. WP173 42 → 68: kinds.*.browseTalk · commonTalk · contextTalk = 말의 의도(대장장이 대답 풀이 정해짐): seek 찾는 중 · price 값 · favor 해 줄 수 있나 · yes 예/아니오 질문 · secret 비법 질문 · hush 비밀 부탁 · greet 인사 · browse 구경만 · opinion 감상(맞장구는 이것만, 반쯤) · praise 칭찬 · rumor 소문 · request 부탁 · later 나중에 살게요(기다릴게요~) · ask_have ~있어요?(있고말고요, 저쪽 진열대~) · worry 걱정·소문(튼튼한 거 장만해 두세요) · what 저건 뭐예요?(장비 이름으로 답) · self 혼잣말(대답 없음) · ask(옛 — 말에서 짐작). 태그 없는 줄 0. WP174: request = 손님 주문(ask {item} · happy 판매 · sad 없음 · busy 응답 없음) · tip = 귀한·왕실 손님의 팁 인사, 신분별. WP173 68: reply의 의도 = replyTalk(신분별)·kinds.*.replyTalk — 인사 바로 뒤라 대장장이는 seek·rumor·hush 같은 것에만 다시 대답(구경만·인사·감상엔 안 함). WP173 68 (3): 손님 인사(greet) 답은 대장장이 첫말이 인사(greet 풀의 0번 \"어서 와요!\")일 때만. WP173 68 (5): 질문 종류 ask_have(있어요?) · ask_may(구경해도/만져 봐도 돼요?) · ask_price(값). 68 (6): 배웅 태그 bye_* — 대장장이 배웅은 같은 태그 풀(farewellTo)에서만.",
   "kinds": {
     "knight": {
       "browse": [
@@ -63,7 +63,7 @@
         "seek",
         "yes",
         "request",
-        "price"
+        "ask_price"
       ],
       "gear": {
         "browse": {
@@ -170,9 +170,9 @@
         "용돈 모으면 또 올게요!"
       ],
       "leaveTags": [
-        "again",
-        "thanks",
-        "sad"
+        "bye_again",
+        "bye_thanks",
+        "bye_sorry"
       ],
       "browseTalk": [
         "favor",
@@ -181,7 +181,7 @@
         "secret"
       ],
       "replyTalk": [
-        "have",
+        "ask_have",
         "browse",
         "opinion"
       ]
@@ -247,7 +247,7 @@
         "우리 산 쇠만은 못해도 쓸 만해."
       ],
       "browseTalk": [
-        "price",
+        "ask_price",
         "praise",
         "opinion",
         "secret"
@@ -308,10 +308,10 @@
         "흥정은 예의라고!"
       ],
       "browseTalk": [
-        "price",
-        "price",
-        "price",
-        "price"
+        "ask_price",
+        "ask_price",
+        "ask_price",
+        "ask_price"
       ]
     },
     "rookie": {
@@ -402,9 +402,9 @@
         "우와, 재밌었어요!"
       ],
       "leaveTags": [
-        "again",
-        "sad",
-        "thanks"
+        "bye_again",
+        "bye_plain",
+        "bye_thanks"
       ],
       "browseTalk": [
         "later",
@@ -414,7 +414,7 @@
       ],
       "replyTalk": [
         "opinion",
-        "yes",
+        "ask_may",
         "greet"
       ]
     },
@@ -577,9 +577,9 @@
         "젊은이, 수고하게나."
       ],
       "leaveTags": [
-        "again",
-        "sad",
-        "thanks"
+        "bye_again",
+        "bye_sorry",
+        "bye_plain"
       ],
       "browseTalk": [
         "praise",
@@ -589,7 +589,7 @@
       ],
       "replyTalk": [
         "browse",
-        "have",
+        "ask_have",
         "browse"
       ]
     },
@@ -625,14 +625,14 @@
         "구경 정말 재밌었어요!"
       ],
       "leaveTags": [
-        "secret",
-        "secret",
-        "thanks"
+        "bye_secret",
+        "bye_secret",
+        "bye_thanks"
       ],
       "browseTalk": [
         "hush",
         "greet",
-        "yes",
+        "ask_may",
         "hush"
       ],
       "replyTalk": [
@@ -730,39 +730,39 @@
   },
   "leaveTags": {
     "any": [
-      "thanks",
-      "again",
-      "thanks",
-      "thanks",
-      "sad",
-      "sad"
+      "bye_thanks",
+      "bye_again",
+      "bye_thanks",
+      "bye_plain",
+      "bye_sorry",
+      "bye_sorry"
     ],
     "common": [
-      "again",
-      "sad"
+      "bye_again",
+      "bye_sorry"
     ],
     "adventurer": [
-      "again",
-      "sad"
+      "bye_again",
+      "bye_sorry"
     ],
     "noble": [
-      "thanks",
-      "again"
+      "bye_thanks",
+      "bye_again"
     ],
     "royal": [
-      "again",
-      "again"
+      "bye_again",
+      "bye_again"
     ]
   },
   "commonTalk": [
     "seek",
     "praise",
-    "browse",
+    "ask_may",
     "praise",
     "later",
     "opinion",
     "opinion",
-    "have",
+    "ask_have",
     "praise",
     "praise"
   ],
@@ -919,14 +919,14 @@
       "greet"
     ],
     "adventurer": [
-      "have",
+      "ask_have",
       "browse",
       "seek"
     ],
     "noble": [
       "rumor",
       "browse",
-      "have"
+      "ask_have"
     ],
     "royal": [
       "hush",
