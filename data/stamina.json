@@ -1,22 +1,27 @@
 {
-  "_doc": "WP177 A 모험가 스태미나(임시): max 최대 · costByRegion 파견 1회 소모(출발 때, 반복 파견은 회차마다) · toughMult 힘든 탐험(mood tough) 배수 · regenPerHour 숙소에서 시간당 회복(돌아온 뒤부터) · regenPerLodgeLevelPct 숙소 Lv.2부터 레벨마다 +% · sleepBelow 이 밑으로 돌아오면 잠(zzz) · wakeAt 여기까지 차면 깸 · early 튜토리얼 소모 0, 끝난 뒤 earlyMinutes분은 earlyMult배 · adPerDay 📺 기운 충전 모험가당 하루 · crystalCost 💎 충전",
+  "_doc": "WP177 A 모험가 스태미나(임시): max 최대 · costByRegion 파견 1회 소모(출발 때, 반복 파견은 회차마다) · toughMult 힘든 탐험(mood tough) 배수 · regenPerHour 숙소에서 시간당 회복(돌아온 뒤부터) · regenPerLodgeLevelPct 숙소 Lv.2부터 레벨마다 +% · sleepBelow 이 밑으로 돌아오면 잠(zzz) · wakeAt 여기까지 차면 깸 · early 튜토리얼 소모 0, 끝난 뒤 earlyMinutes분은 earlyMult배 · adPerDay 📺 기운 충전 모험가당 하루 · crystalCost 💎 충전 · WP173 81: maxPerLevel 레벨마다 최대 + · bootsCostCutPctPerTier 부츠 티어마다 소모 −% · amuletRegenPctPerTier 목걸이 티어마다 회복 +% (강화 무관) · costCutCapPct / regenUpCapPct 합산 상한",
   "max": 100,
   "costByRegion": {
-    "back_hill": 5,
-    "old_mine": 8,
-    "goblin_forest": 15,
-    "volcano": 18,
-    "dragon_nest": 20,
-    "frost_canyon": 22,
-    "sky_ruins": 25
+    "back_hill": 12,
+    "old_mine": 16,
+    "goblin_forest": 22,
+    "volcano": 26,
+    "dragon_nest": 30,
+    "frost_canyon": 32,
+    "sky_ruins": 35
   },
   "toughMult": 1.3,
-  "regenPerHour": 20,
+  "regenPerHour": 15,
   "regenPerLodgeLevelPct": 10,
   "sleepBelow": 10,
   "wakeAt": 60,
   "earlyMinutes": 30,
   "earlyMult": 0.5,
   "adPerDay": 2,
-  "crystalCost": 20
+  "crystalCost": 20,
+  "maxPerLevel": 3,
+  "bootsCostCutPctPerTier": 2,
+  "amuletRegenPctPerTier": 5,
+  "costCutCapPct": 30,
+  "regenUpCapPct": 60
 }
