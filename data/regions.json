@@ -363,7 +363,7 @@
           "max": 2
         }
       ],
-      "exp": 3400,
+      "exp": 3000,
       "bonus": {
         "goldChancePct": 30,
         "gold": [
@@ -446,7 +446,7 @@
           "max": 2
         }
       ],
-      "exp": 4000,
+      "exp": 3300,
       "bonus": {
         "goldChancePct": 30,
         "gold": [
@@ -530,7 +530,7 @@
           "max": 1
         }
       ],
-      "exp": 9000,
+      "exp": 4000,
       "bonus": {
         "goldChancePct": 35,
         "gold": [
