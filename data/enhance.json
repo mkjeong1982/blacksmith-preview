@@ -20,6 +20,8 @@
     4,
     3
   ],
+  "materialBonusPerLevel": 0.4,
+  "materialBonusCap": 20,
   "multipliers": [
     {
       "level": 0,
