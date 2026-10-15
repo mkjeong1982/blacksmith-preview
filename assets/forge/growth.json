@@ -29,6 +29,6 @@
     },
     "trophy-shelf": { "level": 9, "file": "obj-trophy-shelf.png", "x": 900, "y": 96, "w": 165, "h": 103, "layer": "back" },
     "guild-banner": { "level": 10, "file": "obj-guild-banner.png", "x": 1066, "y": 40, "w": 100, "h": 148, "layer": "back" },
-    "anvil-gold": { "level": 10, "file": "anvil-gold.png", "x": 636, "y": 295, "w": 445, "h": 267, "layer": "front", "replaces": "anvil-front" }
+    "anvil-gold": { "level": 10, "file": "anvil-gold.png", "x": 636, "y": 295, "w": 445, "h": 267, "layer": "front", "replaces": "anvil-front", "top": { "x": 186, "y": 17, "width": 234 } }
   }
 }
