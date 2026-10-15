@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>망치 소리 비교</title>
+<title>효과음 비교</title>
 <style>
   :root { --bg: #1d130c; --card: #3b2416; --gold: #f6c453; --ink: #f3e3c4; --soft: #c9b08a; }
   * { box-sizing: border-box; }
@@ -27,6 +27,9 @@
     <div class="col" data-set="old"><h2>옛 소리</h2></div>
     <div class="col" data-set="new"><h2>새 소리</h2></div>
   </div>
+  <h1 style="margin-top:28px">고양이 냐옹 (새 소리)</h1>
+  <p>WP173 113. 대장간 고양이를 탭하면 셋 중 하나가 무작위로 나와요(연속 탭은 0.8초에 한 번). 파형 합성 — 녹음 없음.</p>
+  <div class="col" id="meow"></div>
 </main>
 <script>
   for (const col of document.querySelectorAll(".col")) {
@@ -44,6 +47,18 @@
     run.onclick = () => { for (let i = 0; i < 8; i++) setTimeout(() => play(1 + Math.floor(Math.random() * 3)), i * 450); };
     col.append(run);
   }
+  const meow = document.getElementById("meow");
+  for (const n of [1, 2, 3]) {
+    const b = document.createElement("button");
+    b.textContent = "냐옹 " + n;
+    b.onclick = () => new Audio("new/meow_" + n + ".m4a").play();
+    meow.append(b);
+  }
+  const rnd = document.createElement("button");
+  rnd.className = "run";
+  rnd.textContent = "고양이 탭처럼(무작위)";
+  rnd.onclick = () => new Audio("new/meow_" + (1 + Math.floor(Math.random() * 3)) + ".m4a").play();
+  meow.append(rnd);
 </script>
 </body>
 </html>
