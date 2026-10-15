@@ -3,7 +3,8 @@
     "width": 384,
     "height": 352,
     "unit": "logicalPixel",
-    "savedScale": 2
+    "savedScale": 2,
+    "heightNote": "WP173 110: each room has its own height (rooms[].height) — canvas.height is Lv1's"
   },
   "tileSize": 32,
   "rooms": [
@@ -75,7 +76,8 @@
           "kind": "candle",
           "r": 10
         }
-      ]
+      ],
+      "height": 352
     },
     {
       "level": 2,
@@ -108,11 +110,11 @@
         ],
         [
           364,
-          328
+          360
         ],
         [
           20,
-          328
+          360
         ]
       ],
       "furnitureCollisions": [
@@ -171,7 +173,8 @@
           "kind": "hearth",
           "r": 36
         }
-      ]
+      ],
+      "height": 384
     },
     {
       "level": 3,
@@ -211,11 +214,11 @@
         ],
         [
           364,
-          328
+          392
         ],
         [
           20,
-          328
+          392
         ]
       ],
       "furnitureCollisions": [
@@ -267,6 +270,20 @@
           "y": 224,
           "w": 64,
           "h": 112
+        },
+        {
+          "id": "lower-scroll-chest",
+          "x": 24,
+          "y": 352,
+          "w": 58,
+          "h": 42
+        },
+        {
+          "id": "lower-boot-rack",
+          "x": 295,
+          "y": 352,
+          "w": 63,
+          "h": 43
         }
       ],
       "lights": [
@@ -294,7 +311,8 @@
           "kind": "hearth",
           "r": 36
         }
-      ]
+      ],
+      "height": 416
     },
     {
       "level": 4,
@@ -341,11 +359,11 @@
         ],
         [
           364,
-          328
+          424
         ],
         [
           20,
-          328
+          424
         ]
       ],
       "furnitureCollisions": [
@@ -404,6 +422,20 @@
           "y": 222,
           "w": 64,
           "h": 112
+        },
+        {
+          "id": "lower-reading-bench",
+          "x": 34,
+          "y": 349,
+          "w": 83,
+          "h": 50
+        },
+        {
+          "id": "lower-gear-rack",
+          "x": 282,
+          "y": 348,
+          "w": 74,
+          "h": 51
         }
       ],
       "lights": [
@@ -431,7 +463,8 @@
           "kind": "hearth",
           "r": 36
         }
-      ]
+      ],
+      "height": 448
     },
     {
       "level": 5,
@@ -485,11 +518,11 @@
         ],
         [
           364,
-          346
+          456
         ],
         [
           20,
-          346
+          456
         ]
       ],
       "furnitureCollisions": [
@@ -555,6 +588,27 @@
           "y": 222,
           "w": 64,
           "h": 112
+        },
+        {
+          "id": "lower-lounge-bench",
+          "x": 22,
+          "y": 345,
+          "w": 81,
+          "h": 61
+        },
+        {
+          "id": "lower-side-table",
+          "x": 99,
+          "y": 340,
+          "w": 38,
+          "h": 43
+        },
+        {
+          "id": "lower-bookcase",
+          "x": 272,
+          "y": 339,
+          "w": 86,
+          "h": 68
         }
       ],
       "lights": [
@@ -594,7 +648,8 @@
           "kind": "hearth",
           "r": 36
         }
-      ]
+      ],
+      "height": 480
     },
     {
       "level": 6,
@@ -655,11 +710,11 @@
         ],
         [
           364,
-          346
+          496
         ],
         [
           20,
-          346
+          496
         ]
       ],
       "furnitureCollisions": [
@@ -725,6 +780,27 @@
           "y": 242,
           "w": 50,
           "h": 88
+        },
+        {
+          "id": "lower-armchairs",
+          "x": 25,
+          "y": 347,
+          "w": 109,
+          "h": 104
+        },
+        {
+          "id": "lower-common-table",
+          "x": 100,
+          "y": 372,
+          "w": 162,
+          "h": 112
+        },
+        {
+          "id": "lower-gear-display",
+          "x": 292,
+          "y": 347,
+          "w": 82,
+          "h": 126
         }
       ],
       "lights": [
@@ -800,7 +876,8 @@
           "kind": "torch",
           "r": 14
         }
-      ]
+      ],
+      "height": 520
     }
   ],
   "heroSprites": {
