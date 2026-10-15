@@ -6,7 +6,7 @@
       "desc": "장비를 처음 만들어요",
       "key": "crafts",
       "goal": 1,
-      "crystals": 5
+      "goldPacks": 1
     },
     {
       "id": "craft_10",
@@ -14,7 +14,7 @@
       "desc": "장비 10개 만들기",
       "key": "crafts",
       "goal": 10,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "craft_50",
@@ -22,7 +22,7 @@
       "desc": "장비 50개 만들기",
       "key": "crafts",
       "goal": 50,
-      "crystals": 20
+      "crystals": 15
     },
     {
       "id": "craft_200",
@@ -30,7 +30,7 @@
       "desc": "장비 200개 만들기",
       "key": "crafts",
       "goal": 200,
-      "crystals": 50
+      "crystals": 30
     },
     {
       "id": "enhance_1",
@@ -38,7 +38,7 @@
       "desc": "강화에 처음 성공해요",
       "key": "enhanceOk",
       "goal": 1,
-      "crystals": 5
+      "goldPacks": 1
     },
     {
       "id": "enhance_5",
@@ -46,7 +46,7 @@
       "desc": "장비를 +5까지 강화",
       "key": "maxEnhance",
       "goal": 5,
-      "crystals": 15
+      "goldPacks": 2
     },
     {
       "id": "enhance_7",
@@ -54,7 +54,7 @@
       "desc": "장비를 +7까지 강화",
       "key": "maxEnhance",
       "goal": 7,
-      "crystals": 40
+      "crystals": 30
     },
     {
       "id": "enhance_10",
@@ -62,7 +62,7 @@
       "desc": "장비를 +10까지 강화",
       "key": "maxEnhance",
       "goal": 10,
-      "crystals": 80
+      "crystals": 50
     },
     {
       "id": "forge_3",
@@ -70,7 +70,7 @@
       "desc": "대장간 Lv.3",
       "key": "forgeLevel",
       "goal": 3,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "forge_6",
@@ -78,7 +78,7 @@
       "desc": "대장간 Lv.6",
       "key": "forgeLevel",
       "goal": 6,
-      "crystals": 25
+      "crystals": 20
     },
     {
       "id": "forge_10",
@@ -86,7 +86,7 @@
       "desc": "대장간 Lv.10",
       "key": "forgeLevel",
       "goal": 10,
-      "crystals": 60
+      "crystals": 40
     },
     {
       "id": "lodge_3",
@@ -94,7 +94,7 @@
       "desc": "숙소 Lv.3",
       "key": "lodgeLevel",
       "goal": 3,
-      "crystals": 15
+      "goldPacks": 1
     },
     {
       "id": "lodge_6",
@@ -102,7 +102,7 @@
       "desc": "숙소 Lv.6",
       "key": "lodgeLevel",
       "goal": 6,
-      "crystals": 50
+      "crystals": 30
     },
     {
       "id": "joined_6",
@@ -110,7 +110,7 @@
       "desc": "모험가 6명 모두 합류",
       "key": "joined",
       "goal": 6,
-      "crystals": 50
+      "crystals": 30
     },
     {
       "id": "region_back_hill",
@@ -118,7 +118,7 @@
       "desc": "마을 뒷산에 갈 수 있게 돼요",
       "key": "region:back_hill",
       "goal": 1,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "region_old_mine",
@@ -126,7 +126,7 @@
       "desc": "폐광에 갈 수 있게 돼요",
       "key": "region:old_mine",
       "goal": 1,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "region_goblin_forest",
@@ -134,7 +134,7 @@
       "desc": "고블린 숲에 갈 수 있게 돼요",
       "key": "region:goblin_forest",
       "goal": 1,
-      "crystals": 10
+      "goldPacks": 2
     },
     {
       "id": "region_volcano",
@@ -166,7 +166,7 @@
       "desc": "하늘 유적에 갈 수 있게 돼요",
       "key": "region:sky_ruins",
       "goal": 1,
-      "crystals": 10
+      "crystals": 15
     },
     {
       "id": "accessory_1",
@@ -174,7 +174,7 @@
       "desc": "장신구를 처음 찾아요",
       "key": "accessories",
       "goal": 1,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "socket_1",
@@ -182,7 +182,7 @@
       "desc": "보석을 처음 박아요",
       "key": "gemsSocketed",
       "goal": 1,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "tier6_1",
@@ -190,7 +190,7 @@
       "desc": "티어 Ⅵ 장비 첫 제작",
       "key": "craftsTier6",
       "goal": 1,
-      "crystals": 80
+      "crystals": 50
     },
     {
       "id": "adv_10",
@@ -198,7 +198,7 @@
       "desc": "모험가 Lv.10",
       "key": "advLevel",
       "goal": 10,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "adv_30",
@@ -206,7 +206,7 @@
       "desc": "모험가 Lv.30",
       "key": "advLevel",
       "goal": 30,
-      "crystals": 40
+      "crystals": 30
     },
     {
       "id": "adv_50",
@@ -214,7 +214,7 @@
       "desc": "모험가 Lv.50",
       "key": "advLevel",
       "goal": 50,
-      "crystals": 100
+      "crystals": 60
     },
     {
       "id": "sold_10k",
@@ -222,7 +222,7 @@
       "desc": "판매 골드 누적 1만",
       "key": "soldGold",
       "goal": 10000,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "sold_100k",
@@ -230,7 +230,7 @@
       "desc": "판매 골드 누적 10만",
       "key": "soldGold",
       "goal": 100000,
-      "crystals": 30
+      "goldPacks": 2
     },
     {
       "id": "sold_1m",
@@ -238,7 +238,7 @@
       "desc": "판매 골드 누적 100만",
       "key": "soldGold",
       "goal": 1000000,
-      "crystals": 80
+      "crystals": 50
     },
     {
       "id": "recovered_10",
@@ -246,7 +246,7 @@
       "desc": "부상에서 10번 회복",
       "key": "recovered",
       "goal": 10,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "dispatch_100",
@@ -254,7 +254,7 @@
       "desc": "파견 100번 보내기",
       "key": "dispatches",
       "goal": 100,
-      "crystals": 20
+      "crystals": 10
     },
     {
       "id": "rare_recipe_1",
@@ -262,7 +262,7 @@
       "desc": "레어 레시피를 처음 얻어요",
       "key": "rareRecipes",
       "goal": 1,
-      "crystals": 30
+      "crystals": 20
     },
     {
       "id": "rare_recipe_16",
@@ -270,7 +270,7 @@
       "desc": "레어 레시피 16종 모으기",
       "key": "rareRecipes",
       "goal": 16,
-      "crystals": 150
+      "crystals": 60
     },
     {
       "id": "rare_recipe_32",
@@ -278,7 +278,7 @@
       "desc": "레어 레시피 32종 전부 모으기",
       "key": "rareRecipes",
       "goal": 32,
-      "crystals": 500
+      "crystals": 80
     },
     {
       "id": "codex_10",
@@ -286,7 +286,7 @@
       "desc": "도감 10% 채우기",
       "key": "codexPct",
       "goal": 10,
-      "crystals": 10
+      "goldPacks": 1
     },
     {
       "id": "codex_25",
@@ -294,7 +294,7 @@
       "desc": "도감 25% 채우기",
       "key": "codexPct",
       "goal": 25,
-      "crystals": 30
+      "goldPacks": 2
     },
     {
       "id": "codex_50",
@@ -302,7 +302,7 @@
       "desc": "도감 50% 채우기",
       "key": "codexPct",
       "goal": 50,
-      "crystals": 60
+      "crystals": 30
     },
     {
       "id": "codex_75",
@@ -310,7 +310,7 @@
       "desc": "도감 75% 채우기",
       "key": "codexPct",
       "goal": 75,
-      "crystals": 120
+      "crystals": 40
     },
     {
       "id": "codex_100",
@@ -318,7 +318,7 @@
       "desc": "도감 100% 채우기",
       "key": "codexPct",
       "goal": 100,
-      "crystals": 300
+      "crystals": 80
     }
   ]
 }

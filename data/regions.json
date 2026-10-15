@@ -595,11 +595,11 @@
     "toughMaxPct": 35,
     "toughRatioMin": 0.5,
     "toughRatioMax": 0.9,
-    "baseMin": 5,
-    "perTripPct": 10,
+    "baseMin": 10,
+    "perTripPct": 25,
     "toughMult": 1.5,
-    "minMin": 5,
-    "maxMin": 30
+    "minMin": 10,
+    "maxMin": 120
   },
   "powerBonus": {
     "baseRequired": 20,
