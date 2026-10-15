@@ -1,0 +1,307 @@
+{
+  "canvas": {
+    "width": 1170,
+    "height": 660
+  },
+  "sourcePlan": "md_docs/art75-growth-visuals-plan.md",
+  "props": {
+    "cobweb": {
+      "file": "obj-growth-cobweb.png",
+      "x": 20,
+      "y": 65,
+      "w": 105,
+      "h": 82,
+      "layer": "back"
+    },
+    "broken-crate": {
+      "file": "obj-growth-broken-crate.png",
+      "x": 10,
+      "y": 505,
+      "w": 110,
+      "h": 90,
+      "layer": "front"
+    },
+    "pegboard": {
+      "file": "obj-growth-pegboard.png",
+      "x": 850,
+      "y": 218,
+      "w": 120,
+      "h": 55,
+      "layer": "back"
+    },
+    "coal-sack": {
+      "file": "obj-growth-coal-sack.png",
+      "x": 10,
+      "y": 555,
+      "w": 110,
+      "h": 65,
+      "layer": "front"
+    },
+    "oil-lamp": {
+      "file": "obj-growth-oil-lamp.png",
+      "x": 1080,
+      "y": 70,
+      "w": 65,
+      "h": 105,
+      "layer": "back"
+    },
+    "firewood-crate": {
+      "file": "obj-growth-firewood-crate.png",
+      "x": 10,
+      "y": 505,
+      "w": 110,
+      "h": 90,
+      "layer": "front"
+    },
+    "chalk-board": {
+      "file": "obj-growth-chalk-board.png",
+      "x": 815,
+      "y": 278,
+      "w": 130,
+      "h": 85,
+      "layer": "back"
+    },
+    "iron-ingots": {
+      "file": "obj-growth-iron-ingots.png",
+      "x": 10,
+      "y": 585,
+      "w": 120,
+      "h": 48,
+      "layer": "front"
+    },
+    "hammer-hooks": {
+      "file": "obj-growth-hammer-hooks.png",
+      "x": 180,
+      "y": 260,
+      "w": 100,
+      "h": 100,
+      "layer": "back"
+    },
+    "coal-bin": {
+      "file": "obj-growth-coal-bin.png",
+      "x": 405,
+      "y": 545,
+      "w": 110,
+      "h": 75,
+      "layer": "front"
+    },
+    "brass-sconce": {
+      "file": "obj-growth-brass-sconce.png",
+      "x": 1080,
+      "y": 70,
+      "w": 65,
+      "h": 105,
+      "layer": "back"
+    },
+    "reinforced-firewood": {
+      "file": "obj-growth-reinforced-firewood.png",
+      "x": 10,
+      "y": 505,
+      "w": 110,
+      "h": 90,
+      "layer": "front"
+    },
+    "delivery-list": {
+      "file": "obj-growth-delivery-list.png",
+      "x": 815,
+      "y": 278,
+      "w": 130,
+      "h": 85,
+      "layer": "back"
+    },
+    "ingot-rack": {
+      "file": "obj-growth-ingot-rack.png",
+      "x": 405,
+      "y": 540,
+      "w": 115,
+      "h": 75,
+      "layer": "front"
+    },
+    "cat-shelf": {
+      "file": "obj-growth-cat-shelf.png",
+      "x": 180,
+      "y": 260,
+      "w": 100,
+      "h": 100,
+      "layer": "back"
+    },
+    "work-cloth": {
+      "file": "obj-growth-work-cloth.png",
+      "x": 10,
+      "y": 585,
+      "w": 120,
+      "h": 48,
+      "layer": "front"
+    },
+    "forge-plaque": {
+      "file": "obj-growth-forge-plaque.png",
+      "x": 180,
+      "y": 65,
+      "w": 105,
+      "h": 82,
+      "layer": "back"
+    },
+    "toolbox": {
+      "file": "obj-growth-toolbox.png",
+      "x": 10,
+      "y": 505,
+      "w": 110,
+      "h": 90,
+      "layer": "front"
+    },
+    "completed-board": {
+      "file": "obj-growth-completed-board.png",
+      "x": 815,
+      "y": 278,
+      "w": 130,
+      "h": 85,
+      "layer": "back"
+    },
+    "display-ingot-chest": {
+      "file": "obj-growth-display-ingot-chest.png",
+      "x": 405,
+      "y": 540,
+      "w": 110,
+      "h": 75,
+      "layer": "front"
+    }
+  },
+  "levels": {
+    "1": {
+      "file": "forge-growth-lv1.jpg",
+      "background": "forge-bg-1.jpg",
+      "props": [
+        "cobweb",
+        "broken-crate"
+      ],
+      "brightness": 0.9,
+      "saturation": 0.88,
+      "red": 0.96,
+      "blue": 1.04
+    },
+    "2": {
+      "file": "forge-growth-lv2.jpg",
+      "background": "forge-bg-1.jpg",
+      "props": [
+        "cobweb",
+        "broken-crate",
+        "pegboard",
+        "coal-sack"
+      ],
+      "brightness": 0.93,
+      "saturation": 0.91,
+      "red": 0.98,
+      "blue": 1.02
+    },
+    "3": {
+      "file": "forge-growth-lv3.jpg",
+      "background": "forge-bg-noanvil.jpg",
+      "props": [
+        "oil-lamp",
+        "firewood-crate"
+      ],
+      "brightness": 0.96,
+      "saturation": 0.95,
+      "red": 1,
+      "blue": 1
+    },
+    "4": {
+      "file": "forge-growth-lv4.jpg",
+      "background": "forge-bg-noanvil.jpg",
+      "props": [
+        "oil-lamp",
+        "firewood-crate",
+        "chalk-board",
+        "iron-ingots"
+      ],
+      "brightness": 0.98,
+      "saturation": 0.98,
+      "red": 1.01,
+      "blue": 0.99
+    },
+    "5": {
+      "file": "forge-growth-lv5.jpg",
+      "background": "forge-bg-noanvil.jpg",
+      "props": [
+        "oil-lamp",
+        "firewood-crate",
+        "chalk-board",
+        "iron-ingots",
+        "hammer-hooks",
+        "coal-bin"
+      ],
+      "brightness": 1,
+      "saturation": 1,
+      "red": 1.02,
+      "blue": 0.98
+    },
+    "6": {
+      "file": "forge-growth-lv6.jpg",
+      "background": "forge-bg-3.jpg",
+      "props": [
+        "brass-sconce",
+        "reinforced-firewood"
+      ],
+      "brightness": 1.01,
+      "saturation": 1.02,
+      "red": 1.03,
+      "blue": 0.97
+    },
+    "7": {
+      "file": "forge-growth-lv7.jpg",
+      "background": "forge-bg-3.jpg",
+      "props": [
+        "brass-sconce",
+        "reinforced-firewood",
+        "delivery-list",
+        "ingot-rack"
+      ],
+      "brightness": 1.02,
+      "saturation": 1.03,
+      "red": 1.04,
+      "blue": 0.96
+    },
+    "8": {
+      "file": "forge-growth-lv8.jpg",
+      "background": "forge-bg-3.jpg",
+      "props": [
+        "brass-sconce",
+        "reinforced-firewood",
+        "delivery-list",
+        "ingot-rack",
+        "cat-shelf",
+        "work-cloth"
+      ],
+      "brightness": 1.03,
+      "saturation": 1.04,
+      "red": 1.05,
+      "blue": 0.95
+    },
+    "9": {
+      "file": "forge-growth-lv9.jpg",
+      "background": "forge-bg-4.jpg",
+      "props": [
+        "forge-plaque",
+        "toolbox"
+      ],
+      "brightness": 1.04,
+      "saturation": 1.05,
+      "red": 1.06,
+      "blue": 0.94
+    },
+    "10": {
+      "file": "forge-growth-lv10.jpg",
+      "background": "forge-bg-4.jpg",
+      "props": [
+        "forge-plaque",
+        "toolbox",
+        "completed-board",
+        "display-ingot-chest"
+      ],
+      "brightness": 1.05,
+      "saturation": 1.06,
+      "red": 1.07,
+      "blue": 0.93
+    }
+  }
+}

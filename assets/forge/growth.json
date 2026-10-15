@@ -1,34 +1,206 @@
 {
-  "canvas": { "width": 1170, "height": 660 },
+  "canvas": {
+    "width": 1170,
+    "height": 660
+  },
   "backgrounds": [
-    { "stage": 1, "minLevel": 1, "maxLevel": 2, "file": "forge-bg-1.jpg" },
-    { "stage": 2, "minLevel": 3, "maxLevel": 5, "file": "forge-bg-noanvil.jpg" },
-    { "stage": 3, "minLevel": 6, "maxLevel": 8, "file": "forge-bg-3.jpg" },
-    { "stage": 4, "minLevel": 9, "maxLevel": 10, "file": "forge-bg-4.jpg" }
+    {
+      "stage": 1,
+      "minLevel": 1,
+      "maxLevel": 1,
+      "file": "forge-growth-lv1.jpg"
+    },
+    {
+      "stage": 2,
+      "minLevel": 2,
+      "maxLevel": 2,
+      "file": "forge-growth-lv2.jpg"
+    },
+    {
+      "stage": 3,
+      "minLevel": 3,
+      "maxLevel": 3,
+      "file": "forge-growth-lv3.jpg"
+    },
+    {
+      "stage": 4,
+      "minLevel": 4,
+      "maxLevel": 4,
+      "file": "forge-growth-lv4.jpg"
+    },
+    {
+      "stage": 5,
+      "minLevel": 5,
+      "maxLevel": 5,
+      "file": "forge-growth-lv5.jpg"
+    },
+    {
+      "stage": 6,
+      "minLevel": 6,
+      "maxLevel": 6,
+      "file": "forge-growth-lv6.jpg"
+    },
+    {
+      "stage": 7,
+      "minLevel": 7,
+      "maxLevel": 7,
+      "file": "forge-growth-lv7.jpg"
+    },
+    {
+      "stage": 8,
+      "minLevel": 8,
+      "maxLevel": 8,
+      "file": "forge-growth-lv8.jpg"
+    },
+    {
+      "stage": 9,
+      "minLevel": 9,
+      "maxLevel": 9,
+      "file": "forge-growth-lv9.jpg"
+    },
+    {
+      "stage": 10,
+      "minLevel": 10,
+      "maxLevel": 10,
+      "file": "forge-growth-lv10.jpg"
+    }
   ],
   "objects": {
-    "workbench": { "level": 2, "file": "obj-workbench.png", "x": 95, "y": 405, "w": 170, "h": 110, "layer": "front" },
-    "toolrack": { "level": 3, "file": "obj-toolrack.png", "x": 15, "y": 170, "w": 170, "h": 111, "layer": "back" },
+    "workbench": {
+      "level": 2,
+      "file": "obj-workbench.png",
+      "x": 95,
+      "y": 405,
+      "w": 170,
+      "h": 110,
+      "layer": "front"
+    },
+    "toolrack": {
+      "level": 3,
+      "file": "obj-toolrack.png",
+      "x": 15,
+      "y": 170,
+      "w": 170,
+      "h": 111,
+      "layer": "back"
+    },
     "grindstone": {
-      "level": 4, "file": "obj-grindstone.png", "x": 270, "y": 410, "w": 125, "h": 104, "layer": "front",
-      "wheel": { "file": "grindstone-wheel.png", "x": 312, "y": 416, "w": 55, "h": 63, "pivot": { "x": 340, "y": 448 } }
+      "level": 4,
+      "file": "obj-grindstone.png",
+      "x": 270,
+      "y": 410,
+      "w": 125,
+      "h": 104,
+      "layer": "front",
+      "wheel": {
+        "file": "grindstone-wheel.png",
+        "x": 312,
+        "y": 416,
+        "w": 55,
+        "h": 63,
+        "pivot": {
+          "x": 340,
+          "y": 448
+        }
+      }
     },
     "weapon-rack": {
-      "level": 5, "file": "obj-weapon-rack.png", "x": 15, "y": 283, "w": 170, "h": 110, "layer": "back",
-      "hooks": [{ "x": 63, "y": 316 }, { "x": 134, "y": 316 }]
+      "level": 5,
+      "file": "obj-weapon-rack.png",
+      "x": 15,
+      "y": 283,
+      "w": 170,
+      "h": 110,
+      "layer": "back",
+      "hooks": [
+        {
+          "x": 63,
+          "y": 316
+        },
+        {
+          "x": 134,
+          "y": 316
+        }
+      ]
     },
     "mannequin": {
-      "level": 6, "file": "obj-mannequin.png", "x": 535, "y": 314, "w": 100, "h": 200, "layer": "front",
-      "torso": { "x": 585, "y": 390, "w": 60, "h": 85 }
+      "level": 6,
+      "file": "obj-mannequin.png",
+      "x": 535,
+      "y": 314,
+      "w": 100,
+      "h": 200,
+      "layer": "front",
+      "torso": {
+        "x": 585,
+        "y": 390,
+        "w": 60,
+        "h": 85
+      }
     },
-    "bellows-big": { "level": 7, "file": "obj-bellows-big.png", "x": 196, "y": 224, "w": 106, "h": 91, "layer": "back", "replaces": "bellows" },
+    "bellows-big": {
+      "level": 7,
+      "file": "obj-bellows-big.png",
+      "x": 196,
+      "y": 224,
+      "w": 106,
+      "h": 91,
+      "layer": "back",
+      "replaces": "bellows"
+    },
     "cat": {
       "kind": "pet",
-      "level": 8, "file": "obj-cat.png", "x": 1010, "y": 580, "w": 120, "h": 60, "layer": "front",
-      "tail": { "file": "cat-tail.png", "x": 1116, "y": 573, "w": 34, "h": 36, "pivot": { "x": 1118, "y": 608 } }
+      "level": 8,
+      "file": "obj-cat.png",
+      "x": 1010,
+      "y": 580,
+      "w": 120,
+      "h": 60,
+      "layer": "front",
+      "tail": {
+        "file": "cat-tail.png",
+        "x": 1116,
+        "y": 573,
+        "w": 34,
+        "h": 36,
+        "pivot": {
+          "x": 1118,
+          "y": 608
+        }
+      }
     },
-    "trophy-shelf": { "level": 9, "file": "obj-trophy-shelf.png", "x": 900, "y": 96, "w": 165, "h": 103, "layer": "back" },
-    "guild-banner": { "level": 10, "file": "obj-guild-banner.png", "x": 1066, "y": 40, "w": 100, "h": 148, "layer": "back" },
-    "anvil-gold": { "level": 10, "file": "anvil-gold.png", "x": 636, "y": 295, "w": 445, "h": 267, "layer": "front", "replaces": "anvil-front", "top": { "x": 186, "y": 17, "width": 234 } }
+    "trophy-shelf": {
+      "level": 9,
+      "file": "obj-trophy-shelf.png",
+      "x": 900,
+      "y": 96,
+      "w": 165,
+      "h": 103,
+      "layer": "back"
+    },
+    "guild-banner": {
+      "level": 10,
+      "file": "obj-guild-banner.png",
+      "x": 1066,
+      "y": 40,
+      "w": 100,
+      "h": 148,
+      "layer": "back"
+    },
+    "anvil-gold": {
+      "level": 10,
+      "file": "anvil-gold.png",
+      "x": 636,
+      "y": 295,
+      "w": 445,
+      "h": 267,
+      "layer": "front",
+      "replaces": "anvil-front",
+      "top": {
+        "x": 186,
+        "y": 17,
+        "width": 234
+      }
+    }
   }
 }
