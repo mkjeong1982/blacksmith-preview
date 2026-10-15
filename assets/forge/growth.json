@@ -24,8 +24,8 @@
     "bellows-big": { "level": 7, "file": "obj-bellows-big.png", "x": 196, "y": 224, "w": 106, "h": 91, "layer": "back", "replaces": "bellows" },
     "cat": {
       "kind": "pet",
-      "level": 8, "file": "obj-cat.png", "x": 395, "y": 455, "w": 120, "h": 60, "layer": "front",
-      "tail": { "file": "cat-tail.png", "x": 501, "y": 448, "w": 34, "h": 36, "pivot": { "x": 503, "y": 483 } }
+      "level": 8, "file": "obj-cat.png", "x": 1010, "y": 580, "w": 120, "h": 60, "layer": "front",
+      "tail": { "file": "cat-tail.png", "x": 1116, "y": 573, "w": 34, "h": 36, "pivot": { "x": 1118, "y": 608 } }
     },
     "trophy-shelf": { "level": 9, "file": "obj-trophy-shelf.png", "x": 900, "y": 96, "w": 165, "h": 103, "layer": "back" },
     "guild-banner": { "level": 10, "file": "obj-guild-banner.png", "x": 1066, "y": 40, "w": 100, "h": 148, "layer": "back" },
