@@ -281,5 +281,17 @@
  "/elarin/levelUp/#3": "Like a sprout grown a hand taller.",
  "/elarin/rare_recipe/#0": "Oh, a golden scroll. Gifts beyond the forest, too.",
  "/elarin/rare_recipe/#1": "A blueprint from an old song. Handle with care.",
- "/elarin/rare_recipe/#2": "The wind led me to this scroll."
+ "/elarin/rare_recipe/#2": "The wind led me to this scroll.",
+ "/luka/tired/#0": "Boss, I need a rest… my legs are jelly!",
+ "/luka/tired/#1": "Hehe, that's it for today! Gonna nap~",
+ "/garam/tired/#0": "…Gonna rest. Need some shut-eye.",
+ "/garam/tired/#1": "Overdid it. I'll take a break.",
+ "/gregor/tired/#0": "Ho ho, at my age you rest. Back after a nap.",
+ "/gregor/tired/#1": "My knees ache. That's all for today.",
+ "/sera/tired/#0": "Sera recharging! Back after a rest~",
+ "/sera/tired/#1": "Waah, out of juice! Nap time!",
+ "/torvin/tired/#0": "Even a pick needs rest to stay sharp. Sleeping.",
+ "/torvin/tired/#1": "Hm, that's enough today. Off to sleep.",
+ "/elarin/tired/#0": "Even the wind rests some days. I'll rest a while.",
+ "/elarin/tired/#1": "A little tired… I'll rest under the stars."
 }
