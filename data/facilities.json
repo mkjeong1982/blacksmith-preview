@@ -87,35 +87,35 @@
       },
       {
         "level": 2,
-        "upgradeCost": 1800,
+        "upgradeCost": 1200,
         "adventurerSlots": 2,
         "upgradeSec": 5400,
         "repeatTrips": 1
       },
       {
         "level": 3,
-        "upgradeCost": 18000,
+        "upgradeCost": 12000,
         "adventurerSlots": 3,
         "upgradeSec": 21600,
         "repeatTrips": 3
       },
       {
         "level": 4,
-        "upgradeCost": 48000,
+        "upgradeCost": 32000,
         "adventurerSlots": 4,
         "upgradeSec": 86400,
         "repeatTrips": 3
       },
       {
         "level": 5,
-        "upgradeCost": 54000,
+        "upgradeCost": 36000,
         "adventurerSlots": 5,
         "upgradeSec": 162000,
         "repeatTrips": 4
       },
       {
         "level": 6,
-        "upgradeCost": 112500,
+        "upgradeCost": 75000,
         "adventurerSlots": 6,
         "upgradeSec": 259200,
         "repeatTrips": 4
