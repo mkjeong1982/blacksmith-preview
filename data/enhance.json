@@ -4,7 +4,6 @@
   "protect": {
     "fromLevel": 4,
     "adPerDay": 3,
-    "crystalPerDay": 3,
     "crystalCost": 30
   },
   "charmPp": [
