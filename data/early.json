@@ -1,0 +1,11 @@
+{
+  "_doc": "WP173 149 (임시): 튜토리얼 직후 초반 구간 — 튜토리얼 끝난 뒤 누적 플레이 windowMin분 또는 대장간 Lv.endForgeLevel 도달 중 먼저 오는 때까지. 그 사이 손님 주문·제작 의뢰 확률 ×orderMult·×commissionMult, 첫 주문은 첫 손님에게(1분 안), 첫 의뢰는 플레이 commissionAfterSec초 뒤 다음 손님(5분 안, 지금 만들 수 있는 티어 commissionTier 이하만), 첫 행상은 플레이 merchantFirstMin분(범위) 무렵(하루 상한·간격 규칙 안), 행상 물건은 해금된 레시피에 모자란 재료 가중치 ×merchantShortWeight.",
+  "windowMin": 60,
+  "endForgeLevel": 2,
+  "orderMult": 2,
+  "commissionMult": 2,
+  "commissionAfterSec": 150,
+  "commissionTier": 1,
+  "merchantFirstMin": [8, 10],
+  "merchantShortWeight": 3
+}
