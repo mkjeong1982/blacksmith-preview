@@ -115,7 +115,7 @@
   "passRules": {
     "days": 30,
     "maxDays": 90,
-    "speedPct": 50,
+    "speedPct": 70,
     "speedRepeat": 1,
     "crystalNow": 300,
     "crystalDaily": 50,
