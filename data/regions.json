@@ -467,7 +467,7 @@
             "서리 박쥐 떼를 쫓는 중! 추워!"
           ],
           "fly": true,
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "snow_yeti",
