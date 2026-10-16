@@ -1,0 +1,29 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>효과음 미리듣기</title><style>body{font-family:system-ui;background:#2b2118;color:#f3e3c3;margin:16px}h1{font-size:18px}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:8px}button{background:#4a3424;color:#f3e3c3;border:1px solid #7a5532;border-radius:8px;padding:10px;text-align:left;cursor:pointer}
+button b{display:block;font-size:13px}button span{font-size:12px;opacity:.8}</style></head><body>
+<h1>대장장이 키우기 — 효과음 미리듣기 (전부 파이썬 파형 합성, tools/synth_sfx.py)</h1>
+<p>버튼을 누르면 재생됩니다. fire_loop는 3초만 재생.</p><div class="g"><button onclick="p('ui_tap')"><b>ui_tap</b><span>일반 버튼 — 나무 '톡'</span></button>
+<button onclick="p('tab')"><b>tab</b><span>탭 전환</span></button>
+<button onclick="p('popup_open')"><b>popup_open</b><span>팝업 열기</span></button>
+<button onclick="p('popup_close')"><b>popup_close</b><span>팝업 닫기</span></button>
+<button onclick="p('hammer_1')"><b>hammer_1</b><span>화로 망치 1</span></button>
+<button onclick="p('hammer_2')"><b>hammer_2</b><span>화로 망치 2</span></button>
+<button onclick="p('hammer_3')"><b>hammer_3</b><span>화로 망치 3</span></button>
+<button onclick="p('bellows')"><b>bellows</b><span>풀무</span></button>
+<button onclick="p('quench')"><b>quench</b><span>물에 식히기</span></button>
+<button onclick="p('fire_loop')"><b>fire_loop</b><span>화로 불(루프, 아주 작게)</span></button>
+<button onclick="p('craft_done')"><b>craft_done</b><span>제작 완료</span></button>
+<button onclick="p('enhance_hit')"><b>enhance_hit</b><span>강화 망치</span></button>
+<button onclick="p('enhance_ok')"><b>enhance_ok</b><span>강화 성공</span></button>
+<button onclick="p('enhance_fail')"><b>enhance_fail</b><span>강화 실패(부서짐)</span></button>
+<button onclick="p('sell')"><b>sell</b><span>판매</span></button>
+<button onclick="p('gold')"><b>gold</b><span>골드 획득</span></button>
+<button onclick="p('equip')"><b>equip</b><span>장착</span></button>
+<button onclick="p('dispatch')"><b>dispatch</b><span>파견 출발</span></button>
+<button onclick="p('report')"><b>report</b><span>귀환 보고</span></button>
+<button onclick="p('collect')"><b>collect</b><span>재료 받기(팝)</span></button>
+<button onclick="p('level_up')"><b>level_up</b><span>레벨업·완공</span></button>
+<button onclick="p('ad_half')"><b>ad_half</b><span>시간 절반</span></button>
+<button onclick="p('blocked')"><b>blocked</b><span>막힌 조작</span></button></div>
+<script>let cur;function p(k){if(cur){cur.pause()}cur=new Audio('sfx_preview_files/'+k+'.m4a');if(k==='fire_loop'){cur.loop=true;setTimeout(()=>cur.pause(),3000)}cur.play()}</script></body></html>
