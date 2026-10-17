@@ -29,12 +29,15 @@
   "sleepyInjuryPp": 10,
   "sleepyInjuryCapPct": 45,
   "smith": {
-    "_doc": "WP178 (임시): 대장장이 스태미나 — 제작 중인 모루가 있으면 닳고(1개 기준 100을 4시간, n개 = ×(1 + anvilExtra×(n−1))), 없으면 회복(100을 5시간). 0이면 모든 모루 일시정지·휴식 → resumePct%에 재개. 취침(휴식 공간 침대) = 회복 ×sleepMult, 가득 차면 기상. 튜토리얼 중엔 그대로.",
+    "_doc": "WP178 (임시): 대장장이 스태미나 — 제작 중인 모루가 있으면 닳고(1개 기준 100을 2시간 — WP173 190, 예전 4시간, n개 = ×(1 + anvilExtra×(n−1))), 없으면 회복(100을 5시간). 0이면 모든 모루 일시정지·휴식 → resumePct%에 재개. 취침(휴식 공간 침대) = 회복 ×sleepMult, 가득 차면 기상. 튜토리얼 중엔 그대로. WP173 190: 📺 +adGain(하루 adPerDay회) · 💎 가득 = ceil(crystalCost × 모자란 양/최대), 최소 1.",
     "max": 100,
-    "drainPerMin": 0.41667,
+    "drainPerMin": 0.83333,
     "anvilExtra": 0.5,
     "regenPerMin": 0.33333,
     "resumePct": 30,
-    "sleepMult": 3
+    "sleepMult": 3,
+    "adGain": 50,
+    "adPerDay": 3,
+    "crystalCost": 20
   }
 }
