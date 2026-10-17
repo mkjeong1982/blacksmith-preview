@@ -1,0 +1,23 @@
+{
+  "1": [
+    { "fx": "dust", "x": 337, "y": 91, "scale": 1 }
+  ],
+  "2": [
+    { "fx": "hearth", "x": 103, "y": 140, "scale": 1 },
+    { "fx": "candle", "x": 584, "y": 111, "scale": 1 }
+  ],
+  "3": [
+    { "fx": "hearth", "x": 102, "y": 131, "scale": 1 }
+  ],
+  "4": [
+    { "fx": "hearth", "x": 102, "y": 141, "scale": 1 },
+    { "fx": "candle", "x": 388, "y": 84, "scale": 1 },
+    { "fx": "glint", "x": 287, "y": 86, "scale": 1 }
+  ],
+  "5": [
+    { "fx": "hearth", "x": 112, "y": 135, "scale": 1 },
+    { "fx": "candle", "x": 447, "y": 13, "scale": 0.75 },
+    { "fx": "candle", "x": 351, "y": 104, "scale": 0.65 },
+    { "fx": "glint", "x": 558, "y": 71, "scale": 1 }
+  ]
+}
