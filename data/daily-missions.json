@@ -1,6 +1,6 @@
 {
   "perDay": 5,
-  "bonusCrystals": 5,
+  "bonusCrystals": 3,
   "pool": [
     {
       "id": "craft",
