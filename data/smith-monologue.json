@@ -1,5 +1,5 @@
 {
-  "_doc": "WP178 추가 3·5·6·7 (임시, 한국어만 — 영어·일본어는 123 현지화 때; 그전엔 다른 언어에선 안 나옴): 대장장이 혼잣말. general = 아무 때나({adventurer} = 지금 있는 모험가 이름), tired = 스태미나 30% 이하(휴식 공간 전용), sleep = 잠꼬대(휴식 공간 전용), stage.<1~5> = 휴식 공간 단계(=대장간 레벨) 각오·뿌듯함·소회, customer.<종류>.<bought|browsed> = 최근에 실제로 온 그 손님만, customerAny.<ordered|commission|tip> = 최근 그 일이 있었던 손님({customer} = 이름). 작업 공간에선 손님이 없을 때 general·stage·customer만.",
+  "_doc": "WP178 추가 3·5·6·7 (임시 — 영어·일본어 locales/*/smith-monologue.json, WP173 123): 대장장이 혼잣말. general = 아무 때나({adventurer} = 지금 있는 모험가 이름), tired = 스태미나 30% 이하(휴식 공간 전용), sleep = 잠꼬대(휴식 공간 전용), stage.<1~5> = 휴식 공간 단계(=대장간 레벨) 각오·뿌듯함·소회, customer.<종류>.<bought|browsed> = 최근에 실제로 온 그 손님만, customerAny.<ordered|commission|tip> = 최근 그 일이 있었던 손님({customer} = 이름). 작업 공간에선 손님이 없을 때 general·stage·customer만.",
   "general": [
     "{adventurer} 녀석, 오늘도 무사히 돌아와야 할 텐데…",
     "{adventurer}이 내 칼로 몬스터 잡았다는 소문 들었어? 헤헤, 내 작품이지!",

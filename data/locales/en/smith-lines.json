@@ -1,12 +1,12 @@
 {
- "/lines/[what_next]/text": "What should I make next?",
- "/lines/[anvil]/text": "Anvil, buddy, let's do this.",
- "/lines/[itchy]/text": "My hammer's getting itchy~",
- "/lines/[one_more]/text": "One more before the fire dies?",
- "/lines/[guests]/text": "When's everyone back~? I want the stories!",
- "/lines/[ore_smell]/text": "Ahh, smell that iron ore~",
- "/lines/[jackpot]/text": "One masterpiece and I'm rich!",
+ "/lines/[what_next]/text": "Hmm, what should I make next?",
+ "/lines/[anvil]/text": "Okay anvil, let's have a good one.",
+ "/lines/[itchy]/text": "My hammer hand's getting itchy~",
+ "/lines/[one_more]/text": "One more before the fire dies down?",
+ "/lines/[guests]/text": "When's everyone coming back~? I want stories!",
+ "/lines/[ore_smell]/text": "Ahh, that iron ore smell~",
+ "/lines/[jackpot]/text": "One masterpiece and I'm set for life!",
  "/lines/[rest_is_work]/text": "Resting is work too. Probably.",
- "/lines/[cat]/text": "Kitty, want a sword too?",
- "/lines/[big_day]/text": "Big haul today, I can feel it!"
+ "/lines/[cat]/text": "Hey kitty, want a sword of your own?",
+ "/lines/[big_day]/text": "Big haul coming today. I can feel it!"
 }

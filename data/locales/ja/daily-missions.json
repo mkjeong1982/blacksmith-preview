@@ -1,10 +1,10 @@
 {
- "/pool/[craft]/name": "装備を{n}個つくる",
- "/pool/[dispatch]/name": "{n}回派遣する",
- "/pool/[enhance]/name": "強化を{n}回してみる",
+ "/pool/[craft]/name": "装備を{n}個作る",
+ "/pool/[dispatch]/name": "探索に{n}回送り出す",
+ "/pool/[enhance]/name": "強化を{n}回やってみる",
  "/pool/[sell]/name": "装備を{n}個売る",
  "/pool/[materials]/name": "素材を{n}個集める",
  "/pool/[reports]/name": "帰還報告を{n}回受け取る",
- "/pool/[upgrade]/name": "施設アップグレードを始める",
- "/pool/[ad]/name": "広告で時間短縮{n}回"
+ "/pool/[upgrade]/name": "施設のアップグレードを始める",
+ "/pool/[ad]/name": "広告で時間短縮を{n}回"
 }

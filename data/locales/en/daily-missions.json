@@ -1,10 +1,10 @@
 {
- "/pool/[craft]/name": "Craft gear ×{n}",
- "/pool/[dispatch]/name": "Send expeditions ×{n}",
- "/pool/[enhance]/name": "Try enhancing ×{n}",
- "/pool/[sell]/name": "Sell gear ×{n}",
- "/pool/[materials]/name": "Gather materials ×{n}",
- "/pool/[reports]/name": "Get trip reports ×{n}",
- "/pool/[upgrade]/name": "Start a facility upgrade",
- "/pool/[ad]/name": "Ad time-skips ×{n}"
+ "/pool/[craft]/name": "Craft {n} gear",
+ "/pool/[dispatch]/name": "Send out {n} expeditions",
+ "/pool/[enhance]/name": "Try {n} enhances",
+ "/pool/[sell]/name": "Sell {n} gear",
+ "/pool/[materials]/name": "Gather {n} materials",
+ "/pool/[reports]/name": "Collect {n} trip reports",
+ "/pool/[upgrade]/name": "Start a building upgrade",
+ "/pool/[ad]/name": "Skip time with ads ×{n}"
 }
