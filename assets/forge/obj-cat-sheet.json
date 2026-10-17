@@ -1,6 +1,6 @@
 {
-  "frameW": 300,
-  "frameH": 150,
+  "frameW": 150,
+  "frameH": 75,
   "anims": {
     "idle": [
       0
