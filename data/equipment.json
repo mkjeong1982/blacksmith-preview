@@ -4,7 +4,7 @@
   "craftEarlyMinutes": 30,
   "wearLevel": {
     "1": 1,
-    "2": 5,
+    "2": 4,
     "3": 11,
     "4": 21,
     "5": 39,
@@ -2093,6 +2093,62 @@
       "sellPrice": 9000,
       "luck": 48,
       "dropOnly": true
+    },
+    {
+      "id": "miner_silver_sword",
+      "name": "광부의 은빛 검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 2,
+      "special": true,
+      "rareFrom": "old_mine",
+      "unlockForgeLevel": 1,
+      "craftSec": 300,
+      "power": 27,
+      "sellPrice": 553,
+      "goldCost": 300,
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 5
+        },
+        {
+          "materialId": "coal",
+          "qty": 4
+        },
+        {
+          "materialId": "silver",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "deepvein_spear",
+      "name": "광맥 창",
+      "slot": "right",
+      "kind": "spear",
+      "tier": 2,
+      "special": true,
+      "rareFrom": "old_mine",
+      "unlockForgeLevel": 1,
+      "craftSec": 240,
+      "power": 24,
+      "sellPrice": 483,
+      "goldCost": 250,
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 5
+        },
+        {
+          "materialId": "coal",
+          "qty": 3
+        },
+        {
+          "materialId": "silver",
+          "qty": 2
+        }
+      ]
     },
     {
       "id": "lava_heart_axe",

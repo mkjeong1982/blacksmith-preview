@@ -116,6 +116,8 @@
  "/items/[starlight_hammer]/name": "Star Maul",
  "/items/[temple_guard_helm]/name": "Temple Helm",
  "/items/[windgod_amulet]/name": "Windgod Amulet",
+ "/items/[miner_silver_sword]/name": "Miner Blade",
+ "/items/[deepvein_spear]/name": "Vein Spear",
  "/items/[flame_tongue_sword]/name": "Flametongue",
  "/items/[magma_rock_shield]/name": "Magma Shield",
  "/items/[lava_crown_helm]/name": "Lava Crown",

@@ -15,7 +15,7 @@
   "regenPerLodgeLevelPct": 10,
   "sleepBelow": 10,
   "wakeAtPct": 30,
-  "earlyMinutes": 30,
+  "earlyMinutes": 60,
   "earlyMult": 0.5,
   "adPerDay": 2,
   "crystalCost": 20,
