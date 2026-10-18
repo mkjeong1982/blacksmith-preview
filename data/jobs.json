@@ -1,6 +1,8 @@
 {
+  "_doc": "WP33 직업별 착용 계열(allow). WP173 200 (임시): armorWeights — 방어구(투구·갑옷·부츠·방패) 무게 light·medium·heavy 중 입을 수 있는 것(전사 전부, 검사 가벼움·보통, 궁수·척후병 가벼움).",
   "jobs": {
     "swordsman": {
+      "armorWeights": ["light", "medium"],
       "name": "검사",
       "allow": [
         "sword",
@@ -17,6 +19,7 @@
       ]
     },
     "archer": {
+      "armorWeights": ["light"],
       "name": "궁수",
       "allow": [
         "bow",
@@ -31,6 +34,7 @@
       ]
     },
     "warrior": {
+      "armorWeights": ["light", "medium", "heavy"],
       "name": "전사",
       "allow": [
         "axe",
@@ -46,6 +50,7 @@
       ]
     },
     "scout": {
+      "armorWeights": ["light"],
       "name": "척후병",
       "allow": [
         "bow",
