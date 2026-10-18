@@ -1,4 +1,6 @@
 {
+  "_doc": "minRemainingSec 남은 시간이 이보다 적으면 📺 없음 · dispatchMult 파견 📺 보상 배수 · WP182 upgradeMaxSaveSec(임시): 시설 공사에 무료 📺 1회가 줄이는 최대 시간(광고 제거 패스는 그대로 절반) — 긴 공사에서 광고가 스피드 패스를 이기지 않게",
   "minRemainingSec": 60,
+  "upgradeMaxSaveSec": 14400,
   "dispatchMult": 1.5
 }
