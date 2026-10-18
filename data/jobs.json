@@ -1,7 +1,9 @@
 {
-  "_doc": "WP33 직업별 착용 계열(allow). WP173 200 (임시): armorWeights — 방어구(투구·갑옷·부츠·방패) 무게 light·medium·heavy 중 입을 수 있는 것(전사 전부, 검사 가벼움·보통, 궁수·척후병 가벼움).",
+  "_doc": "WP33 직업별 착용 계열(allow). WP173 203 (임시): mainKinds 주무기 — 끼면 무기 전투력 +mainBonusPct%(전부 10 — 15면 시뮬 첫 Ⅴ 9.5일·패스 숙소 Lv.5 0.83으로 기준 밖, 45면 검+방패 = 망치지만 루카 첫 검부터 +45%라 보류). WP173 200 (임시): armorWeights — 방어구(투구·갑옷·부츠·방패) 무게 light·medium·heavy 중 입을 수 있는 것(전사 전부, 검사 가벼움·보통, 궁수·척후병 가벼움).",
   "jobs": {
     "swordsman": {
+      "mainKinds": ["sword"],
+      "mainBonusPct": 10,
       "armorWeights": ["light", "medium"],
       "name": "검사",
       "allow": [
@@ -19,6 +21,8 @@
       ]
     },
     "archer": {
+      "mainKinds": ["longbow", "bow"],
+      "mainBonusPct": 10,
       "armorWeights": ["light"],
       "name": "궁수",
       "allow": [
@@ -34,6 +38,8 @@
       ]
     },
     "warrior": {
+      "mainKinds": ["axe", "hammer"],
+      "mainBonusPct": 10,
       "armorWeights": ["light", "medium", "heavy"],
       "name": "전사",
       "allow": [
@@ -50,6 +56,8 @@
       ]
     },
     "scout": {
+      "mainKinds": ["bow", "sword"],
+      "mainBonusPct": 10,
       "armorWeights": ["light"],
       "name": "척후병",
       "allow": [
