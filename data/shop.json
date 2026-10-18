@@ -26,31 +26,31 @@
   },
   "products": [
     {
-      "id": "crystal_60",
+      "id": "crystal_60", "storeId": "com.mkgamestudio.blacksmith.crystal_60",
       "priceKrw": 1100,
       "crystals": 60,
       "bonus": 0
     },
     {
-      "id": "crystal_330",
+      "id": "crystal_330", "storeId": "com.mkgamestudio.blacksmith.crystal_330",
       "priceKrw": 4400,
       "crystals": 300,
       "bonus": 30
     },
     {
-      "id": "crystal_680",
+      "id": "crystal_680", "storeId": "com.mkgamestudio.blacksmith.crystal_680",
       "priceKrw": 8800,
       "crystals": 600,
       "bonus": 80
     },
     {
-      "id": "crystal_1400",
+      "id": "crystal_1400", "storeId": "com.mkgamestudio.blacksmith.crystal_1400",
       "priceKrw": 15000,
       "crystals": 1200,
       "bonus": 200
     },
     {
-      "id": "crystal_3800",
+      "id": "crystal_3800", "storeId": "com.mkgamestudio.blacksmith.crystal_3800",
       "priceKrw": 39000,
       "crystals": 3000,
       "bonus": 800
@@ -58,7 +58,7 @@
   ],
   "firstPurchaseDouble": true,
   "starter": {
-    "id": "pack_starter",
+    "id": "pack_starter", "storeId": "com.mkgamestudio.blacksmith.pack_starter",
     "priceKrw": 2200,
     "crystals": 300,
     "goldCrystals": 50,
@@ -66,28 +66,28 @@
   },
   "passes": [
     {
-      "id": "pass_noads_30",
+      "id": "pass_noads_30", "storeId": "com.mkgamestudio.blacksmith.pass_noads_30",
       "priceKrw": 1500,
       "grants": [
         "noads"
       ]
     },
     {
-      "id": "pass_speed_30",
+      "id": "pass_speed_30", "storeId": "com.mkgamestudio.blacksmith.pass_speed_30",
       "priceKrw": 2000,
       "grants": [
         "speed"
       ]
     },
     {
-      "id": "pass_crystal_30",
+      "id": "pass_crystal_30", "storeId": "com.mkgamestudio.blacksmith.pass_crystal_30",
       "priceKrw": 3300,
       "grants": [
         "crystal"
       ]
     },
     {
-      "id": "pass_all_30",
+      "id": "pass_all_30", "storeId": "com.mkgamestudio.blacksmith.pass_all_30",
       "priceKrw": 5500,
       "grants": [
         "noads",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "id": "noads_forever",
+      "id": "noads_forever", "storeId": "com.mkgamestudio.blacksmith.noads_forever",
       "priceKrw": 11000,
       "grants": [
         "noads"
@@ -104,7 +104,7 @@
       "permanent": true
     },
     {
-      "id": "speed_forever",
+      "id": "speed_forever", "storeId": "com.mkgamestudio.blacksmith.speed_forever",
       "priceKrw": 15000,
       "grants": [
         "speed"
