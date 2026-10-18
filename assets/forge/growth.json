@@ -150,7 +150,7 @@
     },
     "dog": {
       "kind": "pet",
-      "level": 4,
+      "level": 3,
       "file": "obj-dog-sheet.png",
       "frame": { "w": 150, "h": 75 },
       "x": 702,
