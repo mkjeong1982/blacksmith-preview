@@ -12,49 +12,56 @@
       },
       {
         "level": 2,
-        "upgradeCost": 250,
+        "upgradeCost": 300,
+        "fame": 5,
         "craftTimePct": 90,
         "upgradeSec": 300,
         "anvils": 1
       },
       {
         "level": 3,
-        "upgradeCost": 800,
+        "upgradeCost": 1200,
+        "fame": 20,
         "craftTimePct": 85,
         "upgradeSec": 900,
         "anvils": 2
       },
       {
         "level": 4,
-        "upgradeCost": 1400,
+        "upgradeCost": 2100,
+        "fame": 60,
         "craftTimePct": 75,
         "upgradeSec": 3600,
         "anvils": 2
       },
       {
         "level": 5,
-        "upgradeCost": 2200,
+        "upgradeCost": 3300,
+        "fame": 120,
         "craftTimePct": 65,
         "upgradeSec": 7200,
         "anvils": 2
       },
       {
         "level": 6,
-        "upgradeCost": 4500,
+        "upgradeCost": 6800,
+        "fame": 120,
         "anvils": 3,
         "craftTimePct": 60,
         "upgradeSec": 14400
       },
       {
         "level": 7,
-        "upgradeCost": 8000,
+        "upgradeCost": 12000,
+        "fame": 200,
         "anvils": 3,
         "craftTimePct": 56,
         "upgradeSec": 18000
       },
       {
         "level": 8,
-        "upgradeCost": 20000,
+        "upgradeCost": 25000,
+        "fame": 290,
         "anvils": 3,
         "craftTimePct": 52,
         "upgradeSec": 36000
@@ -62,13 +69,15 @@
       {
         "level": 9,
         "upgradeCost": 40000,
+        "fame": 430,
         "anvils": 4,
         "craftTimePct": 48,
         "upgradeSec": 86400
       },
       {
         "level": 10,
-        "upgradeCost": 60000,
+        "upgradeCost": 72000,
+        "fame": 720,
         "anvils": 4,
         "craftTimePct": 45,
         "upgradeSec": 129600
