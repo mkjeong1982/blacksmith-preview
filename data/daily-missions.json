@@ -66,6 +66,24 @@
       }
     },
     {
+      "id": "commission",
+      "name": "의뢰 {n}번 납품하기",
+      "key": "commissionsDone",
+      "goal": 1,
+      "reward": {
+        "goldPacks": 0.5
+      }
+    },
+    {
+      "id": "fame",
+      "name": "명성 {n} 올리기",
+      "key": "fameGained",
+      "goal": 10,
+      "reward": {
+        "goldPacks": 1
+      }
+    },
+    {
       "id": "ad",
       "name": "광고로 시간 단축 {n}번",
       "key": "ads",

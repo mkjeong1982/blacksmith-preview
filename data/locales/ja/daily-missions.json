@@ -6,5 +6,7 @@
  "/pool/[materials]/name": "素材を{n}個集める",
  "/pool/[reports]/name": "帰還報告を{n}回受け取る",
  "/pool/[upgrade]/name": "施設のアップグレードを始める",
- "/pool/[ad]/name": "広告で時間短縮を{n}回"
+ "/pool/[ad]/name": "広告で時間短縮を{n}回",
+ "/pool/[commission]/name": "依頼を{n}回納品する",
+ "/pool/[fame]/name": "名声を{n}上げる"
 }
