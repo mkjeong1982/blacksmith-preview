@@ -531,5 +531,11 @@
  "/kinds/princess/request/busy/#0": "You're busy… I'll sneak back later!",
  "/kinds/princess/request/busy/#1": "Better go before I'm caught. See you!",
  "/kinds/princess/request/tip/#0": "I love it! Here's my allowance — shh!",
- "/kinds/princess/request/tip/#1": "Thank you! A little gift~"
+ "/kinds/princess/request/tip/#1": "Thank you! A little gift~",
+ "/kinds/kid/firstOrder/enter/#0": "Mister! Is this the forge everyone talks about?",
+ "/kinds/kid/firstOrder/enter/#1": "Wow, a real forge! Hi, mister!",
+ "/kinds/kid/firstOrder/intro/#0": "I'm the boss of the kids around here!",
+ "/kinds/kid/firstOrder/ask/#0": "I came to buy a {item} for Dad's birthday! Got one?",
+ "/kinds/kid/firstOrder/ask/#1": "I want a {item} for my adventurer big brother! Got one?",
+ "/kinds/kid/firstOrder/ask/#2": "I saved my allowance for a {item}! Got one?"
 }

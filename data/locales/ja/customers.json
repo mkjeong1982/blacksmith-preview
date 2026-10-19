@@ -531,5 +531,11 @@
  "/kinds/princess/request/busy/#0": "お忙しいみたい…またこっそり来ます!",
  "/kinds/princess/request/busy/#1": "見つかる前に帰らなきゃ。また来ます!",
  "/kinds/princess/request/tip/#0": "すごく気に入りました!これ、私のお小遣いです、しーっ!",
- "/kinds/princess/request/tip/#1": "ありがとう!ささやかなお礼です~"
+ "/kinds/princess/request/tip/#1": "ありがとう!ささやかなお礼です~",
+ "/kinds/kid/firstOrder/enter/#0": "おじさん! ここがうわさの鍛冶屋でしょ?",
+ "/kinds/kid/firstOrder/enter/#1": "わあ、本物の鍛冶屋だ! おじさん、こんにちは!",
+ "/kinds/kid/firstOrder/intro/#0": "ぼく、この町の子どもたちのリーダーなんです!",
+ "/kinds/kid/firstOrder/ask/#0": "パパの誕生日プレゼントに{item}を買いに来たんです! ありますか?",
+ "/kinds/kid/firstOrder/ask/#1": "冒険者のお兄ちゃんにあげる{item}を買いに来ました! ありますか?",
+ "/kinds/kid/firstOrder/ask/#2": "おこづかいをためて{item}を買いに来ました! ありますか?"
 }
