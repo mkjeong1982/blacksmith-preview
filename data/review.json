@@ -1,0 +1,17 @@
+{
+  "_doc": "WP188 review ask (all provisional). The store's own sheet only — no popup of ours, no reward, no star nudging. moments: good moments (asked delayMs after); coolAfterBadMin: rest after a failure / injury / fame drop.",
+  "minForgeLevel": 3,
+  "minDaysInstalled": 3,
+  "minLaunches": 5,
+  "gapDays": 30,
+  "delayMs": 1500,
+  "coolAfterBadMin": 10,
+  "enhanceMin": 5,
+  "moments": [
+    "enhance",
+    "firstRare",
+    "royal",
+    "upgrade",
+    "newRegion"
+  ]
+}
