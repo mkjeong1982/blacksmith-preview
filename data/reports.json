@@ -1786,7 +1786,7 @@
           "speaker": "sera"
         },
         {
-          "text": "미스릴 반짝반짝. 귀걸이 만들어 줄 수 있어요?",
+          "text": "미스릴 반짝반짝. 이걸로 예쁜 거 만들어 줘요!",
           "speaker": "sera",
           "requires": {
             "material": "mithril"
@@ -2164,7 +2164,7 @@
           "speaker": "gregor"
         },
         {
-          "text": "용비늘 한 자루. 허리가 먼저 알더군.",
+          "text": "용비늘 한 보따리. 허리가 먼저 알더군.",
           "speaker": "gregor",
           "requires": {
             "material": "dragon_scale"
