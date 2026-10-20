@@ -113,5 +113,11 @@
  "/customerAny/commission/#0": "Can't let {customer} down on that commission…",
  "/customerAny/commission/#1": "{customer}'s commission is getting my very best!",
  "/customerAny/tip/#0": "{customer} even tipped me! Steak for dinner tonight!",
- "/customerAny/tip/#1": "Got a tip~ Come again, {customer}!"
+ "/customerAny/tip/#1": "Got a tip~ Come again, {customer}!",
+ "/customer/adventurer_girl/bought/#0": "The rookie adventurer bought her first expedition gear. Come back safe!",
+ "/customer/adventurer_girl/bought/#1": "She says Goblin Woods is no problem. Love the spirit!",
+ "/customer/adventurer_girl/browsed/#0": "The rookie adventurer only looked at light gear. Likes it nimble.",
+ "/customer/veteran_explorer/bought/#0": "The veteran explorer bought one. Thirty years of eye picked it — I'm proud!",
+ "/customer/veteran_explorer/bought/#1": "He says it'll hold up even in Frost Canyon. Worth making it thick!",
+ "/customer/veteran_explorer/browsed/#0": "The veteran explorer checked every sole and seam. Scary eye."
 }

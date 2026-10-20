@@ -113,5 +113,11 @@
  "/customerAny/commission/#0": "{customer}からの製作依頼、がっかりさせられないぞ…",
  "/customerAny/commission/#1": "{customer}の依頼品、最高の出来にしてやるぜ!",
  "/customerAny/tip/#0": "{customer}がチップまでくれた! 今夜は肉だ!",
- "/customerAny/tip/#1": "チップもらった〜 {customer}、また来てね!"
+ "/customerAny/tip/#1": "チップもらった〜 {customer}、また来てね!",
+ "/customer/adventurer_girl/bought/#0": "駆け出しの冒険者が初遠征の装備を買っていった。無事に帰ってこいよ!",
+ "/customer/adventurer_girl/bought/#1": "ゴブリンの森くらい楽勝だってさ。その意気だ!",
+ "/customer/adventurer_girl/browsed/#0": "駆け出しの冒険者は軽い装備ばかり見ていった。身軽なのが好きらしい。",
+ "/customer/veteran_explorer/bought/#0": "ベテラン探検家が買っていった。三十年の目利きが選んだんだ、誇らしいな!",
+ "/customer/veteran_explorer/bought/#1": "氷の峡谷でも持つってさ。へへ、厚く作ったかいがあった。",
+ "/customer/veteran_explorer/browsed/#0": "ベテラン探検家は底と継ぎ目ばかり念入りに見ていった。怖い目だ。"
 }
