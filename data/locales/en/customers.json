@@ -537,5 +537,16 @@
  "/kinds/kid/firstOrder/intro/#0": "I'm the boss of the kids around here!",
  "/kinds/kid/firstOrder/ask/#0": "I came to buy a {item} for Dad's birthday! Got one?",
  "/kinds/kid/firstOrder/ask/#1": "I want a {item} for my adventurer big brother! Got one?",
- "/kinds/kid/firstOrder/ask/#2": "I saved my allowance for a {item}! Got one?"
+ "/kinds/kid/firstOrder/ask/#2": "I saved my allowance for a {item}! Got one?",
+ "/request/ask/royal/#3": "Got a {item} for me?",
+ "/request/ask/royal/#4": "Would ye have a decent {item}?",
+ "/request/happy/royal/#5": "Splendid! That's the one.",
+ "/request/happy/royal/#6": "Most pleasing. My thanks.",
+ "/request/happy/royal/#7": "Found it at last. Good work!",
+ "/request/sad/royal/#3": "A pity. I'll come again.",
+ "/request/sad/royal/#4": "Have one ready next time.",
+ "/request/sad/royal/#5": "Hmm, I'll drop by again.",
+ "/request/busy/royal/#3": "Busy, I see. I'll come again.",
+ "/request/busy/royal/#4": "I'll return when you're free.",
+ "/request/tip/royal/#3": "Fine work, that. Take this."
 }

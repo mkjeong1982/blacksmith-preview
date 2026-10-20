@@ -537,5 +537,16 @@
  "/kinds/kid/firstOrder/intro/#0": "ぼく、この町の子どもたちのリーダーなんです!",
  "/kinds/kid/firstOrder/ask/#0": "パパの誕生日プレゼントに{item}を買いに来たんです! ありますか?",
  "/kinds/kid/firstOrder/ask/#1": "冒険者のお兄ちゃんにあげる{item}を買いに来ました! ありますか?",
- "/kinds/kid/firstOrder/ask/#2": "おこづかいをためて{item}を買いに来ました! ありますか?"
+ "/kinds/kid/firstOrder/ask/#2": "おこづかいをためて{item}を買いに来ました! ありますか?",
+ "/request/ask/royal/#3": "{item}はあるかね?",
+ "/request/ask/royal/#4": "使える{item}はないかね?",
+ "/request/happy/royal/#5": "見事じゃ!これこそじゃ。",
+ "/request/happy/royal/#6": "満足じゃ。礼を言うぞ。",
+ "/request/happy/royal/#7": "探しておったものが見つかった。ご苦労!",
+ "/request/sad/royal/#3": "残念じゃのう。また来るとしよう。",
+ "/request/sad/royal/#4": "次はきっと用意しておくのじゃぞ。",
+ "/request/sad/royal/#5": "ふむ、また寄るとしよう。",
+ "/request/busy/royal/#3": "忙しそうじゃのう。また来よう。",
+ "/request/busy/royal/#4": "手が空いたらまた寄るぞ。",
+ "/request/tip/royal/#3": "見事な腕じゃ。取っておきなされ。"
 }
