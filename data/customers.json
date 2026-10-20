@@ -271,7 +271,7 @@
       "leaveTags": [
         "bye_again",
         "bye_thanks",
-        "bye_sorry"
+        "bye_money"
       ],
       "browseTalk": [
         "favor",
@@ -1184,7 +1184,7 @@
     "common": [
       "bye_again",
       "bye_sorry",
-      "bye_sorry"
+      "bye_money"
     ],
     "adventurer": [
       "bye_again",
