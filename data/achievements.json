@@ -91,41 +91,41 @@
     {
       "id": "fame_20",
       "name": "동네에서 소문난 망치",
-      "desc": "명성 20 달성",
+      "desc": "명성 40 달성",
       "key": "fame",
-      "goal": 20,
+      "goal": 40,
       "goldPacks": 1
     },
     {
       "id": "fame_120",
       "name": "마을의 자랑",
-      "desc": "명성 120 달성",
+      "desc": "명성 240 달성",
       "key": "fame",
-      "goal": 120,
+      "goal": 240,
       "goldPacks": 2
     },
     {
       "id": "fame_290",
       "name": "왕국에 이름이 퍼졌어요",
-      "desc": "명성 290 달성",
+      "desc": "명성 580 달성",
       "key": "fame",
-      "goal": 290,
+      "goal": 580,
       "crystals": 15
     },
     {
       "id": "fame_720",
       "name": "전설의 대장장이",
-      "desc": "명성 720 달성",
+      "desc": "명성 1,440 달성",
       "key": "fame",
-      "goal": 720,
+      "goal": 1440,
       "crystals": 30
     },
     {
       "id": "fame_1500",
       "name": "살아 있는 전설",
-      "desc": "명성 1,500 달성",
+      "desc": "명성 3,000 달성",
       "key": "fame",
-      "goal": 1500,
+      "goal": 3000,
       "crystals": 50
     },
     {

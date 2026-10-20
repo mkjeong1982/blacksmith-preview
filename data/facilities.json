@@ -12,72 +12,72 @@
       },
       {
         "level": 2,
-        "upgradeCost": 300,
-        "fame": 5,
+        "upgradeCost": 400,
+        "fame": 10,
         "craftTimePct": 90,
         "upgradeSec": 300,
         "anvils": 1
       },
       {
         "level": 3,
-        "upgradeCost": 1200,
-        "fame": 20,
+        "upgradeCost": 1500,
+        "fame": 30,
         "craftTimePct": 85,
         "upgradeSec": 900,
         "anvils": 2
       },
       {
         "level": 4,
-        "upgradeCost": 2100,
-        "fame": 60,
+        "upgradeCost": 2600,
+        "fame": 90,
         "craftTimePct": 75,
         "upgradeSec": 3600,
         "anvils": 2
       },
       {
         "level": 5,
-        "upgradeCost": 3300,
-        "fame": 120,
+        "upgradeCost": 4000,
+        "fame": 150,
         "craftTimePct": 65,
         "upgradeSec": 7200,
         "anvils": 2
       },
       {
         "level": 6,
-        "upgradeCost": 6800,
-        "fame": 120,
+        "upgradeCost": 8300,
+        "fame": 200,
         "anvils": 3,
         "craftTimePct": 60,
         "upgradeSec": 14400
       },
       {
         "level": 7,
-        "upgradeCost": 12000,
-        "fame": 200,
+        "upgradeCost": 14600,
+        "fame": 400,
         "anvils": 3,
         "craftTimePct": 56,
         "upgradeSec": 18000
       },
       {
         "level": 8,
-        "upgradeCost": 25000,
-        "fame": 290,
+        "upgradeCost": 30500,
+        "fame": 580,
         "anvils": 3,
         "craftTimePct": 52,
         "upgradeSec": 36000
       },
       {
         "level": 9,
-        "upgradeCost": 40000,
-        "fame": 430,
+        "upgradeCost": 48800,
+        "fame": 860,
         "anvils": 4,
         "craftTimePct": 48,
         "upgradeSec": 86400
       },
       {
         "level": 10,
-        "upgradeCost": 72000,
-        "fame": 720,
+        "upgradeCost": 87800,
+        "fame": 1440,
         "anvils": 4,
         "craftTimePct": 45,
         "upgradeSec": 129600
@@ -96,35 +96,39 @@
       },
       {
         "level": 2,
-        "upgradeCost": 1200,
+        "upgradeCost": 1600,
         "adventurerSlots": 2,
         "upgradeSec": 2700,
         "repeatTrips": 1
       },
       {
         "level": 3,
-        "upgradeCost": 12000,
+        "upgradeCost": 15600,
+        "fame": 60,
         "adventurerSlots": 3,
         "upgradeSec": 21600,
         "repeatTrips": 3
       },
       {
         "level": 4,
-        "upgradeCost": 32000,
+        "upgradeCost": 41600,
+        "fame": 300,
         "adventurerSlots": 4,
         "upgradeSec": 86400,
         "repeatTrips": 3
       },
       {
         "level": 5,
-        "upgradeCost": 36000,
+        "upgradeCost": 46800,
+        "fame": 450,
         "adventurerSlots": 5,
         "upgradeSec": 162000,
         "repeatTrips": 4
       },
       {
         "level": 6,
-        "upgradeCost": 75000,
+        "upgradeCost": 97500,
+        "fame": 700,
         "adventurerSlots": 6,
         "upgradeSec": 259200,
         "repeatTrips": 4

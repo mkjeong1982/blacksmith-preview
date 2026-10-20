@@ -80,13 +80,13 @@
  "/achievements/[enhance_10]/name": "伝説の槌さばき",
  "/achievements/[enhance_10]/desc": "装備を+10まで強化する",
  "/achievements/[fame_20]/name": "町で評判の槌",
- "/achievements/[fame_20]/desc": "名声20達成",
+ "/achievements/[fame_20]/desc": "名声40達成",
  "/achievements/[fame_120]/name": "村の誇り",
- "/achievements/[fame_120]/desc": "名声120達成",
+ "/achievements/[fame_120]/desc": "名声240達成",
  "/achievements/[fame_290]/name": "王国に名が広まった",
- "/achievements/[fame_290]/desc": "名声290達成",
+ "/achievements/[fame_290]/desc": "名声580達成",
  "/achievements/[fame_720]/name": "伝説の鍛冶屋",
- "/achievements/[fame_720]/desc": "名声720達成",
+ "/achievements/[fame_720]/desc": "名声1440達成",
  "/achievements/[fame_1500]/name": "生ける伝説",
- "/achievements/[fame_1500]/desc": "名声1,500達成"
+ "/achievements/[fame_1500]/desc": "名声3000達成"
 }

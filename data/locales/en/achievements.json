@@ -80,13 +80,13 @@
  "/achievements/[enhance_10]/name": "Legendary Hammer",
  "/achievements/[enhance_10]/desc": "Enhance gear to +10",
  "/achievements/[fame_20]/name": "Talk of the Town",
- "/achievements/[fame_20]/desc": "Reach 20 Fame",
+ "/achievements/[fame_20]/desc": "Reach 40 Fame",
  "/achievements/[fame_120]/name": "Pride of the Village",
- "/achievements/[fame_120]/desc": "Reach 120 Fame",
+ "/achievements/[fame_120]/desc": "Reach 240 Fame",
  "/achievements/[fame_290]/name": "Known Across the Realm",
- "/achievements/[fame_290]/desc": "Reach 290 Fame",
+ "/achievements/[fame_290]/desc": "Reach 580 Fame",
  "/achievements/[fame_720]/name": "Legendary Blacksmith",
- "/achievements/[fame_720]/desc": "Reach 720 Fame",
+ "/achievements/[fame_720]/desc": "Reach 1,440 Fame",
  "/achievements/[fame_1500]/name": "A Living Legend",
- "/achievements/[fame_1500]/desc": "Reach 1,500 Fame"
+ "/achievements/[fame_1500]/desc": "Reach 3,000 Fame"
 }
