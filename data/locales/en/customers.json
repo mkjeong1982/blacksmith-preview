@@ -602,5 +602,13 @@
  "/kinds/veteran_explorer/request/sad/#0": "None? A pity. I'll come again.",
  "/kinds/veteran_explorer/request/sad/#1": "Stock one next time, will you.",
  "/kinds/veteran_explorer/request/busy/#0": "Busy, I see. I'll come again.",
- "/kinds/veteran_explorer/request/busy/#1": "Swamped, eh. I'll drop by again."
+ "/kinds/veteran_explorer/request/busy/#1": "Swamped, eh. I'll drop by again.",
+ "/firstHello/J/#0": "Hello!",
+ "/firstHello/J/#1": "First time here!",
+ "/firstHello/H/#0": "Good to meet you!",
+ "/firstHello/H/#1": "First time stopping by!",
+ "/firstHello/O/#0": "A pleasure to meet you!",
+ "/firstHello/O/#1": "Well met!",
+ "/firstHello/B/#0": "Hi!",
+ "/firstHello/B/#1": "First time here!"
 }

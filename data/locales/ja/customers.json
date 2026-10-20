@@ -602,5 +602,13 @@
  "/kinds/veteran_explorer/request/sad/#0": "ないのか?残念だ。また来よう。",
  "/kinds/veteran_explorer/request/sad/#1": "次は仕入れておいてくれ。",
  "/kinds/veteran_explorer/request/busy/#0": "忙しそうだな。また来よう。",
- "/kinds/veteran_explorer/request/busy/#1": "立て込んでるようだな。また寄ろう。"
+ "/kinds/veteran_explorer/request/busy/#1": "立て込んでるようだな。また寄ろう。",
+ "/firstHello/J/#0": "こんにちは!",
+ "/firstHello/J/#1": "初めて来ました!",
+ "/firstHello/H/#0": "よろしくな!",
+ "/firstHello/H/#1": "初めて寄るぞ!",
+ "/firstHello/O/#0": "お初にお目にかかる!",
+ "/firstHello/O/#1": "よろしく頼む!",
+ "/firstHello/B/#0": "やあ!",
+ "/firstHello/B/#1": "初めて来たよ!"
 }
