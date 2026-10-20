@@ -1,6 +1,7 @@
 {
   "perDay": 5,
   "bonusCrystals": 3,
+  "forgeBands": [1, 4, 7, 9],
   "pool": [
     {
       "id": "craft",
@@ -9,7 +10,8 @@
       "goal": 3,
       "reward": {
         "goldPacks": 0.5
-      }
+      },
+      "goalByForge": [3, 6, 9, 12]
     },
     {
       "id": "dispatch",
@@ -18,7 +20,8 @@
       "goal": 3,
       "reward": {
         "goldPacks": 0.5
-      }
+      },
+      "goalByForge": [3, 6, 9, 12]
     },
     {
       "id": "enhance",
@@ -27,7 +30,8 @@
       "goal": 1,
       "reward": {
         "goldPacks": 0.5
-      }
+      },
+      "goalByForge": [1, 2, 3, 3]
     },
     {
       "id": "sell",
@@ -36,7 +40,8 @@
       "goal": 2,
       "reward": {
         "goldPacks": 0.5
-      }
+      },
+      "goalByForge": [2, 4, 6, 8]
     },
     {
       "id": "materials",
@@ -45,7 +50,8 @@
       "goal": 30,
       "reward": {
         "goldPacks": 1
-      }
+      },
+      "goalByForge": [30, 60, 90, 120]
     },
     {
       "id": "reports",
@@ -54,7 +60,8 @@
       "goal": 3,
       "reward": {
         "goldPacks": 0.5
-      }
+      },
+      "goalByForge": [3, 6, 9, 12]
     },
     {
       "id": "upgrade",
@@ -81,7 +88,8 @@
       "goal": 10,
       "reward": {
         "goldPacks": 1
-      }
+      },
+      "goalByForge": [10, 20, 40, 60]
     },
     {
       "id": "ad",
