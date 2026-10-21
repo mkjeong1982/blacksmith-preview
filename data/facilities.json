@@ -96,9 +96,9 @@
       },
       {
         "level": 2,
-        "upgradeCost": 1600,
+        "upgradeCost": 1000,
         "adventurerSlots": 2,
-        "upgradeSec": 2700,
+        "upgradeSec": 1200,
         "repeatTrips": 1
       },
       {
