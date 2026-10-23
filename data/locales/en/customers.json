@@ -624,5 +624,17 @@
  "/firstHello/O/#0": "A pleasure to meet you!",
  "/firstHello/O/#1": "Well met!",
  "/firstHello/B/#0": "Hi!",
- "/firstHello/B/#1": "First time here!"
+ "/firstHello/B/#1": "First time here!",
+ "/rareWow/J/#0": "Whoa, that {item} looks rare… is it?!",
+ "/rareWow/J/#1": "This {item}'s no ordinary piece, is it?!",
+ "/rareWow/J/#2": "Wait, isn't this a rare {item}?!",
+ "/rareWow/H/#0": "Hm! That's no common {item}!",
+ "/rareWow/H/#1": "This {item}… no ordinary work!",
+ "/rareWow/H/#2": "Heh, a rare one! Didn't expect that here!",
+ "/rareWow/O/#0": "Hm! That's no common {item}!",
+ "/rareWow/O/#1": "This {item} is no ordinary work!",
+ "/rareWow/O/#2": "A rare piece, here of all places! Remarkable!",
+ "/rareWow/B/#0": "Whoa, that's a rare {item}, isn't it?!",
+ "/rareWow/B/#1": "This {item}'s no ordinary thing!",
+ "/rareWow/B/#2": "Whoa, a rare {item}, right?!"
 }
