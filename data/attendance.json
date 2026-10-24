@@ -1,27 +1,31 @@
 {
   "rewards": [
     {
-      "crystals": 5
+      "crystals": 2,
+      "goldPacks": 1
     },
     {
       "goldPacks": 1
     },
     {
-      "crystals": 5,
-      "charms": 1
+      "crystals": 2,
+      "charms": 1,
+      "goldPacks": 1
     },
     {
       "gems": 1
     },
     {
-      "crystals": 10
+      "crystals": 4,
+      "goldPacks": 1
     },
     {
       "goldPacks": 1
     },
     {
-      "crystals": 30,
-      "charms": 1
+      "crystals": 12,
+      "charms": 1,
+      "goldPacks": 2
     }
   ]
 }

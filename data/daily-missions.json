@@ -1,6 +1,6 @@
 {
   "perDay": 5,
-  "bonusCrystals": 3,
+  "bonusCrystals": 2,
   "forgeBands": [1, 4, 7, 9],
   "pool": [
     {
@@ -69,7 +69,7 @@
       "key": "upgrades",
       "goal": 1,
       "reward": {
-        "goldPacks": 1
+        "crystals": 1
       }
     },
     {
@@ -78,7 +78,7 @@
       "key": "commissionsDone",
       "goal": 1,
       "reward": {
-        "goldPacks": 0.5
+        "crystals": 1
       }
     },
     {
@@ -97,7 +97,7 @@
       "key": "ads",
       "goal": 1,
       "reward": {
-        "crystals": 2
+        "goldPacks": 0.5
       },
       "ad": true
     }
