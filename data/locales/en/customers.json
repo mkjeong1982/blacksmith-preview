@@ -636,5 +636,20 @@
  "/rareWow/O/#2": "A rare piece, here of all places! Remarkable!",
  "/rareWow/B/#0": "Whoa, that's a rare {item}, isn't it?!",
  "/rareWow/B/#1": "This {item}'s no ordinary thing!",
- "/rareWow/B/#2": "Whoa, a rare {item}, right?!"
+ "/rareWow/B/#2": "Whoa, a rare {item}, right?!",
+ "/rareWant/J/#0": "Wow, this is way better than I asked for!",
+ "/rareWant/J/#1": "I never thought you'd make it this special!",
+ "/rareWant/J/#2": "Beyond what I hoped! This {item} sparkles!",
+ "/rareWant/H/#0": "Heh, far better than I asked for!",
+ "/rareWant/H/#1": "Never thought you'd make it this fine!",
+ "/rareWant/H/#2": "Beyond my hopes! A precious {item}, this!",
+ "/rareWant/O/#0": "I never imagined it would be this good!",
+ "/rareWant/O/#1": "Far finer than what I asked for!",
+ "/rareWant/O/#2": "Beyond my hopes! A precious {item} indeed!",
+ "/rareWant/B/#0": "Whoa, way better than I asked for!",
+ "/rareWant/B/#1": "Didn't think you'd make it this special!",
+ "/rareWant/B/#2": "Beyond what I hoped! This {item} sparkles!",
+ "/rareWant/kid/#0": "Wow, mine's all sparkly!",
+ "/rareWant/kid/#1": "Hehe, it's way cooler than I thought!",
+ "/rareWant/kid/#2": "Woooow, is this really mine?!"
 }
