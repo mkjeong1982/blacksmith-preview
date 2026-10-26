@@ -651,5 +651,20 @@
  "/rareWant/B/#2": "Beyond what I hoped! This {item} sparkles!",
  "/rareWant/kid/#0": "Wow, mine's all sparkly!",
  "/rareWant/kid/#1": "Hehe, it's way cooler than I thought!",
- "/rareWant/kid/#2": "Woooow, is this really mine?!"
+ "/rareWant/kid/#2": "Woooow, is this really mine?!",
+ "/byeLast/J/#0": "Well, I'll be going~",
+ "/byeLast/J/#1": "I'll come again!",
+ "/byeLast/J/#2": "Take care~",
+ "/byeLast/H/#0": "I'll be off, then.",
+ "/byeLast/H/#1": "I'll drop by again.",
+ "/byeLast/H/#2": "Keep at it.",
+ "/byeLast/O/#0": "I shall take my leave.",
+ "/byeLast/O/#1": "I shall visit again.",
+ "/byeLast/O/#2": "Fare thee well.",
+ "/byeLast/B/#0": "I'm off~",
+ "/byeLast/B/#1": "See ya!",
+ "/byeLast/B/#2": "Take it easy~",
+ "/byeLast/kid/#0": "Bye-bye~",
+ "/byeLast/kid/#1": "I'll come again!",
+ "/byeLast/kid/#2": "See you~"
 }
