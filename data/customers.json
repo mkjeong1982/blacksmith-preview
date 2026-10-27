@@ -199,7 +199,7 @@
       ],
       "browseTalk": [
         "request",
-        "secret",
+        "ask_quality",
         "yes",
         "yes"
       ],
@@ -371,7 +371,7 @@
         "ask_price",
         "praise",
         "opinion",
-        "secret"
+        "ask_quality"
       ],
       "gear": {
         "browse": {
@@ -386,7 +386,7 @@
       "replyTalk": [
         "browse",
         "greet",
-        "ask_have"
+        "ask_quality"
       ],
       "leaveBrowse": [
         "거래는 다음에 하세.",
