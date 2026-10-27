@@ -34,11 +34,15 @@
     "max": 100,
     "drainPerMin": 0.83333,
     "anvilExtra": 0.5,
-    "regenPerMin": 0.33333,
-    "resumePct": 30,
+    "regenPerMin": 2,
+    "resumePct": 35,
     "sleepMult": 3,
     "adGain": 50,
     "adPerDay": 3,
-    "crystalCost": 20
+    "crystalCost": 20,
+    "_doc293": "WP173 293 (임시): startCost = 제작 시작 때 한 번에 깎이는 양(티어 Ⅰ~Ⅶ, 넘으면 마지막 값) · maxPerLevel = 대장간 Lv당 최대치 +N(레벨업 때 현재치도 +N). 튜토리얼·초반(craftEarlyMinutes)·첫 꼬마 의뢰품, 그리고 튜토리얼 뒤 첫 startFreeMin분은 0(첫 Ⅱ까지의 첫 1시간 페이스 유지). 바닥 뒤 막힘 ≤ 약 30분이 되게 regenPerMin 0.333 → 2, resumePct 30 → 35(재개까지 Lv1 18분 · Lv10 33분).",
+    "startCost": [7, 8, 12, 16, 22, 28, 32],
+    "maxPerLevel": 10,
+    "startFreeMin": 60
   }
 }
