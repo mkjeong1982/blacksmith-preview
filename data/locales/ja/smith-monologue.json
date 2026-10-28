@@ -147,6 +147,9 @@
  "/suggest/order/#0": "頼まれた{item}、今すぐ作ろうか？",
  "/suggest/order/#1": "{item}を待ってるお客さんがいたな！始める？",
  "/suggest/order/#2": "材料もあるし、{item}から作ろう！",
+ "/suggest/orderFirst/#0": "頼まれた{item}から作らなきゃ！待ってるはず~",
+ "/suggest/orderFirst/#1": "他のは後回し！注文の{item}から叩こう！",
+ "/suggest/orderFirst/#2": "約束の{item}が先！がっかりさせられないね~",
  "/suggest/sell/#0": "材料たっぷり、{item}を一つ作るか！",
  "/suggest/sell/#1": "{item}はよく売れるし…一つ作っとく？",
  "/suggest/sell/#2": "金床が空いてる！{item}でも作ろうか？"
