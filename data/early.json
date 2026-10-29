@@ -1,5 +1,5 @@
 {
-  "_doc": "WP173 149 (임시): 튜토리얼 직후 초반 구간 — 튜토리얼 끝난 뒤 누적 플레이 windowMin분 또는 대장간 Lv.endForgeLevel 도달 중 먼저 오는 때까지. 그 사이 손님 주문·제작 의뢰 확률 ×orderMult·×commissionMult, 첫 주문은 첫 손님에게(1분 안), 첫 의뢰는 플레이 commissionAfterSec초 뒤 다음 손님(5분 안, 지금 만들 수 있는 티어 commissionTier 이하만), 첫 행상은 플레이 merchantFirstMin분(범위) 무렵(하루 상한·간격 규칙 안), 행상 물건은 해금된 레시피에 모자란 재료 가중치 ×merchantShortWeight. WP182 (임시): 튜토리얼 끝난 뒤 noInjuryMin분(실제 시간) 동안 떠난 파견은 부상 없음. scroll: 튜토리얼 뒤 withinHours시간 안 region 파견 nth번째에 레어 두루마리 확정(items 중 아직 모르는 것, 보낸 모험가가 쓸 수 있는 것 먼저), 한 번만. WP173 245 (임시): 초반 구간을 windowMin 120분·endForgeLevel 3으로 늘리고, 그동안 손님 간격 ×paceMult(0.8)·주문 확률 ×orderMult(3)·주문 간격 ×orderGapMult(0.5)·의뢰 확률 ×commissionMult, 의뢰 기한·보상 ×commissionDueMult·×commissionRewardMult(0.7). 구간이 끝나면 fadeMin(30)분 플레이에 걸쳐 원래 값으로, 일감(의뢰 + 제작 중 모루)이 busyCap(2)을 넘으면 앞당김 멈춤. 주문의 readyLean(0.7) 몫은 지금 진열됐거나 바로 만들 수 있는 종류만. WP173 334 (임시): 손님 간격 ×0.5(0.8→), 첫 의뢰 60초(150→), 의뢰 확률 ×2.7(→ 손님 3명 중 1명꼴), 첫 행상 3~5분(8~10→); 초반 행상은 merchantStayMs(90초)만 머물고 창을 보고 닫으면 merchantAfterLookMs(20초) 뒤 떠남(그동안 다른 손님이 못 들어와 빈 구간 2~4분), 구경 손님 tipEvery(2~3)명에 1번 작별 대신 진도 팁.",
+  "_doc": "WP173 149 (임시): 튜토리얼 직후 초반 구간 — 튜토리얼 끝난 뒤 누적 플레이 windowMin분 또는 대장간 Lv.endForgeLevel 도달 중 먼저 오는 때까지. 그 사이 손님 주문·제작 의뢰 확률 ×orderMult·×commissionMult, 첫 주문은 첫 손님에게(1분 안), 첫 의뢰는 플레이 commissionAfterSec초 뒤 다음 손님(5분 안, 지금 만들 수 있는 티어 commissionTier 이하만), 첫 행상은 플레이 merchantFirstMin분(범위) 무렵(하루 상한·간격 규칙 안), 행상 물건은 해금된 레시피에 모자란 재료 가중치 ×merchantShortWeight. WP182 (임시): 튜토리얼 끝난 뒤 noInjuryMin분(실제 시간) 동안 떠난 파견은 부상 없음. scroll: 튜토리얼 뒤 withinHours시간 안 region 파견 nth번째에 레어 두루마리 확정(items 중 아직 모르는 것, 보낸 모험가가 쓸 수 있는 것 먼저), 한 번만. WP173 245 (임시): 초반 구간을 windowMin 120분·endForgeLevel 3으로 늘리고, 그동안 손님 간격 ×paceMult(0.8)·주문 확률 ×orderMult(3)·주문 간격 ×orderGapMult(0.5)·의뢰 확률 ×commissionMult, 의뢰 기한·보상 ×commissionDueMult·×commissionRewardMult(0.7). 구간이 끝나면 fadeMin(30)분 플레이에 걸쳐 원래 값으로, 일감(의뢰 + 제작 중 모루)이 busyCap(2)을 넘으면 앞당김 멈춤. 주문의 readyLean(0.7) 몫은 지금 진열됐거나 바로 만들 수 있는 종류만. WP173 334 (임시): 손님 간격 ×0.5(0.8→), 첫 의뢰 60초(150→), 의뢰 확률 ×2.7(→ 손님 3명 중 1명꼴), 첫 행상 3~5분(8~10→); 초반 행상은 merchantStayMs(90초)만 머물고 창을 보고 닫으면 merchantAfterLookMs(20초) 뒤 떠남(그동안 다른 손님이 못 들어와 빈 구간 2~4분), 구경 손님 tipEvery(2~3)명에 1번 작별 대신 진도 팁. WP173 341 (임시): 초반 구간에 파견 갈 수 있는 모험가(숙소에서 쉬는 중·잠 아님·기운 충분)가 있는데 sendNudge.idleSec(60)초 동안 아무도 안 보내면 \"○○가 심심해해요! 모험가 탭에서 파견을 보내 봐요!\" 토스트(탭: 모험가 탭·그 모험가 카드·추천 지역 [파견] 강조) — gapSec(180)초 간격(직접 파견한 세션은 ×sentMult 2), 구간 최대 max(3)회, 손님 파견 팁(334 send)과 같은 간격 공유.",
   "windowMin": 120,
   "endForgeLevel": 3,
   "orderMult": 3,
@@ -33,5 +33,11 @@
   "tipEvery": [
     2,
     3
-  ]
+  ],
+  "sendNudge": {
+    "idleSec": 60,
+    "gapSec": 180,
+    "max": 3,
+    "sentMult": 2
+  }
 }
