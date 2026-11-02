@@ -55,7 +55,7 @@
             "윙윙~ 벌 떼를 쫓아내는 중!"
           ],
           "fly": true,
-          "faces": "right"
+          "faces": "left"
         },
         {
           "id": "squirrel",
@@ -574,7 +574,7 @@
             "구름 사이 비룡이랑 공중전 중!"
           ],
           "fly": true,
-          "faces": "right"
+          "faces": "left"
         }
       ],
       "accessoryDrop": {
