@@ -127,7 +127,7 @@
             "박쥐가 머리에 엉켰어! 떼어 내는 중!"
           ],
           "fly": true,
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "mine_slime",
