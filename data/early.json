@@ -39,5 +39,15 @@
     "gapSec": 180,
     "max": 3,
     "sentMult": 2
+  },
+  "suggest": {
+    "_doc": "WP200 (임시): 튜토리얼 뒤 항상 — 직접 조작 없이 idleSec(30)초(창·대화·주문·출석·연출 중 아님) 또는 막힘(재료 부족 [제작]·골드 부족 업그레이드를 stuckTaps(2)번 누름) 직후, 지금 할 수 있는 것 1개를 토스트로(탭: 그곳으로 이동·강조). 순서: 파견 → 빈 모루 제작 → 받을 보상 → 업그레이드 → 제작 의뢰. 같은 종류 kindGapSec(180)초·전체 gapSec(90)초 간격, 탭하거나 그 행동을 하면 그 종류 시계 처음부터, ignoreMax(3)번 연달아 무시하면 간격 ×ignoreMult(2). WP200B: 다른 토스트(출석 안내 등)가 뜬 뒤 afterToastSec(10)초는 안 띄움. 설정 › 시스템 제안으로 끔(기본 켬).",
+    "idleSec": 30,
+    "kindGapSec": 180,
+    "gapSec": 90,
+    "ignoreMax": 3,
+    "ignoreMult": 2,
+    "stuckTaps": 2,
+    "afterToastSec": 10
   }
 }
