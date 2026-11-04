@@ -88,5 +88,17 @@
  "/achievements/[fame_720]/name": "Legendary Blacksmith",
  "/achievements/[fame_720]/desc": "Reach 1,440 Fame",
  "/achievements/[fame_1500]/name": "A Living Legend",
- "/achievements/[fame_1500]/desc": "Reach 3,000 Fame"
+ "/achievements/[fame_1500]/desc": "Reach 3,000 Fame",
+ "/achievements/[forge_12]/name": "Royal Workshop",
+ "/achievements/[forge_12]/desc": "Reach Forge Lv.12",
+ "/achievements/[lodge_7]/name": "Luxury Lodge",
+ "/achievements/[lodge_7]/desc": "Reach Lodge Lv.7",
+ "/achievements/[king_visit]/name": "Make Way for the King!",
+ "/achievements/[king_visit]/desc": "The king visits your forge for the first time",
+ "/achievements/[noble_10]/name": "High-Society Regular",
+ "/achievements/[noble_10]/desc": "Complete 10 commissions for the Duke or the Tycoon",
+ "/achievements/[royal_first]/name": "Royal Warrant",
+ "/achievements/[royal_first]/desc": "Complete the king's commission for the first time",
+ "/achievements/[royal_3]/name": "The King's Own Smith",
+ "/achievements/[royal_3]/desc": "Complete the king's commission 3 times"
 }

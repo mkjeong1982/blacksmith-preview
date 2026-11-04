@@ -88,5 +88,17 @@
  "/achievements/[fame_720]/name": "伝説の鍛冶屋",
  "/achievements/[fame_720]/desc": "名声1440達成",
  "/achievements/[fame_1500]/name": "生ける伝説",
- "/achievements/[fame_1500]/desc": "名声3000達成"
+ "/achievements/[fame_1500]/desc": "名声3000達成",
+ "/achievements/[forge_12]/name": "王室の工房",
+ "/achievements/[forge_12]/desc": "鍛冶屋 Lv.12",
+ "/achievements/[lodge_7]/name": "最高級の宿舎",
+ "/achievements/[lodge_7]/desc": "宿舎 Lv.7",
+ "/achievements/[king_visit]/name": "陛下のおなり!",
+ "/achievements/[king_visit]/desc": "王が初めて鍛冶屋に来る",
+ "/achievements/[noble_10]/name": "やんごとなき常連",
+ "/achievements/[noble_10]/desc": "公爵・大富豪の依頼を10回達成",
+ "/achievements/[royal_first]/name": "王室御用達",
+ "/achievements/[royal_first]/desc": "王の依頼を初めて達成",
+ "/achievements/[royal_3]/name": "陛下の鍛冶屋",
+ "/achievements/[royal_3]/desc": "王の依頼を3回達成"
 }

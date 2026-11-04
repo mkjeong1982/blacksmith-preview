@@ -81,6 +81,22 @@
         "anvils": 4,
         "craftTimePct": 45,
         "upgradeSec": 129600
+      },
+      {
+        "level": 11,
+        "upgradeCost": 140000,
+        "fame": 2100,
+        "anvils": 4,
+        "craftTimePct": 40,
+        "upgradeSec": 172800
+      },
+      {
+        "level": 12,
+        "upgradeCost": 220000,
+        "fame": 3000,
+        "anvils": 4,
+        "craftTimePct": 35,
+        "upgradeSec": 216000
       }
     ]
   },
@@ -132,6 +148,15 @@
         "adventurerSlots": 6,
         "upgradeSec": 259200,
         "repeatTrips": 4
+      },
+      {
+        "level": 7,
+        "upgradeCost": 200000,
+        "fame": 1600,
+        "adventurerSlots": 6,
+        "upgradeSec": 259200,
+        "repeatTrips": 5,
+        "allRegions": true
       }
     ]
   }

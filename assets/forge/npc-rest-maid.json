@@ -1,0 +1,41 @@
+{
+  "hand": {
+    "x": 175,
+    "y": 120
+  },
+  "body": {
+    "headTop": 17,
+    "chin": 90,
+    "feet": 290
+  },
+  "frameWidth": 300,
+  "frameHeight": 300,
+  "frames": 12,
+  "actions": {
+    "walk": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "stand": [
+      4
+    ],
+    "greet": [
+      5
+    ],
+    "coverBlanket": [
+      6,
+      7
+    ],
+    "laundry": [
+      8,
+      9
+    ],
+    "clean": [
+      10,
+      11
+    ]
+  },
+  "_note": "WP206B: half of ART111's 600 px frames (phone GPU memory) \u2014 resized by script"
+}

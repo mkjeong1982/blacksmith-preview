@@ -63,6 +63,18 @@
       "minLevel": 10,
       "maxLevel": 10,
       "file": "forge-growth-lv10.jpg"
+    },
+    {
+      "stage": 11,
+      "minLevel": 11,
+      "maxLevel": 11,
+      "file": "forge-growth-lv11.jpg"
+    },
+    {
+      "stage": 12,
+      "minLevel": 12,
+      "maxLevel": 12,
+      "file": "forge-growth-lv12.jpg"
     }
   ],
   "objects": {

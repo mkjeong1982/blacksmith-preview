@@ -359,6 +359,54 @@
       "key": "codexPct",
       "goal": 100,
       "crystals": 60
+    },
+    {
+      "id": "forge_12",
+      "name": "왕실 공방",
+      "desc": "대장간 Lv.12",
+      "key": "forgeLevel",
+      "goal": 12,
+      "crystals": 50
+    },
+    {
+      "id": "lodge_7",
+      "name": "최고급 숙소",
+      "desc": "숙소 Lv.7",
+      "key": "lodgeLevel",
+      "goal": 7,
+      "crystals": 30
+    },
+    {
+      "id": "king_visit",
+      "name": "폐하 납시오!",
+      "desc": "왕이 처음 대장간에 오다",
+      "key": "kingVisits",
+      "goal": 1,
+      "crystals": 20
+    },
+    {
+      "id": "noble_10",
+      "name": "귀하신 단골",
+      "desc": "공작·갑부 의뢰 10회 완수",
+      "key": "highDone",
+      "goal": 10,
+      "crystals": 30
+    },
+    {
+      "id": "royal_first",
+      "name": "왕실 인증 대장간",
+      "desc": "왕의 의뢰 첫 완수",
+      "key": "royalCert",
+      "goal": 1,
+      "crystals": 50
+    },
+    {
+      "id": "royal_3",
+      "name": "폐하의 대장장이",
+      "desc": "왕의 의뢰 3회 완수",
+      "key": "royalDone",
+      "goal": 3,
+      "crystals": 40
     }
   ]
 }

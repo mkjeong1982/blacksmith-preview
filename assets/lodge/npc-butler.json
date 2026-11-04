@@ -1,0 +1,56 @@
+{
+  "hand": {
+    "x": 57,
+    "y": 67
+  },
+  "body": {
+    "headTop": 4,
+    "chin": 51,
+    "feet": 116
+  },
+  "side": 9,
+  "frameWidth": 80,
+  "frameHeight": 120,
+  "frames": 19,
+  "actions": {
+    "walk": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "stand": [
+      4
+    ],
+    "greet": [
+      5
+    ],
+    "work": [
+      6,
+      7,
+      8
+    ],
+    "side": [
+      9
+    ],
+    "trayWalk": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "offerTray": [
+      14
+    ],
+    "receiveLuggage": [
+      15
+    ],
+    "bow": [
+      16
+    ],
+    "polishSilver": [
+      17,
+      18
+    ]
+  }
+}

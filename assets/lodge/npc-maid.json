@@ -1,0 +1,51 @@
+{
+  "hand": {
+    "x": 66,
+    "y": 67
+  },
+  "body": {
+    "headTop": 8,
+    "chin": 47,
+    "feet": 116
+  },
+  "side": 9,
+  "frameWidth": 80,
+  "frameHeight": 120,
+  "frames": 16,
+  "actions": {
+    "walk": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "stand": [
+      4
+    ],
+    "greet": [
+      5
+    ],
+    "sweep": [
+      6,
+      7
+    ],
+    "makeBed": [
+      8,
+      10
+    ],
+    "side": [
+      9
+    ],
+    "laundry": [
+      11,
+      12
+    ],
+    "carryLuggage": [
+      13,
+      14
+    ],
+    "sneeze": [
+      15
+    ]
+  }
+}
