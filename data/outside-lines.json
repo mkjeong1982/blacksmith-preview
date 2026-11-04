@@ -1,14 +1,7 @@
 {
   "_doc": "WP207 (임시): 바깥 공간 — greet 행인 인사, info 행인 정보(저장 상태로 채움: {region} {material} {adventurer} {item} {level}, 채울 말이 있는 틀만), wow 대장간 외관 단계(1~4)별 감탄, cert 왕실 인증 뒤 감탄, window 숙소 창문 인사(모험가별), guest 바깥에 있을 때 손님이 오면",
-  "_doc211": "WP211 (임시): passerSkip — 걷기 칸이 제대로 안 도는 손님 시트(행인에서만 뺌, 가게 손님은 그대로). maiden: c1=c3 다리 같음(발 앞뒤 없음), hero·duke·bard·chatty_adventurer: c0≈c2 보폭만 반복·지나가는 칸 1개(앞발만 움직임), princess: 칸 사이 다리 변화 거의 없음. 그래픽 재제작 뒤 목록에서 지움. build/wp211-walk-audit.png",
-  "passerSkip": [
-    "hero",
-    "maiden",
-    "duke",
-    "bard",
-    "chatty_adventurer",
-    "princess"
-  ],
+  "_doc211": "WP211 (임시): passerSkip — 걷기 칸이 제대로 안 도는 손님 시트(행인에서만 뺌, 가게 손님은 그대로). maiden: c1=c3 다리 같음(발 앞뒤 없음), hero·duke·bard·chatty_adventurer: c0≈c2 보폭만 반복·지나가는 칸 1개(앞발만 움직임), princess: 칸 사이 다리 변화 거의 없음. 그래픽 재제작 뒤 목록에서 지움 → ART115(2026-11-04) 27종 재제작으로 비움. build/wp211-walk-audit.png",
+  "passerSkip": [],
   "greet": [
     "좋은 아침이에요~",
     "오늘도 망치 소리 힘차네요!",
