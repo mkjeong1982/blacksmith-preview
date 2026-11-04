@@ -1,0 +1,81 @@
+{
+  "stagePlacement": {
+    "x": 605,
+    "y": 56,
+    "width": 560,
+    "height": 418,
+    "baseline": 474
+  },
+  "overlay": "outside-lodge-window-open.png",
+  "windows": {
+    "1": [
+      {
+        "id": 1,
+        "centerX": 159,
+        "centerY": 157,
+        "overlayWidth": 70,
+        "overlayHeight": 58
+      },
+      {
+        "id": 2,
+        "centerX": 256,
+        "centerY": 301,
+        "overlayWidth": 96,
+        "overlayHeight": 72
+      },
+      {
+        "id": 3,
+        "centerX": 427,
+        "centerY": 301,
+        "overlayWidth": 96,
+        "overlayHeight": 72
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "centerX": 161,
+        "centerY": 157,
+        "overlayWidth": 70,
+        "overlayHeight": 58
+      },
+      {
+        "id": 2,
+        "centerX": 257,
+        "centerY": 299,
+        "overlayWidth": 96,
+        "overlayHeight": 72
+      },
+      {
+        "id": 3,
+        "centerX": 429,
+        "centerY": 301,
+        "overlayWidth": 96,
+        "overlayHeight": 72
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "centerX": 163,
+        "centerY": 154,
+        "overlayWidth": 70,
+        "overlayHeight": 58
+      },
+      {
+        "id": 2,
+        "centerX": 279,
+        "centerY": 300,
+        "overlayWidth": 96,
+        "overlayHeight": 72
+      },
+      {
+        "id": 3,
+        "centerX": 426,
+        "centerY": 300,
+        "overlayWidth": 96,
+        "overlayHeight": 72
+      }
+    ]
+  }
+}

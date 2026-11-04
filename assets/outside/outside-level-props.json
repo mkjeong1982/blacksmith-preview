@@ -1,0 +1,374 @@
+{
+  "assets": {
+    "forge:wood-sign": {
+      "file": "outside-prop-forge-wood-sign.png",
+      "size": [
+        110,
+        100
+      ]
+    },
+    "forge:iron-sign": {
+      "file": "outside-prop-forge-iron-sign.png",
+      "size": [
+        120,
+        110
+      ]
+    },
+    "forge:gold-sign": {
+      "file": "outside-prop-forge-gold-sign.png",
+      "size": [
+        120,
+        110
+      ]
+    },
+    "forge:lantern": {
+      "file": "outside-prop-forge-lantern.png",
+      "size": [
+        60,
+        90
+      ]
+    },
+    "forge:planter": {
+      "file": "outside-prop-forge-planter.png",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "forge:weapon-rack": {
+      "file": "outside-prop-forge-weapon-rack.png",
+      "size": [
+        100,
+        105
+      ]
+    },
+    "forge:royal-flag": {
+      "file": "outside-prop-forge-royal-flag.png",
+      "size": [
+        60,
+        110
+      ]
+    },
+    "forge:stone-steps": {
+      "file": "outside-prop-forge-stone-steps.png",
+      "size": [
+        110,
+        65
+      ]
+    },
+    "forge:firewood": {
+      "file": "outside-prop-forge-firewood.png",
+      "size": [
+        90,
+        70
+      ]
+    },
+    "forge:mailbox": {
+      "file": "outside-prop-forge-mailbox.png",
+      "size": [
+        60,
+        90
+      ]
+    },
+    "lodge:clothesline": {
+      "file": "outside-prop-lodge-clothesline.png",
+      "size": [
+        110,
+        70
+      ]
+    },
+    "lodge:planter": {
+      "file": "outside-prop-lodge-planter.png",
+      "size": [
+        70,
+        70
+      ]
+    },
+    "lodge:lantern": {
+      "file": "outside-prop-lodge-lantern.png",
+      "size": [
+        60,
+        90
+      ]
+    },
+    "lodge:inn-sign": {
+      "file": "outside-prop-lodge-inn-sign.png",
+      "size": [
+        100,
+        110
+      ]
+    },
+    "lodge:bench": {
+      "file": "outside-prop-lodge-bench.png",
+      "size": [
+        110,
+        75
+      ]
+    },
+    "lodge:balcony-flowers": {
+      "file": "outside-prop-lodge-balcony-flowers.png",
+      "size": [
+        120,
+        60
+      ]
+    }
+  },
+  "placements": {
+    "forge:firewood": {
+      "asset": "outside-prop-forge-firewood.png",
+      "x": 405,
+      "y": 402
+    },
+    "forge:wood-sign": {
+      "asset": "outside-prop-forge-wood-sign.png",
+      "x": 5,
+      "y": 235
+    },
+    "forge:mailbox": {
+      "asset": "outside-prop-forge-mailbox.png",
+      "x": 515,
+      "y": 380
+    },
+    "forge:iron-sign": {
+      "asset": "outside-prop-forge-iron-sign.png",
+      "x": 5,
+      "y": 235
+    },
+    "forge:weapon-rack": {
+      "asset": "outside-prop-forge-weapon-rack.png",
+      "x": 135,
+      "y": 345
+    },
+    "forge:lantern": {
+      "asset": "outside-prop-forge-lantern.png",
+      "x": 55,
+      "y": 322
+    },
+    "forge:planter": {
+      "asset": "outside-prop-forge-planter.png",
+      "x": 500,
+      "y": 394
+    },
+    "forge:stone-steps": {
+      "asset": "outside-prop-forge-stone-steps.png",
+      "x": 195,
+      "y": 409
+    },
+    "forge:royal-flag": {
+      "asset": "outside-prop-forge-royal-flag.png",
+      "x": 525,
+      "y": 174
+    },
+    "forge:gold-sign": {
+      "asset": "outside-prop-forge-gold-sign.png",
+      "x": 5,
+      "y": 235
+    },
+    "forge:planter-left": {
+      "asset": "outside-prop-forge-planter.png",
+      "x": 40,
+      "y": 395
+    },
+    "lodge:clothesline": {
+      "asset": "outside-prop-lodge-clothesline.png",
+      "x": 995,
+      "y": 392
+    },
+    "lodge:planter": {
+      "asset": "outside-prop-lodge-planter.png",
+      "x": 1080,
+      "y": 399
+    },
+    "lodge:lantern": {
+      "asset": "outside-prop-lodge-lantern.png",
+      "x": 645,
+      "y": 308
+    },
+    "lodge:inn-sign": {
+      "asset": "outside-prop-lodge-inn-sign.png",
+      "x": 600,
+      "y": 237
+    },
+    "lodge:bench": {
+      "asset": "outside-prop-lodge-bench.png",
+      "x": 830,
+      "y": 397
+    },
+    "lodge:balcony-flowers": {
+      "asset": "outside-prop-lodge-balcony-flowers.png",
+      "x": 895,
+      "y": 235
+    }
+  },
+  "forge": {
+    "1": {
+      "stage": 1,
+      "props": []
+    },
+    "2": {
+      "stage": 1,
+      "props": [
+        "forge:firewood"
+      ]
+    },
+    "3": {
+      "stage": 2,
+      "props": [
+        "forge:firewood",
+        "forge:wood-sign"
+      ]
+    },
+    "4": {
+      "stage": 2,
+      "props": [
+        "forge:firewood",
+        "forge:wood-sign",
+        "forge:mailbox"
+      ]
+    },
+    "5": {
+      "stage": 2,
+      "props": [
+        "forge:firewood",
+        "forge:iron-sign",
+        "forge:mailbox"
+      ]
+    },
+    "6": {
+      "stage": 3,
+      "props": [
+        "forge:firewood",
+        "forge:iron-sign",
+        "forge:mailbox",
+        "forge:weapon-rack"
+      ]
+    },
+    "7": {
+      "stage": 3,
+      "props": [
+        "forge:firewood",
+        "forge:iron-sign",
+        "forge:mailbox",
+        "forge:weapon-rack",
+        "forge:lantern"
+      ]
+    },
+    "8": {
+      "stage": 3,
+      "props": [
+        "forge:firewood",
+        "forge:iron-sign",
+        "forge:mailbox",
+        "forge:weapon-rack",
+        "forge:lantern",
+        "forge:planter"
+      ]
+    },
+    "9": {
+      "stage": 3,
+      "props": [
+        "forge:firewood",
+        "forge:iron-sign",
+        "forge:mailbox",
+        "forge:weapon-rack",
+        "forge:lantern",
+        "forge:planter",
+        "forge:stone-steps"
+      ]
+    },
+    "10": {
+      "stage": 4,
+      "props": [
+        "forge:firewood",
+        "forge:iron-sign",
+        "forge:mailbox",
+        "forge:weapon-rack",
+        "forge:lantern",
+        "forge:planter",
+        "forge:royal-flag"
+      ]
+    },
+    "11": {
+      "stage": 4,
+      "props": [
+        "forge:firewood",
+        "forge:gold-sign",
+        "forge:mailbox",
+        "forge:weapon-rack",
+        "forge:lantern",
+        "forge:planter",
+        "forge:royal-flag"
+      ]
+    },
+    "12": {
+      "stage": 4,
+      "props": [
+        "forge:firewood",
+        "forge:gold-sign",
+        "forge:mailbox",
+        "forge:weapon-rack",
+        "forge:lantern",
+        "forge:planter",
+        "forge:planter-left",
+        "forge:royal-flag"
+      ]
+    }
+  },
+  "lodge": {
+    "1": {
+      "stage": 1,
+      "props": []
+    },
+    "2": {
+      "stage": 1,
+      "props": [
+        "lodge:clothesline"
+      ]
+    },
+    "3": {
+      "stage": 2,
+      "props": [
+        "lodge:clothesline",
+        "lodge:planter"
+      ]
+    },
+    "4": {
+      "stage": 2,
+      "props": [
+        "lodge:clothesline",
+        "lodge:planter",
+        "lodge:lantern"
+      ]
+    },
+    "5": {
+      "stage": 2,
+      "props": [
+        "lodge:clothesline",
+        "lodge:planter",
+        "lodge:lantern",
+        "lodge:inn-sign"
+      ]
+    },
+    "6": {
+      "stage": 3,
+      "props": [
+        "lodge:clothesline",
+        "lodge:planter",
+        "lodge:lantern",
+        "lodge:inn-sign",
+        "lodge:bench"
+      ]
+    },
+    "7": {
+      "stage": 3,
+      "props": [
+        "lodge:clothesline",
+        "lodge:planter",
+        "lodge:lantern",
+        "lodge:inn-sign",
+        "lodge:bench",
+        "lodge:balcony-flowers"
+      ]
+    }
+  }
+}

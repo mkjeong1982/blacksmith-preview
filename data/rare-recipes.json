@@ -1,4 +1,5 @@
 {
+  "_doc": "WP208 (임시): shards — 희귀 지역 귀환에 두루마리가 없으면 shardPct% 확률로 그 지역 조각 1, 중복 두루마리는 조각 dupShards + 💎dupCrystals(예전 duplicateCrystals 💎10 대신), 조각 shardCost개로 그 지역 아직 없는 레시피 1종 골라 교환, 지역을 다 모으면 남은·새 조각은 1개당 💎shardCrystals. sets — 지역별 희귀 장비 세트: 한 모험가가 같은 지역 희귀 장비 2·4부위(서로 다른 칸) 장착 시 two / four 효과(weaponPct 주무기 칸 전투력 +%, armorPct 방어구 칸(방패·투구·갑옷·신발) +%, luck 행운 +, powerPct 전체 전투력 +%, regionLootPct 그 지역 파견 재료 +%, injuryCutPct 부상 확률 −%, tripCutPct 파견 시간 −%, recipePp 희귀 레시피 확률 +%p)",
   "luckPpPerPoint": 0.01,
   "luckPpMax": 0.5,
   "duplicateCrystals": 10,
@@ -61,5 +62,46 @@
         "cloudstep_boots"
       ]
     }
-  ]
+  ],
+  "shards": {
+    "shardPct": 15,
+    "dupShards": 1,
+    "dupCrystals": 5,
+    "shardCost": 5,
+    "shardCrystals": 10
+  },
+  "sets": {
+    "volcano": {
+      "two": {
+        "weaponPct": 8
+      },
+      "four": {
+        "regionLootPct": 20
+      }
+    },
+    "dragon_nest": {
+      "two": {
+        "armorPct": 8
+      },
+      "four": {
+        "injuryCutPct": 30
+      }
+    },
+    "frost_canyon": {
+      "two": {
+        "luck": 10
+      },
+      "four": {
+        "tripCutPct": 10
+      }
+    },
+    "sky_ruins": {
+      "two": {
+        "powerPct": 6
+      },
+      "four": {
+        "recipePp": 0.2
+      }
+    }
+  }
 }
