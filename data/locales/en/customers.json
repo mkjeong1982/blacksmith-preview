@@ -910,5 +910,7 @@
  "/context/royalCertNoble/#0": "A royal warrant… my family should become regulars.",
  "/context/royalCertNoble/#1": "The palace talks of nothing but this forge.",
  "/context/royalVisit/#3": "Wow, the forge the king visited!",
- "/context/royalCert/#3": "The Royal Warrant forge! Just like the rumors."
+ "/context/royalCert/#3": "The Royal Warrant forge! Just like the rumors.",
+ "/gearLines/armor/#3": "Put these on and my feet'll fly!",
+ "/gearLines/armor/#4": "I could bonk my head and be fine!"
 }

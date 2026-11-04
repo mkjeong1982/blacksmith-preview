@@ -910,5 +910,7 @@
  "/context/royalCertNoble/#0": "王室御用達か…我が家も常連になるべきですね。",
  "/context/royalCertNoble/#1": "宮廷でもこの鍛冶屋の話ばかりでしたよ。",
  "/context/royalVisit/#3": "わあ、王様が来た鍛冶屋!",
- "/context/royalCert/#3": "王室御用達の鍛冶屋!噂どおりだね。"
+ "/context/royalCert/#3": "王室御用達の鍛冶屋!噂どおりだね。",
+ "/gearLines/armor/#3": "これ履いたら足が飛んでいきそう！",
+ "/gearLines/armor/#4": "頭ぶつけても平気そう！"
 }
