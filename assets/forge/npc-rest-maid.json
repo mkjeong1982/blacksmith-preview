@@ -1,11 +1,11 @@
 {
   "hand": {
-    "x": 175,
-    "y": 120
+    "x": 182,
+    "y": 138
   },
   "body": {
-    "headTop": 17,
-    "chin": 90,
+    "headTop": 35,
+    "chin": 83,
     "feet": 290
   },
   "frameWidth": 300,
@@ -37,5 +37,5 @@
       11
     ]
   },
-  "_note": "WP206B: half of ART111's 600 px frames (phone GPU memory) \u2014 resized by script"
+  "_note": "ART116 (2026-11-04): 대장장이 비율로 다시 그림, 600px → 300px 스크립트 축소(폰 GPU 메모리)"
 }
