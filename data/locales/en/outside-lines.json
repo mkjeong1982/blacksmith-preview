@@ -35,5 +35,10 @@
  "/window/torvin/#1": "The wind's in my beard. Closing.",
  "/window/elarin/#0": "The wind carries the forest's scent.",
  "/window/elarin/#1": "The birds are singing. Hello.",
- "/guest/#0": "A customer's here! Back to the forge?"
+ "/guest/#0": "A customer's here! Back to the forge?",
+ "/carriage/#0": "Giddy-up! Off to fetch a load!",
+ "/carriage/#1": "Make way~ cart coming through!",
+ "/carriage/#2": "Another full load today, heh!",
+ "/carriageStop/#0": "Whoa there~ here's the forge, guv!",
+ "/carriageStop/#1": "We're here! Mind your step~"
 }

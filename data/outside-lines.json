@@ -70,5 +70,45 @@
   },
   "guest": [
     "손님이 왔어요! 대장간으로 가 볼까요?"
-  ]
+  ],
+  "_doc217": "WP217 (임시): carriage = 짐마차 마부가 지나가며 한마디, carriageStop = 대장간 앞에 멈춰 귀한 손님을 내려 줄 때 한마디. WP217 C: passerStep = 손님 시트별 걷기 한 칸 보폭(art px, 행인 크기 기준) — tools/passer_step.py가 발 벌어짐(몸 아래 12%, 칸 0~3 최대−최소 ÷2)으로 계산, 그림 바뀌면 다시 실행.",
+  "carriage": [
+    "이랴~! 짐 실으러 가는 길이오!",
+    "길 비켜요~ 마차 지나갑니다!",
+    "오늘도 짐이 한가득이네, 허허!"
+  ],
+  "carriageStop": [
+    "워워~ 손님, 대장간에 다 왔습니다요!",
+    "도착이오! 조심히 내리시오~"
+  ],
+  "passerStep": {
+    "adventurer_girl": 35.9,
+    "archmage": 27.2,
+    "baker": 26.0,
+    "bard": 34.5,
+    "barmaid": 27.7,
+    "captain": 23.2,
+    "chatty_adventurer": 34.7,
+    "duke": 27.2,
+    "dwarf_trader": 19.5,
+    "elf_adventurer": 25.5,
+    "farmer": 30.9,
+    "hero": 25.5,
+    "hunter": 24.8,
+    "kid": 28.8,
+    "king": 26.2,
+    "knight": 28.6,
+    "lady": 25.8,
+    "mage": 22.5,
+    "maiden": 23.2,
+    "merchant": 26.7,
+    "noble": 30.9,
+    "peddler": 28.1,
+    "princess": 24.1,
+    "rookie": 30.0,
+    "royal_guard": 20.2,
+    "tycoon": 30.7,
+    "veteran_explorer": 32.3,
+    "villager": 33.0
+  }
 }
