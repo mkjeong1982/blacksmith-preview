@@ -123,40 +123,107 @@
     "shardCost": 5,
     "shardCrystals": 10
   },
-  "sets": {
-    "volcano": {
-      "two": {
+  "rareSets": [
+    {
+      "id": "set_trailhead",
+      "items": [
+        "miner_silver_sword",
+        "hill_oak_shield",
+        "hill_woodcutter_helm",
+        "goblin_leaf_armor"
+      ],
+      "half": {
         "weaponPct": 8
       },
-      "four": {
+      "full": {
         "regionLootPct": 20
       }
     },
-    "dragon_nest": {
-      "two": {
+    {
+      "id": "set_miner",
+      "items": [
+        "mine_pickaxe_hammer",
+        "mine_lantern_helm",
+        "hill_shepherd_boots",
+        "goblin_trickster_ring"
+      ],
+      "half": {
         "armorPct": 8
       },
-      "four": {
+      "full": {
         "injuryCutPct": 30
       }
     },
-    "frost_canyon": {
-      "two": {
-        "luck": 10
+    {
+      "id": "set_hunter",
+      "items": [
+        "flame_lord_bow",
+        "snowwolf_helm",
+        "blaze_step_boots",
+        "ember_charm",
+        "dragon_horn_amulet"
+      ],
+      "half": {
+        "luck": 12
       },
-      "four": {
-        "tripCutPct": 10
+      "full": {
+        "tripCutPct": 12
       }
     },
-    "sky_ruins": {
-      "two": {
-        "powerPct": 6
+    {
+      "id": "set_bulwark",
+      "items": [
+        "volcano_obsidian_spear",
+        "magma_rock_shield",
+        "breath_helm",
+        "ember_mail",
+        "wyvern_greaves",
+        "volcano_salamander_ring"
+      ],
+      "half": {
+        "armorPct": 12
       },
-      "four": {
-        "recipePp": 0.2
+      "full": {
+        "regionLootPct": 30
+      }
+    },
+    {
+      "id": "set_frostknight",
+      "items": [
+        "elder_fang_sword",
+        "ice_mirror_shield",
+        "lava_crown_helm",
+        "cloudsilk_armor",
+        "snowdrift_boots",
+        "frostbloom_ring"
+      ],
+      "half": {
+        "powerPct": 9
+      },
+      "full": {
+        "recipePp": 0.3
+      }
+    },
+    {
+      "id": "set_storm",
+      "items": [
+        "thunder_spear",
+        "dragon_king_shield",
+        "temple_guard_helm",
+        "dragonscale_plate",
+        "cloudstep_boots",
+        "sky_halo_charm",
+        "windgod_amulet"
+      ],
+      "half": {
+        "weaponPct": 14
+      },
+      "full": {
+        "powerPct": 10
       }
     }
-  },
+  ],
+  "_doc222": "WP222 (임시): 세트는 지역과 떼어 rareSets — 2개 이상 던전 장비를 섞어, 한 세트 안 칸 중복 없음, 4~7조각. 절반(올림) 착용 half · 전부 착용 full 효과. 수치는 예전 4조각 세트(2세트·4세트) × 조각 수/4. regionLootPct는 그 세트 조각이 나오는 던전들의 파견에만. 드롭 표(regions[].items·loose)는 WP219 그대로.",
   "relics": {
     "chancePct": 0.04,
     "items": [
