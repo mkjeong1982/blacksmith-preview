@@ -1,15 +1,15 @@
 {
   "hand": {
-    "x": 182,
-    "y": 138
+    "x": 55,
+    "y": 65
   },
   "body": {
-    "headTop": 35,
-    "chin": 83,
-    "feet": 290
+    "headTop": 5,
+    "chin": 50,
+    "feet": 116
   },
-  "frameWidth": 300,
-  "frameHeight": 300,
+  "frameWidth": 80,
+  "frameHeight": 120,
   "frames": 12,
   "actions": {
     "walk": [
@@ -36,6 +36,5 @@
       10,
       11
     ]
-  },
-  "_note": "ART116 (2026-11-04): 대장장이 비율로 다시 그림, 600px → 300px 스크립트 축소(폰 GPU 메모리)"
+  }
 }
