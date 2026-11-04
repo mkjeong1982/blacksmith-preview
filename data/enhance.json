@@ -3,7 +3,7 @@
   "keepBelow": 4,
   "protect": {
     "fromLevel": 4,
-    "adPerDay": 3,
+    "adPerDay": 5,
     "crystalCost": 30
   },
   "charmPp": [

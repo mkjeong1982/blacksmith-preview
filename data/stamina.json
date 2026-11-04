@@ -1,5 +1,5 @@
 {
-  "_doc": "WP177 A 모험가 스태미나(임시): max 최대 · costByRegion 파견 1회 소모(출발 때, 반복 파견은 회차마다) · toughMult 힘든 탐험(mood tough) 배수 · regenPctOfMaxPerHour 숙소에서 시간당 최대치의 %(돌아온 뒤부터 — WP173 85) · regenPerLodgeLevelPct 숙소 Lv.2부터 레벨마다 +% · sleepBelow 이 밑으로 돌아오면 잠(zzz) · wakeAtPct 최대치의 이 %까지 차면 깸 · early 튜토리얼 소모 0, 끝난 뒤 earlyMinutes분은 earlyMult배(WP182: 그동안 회복 ×earlyRegenMult) · adPerDay 📺 기운 충전 모험가당 하루 · crystalCost 💎 충전 · WP173 81: maxPerLevel 레벨마다 최대 + · bootsCostCutPctPerTier 부츠 티어마다 소모 −% · amuletRegenPctPerTier 목걸이 티어마다 회복 +% (강화 무관) · costCutCapPct / regenUpCapPct 합산 상한 · WP173 89: wakeAtPct 30(85의 50 대신) · sleepyPct 이 % 이하로 보내면 피곤 투정 + 졸린 얼굴 · sleepyGapMin 같은 모험가 투정 간격(분) · sleepyInjuryPp 피곤(≤sleepyPct)하게 출발하면 부상 확률 +%p(상한 sleepyInjuryCapPct)",
+  "_doc": "WP177 A 모험가 스태미나(임시): max 최대 · costByRegion 파견 1회 소모(출발 때, 반복 파견은 회차마다) · toughMult 힘든 탐험(mood tough) 배수 · regenPctOfMaxPerHour 숙소에서 시간당 최대치의 %(돌아온 뒤부터 — WP173 85) · regenPerLodgeLevelPct 숙소 Lv.2부터 레벨마다 +% · sleepBelow 이 밑으로 돌아오면 잠(zzz) · wakeAtPct 최대치의 이 %까지 차면 깸 · early 튜토리얼 소모 0, 끝난 뒤 earlyMinutes분은 earlyMult배(WP182: 그동안 회복 ×earlyRegenMult) · adPerDay 📺 기운 충전 모험가당 하루(WP202 2→5, 임시) · crystalCost 💎 충전 · WP173 81: maxPerLevel 레벨마다 최대 + · bootsCostCutPctPerTier 부츠 티어마다 소모 −% · amuletRegenPctPerTier 목걸이 티어마다 회복 +% (강화 무관) · costCutCapPct / regenUpCapPct 합산 상한 · WP173 89: wakeAtPct 30(85의 50 대신) · sleepyPct 이 % 이하로 보내면 피곤 투정 + 졸린 얼굴 · sleepyGapMin 같은 모험가 투정 간격(분) · sleepyInjuryPp 피곤(≤sleepyPct)하게 출발하면 부상 확률 +%p(상한 sleepyInjuryCapPct)",
   "max": 100,
   "costByRegion": {
     "back_hill": 12,
@@ -18,7 +18,7 @@
   "earlyMinutes": 60,
   "earlyMult": 0.5,
   "earlyRegenMult": 3,
-  "adPerDay": 2,
+  "adPerDay": 5,
   "crystalCost": 20,
   "maxPerLevel": 3,
   "bootsCostCutPctPerTier": 2,
@@ -30,7 +30,7 @@
   "sleepyInjuryPp": 10,
   "sleepyInjuryCapPct": 45,
   "smith": {
-    "_doc": "WP178 (임시): 대장장이 스태미나 — 제작 중인 모루가 있으면 닳고(1개 기준 100을 2시간 — WP173 190, 예전 4시간, n개 = ×(1 + anvilExtra×(n−1))), 없으면 회복(100을 5시간). 0이면 모든 모루 일시정지·휴식 → resumePct%에 재개. 취침(휴식 공간 침대) = 회복 ×sleepMult, 가득 차면 기상. 튜토리얼 중엔 그대로. WP173 190: 📺 +adGain(하루 adPerDay회) · 💎 가득 = ceil(crystalCost × 모자란 양/최대), 최소 1.",
+    "_doc": "WP178 (임시): 대장장이 스태미나 — 제작 중인 모루가 있으면 닳고(1개 기준 100을 2시간 — WP173 190, 예전 4시간, n개 = ×(1 + anvilExtra×(n−1))), 없으면 회복(100을 5시간). 0이면 모든 모루 일시정지·휴식 → resumePct%에 재개. 취침(휴식 공간 침대) = 회복 ×sleepMult, 가득 차면 기상. 튜토리얼 중엔 그대로. WP173 190: 📺 +adGain(하루 adPerDay회 — WP202 3→5, 임시) · 💎 가득 = ceil(crystalCost × 모자란 양/최대), 최소 1.",
     "max": 100,
     "drainPerMin": 0.83333,
     "anvilExtra": 0.5,
@@ -38,7 +38,7 @@
     "resumePct": 35,
     "sleepMult": 3,
     "adGain": 50,
-    "adPerDay": 3,
+    "adPerDay": 5,
     "crystalCost": 20,
     "_doc293": "WP173 293 (임시): startCost = 제작 시작 때 한 번에 깎이는 양(티어 Ⅰ~Ⅶ, 넘으면 마지막 값) · maxPerLevel = 대장간 Lv당 최대치 +N(레벨업 때 현재치도 +N). 튜토리얼·초반(craftEarlyMinutes)·첫 꼬마 의뢰품, 그리고 튜토리얼 뒤 첫 startFreeMin분은 0(첫 Ⅱ까지의 첫 1시간 페이스 유지). 바닥 뒤 막힘 ≤ 약 30분이 되게 regenPerMin 0.333 → 2, resumePct 30 → 35(재개까지 Lv1 18분 · Lv10 33분).",
     "startCost": [7, 8, 12, 16, 22, 28, 32],
