@@ -7,8 +7,41 @@
   "sellPct": 70,
   "regions": [
     {
+      "regionId": "back_hill",
+      "chancePct": 0.4,
+      "items": [],
+      "loose": [
+        "hill_squirrel_bow",
+        "hill_oak_shield",
+        "hill_shepherd_boots",
+        "hill_woodcutter_helm"
+      ]
+    },
+    {
+      "regionId": "old_mine",
+      "chancePct": 0.5,
+      "items": [],
+      "loose": [
+        "miner_silver_sword",
+        "deepvein_spear",
+        "mine_lantern_helm",
+        "mine_pickaxe_hammer"
+      ]
+    },
+    {
+      "regionId": "goblin_forest",
+      "chancePct": 0.5,
+      "items": [],
+      "loose": [
+        "goblin_chief_axe",
+        "goblin_leaf_armor",
+        "goblin_trickster_ring",
+        "goblin_toadstool_spear"
+      ]
+    },
+    {
       "regionId": "volcano",
-      "chancePct": 0.7,
+      "chancePct": 0.962,
       "items": [
         "lava_heart_axe",
         "flame_lord_bow",
@@ -18,11 +51,16 @@
         "magma_rock_shield",
         "lava_crown_helm",
         "ember_charm"
+      ],
+      "loose": [
+        "volcano_obsidian_spear",
+        "volcano_salamander_ring",
+        "volcano_cinder_longbow"
       ]
     },
     {
       "regionId": "dragon_nest",
-      "chancePct": 0.9,
+      "chancePct": 1.238,
       "items": [
         "elder_fang_sword",
         "dragon_king_shield",
@@ -32,11 +70,16 @@
         "dragonscale_plate",
         "wyvern_longbow",
         "dragon_eye_amulet"
+      ],
+      "loose": [
+        "dragon_fang_hammer",
+        "dragon_wing_boots",
+        "dragon_horn_amulet"
       ]
     },
     {
       "regionId": "frost_canyon",
-      "chancePct": 1.1,
+      "chancePct": 1.513,
       "items": [
         "frost_queen_longbow",
         "glacier_plate",
@@ -46,11 +89,16 @@
         "ice_mirror_shield",
         "snowwolf_helm",
         "snowdrift_boots"
+      ],
+      "loose": [
+        "frost_glacier_shield",
+        "frost_wolf_helm",
+        "frost_icicle_bow"
       ]
     },
     {
       "regionId": "sky_ruins",
-      "chancePct": 1.3,
+      "chancePct": 1.788,
       "items": [
         "heaven_greatsword",
         "starlight_hammer",
@@ -60,6 +108,11 @@
         "thunder_spear",
         "cloudsilk_armor",
         "cloudstep_boots"
+      ],
+      "loose": [
+        "sky_feather_armor",
+        "sky_halo_charm",
+        "sky_storm_sword"
       ]
     }
   ],
@@ -103,5 +156,17 @@
         "recipePp": 0.2
       }
     }
-  }
+  },
+  "relics": {
+    "chancePct": 0.04,
+    "items": [
+      "relic_wanderer_amulet",
+      "relic_compass_charm",
+      "relic_hourglass_boots",
+      "relic_starforged_sword",
+      "relic_golden_helm",
+      "relic_ancient_shield"
+    ]
+  },
+  "_doc219": "WP219 (임시): regions[].loose = 그 지역 세트 밖 희귀(세트 판정·세트 효과엔 안 셈), 두루마리는 items+loose에서 뽑음 — 후반 지역 chancePct ×(8+3)/8(세트 수집 속도 그대로), 뒷산 0.4%·폐광·고블린 숲 0.5%. relics = 방랑 장인 유물: 어느 지역이든 지역 두루마리가 안 나온 탐험의 chancePct %로 하나(조각 교환 불가). 폐광 기존 2종(miner_silver_sword·deepvein_spear)도 폐광 loose로."
 }

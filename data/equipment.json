@@ -1,8 +1,35 @@
 {
-  "craftTimeMult": { "1": 2.2, "2": 2.2, "3": 1.6, "4": 1.6, "5": 1.4, "6": 1.4, "7": 1.4 },
-  "codexReward": { "_doc": "WP173 152 (임시): 도감에 새로 열린 장비의 NEW를 누르면 한 번 — 티어별 골드, 레어(특별)·장신구는 + 수정", "gold": { "1": 50, "2": 150, "3": 300, "4": 500, "5": 800, "6": 1200, "7": 1200 }, "crystals": 2 },
+  "craftTimeMult": {
+    "1": 2.2,
+    "2": 2.2,
+    "3": 1.6,
+    "4": 1.6,
+    "5": 1.4,
+    "6": 1.4,
+    "7": 1.4
+  },
+  "codexReward": {
+    "_doc": "WP173 152 (임시): 도감에 새로 열린 장비의 NEW를 누르면 한 번 — 티어별 골드, 레어(특별)·장신구는 + 수정",
+    "gold": {
+      "1": 50,
+      "2": 150,
+      "3": 300,
+      "4": 500,
+      "5": 800,
+      "6": 1200,
+      "7": 1200
+    },
+    "crystals": 2
+  },
   "craftEarlyMinutes": 0,
-  "weightBonus": { "_doc": "WP173 200 (임시): 가벼운 방어구(투구·갑옷·부츠·방패) 1개마다 파견 스태미나 소모 −staminaCutPct% · 탐험 시간 −tripCutPct%, 합 상한 capPct%. 보통·무거움은 보너스 없음(전투력이 더 높음).", "light": { "staminaCutPct": 5, "tripCutPct": 5 }, "capPct": 15 },
+  "weightBonus": {
+    "_doc": "WP173 200 (임시): 가벼운 방어구(투구·갑옷·부츠·방패) 1개마다 파견 스태미나 소모 −staminaCutPct% · 탐험 시간 −tripCutPct%, 합 상한 capPct%. 보통·무거움은 보너스 없음(전투력이 더 높음).",
+    "light": {
+      "staminaCutPct": 5,
+      "tripCutPct": 5
+    },
+    "capPct": 15
+  },
   "wearLevel": {
     "1": 1,
     "2": 4,
@@ -3238,6 +3265,864 @@
         "sapphire": 1,
         "emerald": 1,
         "topaz": 1
+      }
+    },
+    {
+      "id": "hill_squirrel_bow",
+      "name": "다람쥐 사냥꾼 활",
+      "slot": "right",
+      "kind": "bow",
+      "tier": 1,
+      "special": true,
+      "rareFrom": "back_hill",
+      "unlockForgeLevel": 1,
+      "craftSec": 285,
+      "power": 18,
+      "sellPrice": 462,
+      "goldCost": 570,
+      "recipe": [
+        {
+          "materialId": "wood",
+          "qty": 3
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "matPlusPp": 8
+      },
+      "twoHanded": true
+    },
+    {
+      "id": "hill_oak_shield",
+      "name": "늙은 참나무 방패",
+      "slot": "left",
+      "kind": "shield",
+      "weight": "light",
+      "tier": 1,
+      "special": true,
+      "rareFrom": "back_hill",
+      "unlockForgeLevel": 1,
+      "craftSec": 120,
+      "power": 6,
+      "sellPrice": 210,
+      "goldCost": 210,
+      "recipe": [
+        {
+          "materialId": "wood",
+          "qty": 3
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "injuryCutPct": 8
+      }
+    },
+    {
+      "id": "hill_shepherd_boots",
+      "name": "양치기 털장화",
+      "slot": "boots",
+      "kind": "boots",
+      "weight": "medium",
+      "tier": 2,
+      "special": true,
+      "rareFrom": "back_hill",
+      "unlockForgeLevel": 1,
+      "craftSec": 270,
+      "power": 13,
+      "sellPrice": 815,
+      "goldCost": 1020,
+      "recipe": [
+        {
+          "materialId": "wood",
+          "qty": 5
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 3
+        }
+      ],
+      "uniq": {
+        "staminaCutPct": 8
+      }
+    },
+    {
+      "id": "hill_woodcutter_helm",
+      "name": "나무꾼의 이끼 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "weight": "medium",
+      "tier": 2,
+      "special": true,
+      "rareFrom": "back_hill",
+      "unlockForgeLevel": 1,
+      "craftSec": 285,
+      "power": 16,
+      "sellPrice": 829,
+      "goldCost": 1040,
+      "recipe": [
+        {
+          "materialId": "wood",
+          "qty": 5
+        },
+        {
+          "materialId": "iron_ore",
+          "qty": 3
+        }
+      ],
+      "uniq": {
+        "expPct": 10
+      }
+    },
+    {
+      "id": "mine_lantern_helm",
+      "name": "광부의 등불 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "weight": "medium",
+      "tier": 3,
+      "special": true,
+      "rareFrom": "old_mine",
+      "unlockForgeLevel": 1,
+      "craftSec": 742,
+      "power": 29,
+      "sellPrice": 2295,
+      "goldCost": 2460,
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 6
+        },
+        {
+          "materialId": "silver",
+          "qty": 4
+        },
+        {
+          "materialId": "leather",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "gemPp": 3
+      }
+    },
+    {
+      "id": "mine_pickaxe_hammer",
+      "name": "갱도 곡괭이 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 3,
+      "special": true,
+      "rareFrom": "old_mine",
+      "unlockForgeLevel": 1,
+      "craftSec": 2482,
+      "power": 99,
+      "sellPrice": 6019,
+      "goldCost": 7780,
+      "recipe": [
+        {
+          "materialId": "iron_ore",
+          "qty": 6
+        },
+        {
+          "materialId": "silver",
+          "qty": 4
+        },
+        {
+          "materialId": "leather",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "regionLootPct": 20
+      },
+      "twoHanded": true
+    },
+    {
+      "id": "goblin_chief_axe",
+      "name": "고블린 족장의 도끼",
+      "slot": "right",
+      "kind": "axe",
+      "tier": 3,
+      "special": true,
+      "rareFrom": "goblin_forest",
+      "unlockForgeLevel": 1,
+      "craftSec": 2070,
+      "power": 94,
+      "sellPrice": 5413,
+      "goldCost": 5560,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 6
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 4
+        }
+      ],
+      "uniq": {
+        "goldPct": 15
+      },
+      "twoHanded": true
+    },
+    {
+      "id": "goblin_leaf_armor",
+      "name": "잎사귀 위장 갑옷",
+      "slot": "armor",
+      "kind": "armor",
+      "weight": "light",
+      "tier": 3,
+      "special": true,
+      "rareFrom": "goblin_forest",
+      "unlockForgeLevel": 1,
+      "craftSec": 562,
+      "power": 41,
+      "sellPrice": 1731,
+      "goldCost": 300,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 6
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 4
+        }
+      ],
+      "uniq": {
+        "tripCutPct": 8
+      }
+    },
+    {
+      "id": "goblin_trickster_ring",
+      "name": "장난꾸러기 반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 3,
+      "special": true,
+      "rareFrom": "goblin_forest",
+      "unlockForgeLevel": 1,
+      "craftSec": 4050,
+      "power": 17,
+      "sellPrice": 2641,
+      "goldCost": 1600,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 6
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 4
+        }
+      ],
+      "uniq": {
+        "luck": 6
+      }
+    },
+    {
+      "id": "goblin_toadstool_spear",
+      "name": "독버섯 창",
+      "slot": "right",
+      "kind": "spear",
+      "tier": 3,
+      "special": true,
+      "rareFrom": "goblin_forest",
+      "unlockForgeLevel": 1,
+      "craftSec": 562,
+      "power": 43,
+      "sellPrice": 1521,
+      "goldCost": 0,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 6
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 4
+        }
+      ],
+      "uniq": {
+        "shardPp": 4
+      }
+    },
+    {
+      "id": "relic_wanderer_amulet",
+      "name": "방랑 장인의 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 3,
+      "special": true,
+      "relic": true,
+      "unlockForgeLevel": 1,
+      "craftSec": 4050,
+      "power": 0,
+      "agility": 18,
+      "sellPrice": 2641,
+      "goldCost": 1500,
+      "recipe": [
+        {
+          "materialId": "leather",
+          "qty": 6
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 4
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "healPct": 30
+      }
+    },
+    {
+      "id": "relic_compass_charm",
+      "name": "길잡이 나침반 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 4,
+      "special": true,
+      "relic": true,
+      "unlockForgeLevel": 1,
+      "craftSec": 7200,
+      "power": 0,
+      "luck": 29,
+      "sellPrice": 4464,
+      "goldCost": 1930,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 8
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 5
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "tripCutPct": 10
+      }
+    },
+    {
+      "id": "relic_hourglass_boots",
+      "name": "모래시계 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "weight": "medium",
+      "tier": 4,
+      "special": true,
+      "relic": true,
+      "unlockForgeLevel": 1,
+      "craftSec": 2160,
+      "power": 42,
+      "sellPrice": 4345,
+      "goldCost": 1760,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 8
+        },
+        {
+          "materialId": "mana_stone",
+          "qty": 5
+        },
+        {
+          "materialId": "silver",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "staminaCutPct": 12
+      }
+    },
+    {
+      "id": "relic_starforged_sword",
+      "name": "별쇠 검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 5,
+      "special": true,
+      "relic": true,
+      "unlockForgeLevel": 1,
+      "craftSec": 9000,
+      "power": 152,
+      "sellPrice": 17606,
+      "goldCost": 12410,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 10
+        },
+        {
+          "materialId": "firestone",
+          "qty": 6
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "powerPct": 6
+      }
+    },
+    {
+      "id": "relic_golden_helm",
+      "name": "행운의 금 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "weight": "heavy",
+      "tier": 5,
+      "special": true,
+      "relic": true,
+      "unlockForgeLevel": 1,
+      "craftSec": 7200,
+      "power": 82,
+      "sellPrice": 10627,
+      "goldCost": 2440,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 10
+        },
+        {
+          "materialId": "firestone",
+          "qty": 6
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "goldPct": 20
+      }
+    },
+    {
+      "id": "relic_ancient_shield",
+      "name": "고대 장인의 방패",
+      "slot": "left",
+      "kind": "shield",
+      "weight": "medium",
+      "tier": 6,
+      "special": true,
+      "relic": true,
+      "unlockForgeLevel": 1,
+      "craftSec": 12345,
+      "power": 99,
+      "sellPrice": 20842,
+      "goldCost": 0,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 8
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "injuryCutPct": 15
+      }
+    },
+    {
+      "id": "volcano_obsidian_spear",
+      "name": "흑요석 창",
+      "slot": "right",
+      "kind": "spear",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 5400,
+      "power": 126,
+      "sellPrice": 7896,
+      "goldCost": 3490,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 10
+        },
+        {
+          "materialId": "firestone",
+          "qty": 6
+        },
+        {
+          "materialId": "coal",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "gemPp": 4
+      }
+    },
+    {
+      "id": "volcano_salamander_ring",
+      "name": "샐러맨더 반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 11250,
+      "power": 49,
+      "sellPrice": 7917,
+      "goldCost": 3520,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 10
+        },
+        {
+          "materialId": "firestone",
+          "qty": 6
+        },
+        {
+          "materialId": "coal",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "expPct": 12
+      }
+    },
+    {
+      "id": "volcano_cinder_longbow",
+      "name": "잿불 장궁",
+      "slot": "right",
+      "kind": "longbow",
+      "tier": 5,
+      "special": true,
+      "rareFrom": "volcano",
+      "unlockForgeLevel": 1,
+      "craftSec": 18000,
+      "power": 243,
+      "sellPrice": 25620,
+      "goldCost": 28810,
+      "recipe": [
+        {
+          "materialId": "mithril",
+          "qty": 10
+        },
+        {
+          "materialId": "firestone",
+          "qty": 6
+        },
+        {
+          "materialId": "coal",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "weaponPct": 6
+      },
+      "twoHanded": true
+    },
+    {
+      "id": "dragon_fang_hammer",
+      "name": "용 송곳니 망치",
+      "slot": "right",
+      "kind": "hammer",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 46568,
+      "power": 440,
+      "sellPrice": 85811,
+      "goldCost": 86520,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 12
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 8
+        },
+        {
+          "materialId": "mithril",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "matPlusPp": 12
+      },
+      "twoHanded": true
+    },
+    {
+      "id": "dragon_wing_boots",
+      "name": "용 날개 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "weight": "light",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 7935,
+      "power": 85,
+      "sellPrice": 11735,
+      "goldCost": 2520,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 3
+        },
+        {
+          "materialId": "mithril",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "tripCutPct": 8
+      }
+    },
+    {
+      "id": "dragon_horn_amulet",
+      "name": "용뿔 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "dragon_nest",
+      "unlockForgeLevel": 1,
+      "craftSec": 16200,
+      "power": 0,
+      "agility": 63,
+      "sellPrice": 11882,
+      "goldCost": 2730,
+      "recipe": [
+        {
+          "materialId": "dragon_scale",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 3
+        },
+        {
+          "materialId": "mithril",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "recipePp": 0.15
+      }
+    },
+    {
+      "id": "frost_glacier_shield",
+      "name": "빙하 방패",
+      "slot": "left",
+      "kind": "shield",
+      "weight": "medium",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 12345,
+      "power": 99,
+      "sellPrice": 21308,
+      "goldCost": 0,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 8
+        },
+        {
+          "materialId": "mithril",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "armorPct": 8
+      }
+    },
+    {
+      "id": "frost_wolf_helm",
+      "name": "백랑 털모자 투구",
+      "slot": "helm",
+      "kind": "helm",
+      "weight": "heavy",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 14115,
+      "power": 131,
+      "sellPrice": 23191,
+      "goldCost": 2690,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 8
+        },
+        {
+          "materialId": "mithril",
+          "qty": 5
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "healPct": 30
+      }
+    },
+    {
+      "id": "frost_icicle_bow",
+      "name": "고드름 활",
+      "slot": "right",
+      "kind": "bow",
+      "tier": 6,
+      "special": true,
+      "rareFrom": "frost_canyon",
+      "unlockForgeLevel": 1,
+      "craftSec": 28222,
+      "power": 346,
+      "sellPrice": 60519,
+      "goldCost": 39990,
+      "recipe": [
+        {
+          "materialId": "frost_crystal",
+          "qty": 12
+        },
+        {
+          "materialId": "mithril",
+          "qty": 8
+        },
+        {
+          "materialId": "dragon_scale",
+          "qty": 2
+        }
+      ],
+      "uniq": {
+        "shardPp": 5
+      },
+      "twoHanded": true
+    },
+    {
+      "id": "sky_feather_armor",
+      "name": "깃털구름 갑옷",
+      "slot": "armor",
+      "kind": "armor",
+      "weight": "light",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 16932,
+      "power": 247,
+      "sellPrice": 40168,
+      "goldCost": 0,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 6
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 4
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "staminaCutPct": 10
+      }
+    },
+    {
+      "id": "sky_halo_charm",
+      "name": "하늘 고리 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 35280,
+      "power": 0,
+      "luck": 101,
+      "sellPrice": 19011,
+      "goldCost": 7490,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 2
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 1
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "luck": 10
+      }
+    },
+    {
+      "id": "sky_storm_sword",
+      "name": "폭풍 검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 7,
+      "special": true,
+      "rareFrom": "sky_ruins",
+      "unlockForgeLevel": 1,
+      "craftSec": 28224,
+      "power": 378,
+      "sellPrice": 59368,
+      "goldCost": 0,
+      "recipe": [
+        {
+          "materialId": "sky_core",
+          "qty": 9
+        },
+        {
+          "materialId": "frost_crystal",
+          "qty": 6
+        },
+        {
+          "materialId": "dragon_heart",
+          "qty": 1
+        }
+      ],
+      "uniq": {
+        "goldPct": 15
       }
     }
   ]

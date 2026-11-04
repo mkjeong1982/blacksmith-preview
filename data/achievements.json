@@ -407,6 +407,78 @@
       "key": "royalDone",
       "goal": 3,
       "crystals": 40
+    },
+    {
+      "id": "set_two_first",
+      "name": "첫 세트 효과",
+      "desc": "한 모험가가 같은 세트 2부위 착용",
+      "key": "setTwo",
+      "goal": 1,
+      "crystals": 20
+    },
+    {
+      "id": "set_four_first",
+      "name": "세트 완성!",
+      "desc": "한 모험가가 같은 세트 4부위 착용",
+      "key": "setFour",
+      "goal": 1,
+      "crystals": 40
+    },
+    {
+      "id": "set_collect_volcano",
+      "name": "화산 수집가",
+      "desc": "화산 동굴 세트 8종 도감 수집",
+      "key": "setCodex:volcano",
+      "goal": 8,
+      "crystals": 30
+    },
+    {
+      "id": "set_collect_dragon",
+      "name": "용 둥지 수집가",
+      "desc": "용의 둥지 세트 8종 도감 수집",
+      "key": "setCodex:dragon_nest",
+      "goal": 8,
+      "crystals": 30
+    },
+    {
+      "id": "set_collect_frost",
+      "name": "얼음 수집가",
+      "desc": "얼음 협곡 세트 8종 도감 수집",
+      "key": "setCodex:frost_canyon",
+      "goal": 8,
+      "crystals": 30
+    },
+    {
+      "id": "set_collect_sky",
+      "name": "하늘 수집가",
+      "desc": "하늘 유적 세트 8종 도감 수집",
+      "key": "setCodex:sky_ruins",
+      "goal": 8,
+      "crystals": 30
+    },
+    {
+      "id": "set_all_regions",
+      "name": "세트 마스터",
+      "desc": "4개 지역 세트 모두 도감 수집",
+      "key": "setCodexAll",
+      "goal": 4,
+      "crystals": 100
+    },
+    {
+      "id": "set_party",
+      "name": "세트 원정대",
+      "desc": "서로 다른 세트 효과를 켠 모험가 3명 동시에",
+      "key": "setParty",
+      "goal": 3,
+      "crystals": 50
+    },
+    {
+      "id": "rare_loose_10",
+      "name": "희귀품 감별사",
+      "desc": "세트 밖 희귀 장비 10종 도감 수집",
+      "key": "rareLoose",
+      "goal": 10,
+      "crystals": 40
     }
   ]
 }
