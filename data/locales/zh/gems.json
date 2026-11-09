@@ -1,0 +1,10 @@
+{
+  "/gems/[ruby]/name": "紅寶石",
+  "/gems/[ruby]/desc": "戰鬥力 +8%",
+  "/gems/[sapphire]/name": "藍寶石",
+  "/gems/[sapphire]/desc": "探險時間 −8%",
+  "/gems/[emerald]/name": "祖母綠",
+  "/gems/[emerald]/desc": "素材數量 +10%",
+  "/gems/[topaz]/name": "黃玉",
+  "/gems/[topaz]/desc": "額外金幣 +15%"
+}

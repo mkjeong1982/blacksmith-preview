@@ -1,0 +1,12 @@
+{
+  "/pool/[craft]/name": "打造裝備 {n} 件",
+  "/pool/[dispatch]/name": "派出探險 {n} 次",
+  "/pool/[enhance]/name": "試著強化 {n} 次",
+  "/pool/[sell]/name": "賣出裝備 {n} 件",
+  "/pool/[materials]/name": "收集素材 {n} 個",
+  "/pool/[reports]/name": "收下探險報告 {n} 次",
+  "/pool/[upgrade]/name": "開始升級設施",
+  "/pool/[ad]/name": "看廣告縮短時間 {n} 次",
+  "/pool/[commission]/name": "交付委託 {n} 次",
+  "/pool/[fame]/name": "提升名聲 {n}"
+}
