@@ -43,6 +43,12 @@
     "guards": 2,
     "certFame": 50
   },
+  "_docGoal": "WP249 (임시): 대장간 Lv.12(king.fromForge) 뒤 다음 목표 — 명성 visitFame이면 국왕 방문(왕 방문 시계도 이때부터), 납품·왕실 인증, 하사품 골드 gold + 아직 없는 레어 레시피 1개(전부 보유면 골드 allKnownGold 추가), 1회",
+  "goal": {
+    "visitFame": 5000,
+    "gold": 100000,
+    "allKnownGold": 50000
+  },
   "afterVisitHours": 24,
   "linesShare": 0.3,
   "lodgeLinesShare": 0.4,
