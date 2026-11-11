@@ -551,7 +551,7 @@
             "장난꾸러기 도깨비불이랑 술래잡기!"
           ],
           "fly": true,
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "stone_guardian",
@@ -562,7 +562,7 @@
             "돌 수호자랑 대결 중! 다리 저려서 느려요!",
             "천 년 된 수호자가 움직였어! 싸우는 중!"
           ],
-          "faces": "left"
+          "faces": "right"
         },
         {
           "id": "sky_drake",
@@ -574,7 +574,7 @@
             "구름 사이 비룡이랑 공중전 중!"
           ],
           "fly": true,
-          "faces": "left"
+          "faces": "right"
         }
       ],
       "accessoryDrop": {
