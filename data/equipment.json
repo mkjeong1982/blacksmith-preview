@@ -1,4 +1,5 @@
 {
+  "accessoryKindWeight": { "_doc": "WP253 (임시): 장신구가 나왔을 때 같은 단계 안에서 종류별 뽑힘 비중 — 부적 0.4 = 장신구의 약 17%", "ring": 1, "amulet": 1, "charm": 0.4 },
   "craftTimeMult": {
     "1": 2.2,
     "2": 2.2,
