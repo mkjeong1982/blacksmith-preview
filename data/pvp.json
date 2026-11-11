@@ -3,8 +3,9 @@
   "maxSec": 30,
   "unlockLodge": 4,
   "teamSize": 4,
-  "dmgScale": 1.8,
+  "dmgScale": 1.7,
   "dmgVariance": 0.5,
+  "paceRef": 26.76,
   "stat": { "hpBase": 0, "hpPerLevelPow": 4, "hpPerDefPow": 1.5, "atkPerWeaponPow": 0.2, "atkPerLevelPow": 0.3, "defPerDefPow": 0.15, "aspdPerAgility": 0.005, "aspdCap": 2.5, "critPerLuck": 0.003, "critCap": 0.3, "critMult": 1.5, "enhanceWeight": 0.06 },
   "jobs": {
     "swordsman": { "hp": 1000, "atk": 12, "def": 10, "aspd": 1.0, "range": 1.1, "move": 1.3, "ai": "lowest" },
