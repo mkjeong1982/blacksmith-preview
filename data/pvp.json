@@ -1,4 +1,5 @@
 {
+  "open": false,
   "tickMs": 100,
   "maxSec": 30,
   "unlockLodge": 4,
