@@ -1,0 +1,57 @@
+{
+  "minN": 10,
+  "refreshHours": 6,
+  "staleDays": 7,
+  "ladders": {
+    "smith": [
+      { "id": "smithMid", "grade": true, "top": 75, "salePct": 1 },
+      { "id": "smithHigh", "grade": true, "top": 50, "salePct": 3, "enhancePp": 0.5 },
+      { "id": "baron", "top": 30, "salePct": 5, "enhancePp": 1 },
+      { "id": "viscount", "top": 20, "salePct": 7, "enhancePp": 2 },
+      { "id": "count", "top": 10, "salePct": 10, "enhancePp": 3 },
+      { "id": "marquis", "top": 5, "salePct": 12, "enhancePp": 4 },
+      { "id": "duke3", "rank": 3, "medal": "bronze", "salePct": 15, "enhancePp": 5 },
+      { "id": "duke2", "rank": 2, "medal": "silver", "salePct": 17, "enhancePp": 5 },
+      { "id": "archduke", "rank": 1, "medal": "gold", "salePct": 20, "enhancePp": 6 }
+    ],
+    "total": [
+      { "id": "teamMid", "grade": true, "top": 75, "powerPct": 1, "luck": 1, "regenPct": 1 },
+      { "id": "teamHigh", "grade": true, "top": 50, "powerPct": 1, "luck": 1, "regenPct": 2 },
+      { "id": "squireOrder", "top": 30, "powerPct": 2, "luck": 2, "regenPct": 3 },
+      { "id": "silverOrder", "top": 20, "powerPct": 3, "luck": 3, "regenPct": 5 },
+      { "id": "goldenOrder", "top": 10, "powerPct": 4, "luck": 4, "regenPct": 7 },
+      { "id": "kingsOrder", "top": 5, "powerPct": 5, "luck": 5, "regenPct": 9 },
+      { "id": "realmOrder", "rank": 3, "medal": "bronze", "powerPct": 6, "luck": 6, "regenPct": 11 },
+      { "id": "royalGuardOrder", "rank": 2, "medal": "silver", "powerPct": 7, "luck": 7, "regenPct": 13 },
+      { "id": "legendOrder", "rank": 1, "medal": "gold", "powerPct": 8, "luck": 8, "regenPct": 15 }
+    ],
+    "single": [
+      { "id": "advMid", "grade": true, "top": 75 },
+      { "id": "advHigh", "grade": true, "top": 50, "powerPct": 1 },
+      { "id": "squireKnight", "top": 30, "powerPct": 1, "luck": 1 },
+      { "id": "silverKnight", "top": 20, "powerPct": 2, "luck": 2 },
+      { "id": "goldenKnight", "top": 10, "powerPct": 2, "luck": 2 },
+      { "id": "kingsKnight", "top": 5, "powerPct": 3, "luck": 3 },
+      { "id": "realmKnight", "rank": 3, "medal": "bronze", "powerPct": 3, "luck": 3 },
+      { "id": "royalGuardKnight", "rank": 2, "medal": "silver", "powerPct": 4, "luck": 4 },
+      { "id": "legendKnight", "rank": 1, "medal": "gold", "powerPct": 4, "luck": 4 }
+    ]
+  },
+  "rows": [
+    { "fill": "#3b2a1d", "edge": "#9a6a3c" },
+    { "fill": "#33343a", "edge": "#a7adb8" },
+    { "fill": "#3d331a", "edge": "#c9a447" },
+    { "fill": "#4a3a12", "edge": "#e6b93a" },
+    { "fill": "#3e2614", "edge": "#cd7f32" },
+    { "fill": "#383a42", "edge": "#d8dde6" },
+    { "fill": "#4d3b0c", "edge": "#ffd34d" }
+  ],
+  "firstReward": {
+    "smithMid": { "gold": 3000 },
+    "smithHigh": { "gold": 10000 },
+    "teamMid": { "refill": "all" },
+    "teamHigh": { "refill": "all" },
+    "advMid": { "refill": "one" },
+    "advHigh": { "refill": "one" }
+  }
+}
