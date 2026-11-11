@@ -4,6 +4,7 @@
   "maxSec": 30,
   "unlockLodge": 4,
   "teamSize": 4,
+  "exp": { "_note": "WP260D ★ (임시): 출전 모험가 경험치 = 다음 레벨까지 필요량의 % (승 > 패). 연습전 0, B단계 서버 대결에서만 지급", "winPctOfNext": 10, "losePctOfNext": 3 },
   "dmgScale": 1.7,
   "dmgVariance": 0.5,
   "paceRef": 26.76,
