@@ -3,7 +3,7 @@
   "maxSec": 30,
   "unlockLodge": 4,
   "teamSize": 4,
-  "dmgScale": 1.0,
+  "dmgScale": 1.4,
   "stat": {
     "hpBase": 0,
     "hpPerLevelPow": 4,
@@ -26,8 +26,8 @@
   "effects": {
     "crit": { "trigger": "onAttack", "chance": 0.12, "cooldownMs": 0, "target": "hit", "magnitude": 0.8, "durationMs": 0, "stackLimit": 1 },
     "thunder": { "trigger": "onAttack", "chance": 0.08, "cooldownMs": 6000, "target": "allEnemies", "magnitude": 1.2, "durationMs": 0, "stackLimit": 1, "aoeScale": 0.5 },
-    "bleed": { "trigger": "onAttack", "chance": 0.25, "cooldownMs": 0, "target": "hit", "magnitude": 0.06, "durationMs": 4000, "stackLimit": 3 },
-    "burn": { "trigger": "onAttack", "chance": 0.2, "cooldownMs": 0, "target": "hit", "magnitude": 0.08, "durationMs": 3000, "stackLimit": 2 },
+    "bleed": { "trigger": "onAttack", "chance": 0.25, "cooldownMs": 0, "target": "hit", "magnitude": 0.02, "durationMs": 4000, "stackLimit": 3 },
+    "burn": { "trigger": "onAttack", "chance": 0.2, "cooldownMs": 0, "target": "hit", "magnitude": 0.03, "durationMs": 3000, "stackLimit": 2 },
     "freeze": { "trigger": "onAttack", "chance": 0.1, "cooldownMs": 5000, "target": "hit", "magnitude": 1, "durationMs": 1200, "stackLimit": 1 },
     "slow": { "trigger": "onHurt", "chance": 0.25, "cooldownMs": 3000, "target": "attacker", "magnitude": 0.4, "durationMs": 2500, "stackLimit": 1 },
     "shield": { "trigger": "onLowHp", "chance": 1, "cooldownMs": 0, "target": "self", "magnitude": 0.2, "durationMs": 0, "stackLimit": 1, "hpBelow": 0.5 },
