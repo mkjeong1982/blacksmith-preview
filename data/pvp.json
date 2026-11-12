@@ -1,5 +1,5 @@
 {
-  "open": false,
+  "open": true,
   "server": "https://blacksmith-pvp.cannonfall-server.workers.dev",
   "online": { "_note": "WP264 (임시): 대련 서버(B단계) 설정 — server 빈 값이면 연습만. 하루 무료 5판(KST 0시), 그다음 판당 수정 paidCost, 유료 하루 상한. 매칭: 점수 폭 차례로 → 전투력 ±powerPct% → 봇. 최근 recentExclude판 상대 제외. 시즌 seasonDays일(S1 = seasonStart부터)", "freePerDay": 5, "paidCost": 4, "paidDailyCap": 20, "scoreSteps": [100, 200, 400], "powerPct": 20, "recentExclude": 3, "seasonStart": "2026-11-16", "seasonDays": 28, "logKeepDays": 30, "defenseList": 20, "rankTop": 100 },
   "tickMs": 100,
