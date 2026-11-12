@@ -95,5 +95,6 @@
     "sky_storm_sword": "thunder"
   },
   "bot": { "powerSpread": 0.1 },
+  "reward": { "_note": "WP291 (임시, 1.0.12): 대련 공격 승리 상금 골드 = goldByForge[대장간 Lv] × clamp(상대 전투력 ÷ 내 전투력, ratioMin, ratioMax) × 봇 botMul × 수정 입장 paidMul. 패배·연습 0. ★ 방어 승리(사람 공격만) = 같은 공식(상대 계수 = 공격자 ÷ 나) × defenceRate, 하루 합계 ≤ 기준액 × defenceDayMul, 다음 접속 때 모아서 지급. goldByForge = 그 레벨 판매 10분 수입(shop.json goldExchange.baseByForgeLevel(15분) × 2/3, 10 단위)", "goldByForge": [400, 470, 600, 670, 730, 800, 1130, 1330, 1530, 1730, 1930, 2130], "ratioMin": 0.7, "ratioMax": 1.5, "botMul": 0.5, "paidMul": 1.2, "defenceRate": 0.3, "defenceDayMul": 3 },
   "rating": { "start": 1000, "k": 32, "placementGames": 10, "placementK": 48, "botKScale": 0.5, "botDailyGainCap": 60, "defenseDailyLossCap": 60, "sameAttackerDailyCount": 3, "floor": 0 }
 }
