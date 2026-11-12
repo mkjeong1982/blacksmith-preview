@@ -53,5 +53,6 @@
     "teamHigh": { "refill": "all" },
     "advMid": { "refill": "one" },
     "advHigh": { "refill": "one" }
-  }
+  },
+  "honor": { "_note": "WP276 (임시): 작위 호칭 — 대장장이 작위(남작 이상)가 있으면 손님 일반 대사 guestShare, 휴게실 메이드·집사 staffShare를 호칭 줄로. 모험팀 작위가 있으면 숙소 대사 prideShare를 자부심 줄로. 등급(하급·중급·상급)은 호칭 없음", "guestShare": 0.15, "staffShare": 0.3, "prideShare": 0.2 }
 }
