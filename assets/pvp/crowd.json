@@ -1,0 +1,20 @@
+{
+  "frameWidth": 40,
+  "frameHeight": 48,
+  "types": [
+    "farmer",
+    "matron",
+    "child",
+    "merchant",
+    "elder",
+    "squire",
+    "barmaid",
+    "monk"
+  ],
+  "frames": [
+    "idle",
+    "wave1",
+    "wave2",
+    "cheer"
+  ]
+}
