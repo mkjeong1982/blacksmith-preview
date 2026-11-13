@@ -52,6 +52,16 @@
   "afterVisitHours": 24,
   "linesShare": 0.3,
   "lodgeLinesShare": 0.4,
+  "_docKingFirst": "WP297 (임시): 국왕의 첫 의뢰(국왕 의뢰 완료 0번일 때 — 실패해도 완료 전까지 다시 이 조건) — kingHard 위에 덮어씀: 레어 +rareLevel(세트 pairPct% 2부위 각 +pairLevel, 레어 없으면 최고 단계 +fallbackLevel), 기한 dueHours, 골드 판매가 × sellMult, 💎 crystals, 실패 명성 −failFamePct%(kingHard와 같음), 의뢰에 kingFirst 표시",
+  "kingFirst": {
+    "rareLevel": 7,
+    "fallbackLevel": 8,
+    "pairLevel": 6,
+    "sellMult": 8,
+    "dueHours": 168,
+    "crystals": 120,
+    "failFamePct": 5
+  },
   "kingHard": {
     "rareLevel": 6,
     "fallbackLevel": 7,
