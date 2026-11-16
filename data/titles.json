@@ -27,14 +27,14 @@
     ],
     "single": [
       { "id": "advMid", "grade": true, "top": 75 },
-      { "id": "advHigh", "grade": true, "top": 50, "powerPct": 1 },
-      { "id": "squireKnight", "top": 30, "powerPct": 1, "luck": 1 },
-      { "id": "silverKnight", "top": 20, "powerPct": 2, "luck": 2 },
-      { "id": "goldenKnight", "top": 10, "powerPct": 2, "luck": 2 },
-      { "id": "kingsKnight", "top": 5, "powerPct": 3, "luck": 3 },
-      { "id": "realmKnight", "rank": 3, "medal": "bronze", "powerPct": 3, "luck": 3 },
-      { "id": "royalGuardKnight", "rank": 2, "medal": "silver", "powerPct": 4, "luck": 4 },
-      { "id": "legendKnight", "rank": 1, "medal": "gold", "powerPct": 4, "luck": 4 }
+      { "id": "advHigh", "grade": true, "top": 50, "powerPct": 1, "healPct": 2 },
+      { "id": "squireKnight", "top": 30, "powerPct": 1, "luck": 1, "healPct": 3 },
+      { "id": "silverKnight", "top": 20, "powerPct": 2, "luck": 2, "healPct": 5 },
+      { "id": "goldenKnight", "top": 10, "powerPct": 2, "luck": 2, "healPct": 7 },
+      { "id": "kingsKnight", "top": 5, "powerPct": 3, "luck": 3, "healPct": 9 },
+      { "id": "realmKnight", "rank": 3, "medal": "bronze", "powerPct": 3, "luck": 3, "healPct": 11 },
+      { "id": "royalGuardKnight", "rank": 2, "medal": "silver", "powerPct": 4, "luck": 4, "healPct": 13 },
+      { "id": "legendKnight", "rank": 1, "medal": "gold", "powerPct": 4, "luck": 4, "healPct": 15 }
     ]
   },
   "rows": [
