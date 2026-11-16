@@ -1,5 +1,5 @@
 {
-  "_doc": "WP206B (임시): 숙소 상주 직원(maid 숙소 Lv.6+, butler Lv.7+)과 휴게실 전용 직원(restMaid 대장간 Lv.9+, restButler Lv.11+)의 말 — 행동·상황별 줄, tap 탭했을 때, intro 처음 왔을 때, royalVisit·royalCert 왕 방문 직후·인증 뒤; lodgePairs [메이드, 집사] 주고받기, restPairs 직원과 대장장이",
+  "_doc": "WP206B (임시): 숙소 상주 직원(maid 숙소 Lv.6+, butler Lv.7+)과 휴게실 전용 직원(restMaid 대장간 Lv.9+, restButler Lv.11+)의 말 — 행동·상황별 줄, tap 탭했을 때, intro 처음 왔을 때, royalVisit·royalCert 왕 방문 직후·인증 뒤; lodgePairs [메이드, 집사] 주고받기, restPairs 직원과 대장장이; WP361 (임시): lodgeMeet·restMeet [말한 사람 role, 줄] — 두 직원이 처음 함께 있게 된 화면에서 1회(두 번째 직원 intro 뒤); WP361 ★ (임시): introTo[role].smith·hero·player — 첫 직원이 혼자 처음 왔을 때 보이는 상대에게 인사({name} 모험가 이름, player 없으면 intro), introReply[role].smith·hero — 그 답",
   "maid": {
     "intro": [
       "오늘부터 숙소 청소 담당이에요! 반짝반짝하게 해 드릴게요~"
@@ -209,5 +209,91 @@
       "staff": "주무실 때 잠꼬대로 '+10!' 하셨어요.",
       "smith": "…꿈에서라도 성공했으면 됐어요!"
     }
+  ],
+  "introTo": {
+    "maid": {
+      "hero": [
+        "{name} 님, 안녕하세요! 오늘부터 숙소 청소 담당이에요~"
+      ],
+      "player": [
+        "안녕하세요, 사장님! 오늘부터 숙소 청소 담당이에요~ 반짝반짝하게 해 드릴게요!"
+      ]
+    },
+    "butler": {
+      "hero": [
+        "{name} 님, 오늘부터 이 숙소의 집사입니다. 필요한 건 언제든 말씀하시지요."
+      ],
+      "player": [
+        "사장님, 오늘부터 숙소 집사를 맡았습니다. 잘 부탁드리지요."
+      ]
+    },
+    "restMaid": {
+      "smith": [
+        "대장장이님, 처음 뵙겠습니다! 휴게실은 제가 맡을게요~"
+      ]
+    },
+    "restButler": {
+      "smith": [
+        "대장장이님, 휴게실 집사 노먼이옵니다. 휴식은 제가 지키지요."
+      ]
+    }
+  },
+  "introReply": {
+    "maid": {
+      "hero": [
+        "오, 반가워요! 잘 부탁해요!"
+      ]
+    },
+    "butler": {
+      "hero": [
+        "오오, 집사님이라니! 잘 부탁드려요!"
+      ]
+    },
+    "restMaid": {
+      "smith": [
+        "오, 든든하네! 잘 부탁해요!"
+      ]
+    },
+    "restButler": {
+      "smith": [
+        "집사까지? 호강하겠네! 잘 부탁해요!"
+      ]
+    }
+  },
+  "lodgeMeet": [
+    [
+      "butler",
+      "오늘부터 이 숙소의 집사입니다. 메이드 양, 잘 부탁드리지요."
+    ],
+    [
+      "maid",
+      "어머, 드디어 집사님이 오셨네요! 저 청소는 자신 있어요~"
+    ],
+    [
+      "butler",
+      "그럼 손님 응대와 살림은 제가 맡겠습니다. 손발이 잘 맞겠군요."
+    ],
+    [
+      "maid",
+      "헤헤, 같이 숙소를 반짝반짝하게 만들어 봐요!"
+    ]
+  ],
+  "restMeet": [
+    [
+      "restButler",
+      "휴게실 집사 노먼이옵니다. 차는 제게 맡겨 주시지요."
+    ],
+    [
+      "restMaid",
+      "환영해요, 노먼 씨! 청소는 저, 차는 노먼 씨! 딱이네요~"
+    ],
+    [
+      "restButler",
+      "대장장이님이 쉬실 자리, 늘 따뜻하게 데워 두겠습니다."
+    ],
+    [
+      "restMaid",
+      "저도요! 먼지 한 톨 없이 모실게요!"
+    ]
   ]
 }
