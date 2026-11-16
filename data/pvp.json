@@ -19,7 +19,7 @@
   },
   "effects": {
     "crit": { "trigger": "onAttack", "chance": 0.06, "cooldownMs": 0, "target": "hit", "magnitude": 0.4, "durationMs": 0, "stackLimit": 1 },
-    "thunder": { "trigger": "onAttack", "chance": 0.035, "cooldownMs": 6000, "target": "allEnemies", "magnitude": 0.7, "durationMs": 0, "stackLimit": 1, "aoeScale": 0.5 },
+    "thunder": { "trigger": "onAttack", "chance": 0.035, "cooldownMs": 4000, "target": "allEnemies", "magnitude": 0.7, "durationMs": 0, "stackLimit": 1, "aoeScale": 0.5 },
     "bleed": { "trigger": "onAttack", "chance": 0.25, "cooldownMs": 0, "target": "hit", "magnitude": 0.003, "durationMs": 4000, "stackLimit": 3 },
     "burn": { "trigger": "onAttack", "chance": 0.2, "cooldownMs": 0, "target": "hit", "magnitude": 0.0025, "durationMs": 3000, "stackLimit": 2 },
     "freeze": { "trigger": "onAttack", "chance": 0.06, "cooldownMs": 5000, "target": "hit", "magnitude": 1, "durationMs": 1200, "stackLimit": 1 },
@@ -30,6 +30,14 @@
     "double": { "trigger": "onAttack", "chance": 0.08, "cooldownMs": 0, "target": "hit", "magnitude": 0.5, "durationMs": 0, "stackLimit": 1 }
   },
   "tierScale": 0.08,
+  "setSkills": {
+    "set_trailhead": { "base": "double", "chanceX": 1.5, "cooldownMs": 4000, "color": "#7fd36a" },
+    "set_miner": { "base": "shield", "magX": 1.5, "color": "#d8a85a" },
+    "set_hunter": { "base": "bleed", "chanceX": 1.5, "color": "#ff7a4a" },
+    "set_bulwark": { "base": "counter", "magX": 1.5, "color": "#e0603a" },
+    "set_frostknight": { "base": "freeze", "chanceX": 1.5, "cooldownMs": 4000, "color": "#8fd8ff" },
+    "set_storm": { "base": "thunder", "chanceX": 1.5, "cooldownMs": 4000, "color": "#c9a0ff" }
+  },
   "itemEffects": {
     "miner_silver_sword": "crit",
     "deepvein_spear": "crit",
