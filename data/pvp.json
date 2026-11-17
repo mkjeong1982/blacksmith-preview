@@ -7,6 +7,7 @@
   "unlockLodge": 4,
   "teamSize": 4,
   "exp": { "_note": "WP260D ★ (임시): 출전 모험가 경험치 = 다음 레벨까지 필요량의 % (승 > 패). 연습전 0, B단계 서버 대결에서만 지급", "winPctOfNext": 10, "losePctOfNext": 3 },
+  "mvp": { "_note": "WP363 (임시): 대련 MVP(내 팀 1명, 승패 무관) — 점수 = 준 피해 + 회복 + 보호막 + 처치 1회당 상대 최대 HP killPctOfMaxHp%, 동점 = 살아남은 쪽 → 팀 순서. 진짜 대련만 특전(연습·방어 다시 보기 X): 경험치 ×expMult · 기력 최대치 staminaPctOfMax% 즉시 · 숙소에서 lodgeHours시간 동안 말풍선 lodgeShare 비율로 MVP 자랑(다음 진짜 대련에서 다른 사람이 MVP면 끝)", "killPctOfMaxHp": 20, "expMult": 1.5, "staminaPctOfMax": 30, "lodgeHours": 3, "lodgeShare": 0.5 },
   "dmgScale": 1.7,
   "dmgVariance": 0.5,
   "paceRef": 26.76,
