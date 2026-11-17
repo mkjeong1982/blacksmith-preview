@@ -1,5 +1,5 @@
 {
-  "_doc": "WP188 review ask (all provisional). The store's own sheet only — no popup of ours, no reward, no star nudging. moments: good moments (asked delayMs after); coolAfterBadMin: rest after a failure / injury / fame drop.",
+  "_doc": "WP188 review ask (all provisional). The store's own sheet only — no popup of ours, no reward, no star nudging. moments: good moments (asked delayMs after); coolAfterBadMin: rest after a failure / injury / fame drop. maxPerYear (WP366): asks in any 365 days, Android too; one ask a launch.",
   "minForgeLevel": 3,
   "minDaysInstalled": 3,
   "minLaunches": 5,
@@ -7,11 +7,25 @@
   "delayMs": 1500,
   "coolAfterBadMin": 10,
   "enhanceMin": 5,
+  "maxPerYear": 3,
   "moments": [
     "enhance",
     "firstRare",
     "royal",
     "upgrade",
     "newRegion"
-  ]
+  ],
+  "veteran": {
+    "_doc": "WP366 (provisional): long-time players — forge Lv.minForgeLevel+ OR installed minDaysInstalled days + minLaunches launches. The same gapDays / maxPerYear as everyone (★ not more often) — only extra moments: a real 대련 won (pvpWin) / with an MVP of mine (pvpMvp), enhance +enhanceMin (enhanceHigh), a noble title up (titleUp).",
+    "minForgeLevel": 8,
+    "minDaysInstalled": 7,
+    "minLaunches": 15,
+    "enhanceMin": 7,
+    "moments": [
+      "pvpWin",
+      "pvpMvp",
+      "enhanceHigh",
+      "titleUp"
+    ]
+  }
 }
