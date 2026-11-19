@@ -35,6 +35,17 @@
       { "id": "realmKnight", "rank": 3, "medal": "bronze", "powerPct": 3, "luck": 3, "healPct": 11 },
       { "id": "royalGuardKnight", "rank": 2, "medal": "silver", "powerPct": 4, "luck": 4, "healPct": 13 },
       { "id": "legendKnight", "rank": 1, "medal": "gold", "powerPct": 4, "luck": 4, "healPct": 15 }
+    ],
+    "gear": [
+      {"id": "gearMid", "grade": true, "top": 75, "enhanceCostPct": 0},
+      {"id": "gearHigh", "grade": true, "top": 50, "enhanceCostPct": 1},
+      {"id": "apprenticeArtisan", "top": 30, "enhanceCostPct": 2},
+      {"id": "skilledArtisan", "top": 20, "enhanceCostPct": 3},
+      {"id": "silverHammer", "top": 10, "enhanceCostPct": 4},
+      {"id": "goldenHammer", "top": 5, "enhanceCostPct": 5},
+      {"id": "masterSmith", "rank": 3, "medal": "bronze", "enhanceCostPct": 6},
+      {"id": "royalMaster", "rank": 2, "medal": "silver", "enhanceCostPct": 7},
+      {"id": "legendHammer", "rank": 1, "medal": "gold", "enhanceCostPct": 8}
     ]
   },
   "rows": [
@@ -52,7 +63,9 @@
     "teamMid": { "refill": "all" },
     "teamHigh": { "refill": "all" },
     "advMid": { "refill": "one" },
-    "advHigh": { "refill": "one" }
+    "advHigh": { "refill": "one" },
+    "gearMid": { "gold": 3000 },
+    "gearHigh": { "gold": 10000 }
   },
   "honor": { "_note": "WP276 (임시): 작위 호칭 — 대장장이 작위(남작 이상)가 있으면 손님 일반 대사 guestShare, 휴게실 메이드·집사 staffShare를 호칭 줄로. 모험팀 작위가 있으면 숙소 대사 prideShare를 자부심 줄로. 등급(하급·중급·상급)은 호칭 없음", "guestShare": 0.15, "staffShare": 0.3, "prideShare": 0.2 }
 }
