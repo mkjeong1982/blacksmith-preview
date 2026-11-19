@@ -8,5 +8,8 @@
  "/pool/[upgrade]/name": "施設のアップグレードを始める",
  "/pool/[ad]/name": "広告で時間短縮を{n}回",
  "/pool/[commission]/name": "依頼を{n}回納品する",
- "/pool/[fame]/name": "名声を{n}上げる"
+ "/pool/[fame]/name": "名声を{n}上げる",
+ "/pool/[pvpPlay]/name": "対戦を{n}回する",
+ "/pool/[pvpWin]/name": "対戦で{n}回勝つ",
+ "/pool/[pvpChallenge]/name": "対戦の挑戦を{n}回送る"
 }

@@ -8,5 +8,8 @@
  "/pool/[upgrade]/name": "Start a building upgrade",
  "/pool/[ad]/name": "Skip time with ads ×{n}",
  "/pool/[commission]/name": "Deliver {n} commission",
- "/pool/[fame]/name": "Raise Fame by {n}"
+ "/pool/[fame]/name": "Raise Fame by {n}",
+ "/pool/[pvpPlay]/name": "Fight {n} duels",
+ "/pool/[pvpWin]/name": "Win {n} duels",
+ "/pool/[pvpChallenge]/name": "Send {n} duel challenge"
 }
