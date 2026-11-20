@@ -18,12 +18,6 @@
       5,
       6,
       7
-<<<<<<< HEAD
-    ]
-  },
-  "fps": {
-    "walk": 8
-=======
     ],
     "slash": [
       8,
@@ -92,16 +86,12 @@
     "archery": 8,
     "cheer": 4,
     "hurt": 6
->>>>>>> cef03519 (ART295 complete Luka peek actions and aligned weapon layers)
   },
   "stridePx": 24,
   "layerOrder": [
     "body",
     "weapon",
     "grip"
-<<<<<<< HEAD
-  ]
-=======
   ],
   "frames": {
     "8": {
@@ -368,5 +358,4 @@
     "longbow": "archery"
   },
   "gripSheet": "hero-luka-peek-grip.png"
->>>>>>> cef03519 (ART295 complete Luka peek actions and aligned weapon layers)
 }
