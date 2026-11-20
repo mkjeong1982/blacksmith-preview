@@ -11,5 +11,6 @@
  "/pool/[fame]/name": "提升名聲 {n}",
  "/pool/[pvpPlay]/name": "進行對戰 {n} 場",
  "/pool/[pvpWin]/name": "對戰獲勝 {n} 次",
+ "/pool/[peek]/name": "偷看小遊戲成功 {n} 次",
  "/pool/[pvpChallenge]/name": "送出對戰挑戰 {n} 次"
 }

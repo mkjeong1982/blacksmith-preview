@@ -91,6 +91,7 @@
       },
       "goalByForge": [10, 20, 40, 60]
     },
+    {"id": "peek", "name": "엿보기 미니게임 {n}번 성공", "key": "peekWins", "goal": 3, "reward": {"goldPacks": 0.5}},
     {"id": "pvpPlay", "name": "대련 {n}판 하기", "key": "pvpPlayed", "goal": 1, "reward": {"goldPacks": 0.5}, "goalByForge": [1, 2, 3, 3], "pvp": true},
     {"id": "pvpWin", "name": "대련 {n}번 이기기", "key": "pvpWins", "goal": 1, "reward": {"goldPacks": 0.5}, "goalByForge": [1, 1, 2, 2], "pvp": true},
     {"id": "pvpChallenge", "name": "대련 도전 신청 {n}번 보내기", "key": "pvpChallenges", "goal": 1, "reward": {"goldPacks": 0.5}, "pvp": true},

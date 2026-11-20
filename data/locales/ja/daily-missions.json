@@ -11,5 +11,6 @@
  "/pool/[fame]/name": "名声を{n}上げる",
  "/pool/[pvpPlay]/name": "対戦を{n}回する",
  "/pool/[pvpWin]/name": "対戦で{n}回勝つ",
+ "/pool/[peek]/name": "のぞき見ミニゲームに{n}回成功",
  "/pool/[pvpChallenge]/name": "対戦の挑戦を{n}回送る"
 }

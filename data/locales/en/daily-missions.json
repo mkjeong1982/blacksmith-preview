@@ -11,5 +11,6 @@
  "/pool/[fame]/name": "Raise Fame by {n}",
  "/pool/[pvpPlay]/name": "Fight {n} duels",
  "/pool/[pvpWin]/name": "Win {n} duels",
+ "/pool/[peek]/name": "Win {n} peek minigames",
  "/pool/[pvpChallenge]/name": "Send {n} duel challenge"
 }

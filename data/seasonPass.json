@@ -1,5 +1,5 @@
 {
- "_note": "WP396 (임시): 대련 시즌 패스 — 시즌(매월 1일 KST)과 같은 기간. SP: 대련 1판 pvpPlay·승리 pvpWin(추가)·일일 미션 1개 mission·제작 완료 craft·파견 완료 dispatch, KST 하루 dailyCap. 단계 = SP ÷ spPerStep(최대 steps). 따라잡기: 내 단계 < 기대 단계(경과일 ÷ 시즌 일수 × steps)면 SP × catchUp.mul, 하루 상한 catchUp.dailyCap. 지난 시즌 미수령 = 시즌 끝 뒤 claimDays일 동안 수령 가능. 무료 gold = pvp.json reward.goldByForge[대장간 Lv] × gold, mat = 가장 높은 열린 지역 재료 각 n개. 유료 = 구매(소모성 season_pass, 시즌 id와 함께 save) 뒤, 지난 단계 즉시 소급. title = 시즌 N 후원자(표시만), decor = 시즌 한정 대장간 장식(표시만). startSeason 전 시즌엔 '곧 시작'.",
+ "_note": "WP396 (임시): 대련 시즌 패스 — 시즌(매월 1일 KST)과 같은 기간. SP: 대련 1판 pvpPlay·승리 pvpWin(추가)·일일 미션 1개 mission·제작 완료 craft·파견 완료 dispatch·엿보기 미니게임 성공 peek(WP399), KST 하루 dailyCap. 단계 = SP ÷ spPerStep(최대 steps). 따라잡기: 내 단계 < 기대 단계(경과일 ÷ 시즌 일수 × steps)면 SP × catchUp.mul, 하루 상한 catchUp.dailyCap. 지난 시즌 미수령 = 시즌 끝 뒤 claimDays일 동안 수령 가능. 무료 gold = pvp.json reward.goldByForge[대장간 Lv] × gold, mat = 가장 높은 열린 지역 재료 각 n개. 유료 = 구매(소모성 season_pass, 시즌 id와 함께 save) 뒤, 지난 단계 즉시 소급. title = 시즌 N 후원자(표시만), decor = 시즌 한정 대장간 장식(표시만). startSeason 전 시즌엔 '곧 시작'.",
  "id": "season_pass",
  "storeId": "com.mkgamestudio.blacksmith.season_pass",
  "priceKrw": 5900,
@@ -18,7 +18,8 @@
   "pvpWin": 20,
   "mission": 15,
   "craft": 2,
-  "dispatch": 3
+  "dispatch": 3,
+  "peek": 2
  },
  "free": [
   {
