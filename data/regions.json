@@ -149,7 +149,7 @@
             "아기 골렘이 굴러온다! 피해!",
             "작아도 바위! 아기 골렘과 대결 중!"
           ],
-          "faces": "left"
+          "faces": "right"
         }
       ],
       "accessoryDrop": {
@@ -203,7 +203,7 @@
             "고블린 정찰병 발견! 북 치기 전에 잡아!",
             "고블린이 몰래 따라와요! 맞서는 중!"
           ],
-          "faces": "right"
+          "faces": "left"
         },
         {
           "id": "toadstools",
@@ -489,7 +489,7 @@
             "얼음 골렘이랑 느릿느릿 대결 중!",
             "단단한 얼음 골렘! 녹은 데를 노려!"
           ],
-          "faces": "right"
+          "faces": "left"
         }
       ],
       "accessoryDrop": {
@@ -574,7 +574,7 @@
             "구름 사이 비룡이랑 공중전 중!"
           ],
           "fly": true,
-          "faces": "right"
+          "faces": "left"
         }
       ],
       "accessoryDrop": {
