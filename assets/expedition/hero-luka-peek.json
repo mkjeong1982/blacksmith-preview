@@ -1,0 +1,32 @@
+{
+  "frameWidth": 80,
+  "frameHeight": 80,
+  "savedScale": 2,
+  "storedFrameWidth": 160,
+  "storedFrameHeight": 160,
+  "facing": "right",
+  "leftFacing": "flipRight",
+  "footY": 148,
+  "centerX": 80,
+  "actions": {
+    "walk": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "fps": {
+    "walk": 8
+  },
+  "stridePx": 24,
+  "layerOrder": [
+    "body",
+    "weapon",
+    "grip"
+  ]
+}
