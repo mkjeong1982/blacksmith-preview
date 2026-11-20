@@ -77,7 +77,7 @@
     ]
   },
   "fps": {
-    "walk": 6,
+    "walk": 8,
     "idle": 4,
     "mine": 8,
     "slash": 8,
@@ -87,7 +87,7 @@
     "cheer": 4,
     "hurt": 6
   },
-  "stridePx": 168,
+  "stridePx": 24,
   "layerOrder": [
     "body",
     "weapon",
