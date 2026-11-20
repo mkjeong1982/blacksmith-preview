@@ -1,6 +1,9 @@
 {
 "expedition/arrow.png": "lossless|capNone|showNone",
 "expedition/back_hill.png": "lossless|capNone|showNone",
+"expedition/bg-back_hill-far.png": "lossless|capNone|showNone",
+"expedition/bg-back_hill-mid.png": "lossless|capNone|showNone",
+"expedition/bg-back_hill-near.png": "lossless|capNone|showNone",
 "expedition/dragon_nest.png": "lossless|capNone|showNone",
 "expedition/frost_canyon.png": "lossless|capNone|showNone",
 "expedition/goblin_forest.png": "lossless|capNone|showNone",
