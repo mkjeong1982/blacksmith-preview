@@ -18,15 +18,355 @@
       5,
       6,
       7
+<<<<<<< HEAD
     ]
   },
   "fps": {
     "walk": 8
+=======
+    ],
+    "slash": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "idle": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "mine": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "slam": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "thrust": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "archery": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "cheer": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "hurt": [
+      46,
+      47
+    ]
+  },
+  "fps": {
+    "walk": 8,
+    "slash": 8,
+    "idle": 4,
+    "mine": 8,
+    "slam": 8,
+    "thrust": 8,
+    "archery": 8,
+    "cheer": 4,
+    "hurt": 6
+>>>>>>> cef03519 (ART295 complete Luka peek actions and aligned weapon layers)
   },
   "stridePx": 24,
   "layerOrder": [
     "body",
     "weapon",
     "grip"
+<<<<<<< HEAD
   ]
+=======
+  ],
+  "frames": {
+    "8": {
+      "hand": {
+        "x": 99,
+        "y": 104,
+        "angle": -25
+      }
+    },
+    "9": {
+      "hand": {
+        "x": 101,
+        "y": 106,
+        "angle": -35
+      }
+    },
+    "10": {
+      "hand": {
+        "x": 107,
+        "y": 106,
+        "angle": -75
+      }
+    },
+    "11": {
+      "hand": {
+        "x": 107,
+        "y": 100,
+        "angle": 70
+      }
+    },
+    "12": {
+      "hand": {
+        "x": 111,
+        "y": 92,
+        "angle": 115
+      }
+    },
+    "13": {
+      "hand": {
+        "x": 101,
+        "y": 102,
+        "angle": 25
+      }
+    },
+    "24": {
+      "hand": {
+        "x": 101,
+        "y": 106,
+        "angle": -90
+      }
+    },
+    "25": {
+      "hand": {
+        "x": 77,
+        "y": 70,
+        "angle": 0
+      }
+    },
+    "26": {
+      "hand": {
+        "x": 83,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "27": {
+      "hand": {
+        "x": 87,
+        "y": 124,
+        "angle": 80
+      }
+    },
+    "28": {
+      "hand": {
+        "x": 83,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "29": {
+      "hand": {
+        "x": 101,
+        "y": 106,
+        "angle": -90
+      }
+    },
+    "30": {
+      "hand": {
+        "x": 99,
+        "y": 98,
+        "angle": -25
+      }
+    },
+    "31": {
+      "hand": {
+        "x": 91,
+        "y": 96,
+        "angle": -75
+      }
+    },
+    "32": {
+      "hand": {
+        "x": 109,
+        "y": 88,
+        "angle": 90
+      }
+    },
+    "33": {
+      "hand": {
+        "x": 109,
+        "y": 86,
+        "angle": 90
+      }
+    },
+    "34": {
+      "hand": {
+        "x": 109,
+        "y": 88,
+        "angle": 90
+      }
+    },
+    "35": {
+      "hand": {
+        "x": 99,
+        "y": 98,
+        "angle": -25
+      }
+    },
+    "36": {
+      "hand": {
+        "x": 79,
+        "y": 94,
+        "angle": 0
+      }
+    },
+    "37": {
+      "hand": {
+        "x": 81,
+        "y": 96,
+        "angle": 0
+      }
+    },
+    "38": {
+      "hand": {
+        "x": 79,
+        "y": 94,
+        "angle": 0
+      }
+    },
+    "39": {
+      "hand": {
+        "x": 81,
+        "y": 94,
+        "angle": 0
+      }
+    },
+    "40": {
+      "hand": {
+        "x": 79,
+        "y": 94,
+        "angle": 0
+      }
+    },
+    "41": {
+      "hand": {
+        "x": 79,
+        "y": 94,
+        "angle": 0
+      }
+    },
+    "18": {
+      "hand": {
+        "x": 101,
+        "y": 106,
+        "angle": -90
+      }
+    },
+    "19": {
+      "hand": {
+        "x": 77,
+        "y": 70,
+        "angle": 0
+      }
+    },
+    "20": {
+      "hand": {
+        "x": 83,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "21": {
+      "hand": {
+        "x": 87,
+        "y": 124,
+        "angle": 80
+      }
+    },
+    "22": {
+      "hand": {
+        "x": 83,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "23": {
+      "hand": {
+        "x": 101,
+        "y": 106,
+        "angle": -90
+      }
+    }
+  },
+  "weapons": {
+    "sword": {
+      "file": "peek-weapon-sword-luka.png",
+      "attackKind": "slash",
+      "scale": 0.65
+    },
+    "axe": {
+      "file": "peek-weapon-axe-luka.png",
+      "attackKind": "slam",
+      "scale": 0.85
+    },
+    "hammer": {
+      "file": "peek-weapon-hammer-luka.png",
+      "attackKind": "slam",
+      "scale": 0.95
+    },
+    "spear": {
+      "file": "peek-weapon-spear-luka.png",
+      "attackKind": "thrust",
+      "scale": 0.6
+    },
+    "bow": {
+      "file": "peek-weapon-bow-luka.png",
+      "attackKind": "archery",
+      "scale": 1
+    },
+    "longbow": {
+      "file": "peek-weapon-longbow-luka.png",
+      "attackKind": "archery",
+      "scale": 1
+    },
+    "shield": {
+      "file": "peek-weapon-shield-luka.png",
+      "scale": 1
+    },
+    "pickaxe": {
+      "file": "peek-weapon-pickaxe-luka.png",
+      "scale": 1
+    },
+    "arrow": {
+      "file": "peek-weapon-arrow-luka.png",
+      "scale": 0.6
+    }
+  },
+  "weaponAttackKind": {
+    "sword": "slash",
+    "axe": "slam",
+    "hammer": "slam",
+    "spear": "thrust",
+    "bow": "archery",
+    "longbow": "archery"
+  },
+  "gripSheet": "hero-luka-peek-grip.png"
+>>>>>>> cef03519 (ART295 complete Luka peek actions and aligned weapon layers)
 }
