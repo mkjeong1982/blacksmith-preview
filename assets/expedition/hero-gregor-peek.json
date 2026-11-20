@@ -1,0 +1,362 @@
+{
+  "frameWidth": 80,
+  "frameHeight": 80,
+  "savedScale": 2,
+  "storedFrameWidth": 160,
+  "storedFrameHeight": 160,
+  "facing": "right",
+  "leftFacing": "flipRight",
+  "footY": 148,
+  "centerX": 80,
+  "actions": {
+    "walk": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "idle": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "mine": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "slash": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "slam": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "thrust": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "archery": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "cheer": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "hurt": [
+      46,
+      47
+    ]
+  },
+  "fps": {
+    "walk": 8,
+    "idle": 4,
+    "mine": 8,
+    "slash": 8,
+    "slam": 8,
+    "thrust": 8,
+    "archery": 8,
+    "cheer": 4,
+    "hurt": 6
+  },
+  "stridePx": 24,
+  "layerOrder": [
+    "body",
+    "weapon",
+    "grip"
+  ],
+  "gripSheet": "hero-gregor-peek-grip.png",
+  "frames": {
+    "12": {
+      "hand": {
+        "x": 102,
+        "y": 102,
+        "angle": -90
+      }
+    },
+    "13": {
+      "hand": {
+        "x": 79,
+        "y": 70,
+        "angle": 0
+      }
+    },
+    "14": {
+      "hand": {
+        "x": 85,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "15": {
+      "hand": {
+        "x": 88,
+        "y": 122,
+        "angle": 80
+      }
+    },
+    "16": {
+      "hand": {
+        "x": 85,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "17": {
+      "hand": {
+        "x": 102,
+        "y": 102,
+        "angle": -90
+      }
+    },
+    "18": {
+      "hand": {
+        "x": 101,
+        "y": 96,
+        "angle": -35
+      }
+    },
+    "19": {
+      "hand": {
+        "x": 107,
+        "y": 92,
+        "angle": -75
+      }
+    },
+    "20": {
+      "hand": {
+        "x": 107,
+        "y": 92,
+        "angle": -75
+      }
+    },
+    "21": {
+      "hand": {
+        "x": 107,
+        "y": 82,
+        "angle": 70
+      }
+    },
+    "22": {
+      "hand": {
+        "x": 109,
+        "y": 74,
+        "angle": 115
+      }
+    },
+    "23": {
+      "hand": {
+        "x": 101,
+        "y": 96,
+        "angle": -35
+      }
+    },
+    "24": {
+      "hand": {
+        "x": 102,
+        "y": 102,
+        "angle": -90
+      }
+    },
+    "25": {
+      "hand": {
+        "x": 79,
+        "y": 70,
+        "angle": 0
+      }
+    },
+    "26": {
+      "hand": {
+        "x": 85,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "27": {
+      "hand": {
+        "x": 88,
+        "y": 122,
+        "angle": 80
+      }
+    },
+    "28": {
+      "hand": {
+        "x": 85,
+        "y": 52,
+        "angle": 0
+      }
+    },
+    "29": {
+      "hand": {
+        "x": 102,
+        "y": 102,
+        "angle": -90
+      }
+    },
+    "30": {
+      "hand": {
+        "x": 99,
+        "y": 98,
+        "angle": -25
+      }
+    },
+    "31": {
+      "hand": {
+        "x": 93,
+        "y": 92,
+        "angle": -75
+      }
+    },
+    "32": {
+      "hand": {
+        "x": 93,
+        "y": 92,
+        "angle": -75
+      }
+    },
+    "33": {
+      "hand": {
+        "x": 109,
+        "y": 86,
+        "angle": 90
+      }
+    },
+    "34": {
+      "hand": {
+        "x": 109,
+        "y": 82,
+        "angle": 90
+      }
+    },
+    "35": {
+      "hand": {
+        "x": 99,
+        "y": 98,
+        "angle": -25
+      }
+    },
+    "36": {
+      "hand": {
+        "x": 79,
+        "y": 80,
+        "angle": 0
+      }
+    },
+    "37": {
+      "hand": {
+        "x": 79,
+        "y": 84,
+        "angle": 0
+      }
+    },
+    "38": {
+      "hand": {
+        "x": 79,
+        "y": 84,
+        "angle": 0
+      }
+    },
+    "39": {
+      "hand": {
+        "x": 77,
+        "y": 80,
+        "angle": 0
+      }
+    },
+    "40": {
+      "hand": {
+        "x": 79,
+        "y": 76,
+        "angle": 0
+      }
+    },
+    "41": {
+      "hand": {
+        "x": 79,
+        "y": 80,
+        "angle": 0
+      }
+    }
+  },
+  "weaponAttackKind": {
+    "sword": "slash",
+    "axe": "slam",
+    "hammer": "slam",
+    "spear": "thrust",
+    "bow": "archery",
+    "longbow": "archery"
+  },
+  "weapons": {
+    "sword": {
+      "file": "peek-weapon-sword-gregor.png",
+      "scale": 0.7,
+      "attackKind": "slash"
+    },
+    "axe": {
+      "file": "peek-weapon-axe-gregor.png",
+      "scale": 0.85,
+      "attackKind": "slam"
+    },
+    "hammer": {
+      "file": "peek-weapon-hammer-gregor.png",
+      "scale": 0.95,
+      "attackKind": "slam"
+    },
+    "spear": {
+      "file": "peek-weapon-spear-gregor.png",
+      "scale": 0.6,
+      "attackKind": "thrust"
+    },
+    "bow": {
+      "file": "peek-weapon-bow-gregor.png",
+      "scale": 1,
+      "attackKind": "archery"
+    },
+    "longbow": {
+      "file": "peek-weapon-longbow-gregor.png",
+      "scale": 1,
+      "attackKind": "archery"
+    },
+    "shield": {
+      "file": "peek-weapon-shield-gregor.png",
+      "scale": 1
+    },
+    "pickaxe": {
+      "file": "peek-weapon-pickaxe-gregor.png",
+      "scale": 1
+    },
+    "arrow": {
+      "file": "peek-weapon-arrow-gregor.png",
+      "scale": 0.6,
+      "attackKind": "archery"
+    }
+  }
+}
