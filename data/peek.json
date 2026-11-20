@@ -1,5 +1,5 @@
 {
- "_note": "WP399 → WP402 (임시): 모험 엿보기 미니게임. 반짝 광맥(채굴 차례): 차례 시작 sparkleAfterMs 범위 뒤 sparkleMs 동안 광맥 — 그 안에 탭 mineTaps번(3번째에 터짐), 받는 재료 = mineReward[탭 수](0번: 없음·대사). 응원 타이밍(전투 차례): 바늘 왕복 sweepMs(처음) — 초당 speedUp씩 빨라짐(최대 speedMax배), 가운데 perfectPct % = PERFECT(경험치 +expPerfect %), 그 바깥 goodPct %(가운데 기준 전체 폭) = GOOD(+expGood %), 나머지 MISS. 원정(한 번 떠남)당 각 1번, 실패해도 손해 X. 성공 1번 = 통계 peekWins(일일 미션 peek·시즌 패스 SP sp.peek).",
+ "_note": "WP399 → WP402 (임시): 모험 엿보기 미니게임. 반짝 광맥(채굴 차례): 차례 시작 sparkleAfterMs 범위 뒤 sparkleMs 동안 광맥 — 그 안에 탭 mineTaps번(3번째에 터짐), 받는 재료 = mineReward[탭 수](0번: 없음·대사). 응원 타이밍(전투 차례): 바늘 왕복 sweepMs(처음) — 초당 speedUp씩 빨라짐(최대 speedMax배), 가운데 perfectPct % = PERFECT(경험치 +expPerfect %), 그 바깥 goodPct %(가운데 기준 전체 폭) = GOOD(+expGood %), 나머지 MISS. 원정(한 번 떠남)당 각 1번, 실패해도 손해 X. 성공 1번 = 통계 peekWins(일일 미션 peek·시즌 패스 SP sp.peek). oreTint: 광맥 그림(ART294 peek-vein-ore)의 재료별 색.",
  "sparkleAfterMs": [
   1500,
   5000
@@ -18,5 +18,19 @@
  "perfectPct": 8,
  "goodPct": 24,
  "expPerfect": 8,
- "expGood": 5
+ "expGood": 5,
+ "oreTint": {
+  "wood": "#b07a3c",
+  "iron_ore": "#a9b3c2",
+  "coal": "#4a4a50",
+  "silver": "#e4e8ee",
+  "leather": "#a8703f",
+  "mana_stone": "#8a7cff",
+  "mithril": "#9fe0ff",
+  "firestone": "#ff7a3a",
+  "dragon_scale": "#4fbf7a",
+  "dragon_heart": "#ff4a6a",
+  "frost_crystal": "#9ff0ff",
+  "sky_core": "#ffe27a"
+ }
 }
