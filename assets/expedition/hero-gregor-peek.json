@@ -87,7 +87,7 @@
     "cheer": 4,
     "hurt": 6
   },
-  "stridePx": 82,
+  "stridePx": 24,
   "layerOrder": [
     "body",
     "weapon",
