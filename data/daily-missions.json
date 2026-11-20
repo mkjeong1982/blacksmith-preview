@@ -75,6 +75,7 @@
     {
       "id": "commission",
       "name": "의뢰 {n}번 납품하기",
+      "desc": "손님 의뢰를 받아 그 장비를 만들어 건네줘요",
       "key": "commissionsDone",
       "goal": 1,
       "reward": {
@@ -84,6 +85,7 @@
     {
       "id": "fame",
       "name": "명성 {n} 올리기",
+      "desc": "장비를 팔고 손님을 기쁘게 하면 명성이 올라요",
       "key": "fameGained",
       "goal": 10,
       "reward": {
@@ -91,13 +93,14 @@
       },
       "goalByForge": [10, 20, 40, 60]
     },
-    {"id": "peek", "name": "엿보기 미니게임 {n}번 성공", "key": "peekWins", "goal": 3, "reward": {"goldPacks": 0.5}},
-    {"id": "pvpPlay", "name": "대련 {n}판 하기", "key": "pvpPlayed", "goal": 1, "reward": {"goldPacks": 0.5}, "goalByForge": [1, 2, 3, 3], "pvp": true},
-    {"id": "pvpWin", "name": "대련 {n}번 이기기", "key": "pvpWins", "goal": 1, "reward": {"goldPacks": 0.5}, "goalByForge": [1, 1, 2, 2], "pvp": true},
-    {"id": "pvpChallenge", "name": "대련 도전 신청 {n}번 보내기", "key": "pvpChallenges", "goal": 1, "reward": {"goldPacks": 0.5}, "pvp": true},
+    {"id": "peek", "name": "모험 엿보기 미니게임 {n}번 성공", "desc": "탐험 중인 모험가를 눌러 엿보기! 반짝이를 톡, 또는 초록 칸에서 톡!", "key": "peekWins", "goal": 3, "reward": {"goldPacks": 0.5}},
+    {"id": "pvpPlay", "name": "대련 {n}판 하기", "desc": "숙소 Lv.3부터 열려요. 모험가 탭 [대련]에서 한 판!", "key": "pvpPlayed", "goal": 1, "reward": {"goldPacks": 0.5}, "goalByForge": [1, 2, 3, 3], "pvp": true},
+    {"id": "pvpWin", "name": "대련 {n}번 이기기", "desc": "숙소 Lv.3부터 열려요. 대련에서 이기면 끝!", "key": "pvpWins", "goal": 1, "reward": {"goldPacks": 0.5}, "goalByForge": [1, 1, 2, 2], "pvp": true},
+    {"id": "pvpChallenge", "name": "대련 도전 신청 {n}번 보내기", "desc": "숙소 Lv.3부터 열려요. 랭킹에서 다른 대장장이에게 도전장!", "key": "pvpChallenges", "goal": 1, "reward": {"goldPacks": 0.5}, "pvp": true},
     {
       "id": "ad",
       "name": "광고로 시간 단축 {n}번",
+      "desc": "작업 시간 옆 광고 버튼으로 시간을 줄여 봐요",
       "key": "ads",
       "goal": 1,
       "reward": {

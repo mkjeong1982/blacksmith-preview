@@ -1,4 +1,11 @@
 {
+ "/pool/[peek]/desc": "點探索中的冒險者偷看！點一下閃光，或在綠色區點一下！",
+ "/pool/[pvpPlay]/desc": "旅店Lv.3開放。到冒險者分頁對戰一場！",
+ "/pool/[pvpWin]/desc": "旅店Lv.3開放。在對戰中贏就行！",
+ "/pool/[pvpChallenge]/desc": "旅店Lv.3開放。從排行榜向其他鐵匠挑戰！",
+ "/pool/[ad]/desc": "用工作時間旁的廣告按鈕縮短時間",
+ "/pool/[commission]/desc": "接下客人的委託，打造裝備交給他",
+ "/pool/[fame]/desc": "賣裝備、讓客人開心就能提升名聲",
  "/pool/[craft]/name": "打造裝備 {n} 件",
  "/pool/[dispatch]/name": "派出探險 {n} 次",
  "/pool/[enhance]/name": "試著強化 {n} 次",
@@ -11,6 +18,6 @@
  "/pool/[fame]/name": "提升名聲 {n}",
  "/pool/[pvpPlay]/name": "進行對戰 {n} 場",
  "/pool/[pvpWin]/name": "對戰獲勝 {n} 次",
- "/pool/[peek]/name": "偷看小遊戲成功 {n} 次",
+ "/pool/[peek]/name": "冒險偷看小遊戲成功 {n} 次",
  "/pool/[pvpChallenge]/name": "送出對戰挑戰 {n} 次"
 }

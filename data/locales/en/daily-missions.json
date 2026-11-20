@@ -1,4 +1,11 @@
 {
+ "/pool/[peek]/desc": "Tap an adventurer out exploring to peek! Tap the sparkle, or tap in the green!",
+ "/pool/[pvpPlay]/desc": "Opens at Lodge Lv.3. Fight one from the Adventurers tab!",
+ "/pool/[pvpWin]/desc": "Opens at Lodge Lv.3. Just win a duel!",
+ "/pool/[pvpChallenge]/desc": "Opens at Lodge Lv.3. Challenge a smith from the ranking!",
+ "/pool/[ad]/desc": "Use the ad button by a timer to cut the time",
+ "/pool/[commission]/desc": "Take a customer's order, craft it, hand it over",
+ "/pool/[fame]/desc": "Sell gear and make customers happy to gain fame",
  "/pool/[craft]/name": "Craft {n} gear",
  "/pool/[dispatch]/name": "Send out {n} expeditions",
  "/pool/[enhance]/name": "Try {n} enhances",
@@ -11,6 +18,6 @@
  "/pool/[fame]/name": "Raise Fame by {n}",
  "/pool/[pvpPlay]/name": "Fight {n} duels",
  "/pool/[pvpWin]/name": "Win {n} duels",
- "/pool/[peek]/name": "Win {n} peek minigames",
+ "/pool/[peek]/name": "Win {n} adventure peek minigames",
  "/pool/[pvpChallenge]/name": "Send {n} duel challenge"
 }

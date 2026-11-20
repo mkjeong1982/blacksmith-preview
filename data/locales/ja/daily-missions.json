@@ -1,4 +1,11 @@
 {
+ "/pool/[peek]/desc": "探索中の冒険者をタップしてのぞき見！キラッをタップ、または緑でタップ！",
+ "/pool/[pvpPlay]/desc": "宿Lv.3で解放。冒険者タブの対戦で一戦！",
+ "/pool/[pvpWin]/desc": "宿Lv.3で解放。対戦で勝てばOK！",
+ "/pool/[pvpChallenge]/desc": "宿Lv.3で解放。ランキングからほかの鍛冶屋に挑戦！",
+ "/pool/[ad]/desc": "作業時間の横の広告ボタンで時間を短縮しよう",
+ "/pool/[commission]/desc": "お客さんの依頼を受けて、装備を作って渡そう",
+ "/pool/[fame]/desc": "装備を売ってお客さんを喜ばせると名声アップ",
  "/pool/[craft]/name": "装備を{n}個作る",
  "/pool/[dispatch]/name": "探索に{n}回送り出す",
  "/pool/[enhance]/name": "強化を{n}回やってみる",
@@ -11,6 +18,6 @@
  "/pool/[fame]/name": "名声を{n}上げる",
  "/pool/[pvpPlay]/name": "対戦を{n}回する",
  "/pool/[pvpWin]/name": "対戦で{n}回勝つ",
- "/pool/[peek]/name": "のぞき見ミニゲームに{n}回成功",
+ "/pool/[peek]/name": "冒険のぞき見ミニゲームに{n}回成功",
  "/pool/[pvpChallenge]/name": "対戦の挑戦を{n}回送る"
 }
