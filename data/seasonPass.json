@@ -3,6 +3,8 @@
  "id": "season_pass",
  "storeId": "com.mkgamestudio.blacksmith.season_pass",
  "priceKrw": 5900,
+ "buyBonus": 100,
+ "_note411": "WP411 (임시): buyBonus = 구매 확정 즉시 수정(유료 단계와 별개, 시즌당 1번, 프리시즌 선구매도 즉시, 환불 시 함께 회수). 가치 배지 = buyBonus + 유료 단계 수정 합, 가격이 가장 가까운 수정 묶음 단가 대비 배수(소수 1자리 내림). 시즌 개막 첫 접속에 패스 창 1회 자동(시즌당, spassOpened).",
  "startSeason": 2,
  "preseasonCap": 300,
  "steps": 30,
