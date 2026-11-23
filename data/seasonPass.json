@@ -4,6 +4,13 @@
  "storeId": "com.mkgamestudio.blacksmith.season_pass",
  "priceKrw": 5900,
  "buyBonus": 100,
+ "box": {
+  "recipePct": 50,
+  "gearPct": 30,
+  "crystals": 150,
+  "sockets": 2
+ },
+ "_note414": "WP414 (임시): 30단계 decor → box(시즌 보물 상자): 열면 recipePct% 열린 지역 안 배운 희귀 레시피 1종(없으면 수정) · gearPct% 레어 장비 1개 소켓 sockets개(방랑 상인 레어 후보 — 열린 레어 지역·다음 지역, 도감에 없는 것 먼저; 없으면 지금 대장간 Lv 최고 단계 일반 장비) · 나머지 수정 crystals개. 환불 시 상자 수정만 회수, 레시피·장비는 회수 X.",
  "_note411": "WP411 (임시): buyBonus = 구매 확정 즉시 수정(유료 단계와 별개, 시즌당 1번, 프리시즌 선구매도 즉시, 환불 시 함께 회수). 가치 배지 = buyBonus + 유료 단계 수정 합, 가격이 가장 가까운 수정 묶음 단가 대비 배수(소수 1자리 내림). 시즌 개막 첫 접속에 패스 창 1회 자동(시즌당, spassOpened).",
  "startSeason": 2,
  "preseasonCap": 300,
@@ -267,7 +274,7 @@
   {
    "step": 30,
    "crystals": 75,
-   "decor": true
+   "box": true
   }
  ]
 }
