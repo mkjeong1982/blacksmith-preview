@@ -118,5 +118,21 @@
   "/achievements/[set_party]/name": "套裝遠征隊",
   "/achievements/[set_party]/desc": "3 名冒險者同時啟動不同套裝效果",
   "/achievements/[rare_loose_10]/name": "稀有品鑑定師",
-  "/achievements/[rare_loose_10]/desc": "圖鑑收集 10 種套裝外稀有裝備"
+  "/achievements/[rare_loose_10]/desc": "圖鑑收集 10 種套裝外稀有裝備",
+  "/achievements/[pvp_win_1]/name": "首勝的吶喊",
+  "/achievements/[pvp_win_1]/desc": "在對戰中首次獲勝",
+  "/achievements/[pvp_win_10]/name": "身體熱起來了",
+  "/achievements/[pvp_win_10]/desc": "在對戰中獲勝10次",
+  "/achievements/[pvp_win_50]/name": "競技場常客",
+  "/achievements/[pvp_win_50]/desc": "在對戰中獲勝50次",
+  "/achievements/[pvp_win_100]/name": "百戰百勝?!",
+  "/achievements/[pvp_win_100]/desc": "在對戰中獲勝100次",
+  "/achievements/[pvp_revenge_1]/name": "報仇成功!",
+  "/achievements/[pvp_revenge_1]/desc": "首次在復仇挑戰中獲勝",
+  "/achievements/[pvp_close_5]/name": "心臟快停了",
+  "/achievements/[pvp_close_5]/desc": "在對戰中驚險獲勝5次",
+  "/achievements/[pvp_streak_5]/name": "停不下來!",
+  "/achievements/[pvp_streak_5]/desc": "對戰進攻5連勝",
+  "/achievements/[pvp_hall]/name": "刻進殿堂的名字",
+  "/achievements/[pvp_hall]/desc": "對戰賽季最終排名前10"
 }

@@ -479,6 +479,70 @@
       "key": "rareLoose",
       "goal": 10,
       "crystals": 40
+    },
+    {
+      "id": "pvp_win_1",
+      "name": "첫 승리의 함성",
+      "desc": "대련에서 처음 이겨요",
+      "key": "pvpWins",
+      "goal": 1,
+      "goldPacks": 1
+    },
+    {
+      "id": "pvp_win_10",
+      "name": "슬슬 몸 풀렸다",
+      "desc": "대련 10번 이기기",
+      "key": "pvpWins",
+      "goal": 10,
+      "goldPacks": 1.5
+    },
+    {
+      "id": "pvp_win_50",
+      "name": "투기장의 단골",
+      "desc": "대련 50번 이기기",
+      "key": "pvpWins",
+      "goal": 50,
+      "crystals": 30
+    },
+    {
+      "id": "pvp_win_100",
+      "name": "백전백승?!",
+      "desc": "대련 100번 이기기",
+      "key": "pvpWins",
+      "goal": 100,
+      "crystals": 50
+    },
+    {
+      "id": "pvp_revenge_1",
+      "name": "되갚아 줬다!",
+      "desc": "복수 도전에서 처음 이겨요",
+      "key": "pvpRevenge",
+      "goal": 1,
+      "crystals": 20
+    },
+    {
+      "id": "pvp_close_5",
+      "name": "심장이 쫄깃",
+      "desc": "대련에서 아슬아슬하게 5번 이기기",
+      "key": "pvpClose",
+      "goal": 5,
+      "crystals": 20
+    },
+    {
+      "id": "pvp_streak_5",
+      "name": "멈출 수 없어!",
+      "desc": "대련 공격 5연승",
+      "key": "pvpStreakBest",
+      "goal": 5,
+      "crystals": 30
+    },
+    {
+      "id": "pvp_hall",
+      "name": "전당에 새긴 이름",
+      "desc": "대련 시즌 최종 10위 안",
+      "key": "pvpHall",
+      "goal": 1,
+      "crystals": 100
     }
   ]
 }

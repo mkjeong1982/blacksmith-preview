@@ -118,5 +118,21 @@
  "/achievements/[set_party]/name": "Set Squad",
  "/achievements/[set_party]/desc": "Have 3 adventurers with different set bonuses on at once",
  "/achievements/[rare_loose_10]/name": "Rare Finds Expert",
- "/achievements/[rare_loose_10]/desc": "Collect 10 rare pieces outside sets in the codex"
+ "/achievements/[rare_loose_10]/desc": "Collect 10 rare pieces outside sets in the codex",
+ "/achievements/[pvp_win_1]/name": "First Victory Roar",
+ "/achievements/[pvp_win_1]/desc": "Win your first PvP battle",
+ "/achievements/[pvp_win_10]/name": "Warmed Up Now",
+ "/achievements/[pvp_win_10]/desc": "Win 10 PvP battles",
+ "/achievements/[pvp_win_50]/name": "Arena Regular",
+ "/achievements/[pvp_win_50]/desc": "Win 50 PvP battles",
+ "/achievements/[pvp_win_100]/name": "Hundred Wins?!",
+ "/achievements/[pvp_win_100]/desc": "Win 100 PvP battles",
+ "/achievements/[pvp_revenge_1]/name": "Payback Time!",
+ "/achievements/[pvp_revenge_1]/desc": "Win your first revenge challenge",
+ "/achievements/[pvp_close_5]/name": "Heart-Stopper",
+ "/achievements/[pvp_close_5]/desc": "Win 5 PvP battles by a hair",
+ "/achievements/[pvp_streak_5]/name": "Can't Stop Me!",
+ "/achievements/[pvp_streak_5]/desc": "Win 5 PvP attacks in a row",
+ "/achievements/[pvp_hall]/name": "Name in the Hall",
+ "/achievements/[pvp_hall]/desc": "Finish a PvP season in the top 10"
 }

@@ -118,5 +118,21 @@
  "/achievements/[set_party]/name": "セット遠征隊",
  "/achievements/[set_party]/desc": "異なるセット効果の冒険者3人を同時に",
  "/achievements/[rare_loose_10]/name": "レア品鑑定士",
- "/achievements/[rare_loose_10]/desc": "セット外のレア装備10種を図鑑に収集"
+ "/achievements/[rare_loose_10]/desc": "セット外のレア装備10種を図鑑に収集",
+ "/achievements/[pvp_win_1]/name": "初勝利の雄たけび",
+ "/achievements/[pvp_win_1]/desc": "対戦で初めて勝つ",
+ "/achievements/[pvp_win_10]/name": "体があったまってきた",
+ "/achievements/[pvp_win_10]/desc": "対戦で10回勝つ",
+ "/achievements/[pvp_win_50]/name": "闘技場の常連",
+ "/achievements/[pvp_win_50]/desc": "対戦で50回勝つ",
+ "/achievements/[pvp_win_100]/name": "百戦百勝!?",
+ "/achievements/[pvp_win_100]/desc": "対戦で100回勝つ",
+ "/achievements/[pvp_revenge_1]/name": "やり返したぞ!",
+ "/achievements/[pvp_revenge_1]/desc": "リベンジ挑戦で初めて勝つ",
+ "/achievements/[pvp_close_5]/name": "心臓ばくばく",
+ "/achievements/[pvp_close_5]/desc": "対戦でギリギリ勝利を5回",
+ "/achievements/[pvp_streak_5]/name": "止まらない!",
+ "/achievements/[pvp_streak_5]/desc": "対戦の攻撃で5連勝",
+ "/achievements/[pvp_hall]/name": "殿堂に刻んだ名",
+ "/achievements/[pvp_hall]/desc": "対戦シーズン最終10位以内"
 }
