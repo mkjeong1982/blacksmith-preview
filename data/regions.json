@@ -773,6 +773,40 @@
         "id": "vault_lizard_tail",
         "weight": 12
       }
-    ]
+    ],
+    "weekdays": {
+      "_doc": "WP438 (임시, MARKET-DESIGN §10): 기기 자정 기준 요일(0 일 … 6 토) — days: 그날 전용 안 비중 ×mult 인 2종 · weekend: 토·일은 전용 exclusivePct %(3 → 4.5), 두루마리 +recipePp %p, 늘어난 만큼 조각에서 뺌(조각 40 → 35.5). 보낸 시점 요일로 굴림(출발 때 굴려 둠).",
+      "mult": 3,
+      "days": {
+        "1": [
+          "vault_royal_sword",
+          "vault_mimic_dagger"
+        ],
+        "2": [
+          "vault_crest_shield",
+          "vault_golem_heart"
+        ],
+        "3": [
+          "vault_crownless_crown",
+          "vault_coronation_boots"
+        ],
+        "4": [
+          "vault_gold_cloak",
+          "vault_lizard_tail"
+        ],
+        "5": [
+          "vault_crownless_ring",
+          "vault_queen_necklace"
+        ]
+      },
+      "weekend": {
+        "days": [
+          0,
+          6
+        ],
+        "exclusivePct": 4.5,
+        "recipePp": 3
+      }
+    }
   }
 }
