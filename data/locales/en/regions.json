@@ -96,5 +96,19 @@
  "/regions/[sky_ruins]/monsters/[sky_drake]/name": "Sky Drake",
  "/regions/[sky_ruins]/monsters/[sky_drake]/desc": "Zips through the clouds! Can't resist anything shiny.",
  "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#0": "Sky drake dive! It's after the shiny stuff!",
- "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#1": "Dogfight with a drake above the clouds!"
+ "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#1": "Dogfight with a drake above the clouds!",
+ "/regions/[lost_vault]/name": "Forgotten Vault",
+ "/regions/[lost_vault]/description": "An old kingdom's hidden treasure room. Lots of chests… and some of them have teeth!",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/name": "Mimic Chest",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/desc": "Go to open it and—chomp! What's inside is mostly drool.",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/peek/#0": "The mimic chest bit! Mind your hands!",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/peek/#1": "This chest… is it breathing?!",
+ "/regions/[lost_vault]/monsters/[gold_golem]/name": "Golden Golem",
+ "/regions/[lost_vault]/monsters/[gold_golem]/desc": "Slooow and super tough. So shiny it hurts your eyes.",
+ "/regions/[lost_vault]/monsters/[gold_golem]/peek/#0": "A staring contest with the golden golem!",
+ "/regions/[lost_vault]/monsters/[gold_golem]/peek/#1": "So bright! Can't even aim!",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/name": "Treasure Lizard",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/desc": "Sees something shiny, grabs it, bolts. Super fast!",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/peek/#0": "The lizard's running off with a coin!",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/peek/#1": "Stop right there! Give back my ring!"
 }

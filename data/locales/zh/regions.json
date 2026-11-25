@@ -96,5 +96,19 @@
   "/regions/[sky_ruins]/monsters/[sky_drake]/name": "天空飛龍",
   "/regions/[sky_ruins]/monsters/[sky_drake]/desc": "在雲間咻地飛過！看到亮晶晶的東西就忍不住撲上來。",
   "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#0": "天空飛龍咻地衝來！盯上了亮晶晶的東西！",
-  "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#1": "正在雲間跟飛龍空戰！"
+  "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#1": "正在雲間跟飛龍空戰！",
+  "/regions/[lost_vault]/name": "被遺忘的寶庫",
+  "/regions/[lost_vault]/description": "古王國藏起來的寶物倉庫。箱子很多……有幾個還長了牙！",
+  "/regions/[lost_vault]/monsters/[vault_mimic]/name": "寶箱怪",
+  "/regions/[lost_vault]/monsters/[vault_mimic]/desc": "一打開就咬！裡面裝的大多是口水。",
+  "/regions/[lost_vault]/monsters/[vault_mimic]/peek/#0": "寶箱怪咬人了！小心手！",
+  "/regions/[lost_vault]/monsters/[vault_mimic]/peek/#1": "這箱子……在呼吸嗎？！",
+  "/regions/[lost_vault]/monsters/[gold_golem]/name": "黃金魔像",
+  "/regions/[lost_vault]/monsters/[gold_golem]/desc": "慢吞吞又超硬。閃閃發亮，好刺眼。",
+  "/regions/[lost_vault]/monsters/[gold_golem]/peek/#0": "正在跟黃金魔像比耐力！",
+  "/regions/[lost_vault]/monsters/[gold_golem]/peek/#1": "好閃！刺眼到打不下去！",
+  "/regions/[lost_vault]/monsters/[treasure_lizard]/name": "寶物蜥蜴",
+  "/regions/[lost_vault]/monsters/[treasure_lizard]/desc": "看到亮晶晶的就叼走狂奔。超快的！",
+  "/regions/[lost_vault]/monsters/[treasure_lizard]/peek/#0": "寶物蜥蜴叼著金幣跑了！",
+  "/regions/[lost_vault]/monsters/[treasure_lizard]/peek/#1": "站住！把戒指還我！"
 }

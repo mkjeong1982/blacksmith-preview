@@ -584,6 +584,64 @@
           "6": 60
         }
       }
+    },
+    {
+      "id": "lost_vault",
+      "name": "잊혀진 보물고",
+      "durationSec": 14400,
+      "requiredPower": 500,
+      "materials": [],
+      "drops": [],
+      "exp": 3000,
+      "bonus": {
+        "goldChancePct": 0,
+        "gold": [
+          0,
+          0
+        ],
+        "itemMaxTier": 0
+      },
+      "description": "옛 왕국이 숨겨 둔 보물 창고래요. 상자가 많은데… 몇 개는 이빨이 있어요!",
+      "monsters": [
+        {
+          "id": "vault_mimic",
+          "name": "미믹 상자",
+          "desc": "열어 보려는 순간 덥석! 안에 든 건 대개 침이에요.",
+          "danger": 2,
+          "peek": [
+            "미믹 상자가 덥석! 손 조심!",
+            "이 상자… 숨 쉬는데요?!"
+          ]
+        },
+        {
+          "id": "gold_golem",
+          "name": "황금 골렘",
+          "desc": "느릿느릿, 엄청 단단해요. 번쩍여서 눈이 부셔요.",
+          "danger": 3,
+          "peek": [
+            "황금 골렘이랑 버티기 대결 중!",
+            "번쩍번쩍! 눈부셔서 못 때리겠어!"
+          ]
+        },
+        {
+          "id": "treasure_lizard",
+          "name": "보물 도마뱀",
+          "desc": "반짝이는 걸 보면 물고 냅다 달아나요. 엄청 빨라요!",
+          "danger": 1,
+          "peek": [
+            "보물 도마뱀이 금화 물고 도망간다!",
+            "거기 서! 내 반지 내놔!"
+          ]
+        }
+      ],
+      "accessoryDrop": {
+        "chancePct": 0,
+        "tiers": {
+          "6": 100
+        }
+      },
+      "vault": true,
+      "injuryPp": 4
     }
   ],
   "injury": {
@@ -631,5 +689,87 @@
         "plusTwoPct": 5
       }
     }
+  },
+  "vault": {
+    "_doc": "WP436 (임시): 잊혀진 보물고 — 반복 X · 1명씩 · 하루(자정) 무료 freePerDay → 광고 adPerDay → 💎crystalCost(무제한). 귀환마다 table 하나(pct 합 100) + 행운 1당 extraPerLuck %p로 하나 더(최대 extraMaxPct). shard 해금 지역 조각 min~max · material 해금 지역 희귀 레시피 재료 min~max · recipe 해금 지역 두루마리(없는 것 먼저) · rare 해금 지역 희귀 장비 완성품 +0~levelMax · exclusive 전용(weight) · relic 방랑 장인 유물 두루마리. injuryPp 부상 확률 +%p(얼음 협곡 수준).",
+    "regionId": "lost_vault",
+    "freePerDay": 3,
+    "adPerDay": 5,
+    "crystalCost": 5,
+    "extraPerLuck": 0.25,
+    "extraMaxPct": 25,
+    "table": [
+      {
+        "kind": "shard",
+        "pct": 40,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "kind": "material",
+        "pct": 26,
+        "min": 2,
+        "max": 4
+      },
+      {
+        "kind": "recipe",
+        "pct": 21.7
+      },
+      {
+        "kind": "rare",
+        "pct": 9,
+        "levelMax": 3
+      },
+      {
+        "kind": "exclusive",
+        "pct": 3
+      },
+      {
+        "kind": "relic",
+        "pct": 0.3
+      }
+    ],
+    "exclusive": [
+      {
+        "id": "vault_royal_sword",
+        "weight": 8
+      },
+      {
+        "id": "vault_crest_shield",
+        "weight": 12
+      },
+      {
+        "id": "vault_crownless_crown",
+        "weight": 12
+      },
+      {
+        "id": "vault_gold_cloak",
+        "weight": 12
+      },
+      {
+        "id": "vault_coronation_boots",
+        "weight": 12
+      },
+      {
+        "id": "vault_crownless_ring",
+        "weight": 6
+      },
+      {
+        "id": "vault_queen_necklace",
+        "weight": 6
+      },
+      {
+        "id": "vault_mimic_dagger",
+        "weight": 10
+      },
+      {
+        "id": "vault_golem_heart",
+        "weight": 10
+      },
+      {
+        "id": "vault_lizard_tail",
+        "weight": 12
+      }
+    ]
   }
 }

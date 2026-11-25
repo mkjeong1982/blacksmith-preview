@@ -8,7 +8,8 @@
     "volcano": 26,
     "dragon_nest": 30,
     "frost_canyon": 32,
-    "sky_ruins": 35
+    "sky_ruins": 35,
+    "lost_vault": 32
   },
   "toughMult": 1.3,
   "regenPctOfMaxPerHour": 12.5,

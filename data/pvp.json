@@ -49,6 +49,12 @@
     "set_storm": { "base": "thunder", "chanceX": 1.5, "cooldownMs": 4000, "color": "#c9a0ff" }
   },
   "itemEffects": {
+    "goblin_toadstool_cloak": "slow",
+    "volcano_phoenix_feather": "shield",
+    "frost_wolf_claw": "crit",
+    "vault_royal_sword": "crit",
+    "vault_mimic_dagger": "freeze",
+    "vault_golem_heart": "shield",
     "miner_silver_sword": "crit",
     "deepvein_spear": "crit",
     "lava_heart_axe": "burn",

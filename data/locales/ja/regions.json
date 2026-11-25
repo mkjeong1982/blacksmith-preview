@@ -96,5 +96,19 @@
  "/regions/[sky_ruins]/monsters/[sky_drake]/name": "天空の飛竜",
  "/regions/[sky_ruins]/monsters/[sky_drake]/desc": "雲の間をビュン! 光る物を見ると飛びつかずにいられない。",
  "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#0": "天空の飛竜がビュン! キラキラを狙ってる!",
- "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#1": "雲の間で飛竜と空中戦!"
+ "/regions/[sky_ruins]/monsters/[sky_drake]/peek/#1": "雲の間で飛竜と空中戦!",
+ "/regions/[lost_vault]/name": "忘れられた宝物庫",
+ "/regions/[lost_vault]/description": "昔の王国が隠した宝物庫なんだって。宝箱だらけ…でも、いくつかは牙があるよ！",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/name": "ミミック宝箱",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/desc": "開けようとした瞬間ガブッ！ 中身はだいたいヨダレ。",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/peek/#0": "ミミックがガブッ！ 手に気をつけて！",
+ "/regions/[lost_vault]/monsters/[vault_mimic]/peek/#1": "この宝箱…息してない？！",
+ "/regions/[lost_vault]/monsters/[gold_golem]/name": "黄金ゴーレム",
+ "/regions/[lost_vault]/monsters/[gold_golem]/desc": "のろのろだけど超かたい。ピカピカでまぶしい。",
+ "/regions/[lost_vault]/monsters/[gold_golem]/peek/#0": "黄金ゴーレムと根比べ中！",
+ "/regions/[lost_vault]/monsters/[gold_golem]/peek/#1": "ピカピカ！ まぶしくて殴れない！",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/name": "お宝トカゲ",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/desc": "光る物を見るとくわえて一目散。めちゃくちゃ速い！",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/peek/#0": "お宝トカゲが金貨くわえて逃げた！",
+ "/regions/[lost_vault]/monsters/[treasure_lizard]/peek/#1": "待てー！ 指輪返して！"
 }

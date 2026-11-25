@@ -4125,6 +4125,378 @@
       "uniq": {
         "goldPct": 15
       }
+    },
+    {
+      "id": "hill_acorn_charm",
+      "name": "도토리 행운 부적",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 1,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "back_hill",
+      "power": 0,
+      "luck": 6,
+      "sellPrice": 800,
+      "uniq": {
+        "matPlusPp": 5
+      }
+    },
+    {
+      "id": "hill_shepherd_flute",
+      "name": "양치기의 피리",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 1,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "back_hill",
+      "power": 0,
+      "agility": 5,
+      "sellPrice": 800,
+      "uniq": {
+        "injuryCutPct": 12
+      }
+    },
+    {
+      "id": "mine_goldvein_lamp",
+      "name": "금맥 광부 램프",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 2,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "old_mine",
+      "power": 0,
+      "luck": 10,
+      "sellPrice": 1800,
+      "uniq": {
+        "matPlusPp": 8
+      }
+    },
+    {
+      "id": "mine_master_pendant",
+      "name": "노장인의 망치 펜던트",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 2,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "old_mine",
+      "power": 0,
+      "agility": 9,
+      "sellPrice": 1800,
+      "uniq": {
+        "smithEnhancePp": 2
+      }
+    },
+    {
+      "id": "goblin_vault_key",
+      "name": "고블린 왕의 금고 열쇠",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 3,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "goblin_forest",
+      "power": 0,
+      "luck": 15,
+      "sellPrice": 4000,
+      "uniq": {
+        "salePct": 3
+      }
+    },
+    {
+      "id": "goblin_toadstool_cloak",
+      "name": "장난꾸러기 독버섯 망토",
+      "slot": "armor",
+      "kind": "armor",
+      "weight": "light",
+      "tier": 3,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "goblin_forest",
+      "power": 36,
+      "sellPrice": 4000
+    },
+    {
+      "id": "volcano_phoenix_feather",
+      "name": "불사조 깃털",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 4,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "volcano",
+      "power": 0,
+      "agility": 24,
+      "sellPrice": 7000
+    },
+    {
+      "id": "volcano_lava_ring",
+      "name": "용암 심장 반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 4,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "volcano",
+      "power": 23,
+      "sellPrice": 7000,
+      "uniq": {
+        "craftCutPct": 5
+      }
+    },
+    {
+      "id": "dragon_scale_cloak",
+      "name": "늙은 용의 비늘 망토",
+      "slot": "armor",
+      "kind": "armor",
+      "weight": "medium",
+      "tier": 5,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "dragon_nest",
+      "power": 100,
+      "sellPrice": 12000,
+      "uniq": {
+        "injuryCutPct": 15
+      }
+    },
+    {
+      "id": "dragon_treasure_map",
+      "name": "용의 보물 지도",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 5,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "dragon_nest",
+      "power": 0,
+      "luck": 30,
+      "sellPrice": 12000,
+      "uniq": {
+        "recipePp": 0.15
+      }
+    },
+    {
+      "id": "frost_heart_necklace",
+      "name": "서리 심장 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 5,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "frost_canyon",
+      "power": 0,
+      "agility": 34,
+      "sellPrice": 12000,
+      "uniq": {
+        "tripCutPct": 6
+      }
+    },
+    {
+      "id": "frost_wolf_claw",
+      "name": "설원 늑대 발톱",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 5,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "frost_canyon",
+      "power": 37,
+      "sellPrice": 12000
+    },
+    {
+      "id": "sky_star_compass",
+      "name": "별의 나침반",
+      "slot": "ring",
+      "kind": "charm",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "sky_ruins",
+      "power": 0,
+      "luck": 50,
+      "sellPrice": 20000,
+      "uniq": {
+        "matPlusPp": 10
+      }
+    },
+    {
+      "id": "sky_wing_boots",
+      "name": "천공의 날개 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "weight": "light",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "sky_ruins",
+      "power": 60,
+      "agility": 10,
+      "sellPrice": 20000,
+      "uniq": {
+        "tripCutPct": 6
+      }
+    },
+    {
+      "id": "vault_royal_sword",
+      "name": "왕가의 보검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 185,
+      "sellPrice": 30000,
+      "vault": true
+    },
+    {
+      "id": "vault_crest_shield",
+      "name": "왕실 문장 방패",
+      "slot": "left",
+      "kind": "shield",
+      "weight": "medium",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 75,
+      "sellPrice": 30000,
+      "vault": true,
+      "uniq": {
+        "injuryCutPct": 10
+      }
+    },
+    {
+      "id": "vault_crownless_crown",
+      "name": "왕관 없는 왕관",
+      "slot": "helm",
+      "kind": "helm",
+      "weight": "medium",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 85,
+      "sellPrice": 30000,
+      "vault": true,
+      "uniq": {
+        "luck": 10
+      }
+    },
+    {
+      "id": "vault_gold_cloak",
+      "name": "금실 왕의 망토",
+      "slot": "armor",
+      "kind": "armor",
+      "weight": "light",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 118,
+      "sellPrice": 30000,
+      "vault": true,
+      "uniq": {
+        "salePct": 3
+      }
+    },
+    {
+      "id": "vault_coronation_boots",
+      "name": "대관식 장화",
+      "slot": "boots",
+      "kind": "boots",
+      "weight": "light",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 60,
+      "sellPrice": 30000,
+      "vault": true,
+      "uniq": {
+        "tripCutPct": 8
+      }
+    },
+    {
+      "id": "vault_crownless_ring",
+      "name": "왕관 없는 왕의 반지",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 56,
+      "sellPrice": 30000,
+      "vault": true,
+      "uniq": {
+        "salePct": 2,
+        "luck": 6
+      }
+    },
+    {
+      "id": "vault_queen_necklace",
+      "name": "마지막 왕비의 목걸이",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 0,
+      "agility": 50,
+      "sellPrice": 30000,
+      "vault": true,
+      "uniq": {
+        "smithEnhancePp": 3
+      }
+    },
+    {
+      "id": "vault_mimic_dagger",
+      "name": "미믹 이빨 단검",
+      "slot": "right",
+      "kind": "sword",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 175,
+      "sellPrice": 25000,
+      "vault": true
+    },
+    {
+      "id": "vault_golem_heart",
+      "name": "황금 골렘 심장",
+      "slot": "amulet",
+      "kind": "amulet",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 0,
+      "agility": 50,
+      "sellPrice": 25000,
+      "vault": true
+    },
+    {
+      "id": "vault_lizard_tail",
+      "name": "보물 도마뱀 꼬리",
+      "slot": "ring",
+      "kind": "ring",
+      "tier": 6,
+      "dropOnly": true,
+      "treasure": true,
+      "rareFrom": "lost_vault",
+      "power": 56,
+      "sellPrice": 25000,
+      "vault": true,
+      "uniq": {
+        "goldPct": 15
+      }
     }
   ]
 }
