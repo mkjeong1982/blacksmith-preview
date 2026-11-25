@@ -605,6 +605,7 @@
       "monsters": [
         {
           "id": "vault_mimic",
+          "faces": "right",
           "name": "미믹 상자",
           "desc": "열어 보려는 순간 덥석! 안에 든 건 대개 침이에요.",
           "danger": 2,
@@ -615,6 +616,7 @@
         },
         {
           "id": "gold_golem",
+          "faces": "right",
           "name": "황금 골렘",
           "desc": "느릿느릿, 엄청 단단해요. 번쩍여서 눈이 부셔요.",
           "danger": 3,
@@ -625,6 +627,7 @@
         },
         {
           "id": "treasure_lizard",
+          "faces": "right",
           "name": "보물 도마뱀",
           "desc": "반짝이는 걸 보면 물고 냅다 달아나요. 엄청 빨라요!",
           "danger": 1,
