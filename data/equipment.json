@@ -4372,7 +4372,7 @@
     },
     {
       "id": "vault_crownless_crown",
-      "name": "왕관 없는 왕관",
+      "name": "주인 잃은 왕관",
       "slot": "helm",
       "kind": "helm",
       "weight": "medium",
