@@ -1,0 +1,249 @@
+{
+  "header": {
+    "size": [
+      1080,
+      365
+    ],
+    "mode": "image",
+    "slices": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "panel": {
+    "size": [
+      240,
+      240
+    ],
+    "mode": "nine",
+    "slices": [
+      36,
+      36,
+      48,
+      36
+    ]
+  },
+  "row": {
+    "size": [
+      928,
+      132
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "slot-common": {
+    "size": [
+      100,
+      100
+    ],
+    "mode": "image",
+    "slices": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot-rare": {
+    "size": [
+      100,
+      100
+    ],
+    "mode": "image",
+    "slices": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot-relic": {
+    "size": [
+      100,
+      100
+    ],
+    "mode": "image",
+    "slices": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot-vault": {
+    "size": [
+      100,
+      100
+    ],
+    "mode": "image",
+    "slices": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "btn-primary": {
+    "size": [
+      130,
+      71
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "btn-secondary": {
+    "size": [
+      130,
+      71
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "tab-on": {
+    "size": [
+      130,
+      71
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "tab-off": {
+    "size": [
+      130,
+      71
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "btn-disabled": {
+    "size": [
+      130,
+      71
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "btn-small": {
+    "size": [
+      116,
+      71
+    ],
+    "mode": "nine",
+    "slices": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "badge-cheap": {
+    "size": [
+      286,
+      34
+    ],
+    "mode": "nine",
+    "slices": [
+      12,
+      12,
+      12,
+      12
+    ]
+  },
+  "badge-fair": {
+    "size": [
+      286,
+      34
+    ],
+    "mode": "nine",
+    "slices": [
+      12,
+      12,
+      12,
+      12
+    ]
+  },
+  "badge-pricey": {
+    "size": [
+      286,
+      34
+    ],
+    "mode": "nine",
+    "slices": [
+      12,
+      12,
+      12,
+      12
+    ]
+  },
+  "chip": {
+    "size": [
+      98,
+      33
+    ],
+    "mode": "nine",
+    "slices": [
+      11,
+      11,
+      11,
+      11
+    ]
+  },
+  "info-box": {
+    "size": [
+      440,
+      86
+    ],
+    "mode": "nine",
+    "slices": [
+      18,
+      18,
+      18,
+      18
+    ]
+  },
+  "popup": {
+    "size": [
+      320,
+      240
+    ],
+    "mode": "nine",
+    "slices": [
+      48,
+      48,
+      44,
+      38
+    ]
+  }
+}
