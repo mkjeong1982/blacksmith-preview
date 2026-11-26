@@ -543,6 +543,62 @@
       "key": "pvpHall",
       "goal": 1,
       "crystals": 100
+    },
+    {
+      "id": "market_list_1",
+      "name": "첫 좌판",
+      "desc": "거래소에 장비를 처음 올려요",
+      "key": "marketListed",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "market_sell_1",
+      "name": "첫 손님",
+      "desc": "거래소에서 처음 팔아요",
+      "key": "marketSold",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "market_buy_1",
+      "name": "눈여겨본 그 장비",
+      "desc": "거래소에서 처음 사요",
+      "key": "marketBought",
+      "goal": 1,
+      "crystals": 10
+    },
+    {
+      "id": "market_sell_10",
+      "name": "단골 판매상",
+      "desc": "거래소에서 10번 팔기",
+      "key": "marketSold",
+      "goal": 10,
+      "crystals": 20
+    },
+    {
+      "id": "market_sell_50",
+      "name": "거래소의 큰손",
+      "desc": "거래소에서 50번 팔기",
+      "key": "marketSold",
+      "goal": 50,
+      "crystals": 50
+    },
+    {
+      "id": "market_earn_500",
+      "name": "수정 주머니",
+      "desc": "거래소 판매로 수정 500개 벌기",
+      "key": "marketEarned",
+      "goal": 500,
+      "crystals": 20
+    },
+    {
+      "id": "market_earn_5000",
+      "name": "수정 금고",
+      "desc": "거래소 판매로 수정 5,000개 벌기",
+      "key": "marketEarned",
+      "goal": 5000,
+      "crystals": 50
     }
   ]
 }

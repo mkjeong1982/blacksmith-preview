@@ -19,5 +19,9 @@
  "/pool/[pvpPlay]/name": "対戦を{n}回する",
  "/pool/[pvpWin]/name": "対戦で{n}回勝つ",
  "/pool/[peek]/name": "冒険のぞき見ミニゲームに{n}回成功",
- "/pool/[pvpChallenge]/name": "対戦の挑戦を{n}回送る"
+ "/pool/[pvpChallenge]/name": "対戦の挑戦を{n}回送る",
+ "/pool/[marketLook]/name": "取引所の出品を{n}個見る",
+ "/pool/[marketLook]/desc": "装備タブの[取引所]で出品をタップして詳しく見よう",
+ "/pool/[marketFav]/name": "取引所の出品を{n}個お気に入り",
+ "/pool/[marketFav]/desc": "気に入った出品に[お気に入り]！"
 }

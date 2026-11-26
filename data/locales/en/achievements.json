@@ -134,5 +134,19 @@
  "/achievements/[pvp_streak_5]/name": "Can't Stop Me!",
  "/achievements/[pvp_streak_5]/desc": "Win 5 PvP attacks in a row",
  "/achievements/[pvp_hall]/name": "Name in the Hall",
- "/achievements/[pvp_hall]/desc": "Finish a PvP season in the top 10"
+ "/achievements/[pvp_hall]/desc": "Finish a PvP season in the top 10",
+ "/achievements/[market_list_1]/name": "First Stall",
+ "/achievements/[market_list_1]/desc": "List gear on the market for the first time",
+ "/achievements/[market_sell_1]/name": "First Customer",
+ "/achievements/[market_sell_1]/desc": "Sell on the market for the first time",
+ "/achievements/[market_buy_1]/name": "Had My Eye on It",
+ "/achievements/[market_buy_1]/desc": "Buy on the market for the first time",
+ "/achievements/[market_sell_10]/name": "Regular Seller",
+ "/achievements/[market_sell_10]/desc": "Sell 10 times on the market",
+ "/achievements/[market_sell_50]/name": "Market Mogul",
+ "/achievements/[market_sell_50]/desc": "Sell 50 times on the market",
+ "/achievements/[market_earn_500]/name": "Crystal Pouch",
+ "/achievements/[market_earn_500]/desc": "Earn 500 crystals from market sales",
+ "/achievements/[market_earn_5000]/name": "Crystal Vault",
+ "/achievements/[market_earn_5000]/desc": "Earn 5,000 crystals from market sales"
 }

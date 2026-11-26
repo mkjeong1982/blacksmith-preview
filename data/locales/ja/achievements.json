@@ -134,5 +134,19 @@
  "/achievements/[pvp_streak_5]/name": "止まらない!",
  "/achievements/[pvp_streak_5]/desc": "対戦の攻撃で5連勝",
  "/achievements/[pvp_hall]/name": "殿堂に刻んだ名",
- "/achievements/[pvp_hall]/desc": "対戦シーズン最終10位以内"
+ "/achievements/[pvp_hall]/desc": "対戦シーズン最終10位以内",
+ "/achievements/[market_list_1]/name": "はじめての露店",
+ "/achievements/[market_list_1]/desc": "取引所に初めて装備を出品",
+ "/achievements/[market_sell_1]/name": "はじめてのお客さん",
+ "/achievements/[market_sell_1]/desc": "取引所で初めて売る",
+ "/achievements/[market_buy_1]/name": "目をつけてた装備",
+ "/achievements/[market_buy_1]/desc": "取引所で初めて買う",
+ "/achievements/[market_sell_10]/name": "常連の売り手",
+ "/achievements/[market_sell_10]/desc": "取引所で10回売る",
+ "/achievements/[market_sell_50]/name": "取引所の大物",
+ "/achievements/[market_sell_50]/desc": "取引所で50回売る",
+ "/achievements/[market_earn_500]/name": "クリスタルの小袋",
+ "/achievements/[market_earn_500]/desc": "取引所の売上でクリスタル500個",
+ "/achievements/[market_earn_5000]/name": "クリスタルの金庫",
+ "/achievements/[market_earn_5000]/desc": "取引所の売上でクリスタル5,000個"
 }

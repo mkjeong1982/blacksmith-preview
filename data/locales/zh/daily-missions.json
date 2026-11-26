@@ -19,5 +19,9 @@
  "/pool/[pvpPlay]/name": "進行對戰 {n} 場",
  "/pool/[pvpWin]/name": "對戰獲勝 {n} 次",
  "/pool/[peek]/name": "冒險偷看小遊戲成功 {n} 次",
- "/pool/[pvpChallenge]/name": "送出對戰挑戰 {n} 次"
+ "/pool/[pvpChallenge]/name": "送出對戰挑戰 {n} 次",
+ "/pool/[marketLook]/name": "逛逛交易所商品{n}個",
+ "/pool/[marketLook]/desc": "在裝備分頁的[交易所]點開商品看看",
+ "/pool/[marketFav]/name": "收藏交易所商品{n}個",
+ "/pool/[marketFav]/desc": "喜歡的商品按[收藏]！"
 }

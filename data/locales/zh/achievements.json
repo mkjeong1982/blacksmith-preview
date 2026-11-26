@@ -134,5 +134,19 @@
   "/achievements/[pvp_streak_5]/name": "停不下來!",
   "/achievements/[pvp_streak_5]/desc": "對戰進攻5連勝",
   "/achievements/[pvp_hall]/name": "刻進殿堂的名字",
-  "/achievements/[pvp_hall]/desc": "對戰賽季最終排名前10"
+  "/achievements/[pvp_hall]/desc": "對戰賽季最終排名前10",
+  "/achievements/[market_list_1]/name": "第一個攤位",
+  "/achievements/[market_list_1]/desc": "第一次在交易所上架裝備",
+  "/achievements/[market_sell_1]/name": "第一位客人",
+  "/achievements/[market_sell_1]/desc": "第一次在交易所賣出",
+  "/achievements/[market_buy_1]/name": "看中的那件裝備",
+  "/achievements/[market_buy_1]/desc": "第一次在交易所買到",
+  "/achievements/[market_sell_10]/name": "常客賣家",
+  "/achievements/[market_sell_10]/desc": "在交易所賣出10次",
+  "/achievements/[market_sell_50]/name": "交易所大戶",
+  "/achievements/[market_sell_50]/desc": "在交易所賣出50次",
+  "/achievements/[market_earn_500]/name": "水晶小袋",
+  "/achievements/[market_earn_500]/desc": "靠交易所銷售賺到水晶500個",
+  "/achievements/[market_earn_5000]/name": "水晶金庫",
+  "/achievements/[market_earn_5000]/desc": "靠交易所銷售賺到水晶5,000個"
 }
