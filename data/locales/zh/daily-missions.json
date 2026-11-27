@@ -23,5 +23,9 @@
  "/pool/[marketLook]/name": "逛逛交易所商品{n}個",
  "/pool/[marketLook]/desc": "在裝備分頁的[交易所]點開商品看看",
  "/pool/[marketFav]/name": "收藏交易所商品{n}個",
- "/pool/[marketFav]/desc": "喜歡的商品按[收藏]！"
+ "/pool/[marketFav]/desc": "喜歡的商品按[收藏]！",
+ "/pool/[vaultGo]/name": "派往被遺忘的寶庫{n}次",
+ "/pool/[vaultGo]/desc": "免費入場一次！說不定有寶庫裝備？",
+ "/pool/[marketTrade]/name": "在交易所買或賣{n}次",
+ "/pool/[marketTrade]/desc": "買商品、上架自己的裝備都算！"
 }

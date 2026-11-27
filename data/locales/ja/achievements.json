@@ -148,5 +148,19 @@
  "/achievements/[market_earn_500]/name": "クリスタルの小袋",
  "/achievements/[market_earn_500]/desc": "取引所の売上でクリスタル500個",
  "/achievements/[market_earn_5000]/name": "クリスタルの金庫",
- "/achievements/[market_earn_5000]/desc": "取引所の売上でクリスタル5,000個"
+ "/achievements/[market_earn_5000]/desc": "取引所の売上でクリスタル5,000個",
+ "/achievements/[vault_go_1]/name": "忘れられた扉の向こう",
+ "/achievements/[vault_go_1]/desc": "忘れられた宝物庫に初めて送る",
+ "/achievements/[vault_go_10]/name": "宝物庫の常連",
+ "/achievements/[vault_go_10]/desc": "忘れられた宝物庫に10回送る",
+ "/achievements/[vault_go_50]/name": "宝物庫の番人",
+ "/achievements/[vault_go_50]/desc": "忘れられた宝物庫に50回送る",
+ "/achievements/[vault_item_1]/name": "眠れる宝の主",
+ "/achievements/[vault_item_1]/desc": "宝物庫の装備を初めて手に入れる",
+ "/achievements/[vault_item_5]/name": "宝物庫コレクター",
+ "/achievements/[vault_item_5]/desc": "宝物庫の装備を5種類集める",
+ "/achievements/[market_look_7]/name": "取引所さんぽ",
+ "/achievements/[market_look_7]/desc": "取引所に7日立ち寄る",
+ "/achievements/[market_buy_10]/name": "太っ腹なお客",
+ "/achievements/[market_buy_10]/desc": "取引所で10回買う"
 }

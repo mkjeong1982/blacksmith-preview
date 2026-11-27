@@ -99,6 +99,8 @@
     {"id": "pvpChallenge", "name": "대련 도전 신청 {n}번 보내기", "desc": "숙소 Lv.3부터 열려요. 랭킹에서 다른 대장장이에게 도전장!", "key": "pvpChallenges", "goal": 1, "reward": {"goldPacks": 0.5}, "pvp": true},
     {"id": "marketLook", "name": "거래소 매물 {n}개 구경하기", "desc": "장비 탭 [거래소]에서 매물을 눌러 자세히 봐요", "key": "marketLooks", "goal": 3, "reward": {"goldPacks": 0.5}, "market": true},
     {"id": "marketFav", "name": "거래소 매물 {n}개 찜하기", "desc": "마음에 드는 매물에 [찜]!", "key": "marketFavs", "goal": 1, "reward": {"goldPacks": 0.5}, "market": true},
+    {"id": "vaultGo", "name": "잊혀진 보물고에 {n}번 보내기", "desc": "무료 입장으로 한 번! 보물고 장비가 나올지도?", "key": "vaultTrips", "goal": 1, "reward": {"goldPacks": 0.5}, "vault": true},
+    {"id": "marketTrade", "name": "거래소에서 {n}번 사거나 팔기", "desc": "매물을 사도, 내 장비를 올려도 돼요!", "key": "marketTrades", "goal": 1, "reward": {"crystals": 1}, "market": true, "trade": true},
     {
       "id": "ad",
       "name": "광고로 시간 단축 {n}번",

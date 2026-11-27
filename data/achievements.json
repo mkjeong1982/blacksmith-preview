@@ -550,7 +550,8 @@
       "desc": "거래소에 장비를 처음 올려요",
       "key": "marketListed",
       "goal": 1,
-      "crystals": 10
+      "crystals": 10,
+      "gate": "market"
     },
     {
       "id": "market_sell_1",
@@ -558,7 +559,8 @@
       "desc": "거래소에서 처음 팔아요",
       "key": "marketSold",
       "goal": 1,
-      "crystals": 10
+      "crystals": 10,
+      "gate": "market"
     },
     {
       "id": "market_buy_1",
@@ -566,7 +568,8 @@
       "desc": "거래소에서 처음 사요",
       "key": "marketBought",
       "goal": 1,
-      "crystals": 10
+      "crystals": 10,
+      "gate": "market"
     },
     {
       "id": "market_sell_10",
@@ -574,7 +577,8 @@
       "desc": "거래소에서 10번 팔기",
       "key": "marketSold",
       "goal": 10,
-      "crystals": 20
+      "crystals": 20,
+      "gate": "market"
     },
     {
       "id": "market_sell_50",
@@ -582,7 +586,8 @@
       "desc": "거래소에서 50번 팔기",
       "key": "marketSold",
       "goal": 50,
-      "crystals": 50
+      "crystals": 50,
+      "gate": "market"
     },
     {
       "id": "market_earn_500",
@@ -590,7 +595,8 @@
       "desc": "거래소 판매로 수정 500개 벌기",
       "key": "marketEarned",
       "goal": 500,
-      "crystals": 20
+      "crystals": 20,
+      "gate": "market"
     },
     {
       "id": "market_earn_5000",
@@ -598,7 +604,71 @@
       "desc": "거래소 판매로 수정 5,000개 벌기",
       "key": "marketEarned",
       "goal": 5000,
-      "crystals": 50
+      "crystals": 50,
+      "gate": "market"
+    },
+    {
+      "id": "vault_go_1",
+      "name": "잊혀진 문 너머",
+      "desc": "잊혀진 보물고에 처음 보내요",
+      "key": "vaultTrips",
+      "goal": 1,
+      "crystals": 3,
+      "gate": "vault"
+    },
+    {
+      "id": "vault_go_10",
+      "name": "보물고 단골",
+      "desc": "잊혀진 보물고에 10번 보내기",
+      "key": "vaultTrips",
+      "goal": 10,
+      "crystals": 5,
+      "gate": "vault"
+    },
+    {
+      "id": "vault_go_50",
+      "name": "보물고 지킴이",
+      "desc": "잊혀진 보물고에 50번 보내기",
+      "key": "vaultTrips",
+      "goal": 50,
+      "crystals": 10,
+      "gate": "vault"
+    },
+    {
+      "id": "vault_item_1",
+      "name": "잠든 보물의 주인",
+      "desc": "보물고 장비를 처음 얻어요",
+      "key": "vaultItems",
+      "goal": 1,
+      "crystals": 5,
+      "gate": "vault"
+    },
+    {
+      "id": "vault_item_5",
+      "name": "보물고 수집가",
+      "desc": "서로 다른 보물고 장비 5종 모으기",
+      "key": "vaultKinds",
+      "goal": 5,
+      "crystals": 15,
+      "gate": "vault"
+    },
+    {
+      "id": "market_look_7",
+      "name": "거래소 산책",
+      "desc": "거래소를 7일 들러요",
+      "key": "marketLookDays",
+      "goal": 7,
+      "crystals": 10,
+      "gate": "market"
+    },
+    {
+      "id": "market_buy_10",
+      "name": "통 큰 손님",
+      "desc": "거래소에서 10번 사기",
+      "key": "marketBought",
+      "goal": 10,
+      "crystals": 30,
+      "gate": "market"
     }
   ]
 }

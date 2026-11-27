@@ -23,5 +23,9 @@
  "/pool/[marketLook]/name": "Browse {n} market listings",
  "/pool/[marketLook]/desc": "Open a listing in the Gear tab's [Market]",
  "/pool/[marketFav]/name": "Save {n} market listing",
- "/pool/[marketFav]/desc": "Tap [Save] on a listing you like!"
+ "/pool/[marketFav]/desc": "Tap [Save] on a listing you like!",
+ "/pool/[vaultGo]/name": "Send {n} to the Forgotten Vault",
+ "/pool/[vaultGo]/desc": "One free entry! Vault gear, maybe?",
+ "/pool/[marketTrade]/name": "Buy or sell {n} on the market",
+ "/pool/[marketTrade]/desc": "Buy a listing, or list your own gear!"
 }

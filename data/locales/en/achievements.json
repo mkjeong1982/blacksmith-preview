@@ -148,5 +148,19 @@
  "/achievements/[market_earn_500]/name": "Crystal Pouch",
  "/achievements/[market_earn_500]/desc": "Earn 500 crystals from market sales",
  "/achievements/[market_earn_5000]/name": "Crystal Vault",
- "/achievements/[market_earn_5000]/desc": "Earn 5,000 crystals from market sales"
+ "/achievements/[market_earn_5000]/desc": "Earn 5,000 crystals from market sales",
+ "/achievements/[vault_go_1]/name": "Past the Forgotten Door",
+ "/achievements/[vault_go_1]/desc": "Send someone to the Forgotten Vault",
+ "/achievements/[vault_go_10]/name": "Vault Regular",
+ "/achievements/[vault_go_10]/desc": "Send 10 trips to the Forgotten Vault",
+ "/achievements/[vault_go_50]/name": "Vault Keeper",
+ "/achievements/[vault_go_50]/desc": "Send 50 trips to the Forgotten Vault",
+ "/achievements/[vault_item_1]/name": "Sleeping Treasure's Owner",
+ "/achievements/[vault_item_1]/desc": "Get your first vault gear",
+ "/achievements/[vault_item_5]/name": "Vault Collector",
+ "/achievements/[vault_item_5]/desc": "Collect 5 kinds of vault gear",
+ "/achievements/[market_look_7]/name": "Market Stroll",
+ "/achievements/[market_look_7]/desc": "Visit the market on 7 days",
+ "/achievements/[market_buy_10]/name": "Big Spender",
+ "/achievements/[market_buy_10]/desc": "Buy 10 times on the market"
 }

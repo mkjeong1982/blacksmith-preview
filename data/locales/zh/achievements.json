@@ -148,5 +148,19 @@
   "/achievements/[market_earn_500]/name": "水晶小袋",
   "/achievements/[market_earn_500]/desc": "靠交易所銷售賺到水晶500個",
   "/achievements/[market_earn_5000]/name": "水晶金庫",
-  "/achievements/[market_earn_5000]/desc": "靠交易所銷售賺到水晶5,000個"
+  "/achievements/[market_earn_5000]/desc": "靠交易所銷售賺到水晶5,000個",
+  "/achievements/[vault_go_1]/name": "遺忘之門的彼端",
+  "/achievements/[vault_go_1]/desc": "第一次派往被遺忘的寶庫",
+  "/achievements/[vault_go_10]/name": "寶庫常客",
+  "/achievements/[vault_go_10]/desc": "派往被遺忘的寶庫10次",
+  "/achievements/[vault_go_50]/name": "寶庫守護者",
+  "/achievements/[vault_go_50]/desc": "派往被遺忘的寶庫50次",
+  "/achievements/[vault_item_1]/name": "沉睡寶藏的主人",
+  "/achievements/[vault_item_1]/desc": "第一次獲得寶庫裝備",
+  "/achievements/[vault_item_5]/name": "寶庫收藏家",
+  "/achievements/[vault_item_5]/desc": "收集5種不同的寶庫裝備",
+  "/achievements/[market_look_7]/name": "交易所散步",
+  "/achievements/[market_look_7]/desc": "光顧交易所7天",
+  "/achievements/[market_buy_10]/name": "出手闊綽的客人",
+  "/achievements/[market_buy_10]/desc": "在交易所購買10次"
 }
