@@ -64,6 +64,15 @@
     "goldCrystals": 50,
     "showDays": 7
   },
+  "marketPack": {
+    "_doc": "WP478 (임시): 거래소 오픈 기념 — 계정당 1회, 거래소 처음 열린 날부터 showDays일. 수정 패스 30일(passRules 그대로: 즉시 crystalNow + 매일 crystalDaily, 최대 maxDays) + 즉시 crystals + 수수료 면제권 feeFree장(서버가 결제 확인 수 × feeFree로 셈, 팔릴 때 1장) + 칭호 '거래소 개척자'(표시만).",
+    "id": "pack_market_open", "storeId": "com.mkgamestudio.blacksmith.pack_market_open",
+    "priceKrw": 9900,
+    "crystals": 700,
+    "grants": ["crystal"],
+    "feeFree": 5,
+    "showDays": 14
+  },
   "passes": [
     {
       "id": "pass_noads_30", "storeId": "com.mkgamestudio.blacksmith.pass_noads_30",
